@@ -46,6 +46,8 @@ def check_places(places):
         r = p.get("rating")
         if r is not None and not (0 < r.get("v", 0) <= r.get("scale", 5) and str(r.get("url", "")).startswith("http")):
             errs.append(f"{tag}: rating needs 0 < v <= scale (5, or 10 when marked) and a source url")
+        if r is not None and not str(r.get("src", "")).strip():
+            errs.append(f"{tag}: rating has no source name")
         if r is not None and "foody" in str(r.get("src", "")).lower() and r.get("scale") != 10:
             errs.append(f"{tag}: Foody scores out of 10, so this rating needs scale 10")
         for im in p.get("imgs", []):

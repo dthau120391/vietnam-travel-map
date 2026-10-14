@@ -92,6 +92,7 @@ button { font:inherit; cursor:pointer; }
 .card .sub { font-size:12px; color:var(--muted); white-space:nowrap; overflow:hidden; text-overflow:ellipsis; }
 .card .row { font-size:12px; color:#344054; margin-top:3px; display:flex; gap:8px; flex-wrap:wrap; }
 .stars { color:#e8a317; font-weight:700; }
+.rsrc { color:var(--muted); }
 .badges { display:flex; gap:4px; flex-wrap:wrap; margin-top:4px; }
 .badge { font-size:10.5px; padding:2px 7px; border-radius:10px; background:#f0f2f5; color:#344054; white-space:nowrap; }
 .badge.hot { background:#fff0ec; color:#c2391b; }
@@ -237,6 +238,7 @@ const safeUrl = u => (typeof u === 'string' && /^https?:\/\//i.test(u)) ? esc(u)
 const fold = s => String(s || '').normalize('NFD').replace(/[̀-ͯ]/g, '').replace(/đ/g, 'd').replace(/Đ/g, 'D').toLowerCase();
 const fmtN = n => n >= 1000 ? (n / 1000).toFixed(n >= 10000 ? 0 : 1).replace('.', ',') + 'k' : String(n);
 const stars5 = r => r ? r.v * 5 / (r.scale || 5) : 0;   // a /10 score counts as its five-star equivalent
+const rSrc = r => (r.src || host(r.url) || '').split(/[\s(]/)[0];   // "Foody.vn (thang điểm 10)" -> "Foody.vn"
 const fmtR = r => r.v.toFixed(1).replace('.', ',') + (r.scale === 10 ? '/10' : '');
 const isMich = p => (p.tags || []).some(t => /michelin/i.test(t));
 const host = u => { try { return new URL(u).hostname.replace(/^www\./, ''); } catch { return u; } };
@@ -314,7 +316,8 @@ const markers = new Map();
 for (const p of PLACES) {
   if (p.lat == null || p.lng == null) continue;
   const m = L.marker([p.lat, p.lng], { icon:pinIcon(p, false), title:p.name, riseOnHover:true });
-  m.bindTooltip(p.name, { direction:'top', offset:[0, -30], className:'tt' });
+  m.bindTooltip(esc(p.name), {   // Leaflet writes a string tooltip as HTML
+  direction:'top', offset:[0, -30], className:'tt' });
   m.on('click', () => select(p.id, false));
   markers.set(p.id, m);
 }
@@ -383,7 +386,7 @@ function badgesHtml(p, max) {
   return b.slice(0, max || 99).join('');
 }
 function ratingInline(p) {
-  return p.rating ? `<span class="stars">★ ${fmtR(p.rating)}</span>${p.rating.n ? ` <span>(${fmtN(p.rating.n)})</span>` : ''}` : '';
+  return p.rating ? `<span class="stars">★ ${fmtR(p.rating)}</span> <span class="rsrc">${esc(rSrc(p.rating))}${p.rating.n ? ' · ' + fmtN(p.rating.n) : ''}</span>` : '';
 }
 function renderList() {
   const items = sorted(visible());
@@ -433,7 +436,7 @@ function renderDetail(p) {
   const gmDir = `https://www.google.com/maps/dir/?api=1&destination=${encodeURIComponent(q)}`;
   const r = p.rating;
   const rate = r
-    ? `<div class="rate"><span class="big">★ ${fmtR(r)}</span><span class="meta">${r.n ? `${r.n.toLocaleString('vi-VN')} lượt đánh giá` : 'Điểm đánh giá'} · nguồn: ${r.url ? `<a href="${safeUrl(r.url)}" target="_blank" rel="noopener">${esc(r.src)}</a>` : esc(r.src)}${r.seen ? ` (ghi nhận ${esc(r.seen)})` : ''}<br>Số liệu tham khảo — bấm “Đánh giá Google” để xem điểm mới nhất.</span></div>`
+    ? `<div class="rate"><span class="big">★ ${fmtR(r)}</span><span class="meta">${r.n ? `${r.n.toLocaleString('vi-VN')} lượt đánh giá` : 'Điểm đánh giá'} · nguồn: ${r.url ? `<a href="${safeUrl(r.url)}" target="_blank" rel="noopener">${esc(r.src || host(r.url))}</a>` : esc(r.src)}${r.seen ? ` (ghi nhận ${esc(r.seen)})` : ''}<br>Số liệu tham khảo — bấm “Đánh giá Google” để xem điểm mới nhất.</span></div>`
     : `<div class="rate none"><span class="meta">Chưa có điểm đánh giá đã kiểm chứng trong dữ liệu — xem đánh giá trực tiếp trên <a href="${gmSearch}" target="_blank" rel="noopener">Google Maps</a>.</span></div>`;
   const mustLabel = p.cat === 'food' || p.cat === 'cafe' || p.cat === 'market' ? 'Nên thử' : 'Nên xem / làm';
   const dist = state.me && p.lat != null ? ` · cách bạn ${fmtKm(km(state.me, [p.lat, p.lng]))}` : '';
@@ -516,7 +519,11 @@ function renderProgress() {
   $('#shareBtn').onclick = shareMarks;
 }
 const b64u = {
-  enc: bytes => btoa(String.fromCharCode(...bytes)).replace(/\+/g, '-').replace(/\//g, '_').replace(/=+$/, ''),
+  enc: bytes => {
+    let bin = '';
+    for (let i = 0; i < bytes.length; i += 0x8000) bin += String.fromCharCode(...bytes.subarray(i, i + 0x8000));   // one spread of 64k+ args overflows the stack
+    return btoa(bin).replace(/\+/g, '-').replace(/\//g, '_').replace(/=+$/, '');
+  },
   dec: s => Uint8Array.from(atob(s.replace(/-/g, '+').replace(/_/g, '/')), c => c.charCodeAt(0))
 };
 async function pack(obj) {
@@ -621,8 +628,12 @@ function setCity(city, fit) {
 
 // ── geolocation ──────────────────────────────────────
 let meMarker = null;
-function locate() {
-  if (!navigator.geolocation) { alert('Trình duyệt không hỗ trợ định vị.'); return; }
+function locate(prevSort) {
+  const fail = msg => {
+    alert(msg);
+    if (prevSort) { state.sort = prevSort; $('#sort').value = prevSort; renderList(); }   // the menu must say what the list does
+  };
+  if (!navigator.geolocation) { fail('Trình duyệt không hỗ trợ định vị.'); return; }
   navigator.geolocation.getCurrentPosition(pos => {
     state.me = [pos.coords.latitude, pos.coords.longitude];
     if (meMarker) meMarker.remove();
@@ -633,7 +644,7 @@ function locate() {
     state.sort = 'near'; $('#sort').value = 'near';
     renderList();
     map.flyTo(state.me, 15);
-  }, err => alert('Không lấy được vị trí: ' + err.message), { enableHighAccuracy:true, timeout:10000 });
+  }, err => fail('Không lấy được vị trí: ' + err.message), { enableHighAccuracy:true, timeout:10000 });
 }
 
 // ── events ───────────────────────────────────────────
@@ -655,8 +666,8 @@ $('#filters').addEventListener('click', e => {
 $('#list').addEventListener('click', e => { const c = e.target.closest('.card'); if (c) select(c.dataset.id, true); });
 $('#q').addEventListener('input', e => { state.q = e.target.value; renderList(); });
 $('#sort').addEventListener('change', e => {
+  if (e.target.value === 'near' && !state.me) { locate(state.sort); return; }   // state.sort changes only once a position arrives
   state.sort = e.target.value;
-  if (state.sort === 'near' && !state.me) { locate(); return; }
   renderList();
 });
 $('#infoBtn').onclick = () => $('#info').showModal();

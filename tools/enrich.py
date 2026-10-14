@@ -176,7 +176,7 @@ def locate(p, cache, offline):
             return agent[0], agent[1], False, "agent", f"only a street match, {d:.1f} km off"
         best = strong[0]
         d = km(agent, (best["lat"], best["lng"]))
-        return agent[0], agent[1], False, "agent-disputed", f"OSM {'name' if name_hits else 'address'} {d:.1f} km away; best OSM: {best['lat']:.5f},{best['lng']:.5f} {best['display']}"
+        return agent[0], agent[1], True, "agent-disputed", f"OSM {'name' if name_hits else 'address'} {d:.1f} km away; best OSM: {best['lat']:.5f},{best['lng']:.5f} {best['display']}"
     if name_hits:
         h = name_hits[0]
         return h["lat"], h["lng"], False, "osm-name", h["display"]
@@ -295,7 +295,7 @@ def main():
             if "lat" in ov:
                 lat, lng, approx, how = ov["lat"], ov["lng"], bool(ov.get("approx")), "manual"
             elif ov.get("accept") == "agent" and how == "agent-disputed":
-                how = "agent-reviewed"
+                how, approx = "agent-reviewed", False  # reviewed: the researcher's pin is the exact one
         if i % 10 == 0:
             geo.save()
             print(f"  … {i}/{len(places)} located", file=sys.stderr)
