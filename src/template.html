@@ -44,7 +44,7 @@ button { font:inherit; cursor:pointer; }
 .sep { flex:none; width:1px; height:22px; background:var(--line); margin:0 4px; }
 .chip.toggle.on { --c:var(--hot); }
 .chip.michelin.on { --c:#b8001f; }
-.chip.kid.on { --c:#ec4899; }
+.chip.grp { font-weight:600; }
 .chip.m-want.on { --c:#e8a317; }
 .chip.m-been.on { --c:#12b76a; }
 .chip.m-skip.on { --c:#667085; }
@@ -70,6 +70,21 @@ button { font:inherit; cursor:pointer; }
 .toast { position:fixed; left:50%; bottom:24px; transform:translateX(-50%); background:#1d2733; color:#fff; padding:10px 16px; border-radius:10px; font-size:13.5px; z-index:9999; box-shadow:0 6px 20px rgba(0,0,0,.3); max-width:92vw; }
 .importbar { background:#fffaeb; border-bottom:1px solid #f5d77a; padding:8px 16px; font-size:13.5px; display:flex; gap:8px; align-items:center; flex-wrap:wrap; }
 .importbar[hidden] { display:none; }
+.homebar { display:flex; gap:6px; align-items:center; padding:6px 12px; border-bottom:1px solid var(--line); font-size:12px; color:var(--muted); flex-wrap:wrap; background:#f5fbff; }
+.homebar[hidden] { display:none; }
+.homebar button { border:1px solid var(--line); background:#fff; border-radius:12px; padding:3px 9px; font-size:12px; }
+.homebar button.on { background:var(--brand); border-color:var(--brand); color:#fff; font-weight:600; }
+.progress .mk { border:1px solid var(--line); background:#fff; border-radius:12px; padding:2px 8px; font-size:12px; }
+.progress .mk.on { background:#1d2733; color:#fff; border-color:#1d2733; }
+.rank { display:inline-block; min-width:22px; color:var(--muted); font-weight:700; font-size:12px; }
+.card .home { color:#0b6bcb; font-weight:600; }
+.warnbox { background:#fff4e5; border:1px solid #f5b971; border-left:4px solid #e8590c; color:#7a3e00; border-radius:10px; padding:8px 10px; font-size:13.5px; line-height:1.45; margin-top:10px; }
+.badge.unv { background:#ffe8cc; color:#a14800; font-weight:600; }
+.home-pin { font-size:26px; line-height:1; filter:drop-shadow(0 2px 3px rgba(0,0,0,.45)); }
+.leaflet-container.picking { cursor:crosshair; }
+.pick-banner { position:absolute; z-index:1000; top:10px; left:50%; transform:translateX(-50%); background:#1d2733; color:#fff; padding:8px 14px; border-radius:10px; font-size:13px; box-shadow:0 4px 14px rgba(0,0,0,.3); }
+.pick-banner button { margin-left:10px; border:0; border-radius:6px; padding:3px 8px; }
+.home-pop button { display:block; width:100%; margin-top:6px; border:1px solid var(--line); background:#fff; border-radius:8px; padding:5px 8px; font-size:13px; cursor:pointer; }
 .importbar button { border:1px solid #d9b43c; background:#fff; border-radius:8px; padding:4px 10px; font-size:13px; }
 .importbar button.primary { background:#1F4E79; color:#fff; border-color:#1F4E79; }
 
@@ -188,13 +203,9 @@ dialog .close { float:right; border:0; background:#f0f2f5; border-radius:8px; pa
   <aside class="side">
     <div class="side-head">
       <span id="count"></span>
-      <select id="sort" aria-label="Sắp xếp">
-        <option value="featured">Nổi bật trước</option>
-        <option value="rating">Đánh giá cao</option>
-        <option value="name">Tên A–Z</option>
-        <option value="near">Gần tôi nhất</option>
-      </select>
+      <select id="sort" aria-label="Sắp xếp"></select>
     </div>
+    <div class="homebar" id="homebar" hidden></div>
     <div class="progress" id="progress"></div>
     <div id="list" class="list"></div>
     <article id="detail" class="detail" hidden></article>
@@ -224,11 +235,19 @@ const CATS = {
   nightlife:  { label:'Về đêm',             emoji:'🍸', color:'#6a4c93' },
   nature:     { label:'Thiên nhiên',        emoji:'🌿', color:'#2a9d8f' },
   experience: { label:'Trải nghiệm',        emoji:'🎟️', color:'#3d5a80' },
-  kids:       { label:'Cho bé',             emoji:'🧸', color:'#ec4899' }
+  kids:       { label:'Khu vui chơi',       emoji:'🧸', color:'#ec4899' },
+  music:      { label:'Cà phê acoustic',    emoji:'🎸', color:'#7c3aed' }
 };
-const KID_TAG = 'Hợp với trẻ em';
-const isKid = p => p.cat === 'kids' || (p.tags || []).includes(KID_TAG);
-const PLACES = DATA.places.filter(p => p.status !== 'closed');
+// The filter tabs. "Tất cả" means the five focus groups; sights, nature and bars sit apart under "other".
+const GROUPS = {
+  eat:   { label:'Ăn uống',          emoji:'🍜', color:'#e4572e' },
+  cafe:  { label:'Cà phê',           emoji:'☕', color:'#8d5524' },
+  music: { label:'Cà phê acoustic',  emoji:'🎸', color:'#7c3aed' },
+  shop:  { label:'Mua sắm',          emoji:'🛍️', color:'#a23b72' },
+  kids:  { label:'Khu vui chơi',     emoji:'🧸', color:'#ec4899' },
+  other: { label:'Tham quan & khác', emoji:'🏛️', color:'#2e86ab' }
+};
+const PLACES = DATA.places.filter(p => p.status === 'open' || p.status === 'unverified');   // closed and removed never show
 const BY_ID = new Map(PLACES.map(p => [p.id, p]));
 
 // ── helpers ──────────────────────────────────────────
@@ -261,7 +280,7 @@ function toast(msg) {
 }
 
 // ── state ────────────────────────────────────────────
-const state = { city:'hcmc', cats:new Set(Object.keys(CATS)), q:'', hot:false, mich:false, kid:false, mark:null, sort:'featured', me:null, sel:null };
+const state = { city:'hcmc', grp:'all', q:'', hot:false, mich:false, mark:null, sort:'fame', me:null, sel:null, radius:0 };
 const marks = store.get();   // { placeId: { s:'want'|'been'|'skip', note:'…', t:epochMs } }
 const isMark = s => typeof s === 'string' && Object.hasOwn(MARKS, s);
 const markOf = id => (marks[id] && isMark(marks[id].s)) ? marks[id].s : null;   // never trust stored or shared text in markup
@@ -293,8 +312,9 @@ const LocCtl = L.Control.extend({
   options:{ position:'topleft' },
   onAdd() {
     const d = L.DomUtil.create('div', 'leaflet-bar');
-    d.innerHTML = '<a href="#" class="loc" title="Vị trí của tôi" role="button">📍</a><a href="#" class="loc" title="Xem toàn bộ thành phố" role="button">🗺️</a>';
-    const [me, all] = d.querySelectorAll('a');
+    d.innerHTML = '<a href="#" class="loc" title="Nhà của tôi — bấm rồi chọn vị trí trên bản đồ" role="button">🏠</a><a href="#" class="loc" title="Vị trí của tôi (GPS)" role="button">📍</a><a href="#" class="loc" title="Xem toàn bộ thành phố" role="button">🗺️</a>';
+    const [hm, me, all] = d.querySelectorAll('a');
+    L.DomEvent.on(hm, 'click', e => { L.DomEvent.preventDefault(e); if (picking) return; if (home) { map.flyTo(home, 15); homeLayer && homeLayer.eachLayer(l => l.openPopup && l.getPopup() && l.openPopup()); } else startPick(); });
     L.DomEvent.on(me, 'click', e => { L.DomEvent.preventDefault(e); locate(); });
     L.DomEvent.on(all, 'click', e => { L.DomEvent.preventDefault(e); fitCity(true); });
     L.DomEvent.disableClickPropagation(d);
@@ -304,7 +324,7 @@ const LocCtl = L.Control.extend({
 map.addControl(new LocCtl());
 
 function pinIcon(p, sel) {
-  const c = CATS[p.cat];
+  const c = { emoji:CATS[p.cat].emoji, color:GROUPS[p.grp].color };
   const mk = markOf(p.id);
   return L.divIcon({
     className:'pin-wrap',
@@ -327,28 +347,28 @@ function cityPlaces(city) { return PLACES.filter(p => p.city === city); }
 function visible() {
   const q = fold(state.q.trim());
   return cityPlaces(state.city).filter(p => {
-    if (!state.cats.has(p.cat)) return false;
+    if (state.grp === 'all' ? p.grp === 'other' : p.grp !== state.grp) return false;
     if (state.hot && !p.hot) return false;
     if (state.mich && !isMich(p)) return false;
-    if (state.kid && !isKid(p)) return false;
+    if (state.radius && homeHere() && !(p.lat != null && km(home, [p.lat, p.lng]) <= state.radius)) return false;
     const mk = markOf(p.id);
     if (state.mark ? mk !== state.mark : mk === 'skip') return false;   // skipped places hide unless you ask for them
     if (q) {
-      const hay = fold([p.name, p.sub, p.addr, p.must, p.desc, (p.tags || []).join(' '), CATS[p.cat].label].join(' '));
+      const hay = fold([p.name, p.sub, p.addr, p.must, p.desc, (p.tags || []).join(' '), CATS[p.cat].label, GROUPS[p.grp].label].join(' '));
       if (!q.split(/\s+/).every(w => hay.includes(w))) return false;
     }
     return true;
   });
 }
-function score(p) {
-  return (isMich(p) ? 3 : 0) + (p.hot ? 2 : 0) + (p.rating ? stars5(p.rating) - 3.5 : 0) + (p.imgs && p.imgs.length ? .3 : 0);
-}
+const dHome = p => p.lat == null ? 99 : km(home, [p.lat, p.lng]);
 function sorted(list) {
   const a = list.slice();
   if (state.sort === 'near' && state.me) a.sort((x, y) => km(state.me, [x.lat, x.lng]) - km(state.me, [y.lat, y.lng]));
+  else if (state.sort === 'home' && homeHere()) a.sort((x, y) => dHome(x) - dHome(y));
+  else if (state.sort === 'fameNear' && homeHere()) a.sort((x, y) => (y.fame - dHome(y)) - (x.fame - dHome(x)));   // each km away costs one fame point
   else if (state.sort === 'rating') a.sort((x, y) => stars5(y.rating) - stars5(x.rating) || (y.rating ? y.rating.n : 0) - (x.rating ? x.rating.n : 0));
   else if (state.sort === 'name') a.sort((x, y) => x.name.localeCompare(y.name, 'vi'));
-  else a.sort((x, y) => score(y) - score(x));
+  else a.sort((x, y) => y.fame - x.fame);   // build.py's fame: reviews, Wikipedia views, guides, Michelin
   return a;
 }
 
@@ -359,30 +379,32 @@ function renderTabs() {
 }
 function renderFilters() {
   const base = cityPlaces(state.city);
-  const chips = Object.entries(CATS).map(([k, c]) => {
-    const n = base.filter(p => p.cat === k).length;
-    if (!n) return '';
-    return `<button class="chip ${state.cats.has(k) ? 'on' : 'off'}" data-cat="${k}" style="--c:${c.color}"><span class="dot"></span>${c.emoji} ${c.label} <span class="n">${n}</span></button>`;
+  const tab = (k, label, n, color) => `<button class="chip grp ${state.grp === k ? 'on' : ''}" data-grp="${k}" style="--c:${color}">${label} <span class="n">${n}</span></button>`;
+  const focus = Object.entries(GROUPS).filter(([k]) => k !== 'other').map(([k, g]) => {
+    const n = base.filter(p => p.grp === k).length;
+    return n ? tab(k, `${g.emoji} ${g.label}`, n, g.color) : '';
   }).join('');
+  const nOther = base.filter(p => p.grp === 'other').length;
   const nHot = base.filter(p => p.hot).length, nMich = base.filter(isMich).length;
-  $('#filters').innerHTML = `<button class="chip" data-all="1">Tất cả</button>${chips}<span class="sep"></span>` +
-    (nHot ? `<button class="chip toggle ${state.hot ? 'on' : ''}" data-tog="hot">🔥 Đang hot <span class="n">${nHot}</span></button>` : '') +
+  $('#filters').innerHTML = tab('all', 'Tất cả', base.filter(p => p.grp !== 'other').length, '#1F4E79') + focus +
+    (nOther ? `<span class="sep"></span>${tab('other', `${GROUPS.other.emoji} ${GROUPS.other.label}`, nOther, GROUPS.other.color)}` : '') +
+    '<span class="sep"></span>' +
     (nMich ? `<button class="chip michelin ${state.mich ? 'on' : ''}" data-tog="mich">⭐ Michelin <span class="n">${nMich}</span></button>` : '') +
-    `<button class="chip kid ${state.kid ? 'on' : ''}" data-tog="kid">👶 Đi cùng bé <span class="n">${base.filter(isKid).length}</span></button><span class="sep"></span>` +
-    Object.entries(MARKS).map(([k, m]) => `<button class="chip m-${k} ${state.mark === k ? 'on' : ''}" data-mark="${k}">${m.emoji} ${m.label} <span class="n">${base.filter(p => markOf(p.id) === k).length}</span></button>`).join('');
+    (nHot ? `<button class="chip toggle ${state.hot ? 'on' : ''}" data-tog="hot">🔥 Hot <span class="n">${nHot}</span></button>` : '');
 }
 function thumbHtml(p) {
-  const c = CATS[p.cat], im = (p.imgs || [])[0];
+  const c = { emoji:CATS[p.cat].emoji, color:GROUPS[p.grp].color }, im = (p.imgs || [])[0];
   if (!im) return `<div class="thumb" style="--c:${c.color}">${c.emoji}</div>`;
   return `<div class="thumb" style="--c:${c.color}"><img loading="lazy" src="${safeUrl(im.thumb || im.src)}" alt="" onerror="this.remove()">${im.kind === 'dish' ? '<span class="k">minh họa</span>' : ''}</div>`;
 }
 function badgesHtml(p, max) {
   const b = [];
   const mk = markOf(p.id);
+  if (p.status === 'unverified') b.push('<span class="badge unv">⚠️ Chưa xác minh</span>');
+  if ((p.guides || 0) >= 3) b.push('<span class="badge mich">🏆 Biểu tượng</span>');
   if (mk) b.push(`<span class="badge m-${mk}">${MARKS[mk].emoji} ${MARKS[mk].label}</span>`);
   if (p.hot) b.push('<span class="badge hot">🔥 Hot</span>');
   for (const t of (p.tags || [])) b.push(/michelin/i.test(t) ? `<span class="badge mich">⭐ ${esc(t)}</span>` : `<span class="badge">${esc(t)}</span>`);
-  if (p.status === 'unverified') b.push('<span class="badge warn">Chưa xác minh còn mở</span>');
   return b.slice(0, max || 99).join('');
 }
 function ratingInline(p) {
@@ -393,17 +415,19 @@ function renderList() {
   $('#count').textContent = `${items.length} địa điểm`;
   const el = $('#list');
   if (!items.length) { el.innerHTML = '<div class="empty">Không có địa điểm khớp bộ lọc.<br>Thử bỏ bớt bộ lọc hoặc từ khóa.</div>'; }
-  else el.innerHTML = items.map(p => {
+  else el.innerHTML = items.map((p, i) => {
     const c = CATS[p.cat];
-    const dist = state.me && p.lat != null ? `<span class="dist">${fmtKm(km(state.me, [p.lat, p.lng]))}</span>` : '';
+    const dist = (homeHere() && p.lat != null ? `<span class="home">🏠 ${fmtKm(dHome(p))}</span>` : '') +
+      (state.me && p.lat != null ? `<span class="dist">📍 ${fmtKm(km(state.me, [p.lat, p.lng]))}</span>` : '');
     const mk = markOf(p.id);
+    const rank = state.sort === 'fame' || state.sort === 'fameNear' ? `<span class="rank">${i + 1}.</span> ` : '';
     return `<div class="card${state.sel === p.id ? ' sel' : ''}${mk ? ' m-' + mk : ''}" data-id="${esc(p.id)}">${thumbHtml(p)}<div class="body">
-      <h3>${esc(p.name)}</h3>
+      <h3>${rank}${esc(p.name)}</h3>
       <div class="sub">${c.emoji} ${esc(p.sub || c.label)}</div>
       <div class="row">${ratingInline(p)}${p.price ? `<span>💰 ${esc(p.price)}</span>` : ''}${dist}</div>
       <div class="badges">${badgesHtml(p, 3)}</div></div></div>`;
   }).join('');
-  renderProgress();
+  renderProgress(); renderHomebar();
   cluster.clearLayers();
   cluster.addLayers(items.map(p => markers.get(p.id)).filter(Boolean));
 }
@@ -420,7 +444,7 @@ function reviewHtml(text) {
   return out;
 }
 function galleryHtml(p) {
-  const c = CATS[p.cat], imgs = p.imgs || [];
+  const c = { emoji:CATS[p.cat].emoji, color:GROUPS[p.grp].color }, imgs = p.imgs || [];
   if (!imgs.length) return `<div class="gal-main" style="--c:${c.color}">${c.emoji}</div>`;
   const cap = im => `${im.credit ? '📷 ' + esc(im.credit) : 'Ảnh'}${im.lic ? ' · ' + esc(im.lic) : ''}${im.page ? ` · <a href="${safeUrl(im.page)}" target="_blank" rel="noopener">Wikimedia Commons</a>` : ''}`;
   return `<div class="gal-main" style="--c:${c.color}"><img id="galImg" src="${safeUrl(imgs[0].src)}" alt="${esc(p.name)}" onerror="this.style.display='none'">
@@ -439,7 +463,8 @@ function renderDetail(p) {
     ? `<div class="rate"><span class="big">★ ${fmtR(r)}</span><span class="meta">${r.n ? `${r.n.toLocaleString('vi-VN')} lượt đánh giá` : 'Điểm đánh giá'} · nguồn: ${r.url ? `<a href="${safeUrl(r.url)}" target="_blank" rel="noopener">${esc(r.src || host(r.url))}</a>` : esc(r.src)}${r.seen ? ` (ghi nhận ${esc(r.seen)})` : ''}<br>Số liệu tham khảo — bấm “Đánh giá Google” để xem điểm mới nhất.</span></div>`
     : `<div class="rate none"><span class="meta">Chưa có điểm đánh giá đã kiểm chứng trong dữ liệu — xem đánh giá trực tiếp trên <a href="${gmSearch}" target="_blank" rel="noopener">Google Maps</a>.</span></div>`;
   const mustLabel = p.cat === 'food' || p.cat === 'cafe' || p.cat === 'market' ? 'Nên thử' : 'Nên xem / làm';
-  const dist = state.me && p.lat != null ? ` · cách bạn ${fmtKm(km(state.me, [p.lat, p.lng]))}` : '';
+  const dist = (homeHere() && p.lat != null ? ` · 🏠 cách nhà ${fmtKm(dHome(p))}` : '') +
+    (state.me && p.lat != null ? ` · 📍 cách bạn ${fmtKm(km(state.me, [p.lat, p.lng]))}` : '');
   $('#detail').innerHTML = `
     <div class="d-top"><button id="back">← Danh sách</button><button id="zoomTo">🔎 Xem trên bản đồ</button></div>
     ${galleryHtml(p)}
@@ -447,6 +472,7 @@ function renderDetail(p) {
       <h2>${esc(p.name)}</h2>
       <div class="sub">${c.emoji} ${esc(c.label)}${p.sub ? ' · ' + esc(p.sub) : ''} · ${esc(city.name)}${dist}</div>
       <div class="badges" style="margin-top:6px">${badgesHtml(p)}</div>
+      ${p.status === 'unverified' ? `<div class="warnbox">⚠️ <b>Chưa xác minh quán còn mở.</b> ${p.warn ? esc(p.warn) : 'Không tìm thấy nguồn 2025–2026 xác nhận nơi này còn hoạt động.'} Hãy xem “Đánh giá & ảnh Google” hoặc gọi trước khi đi.</div>` : ''}
       <div class="marks">${Object.entries(MARKS).map(([k, m]) => `<button data-m="${k}" class="${markOf(p.id) === k ? 'on' : ''}">${m.emoji} ${m.label}</button>`).join('')}</div>
       <textarea class="mynote" id="myNote" placeholder="Ghi chú của bạn (chỉ lưu trên máy này)…">${esc((marks[p.id] && marks[p.id].note) || '')}</textarea>
       ${rate}
@@ -515,8 +541,15 @@ function renderProgress() {
   const all = cityPlaces(state.city);
   const n = k => all.filter(p => markOf(p.id) === k).length;
   const been = n('been'), pct = all.length ? Math.round(been * 100 / all.length) : 0;
-  $('#progress').innerHTML = `<span>✅ Đã đi <b>${been}</b>/${all.length}</span><span class="bar"><i style="width:${pct}%"></i></span><span>🎯 ${n('want')}</span><span>🚫 ${n('skip')}</span><button id="shareBtn" title="Tạo link chứa danh sách của bạn để gửi bạn bè">🔗 Chia sẻ danh sách</button>`;
+  const mk = (k, label) => `<button class="mk ${state.mark === k ? 'on' : ''}" data-mark="${k}" title="Chỉ hiện nơi ${MARKS[k].label.toLowerCase()}">${label}</button>`;
+  $('#progress').innerHTML = `<span>✅ Đã đi <b>${been}</b>/${all.length}</span><span class="bar"><i style="width:${pct}%"></i></span>` +
+    mk('want', `🎯 ${n('want')}`) + mk('been', `✅ ${been}`) + mk('skip', `🚫 ${n('skip')}`) +
+    `<button id="shareBtn" title="Tạo link chứa danh sách của bạn để gửi bạn bè">🔗 Chia sẻ</button>`;
   $('#shareBtn').onclick = shareMarks;
+  $('#progress').querySelectorAll('.mk').forEach(b => b.onclick = () => {
+    state.mark = state.mark === b.dataset.mark ? null : b.dataset.mark;
+    renderList();
+  });
 }
 const b64u = {
   enc: bytes => {
@@ -580,6 +613,60 @@ async function checkImport(hash) {
   };
 }
 
+// ── home: set by the visitor, kept in this browser only ──
+const HOME_KEY = 'vnmap-home';
+let home = (() => {
+  try { const h = JSON.parse(localStorage.getItem(HOME_KEY)); if (Array.isArray(h) && h.length === 2 && h.every(Number.isFinite)) return h; } catch {}
+  return Array.isArray(DATA.home) ? DATA.home : null;   // a private local copy may carry one; the published page never does
+})();
+const homeHere = () => !!home && km(home, CITIES[state.city].center) < 40;
+let homeLayer = null, picking = false;
+function saveHome(h) {
+  home = h;
+  try { h ? localStorage.setItem(HOME_KEY, JSON.stringify(h)) : localStorage.removeItem(HOME_KEY); } catch {}
+  drawHome(); renderSort(); renderList();
+}
+function drawHome() {
+  if (homeLayer) homeLayer.remove();
+  homeLayer = null;
+  if (!home) return;
+  const pop = L.DomUtil.create('div', 'home-pop');
+  pop.innerHTML = '<b>🏠 Nhà của tôi</b><br><small>Chỉ lưu trong trình duyệt này.</small><button data-a="move">📍 Đặt lại vị trí</button><button data-a="del">🗑️ Xóa nhà</button>';
+  pop.querySelector('[data-a=move]').onclick = () => { map.closePopup(); startPick(); };
+  pop.querySelector('[data-a=del]').onclick = () => { map.closePopup(); state.radius = 0; if (/home|fameNear/.test(state.sort)) state.sort = 'fame'; saveHome(null); };
+  homeLayer = L.layerGroup([
+    L.circle(home, { radius:1000, color:'#0b6bcb', weight:1, dashArray:'4 4', fill:false, interactive:false }),
+    L.circle(home, { radius:2000, color:'#0b6bcb', weight:1, dashArray:'2 6', fill:false, interactive:false }),
+    L.marker(home, { icon:L.divIcon({ className:'pin-wrap', html:'<div class="home-pin">🏠</div>', iconSize:[28, 28], iconAnchor:[14, 26] }), zIndexOffset:2000, title:'Nhà của tôi' }).bindPopup(pop)
+  ]).addTo(map);
+}
+function startPick() {
+  picking = true;
+  map.getContainer().classList.add('picking');
+  const b = L.DomUtil.create('div', 'pick-banner', map.getContainer());
+  b.innerHTML = '🏠 Bấm vào bản đồ tại nơi bạn ở <button>Hủy</button>';
+  const stop = () => { picking = false; map.getContainer().classList.remove('picking'); b.remove(); map.off('click', onPick); };
+  const onPick = e => { stop(); saveHome([+e.latlng.lat.toFixed(5), +e.latlng.lng.toFixed(5)]); toast('Đã đặt Nhà của tôi — danh sách hiện khoảng cách 🏠'); };
+  b.querySelector('button').onclick = e => { L.DomEvent.stop(e); stop(); };
+  L.DomEvent.disableClickPropagation(b);
+  map.on('click', onPick);
+}
+function renderHomebar() {
+  const bar = $('#homebar');
+  if (!homeHere()) { bar.hidden = true; return; }
+  bar.hidden = false;
+  bar.innerHTML = '🏠 Quanh nhà:' + [[0, 'Tất cả'], [1, '≤ 1 km'], [2, '≤ 2 km'], [3, '≤ 3 km']]
+    .map(([r, l]) => `<button data-r="${r}" class="${state.radius === r ? 'on' : ''}">${l}</button>`).join('');
+  bar.querySelectorAll('button').forEach(b => b.onclick = () => { state.radius = +b.dataset.r; renderList(); });
+}
+function renderSort() {
+  const opts = [['fame', 'Nổi tiếng & đáng đi nhất']];
+  if (homeHere()) opts.push(['fameNear', 'Đáng đi nhất gần nhà'], ['home', 'Gần nhà nhất']);
+  opts.push(['rating', 'Đánh giá cao'], ['name', 'Tên A–Z'], ['near', 'Gần tôi nhất (GPS)']);
+  if (!opts.some(([v]) => v === state.sort)) state.sort = 'fame';
+  $('#sort').innerHTML = opts.map(([v, l]) => `<option value="${v}"${v === state.sort ? ' selected' : ''}>${l}</option>`).join('');
+}
+
 // ── selection & navigation ───────────────────────────
 let selMarker = null;
 function highlight(id) {
@@ -621,7 +708,7 @@ function setCity(city, fit) {
   state.sel = null;
   $('#detail').hidden = true;
   highlight(null);
-  renderTabs(); renderFilters(); renderList();
+  renderTabs(); renderFilters(); renderSort(); renderList();
   if (fit !== false) fitCity(false);
   history.replaceState(null, '', `#${city}`);
 }
@@ -651,15 +738,7 @@ function locate(prevSort) {
 $('#tabs').addEventListener('click', e => { const b = e.target.closest('button[data-city]'); if (b) setCity(b.dataset.city); });
 $('#filters').addEventListener('click', e => {
   const b = e.target.closest('button'); if (!b) return;
-  if (b.dataset.all) { state.cats = new Set(Object.keys(CATS)); state.hot = state.mich = state.kid = false; state.mark = null; }
-  else if (b.dataset.mark) state.mark = state.mark === b.dataset.mark ? null : b.dataset.mark;
-  else if (b.dataset.cat) {
-    const k = b.dataset.cat;
-    // first click on a chip while all are on = show only that category
-    if (state.cats.size === Object.keys(CATS).length) state.cats = new Set([k]);
-    else if (state.cats.has(k)) { state.cats.delete(k); if (!state.cats.size) state.cats = new Set(Object.keys(CATS)); }
-    else state.cats.add(k);
-  }
+  if (b.dataset.grp) state.grp = b.dataset.grp;          // one tab at a time
   else if (b.dataset.tog) state[b.dataset.tog] = !state[b.dataset.tog];
   renderFilters(); renderList();
 });
@@ -683,6 +762,9 @@ $('#infoBody').innerHTML = DATA.infoHtml;
 // ── boot ─────────────────────────────────────────────
 (function boot() {
   const hash0 = location.hash;                  // setCity() rewrites the hash, so read it first
+  const hm = hash0.match(/[&#]home=(-?\d+(?:\.\d+)?),(-?\d+(?:\.\d+)?)/);   // a private "set my home" link: stored here, then dropped from the URL
+  if (hm && Math.abs(+hm[1]) <= 90 && Math.abs(+hm[2]) <= 180) { home = [+hm[1], +hm[2]]; try { localStorage.setItem(HOME_KEY, JSON.stringify(home)); } catch {} }
+  drawHome();
   const [c, id] = decodeURIComponent(hash0.slice(1).split('&')[0]).split('/');
   setCity(CITIES[c] ? c : 'hcmc');
   if (id && BY_ID.has(id)) select(id, true);

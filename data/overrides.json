@@ -61,5 +61,38 @@
  "nhatrang/Khu du lịch Ba Hồ": {
   "drop": true,
   "why": "Same waterfalls as the original research's 'Suối Ba Hồ'; the two pins sit at different points of one site."
+ },
+ "hcmc/XiaoGe Hotpot": {
+  "status": "removed",
+  "why": "No current source (Google Maps, Foody, Wanderlog, press) shows a place by this name at this address; kept off the map so nobody travels to a place that may not exist."
+ },
+ "nhatrang/Hải sản Thùy 66": {
+  "status": "removed",
+  "why": "No current source (Google Maps, Foody, Wanderlog, press) shows a place by this name at this address; kept off the map so nobody travels to a place that may not exist."
+ },
+ "nhatrang/Hotpot99": {
+  "status": "removed",
+  "why": "No current source (Google Maps, Foody, Wanderlog, press) shows a place by this name at this address; kept off the map so nobody travels to a place that may not exist."
+ },
+ "nhatrang/Ốc Nhắng": {
+  "status": "removed",
+  "why": "No current source (Google Maps, Foody, Wanderlog, press) shows a place by this name at this address; kept off the map so nobody travels to a place that may not exist."
+ },
+ "mytho/Hủ tiếu Quần Ký": {
+  "status": "removed",
+  "why": "Google Maps shows it temporarily closed and the newest review is from 2022."
+ },
+ "mytho/Hủ tiếu Hạnh": {
+  "status": "removed",
+  "why": "Foody marks the listing inactive and the newest review is from 2021."
+ },
+ "mytho/Chợ nổi Cái Bè": {
+  "status": "removed",
+  "why": "Google Maps lists it permanently closed; the boats have largely gone (Cái Răng in Cần Thơ is the living floating market)."
+ },
+ "hcmc/Bánh Xèo 46A": {
+  "status": "unverified",
+  "warn": "Google Maps đang báo quán tạm đóng cửa (ghi nhận 10/2026).",
+  "why": "Wanderlog's Google data shows CLOSED_TEMPORARILY (vn-gratings, 14/10/2026); a famous Michelin Bib place, so it stays with a specific warning rather than being removed."
  }
 }

@@ -26,7 +26,8 @@ ROOT = Path(__file__).resolve().parent.parent
 CACHE = ROOT / "data" / ".cache"
 UA = "VietnamTravelMap/1.0 (personal travel map; https://github.com/dthau120391)"
 FILES = {"hcmc-food": "hcmc", "hcmc-explore": "hcmc", "dalat": "dalat", "nhatrang": "nhatrang",
-         "nhatrang-b": "nhatrang", "mytho": "mytho"}
+         "nhatrang-b": "nhatrang", "mytho": "mytho", "hcmc-q5-food": "hcmc", "hcmc-q5-shop": "hcmc",
+         "acoustic": None}  # None: each entry names its own city
 AGREE_KM = 1.5  # an agent pin within this distance of an OSM match counts as confirmed
 
 
@@ -221,6 +222,25 @@ def commons_info(titles, cache, offline):
     return {t: cache.data.get(t) for t in titles}
 
 
+def wiki_views(url, cache, offline):
+    """Page views of the place's Wikipedia article over the 12 months to 30/09/2026 — how many people looked it up."""
+    if not url or "wikipedia.org/wiki/" not in url:
+        return None
+    if url in cache.data:
+        return cache.data[url]
+    if offline:
+        return None
+    host, title = url.split("/")[2], urllib.parse.unquote(url.split("/wiki/", 1)[1]).replace(" ", "_")
+    api = (f"https://wikimedia.org/api/rest_v1/metrics/pageviews/per-article/{host}/all-access/user/"
+           f"{urllib.parse.quote(title, safe='')}/monthly/2025100100/2026093000")
+    try:
+        views = sum(i["views"] for i in get_json(api)["items"])
+    except Exception:  # noqa: BLE001 — not cached, so the next run asks again
+        return None
+    cache.data[url] = views
+    return views
+
+
 def url_ok(url, cache, offline):
     if url in cache.data:
         return cache.data[url]
@@ -253,7 +273,10 @@ def main():
             print(f"! missing {f}", file=sys.stderr)
             continue
         for p in json.loads(f.read_text()):
-            p["city"], p["_file"] = city, stem
+            p["city"], p["_file"] = city or p.get("city"), stem
+            if p["city"] not in CITIES:
+                print(f'! {stem}: {p.get("name")!r} has no known city, skipped', file=sys.stderr)
+                continue
             twin = next((q for q in places if q["city"] == city and q["_file"] != stem and same_place(p, q)), None)
             if twin is None:
                 places.append(p)
@@ -263,7 +286,15 @@ def main():
             places[places.index(twin)] = keep
             merges.append(f'{city}: kept "{keep["name"]}" ({keep["_file"]}), merged "{lose["name"]}" ({lose["_file"]})')
 
-    geo, img, head = Cache("nominatim"), Cache("commons"), Cache("urlcheck")
+    geo, img, head, pv = Cache("nominatim"), Cache("commons"), Cache("urlcheck"), Cache("pageviews")
+    # Places listed by 3+ independent major guides (data/signature.json, one URL per guide).
+    sig_path = ROOT / "data" / "signature.json"
+    sig_raw = json.loads(sig_path.read_text(encoding="utf-8")) if sig_path.exists() else {}
+    signature = {(c, e["name"]): len(set(e["guides"])) for c in CITIES for e in sig_raw.get(c, [])}
+    # Google ratings read later for places that only had a Foody score (data/gratings.json, keyed by id):
+    # one familiar 5-star scale, and Google's review counts are what the fame score compares.
+    gr_path = ROOT / "data" / "gratings.json"
+    gratings = json.loads(gr_path.read_text(encoding="utf-8")) if gr_path.exists() else {}
     # Manual decisions, keyed "city/name": {"accept": "agent"} keeps a disputed researcher pin,
     # {"lat", "lng", "source"} sets one by hand, {"drop": true} leaves the place out. Each carries a "why", so the decision stays reviewable.
     ov_path = ROOT / "data" / "overrides.json"
@@ -292,6 +323,10 @@ def main():
                 continue
         lat, lng, approx, how, note = locate(p, geo, offline)
         if ov:
+            if ov.get("status"):  # e.g. "removed": no source shows it exists now
+                p["status"] = ov["status"]
+            if ov.get("warn"):  # a specific warning for the place's page
+                p["warn"] = ov["warn"]
             if "lat" in ov:
                 lat, lng, approx, how = ov["lat"], ov["lng"], bool(ov.get("approx")), "manual"
             elif ov.get("accept") == "agent" and how == "agent-disputed":
@@ -318,6 +353,11 @@ def main():
                 rating["scale"] = 10
         else:
             rating = None
+        g = gratings.get(pid)
+        if g and g.get("value") and g.get("url"):
+            rating = {"v": float(g["value"]), "n": int(g.get("count") or 0), "src": g.get("source") or "Google",
+                      "url": g["url"], "seen": g.get("seen") or ""}
+            p.setdefault("sources", []).append(g["url"])
         out.append({
             "id": pid, "city": p["city"], "name": p["name"], "cat": p["cat"], "sub": p.get("subtitle") or "",
             "addr": p.get("address") or "", "lat": round(lat, 6) if lat is not None else None,
@@ -329,8 +369,13 @@ def main():
             "wiki": p.get("wiki") or None, "web": p.get("website") or None,
             "sources": [u for u in (p.get("sources") or []) if isinstance(u, str) and u.startswith("http")][:8],
             "status": p.get("status") or "open", "existing": bool(p.get("existing")),
+            "views": wiki_views(p.get("wiki"), pv, offline), "warn": p.get("warn") or "",
+            "guides": signature.get((p["city"], p["name"]), 0),
         })
     geo.save()
+    pv.save()
+    for c, n in sorted(set(signature) - {(p["city"], p["name"]) for p in out}):
+        print(f"! signature entry {c}/{n!r} matched no place", file=sys.stderr)
     for k in sorted(set(overrides) - used):
         print(f"! override for {k!r} matched no place", file=sys.stderr)
 

@@ -32,6 +32,9 @@
   ],
   "status": "open",
   "existing": true,
+  "views": null,
+  "warn": "",
+  "guides": 2,
   "imgs": [
    {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ef/Anan_Saigon.jpg/960px-Anan_Saigon.jpg",
@@ -60,12 +63,11 @@
   "desc": "Quán bánh xèo lâu đời trên đường Đinh Công Tráng với chiếc bánh vàng giòn đường kính 30–35 cm, nhân tôm, thịt, giá và đậu xanh, cuốn cùng rổ rau sống. Anthony Bourdain từng ghé quay chương trình No Reservations năm 2008, và quán liên tục có mặt trong danh sách Bib Gourmand, gồm cả ấn bản 2026.",
   "review": "Khen: bánh to, vỏ mỏng giòn, nhiều tôm thịt, rau cuốn tươi; Michelin khuyên ngồi khu ngoài trời cạnh bếp để có trải nghiệm chân thực nhất. Chê: điểm Foody chỉ ở mức trung bình — nhiều bình luận phàn nàn giá cao so với phần ăn, phục vụ vội và hay mời gọi đồ uống, thu thêm phí gửi xe và phụ thu phòng lạnh.",
   "rating": {
-   "v": 5.4,
-   "n": 177,
-   "src": "Foody.vn (thang điểm 10)",
-   "url": "https://www.foody.vn/ho-chi-minh/banh-xeo-46a-dinh-cong-trang",
-   "seen": "2026-10",
-   "scale": 10
+   "v": 3.8,
+   "n": 1969,
+   "src": "Google (qua Wanderlog)",
+   "url": "https://wanderlog.com/place/details/1082626/b%C3%A1nh-x%C3%A8o-46a",
+   "seen": "2026-10"
   },
   "hot": false,
   "tags": [
@@ -79,10 +81,14 @@
   "sources": [
    "https://guide.michelin.com/vn/en/ho-chi-minh/ho-chi-minh_2978179/restaurant/banh-xeo-46a",
    "https://vnexpress.net/8-quan-binh-dan-o-tp-hcm-duoc-michelin-goi-ten-4815268.html",
-   "https://www.foody.vn/ho-chi-minh/banh-xeo-46a-dinh-cong-trang"
+   "https://www.foody.vn/ho-chi-minh/banh-xeo-46a-dinh-cong-trang",
+   "https://wanderlog.com/place/details/1082626/b%C3%A1nh-x%C3%A8o-46a"
   ],
-  "status": "open",
+  "status": "unverified",
   "existing": true,
+  "views": null,
+  "warn": "Google Maps đang báo quán tạm đóng cửa (ghi nhận 10/2026).",
+  "guides": 0,
   "imgs": [
    {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/64/BanhXeoatSaigon.jpg/960px-BanhXeoatSaigon.jpg",
@@ -111,12 +117,11 @@
   "desc": "Mở từ năm 1995, quán nổi tiếng với miếng sườn cốt lết thái dày 400–600 g, ướp công thức gia truyền rồi nướng than, phủ gần kín đĩa cơm. Ba Ghiền được Michelin xếp hạng Bib Gourmand bốn năm liền 2023–2026 và thường được coi là một trong những đĩa cơm tấm ngon nhất Sài Gòn.",
   "review": "Khen: miếng sườn 450–500 g ướp nước sốt bí quyết, nướng than thơm khói, phần ăn rất no; nhiều khách ăn ở đây hàng chục năm. Chê: ý kiến chia rẽ về giá — không ít người cho rằng giá chưa xứng với tiêu chí 'ngon, giá phải chăng' của Bib Gourmand, sườn đậm vị nhưng chưa thật mọng; quán bài trí cũ, không máy lạnh.",
   "rating": {
-   "v": 6.6,
-   "n": 1567,
-   "src": "Foody.vn (thang điểm 10)",
-   "url": "https://www.foody.vn/ho-chi-minh/com-tam-ba-ghien-khong-chi-nhanh-84-dang-van-ngu",
-   "seen": "2026-10",
-   "scale": 10
+   "v": 4.0,
+   "n": 20661,
+   "src": "Google (qua Wanderlog)",
+   "url": "https://wanderlog.com/place/details/8269390",
+   "seen": "2026-10"
   },
   "hot": false,
   "tags": [
@@ -131,10 +136,14 @@
    "https://guide.michelin.com/vn/en/ho-chi-minh/ho-chi-minh_2978179/restaurant/com-tam-ba-ghien",
    "https://ngoisao.vnexpress.net/chi-pu-dua-amber-di-an-com-tam-sai-gon-5088565.html",
    "https://news.tuoitre.vn/public-opinion-split-on-com-tam-ba-ghien-receiving-michelin-recognition-10373802.htm",
-   "https://www.foody.vn/ho-chi-minh/com-tam-ba-ghien-khong-chi-nhanh-84-dang-van-ngu"
+   "https://www.foody.vn/ho-chi-minh/com-tam-ba-ghien-khong-chi-nhanh-84-dang-van-ngu",
+   "https://wanderlog.com/place/details/8269390"
   ],
   "status": "open",
   "existing": true,
+  "views": null,
+  "warn": "",
+  "guides": 1,
   "imgs": [
    {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b9/C%C6%A1m_T%E1%BA%A5m_B%C3%AC_S%C6%B0%E1%BB%9Dn_Ch%E1%BA%A3.jpg/960px-C%C6%A1m_T%E1%BA%A5m_B%C3%AC_S%C6%B0%E1%BB%9Dn_Ch%E1%BA%A3.jpg",
@@ -180,6 +189,9 @@
   ],
   "status": "open",
   "existing": true,
+  "views": null,
+  "warn": "",
+  "guides": 0,
   "imgs": [
    {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2e/Pho_and_Eggs_in_Ho_Chi_Minh_city.jpg/960px-Pho_and_Eggs_in_Ho_Chi_Minh_city.jpg",
@@ -208,12 +220,11 @@
   "desc": "Quán phở bà Nguyễn Ngọc Phượng mở từ năm 18 tuổi, hơn 40 năm trên đường Hoàng Sa ven kênh Nhiêu Lộc – Thị Nghè. Nổi tiếng nhất là đuôi bò hầm rất lâu (Michelin ghi tới 40 giờ) đến mềm, sánh dẻo; rau thơm được nhặt rửa kỹ. Quán được xếp Bib Gourmand từ 2023 và vẫn giữ danh hiệu năm 2026.",
   "review": "Khen: đuôi bò hầm mềm, béo ngậy, nước dùng ngọt thanh, ăn không ngấy; rau thơm được nhặt rửa kỹ, nhiều khách gắn bó từ nhỏ. Chê: buổi sáng và trưa rất đông, phải chờ; món đuôi bò khá béo, không phải ai cũng hợp; một số đánh giá trên Foody (2020–2023) cho rằng giá cao và chất lượng giảm so với trước.",
   "rating": {
-   "v": 5.3,
-   "n": 20,
-   "src": "Foody.vn (thang điểm 10)",
-   "url": "https://www.foody.vn/ho-chi-minh/quan-pho-phuong-hoang-sa",
-   "seen": "2026-10",
-   "scale": 10
+   "v": 4.2,
+   "n": 1140,
+   "src": "Google (qua Wanderlog)",
+   "url": "https://wanderlog.com/place/details/3842219/ph%E1%BB%9F-ph%C6%B0%E1%BB%A3ng",
+   "seen": "2026-10"
   },
   "hot": false,
   "tags": [
@@ -228,10 +239,14 @@
    "https://tuoitre.vn/nld/hai-quan-pho-mot-nha-cung-duoc-michelin-goi-ten-196250629202128053.htm",
    "https://www.vietnamairlines.com/en/useful-information/travel-guide/best-pho-in-hcmc",
    "https://authentiktravel.com/best-addresses-northern-style-pho-ho-chi-minh-city",
-   "https://www.foody.vn/ho-chi-minh/quan-pho-phuong-hoang-sa"
+   "https://www.foody.vn/ho-chi-minh/quan-pho-phuong-hoang-sa",
+   "https://wanderlog.com/place/details/3842219/ph%E1%BB%9F-ph%C6%B0%E1%BB%A3ng"
   ],
   "status": "open",
   "existing": true,
+  "views": null,
+  "warn": "",
+  "guides": 0,
   "imgs": [
    {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a7/Guests_adjust_the_spice_before_enjoying_ph%E1%BB%9F_15-07-2018.jpg/960px-Guests_adjust_the_spice_before_enjoying_ph%E1%BB%9F_15-07-2018.jpg",
@@ -260,12 +275,11 @@
   "desc": "Quán nhỏ trong con hẻm yên tĩnh ở Quận 4 do hai chàng trai trẻ mở năm 2018, lớn mạnh nhờ bán qua ứng dụng giao đồ ăn với có ngày tới 500 tô. Nước dùng hầm từ xương bò, xương heo và hành, được nêm đậm hơn bản gốc Huế cho hợp khẩu vị người miền Nam; quán là Bib Gourmand liên tiếp, gồm cả năm 2026.",
   "review": "Khen: nước dùng đậm đà, nhiều topping, giá bình dân; sa tế và tương ớt nhà làm. Chê: quán chủ yếu bán mang đi/giao hàng, chỗ ngồi rất ít; vị đã được 'Nam hóa' nên người sành bún bò Huế gốc có thể thấy khác.",
   "rating": {
-   "v": 8.4,
-   "n": 192,
-   "src": "Foody.vn (thang điểm 10)",
-   "url": "https://www.foody.vn/ho-chi-minh/bun-bo-hue-14b",
-   "seen": "2026-10",
-   "scale": 10
+   "v": 4.2,
+   "n": 266,
+   "src": "Google (qua Wanderlog)",
+   "url": "https://wanderlog.com/place/details/10775636/b%C3%BAn-b%C3%B2-hu%E1%BA%BF-14b",
+   "seen": "2026-10"
   },
   "hot": false,
   "tags": [
@@ -279,10 +293,14 @@
    "https://guide.michelin.com/vn/en/ho-chi-minh/ho-chi-minh_2978179/restaurant/bun-bo-hue-14b",
    "https://vtcnews.vn/cam-50-nghin-dong-thuong-thuc-bun-bo-hue-o-tp-hcm-duoc-michelin-goi-ten-ar889599.html",
    "https://vnexpress.net/8-quan-binh-dan-o-tp-hcm-duoc-michelin-goi-ten-4815268.html",
-   "https://www.foody.vn/ho-chi-minh/bun-bo-hue-14b"
+   "https://www.foody.vn/ho-chi-minh/bun-bo-hue-14b",
+   "https://wanderlog.com/place/details/10775636/b%C3%BAn-b%C3%B2-hu%E1%BA%BF-14b"
   ],
   "status": "open",
   "existing": true,
+  "views": null,
+  "warn": "",
+  "guides": 0,
   "imgs": [
    {
     "src": "https://upload.wikimedia.org/wikipedia/commons/e/e2/Bun_Bo_Hue_in_Sai_Gon.jpg",
@@ -327,6 +345,9 @@
   ],
   "status": "open",
   "existing": true,
+  "views": null,
+  "warn": "",
+  "guides": 0,
   "imgs": [
    {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/87/X%C3%B4i_g%C3%A0.jpg/960px-X%C3%B4i_g%C3%A0.jpg",
@@ -378,6 +399,9 @@
   ],
   "status": "open",
   "existing": false,
+  "views": null,
+  "warn": "",
+  "guides": 0,
   "imgs": [
    {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/ff/B%C3%A1nh_canh_cua.jpg/960px-B%C3%A1nh_canh_cua.jpg",
@@ -422,6 +446,9 @@
   ],
   "status": "open",
   "existing": false,
+  "views": null,
+  "warn": "",
+  "guides": 0,
   "imgs": [
    {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/79/B%C3%A1nh_cu%E1%BB%91n_Saigon.jpg/960px-B%C3%A1nh_cu%E1%BB%91n_Saigon.jpg",
@@ -466,6 +493,9 @@
   ],
   "status": "closed",
   "existing": false,
+  "views": null,
+  "warn": "",
+  "guides": 0,
   "imgs": [
    {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2e/Pho_and_Eggs_in_Ho_Chi_Minh_city.jpg/960px-Pho_and_Eggs_in_Ho_Chi_Minh_city.jpg",
@@ -509,6 +539,9 @@
   ],
   "status": "open",
   "existing": false,
+  "views": null,
+  "warn": "",
+  "guides": 0,
   "imgs": []
  },
  {
@@ -543,6 +576,9 @@
   ],
   "status": "open",
   "existing": false,
+  "views": null,
+  "warn": "",
+  "guides": 0,
   "imgs": []
  },
  {
@@ -577,6 +613,9 @@
   ],
   "status": "open",
   "existing": false,
+  "views": null,
+  "warn": "",
+  "guides": 0,
   "imgs": []
  },
  {
@@ -610,6 +649,9 @@
   ],
   "status": "open",
   "existing": false,
+  "views": null,
+  "warn": "",
+  "guides": 0,
   "imgs": []
  },
  {
@@ -646,6 +688,9 @@
   ],
   "status": "open",
   "existing": false,
+  "views": null,
+  "warn": "",
+  "guides": 0,
   "imgs": []
  },
  {
@@ -665,12 +710,11 @@
   "desc": "Mở từ năm 2018 trong một căn nhà kiểu thuộc địa cuối con hẻm yên tĩnh ở trung tâm, có sân vườn rợp cây và các phòng ăn nhỏ bài trí tinh tế, một phòng có bích họa nhiều màu. Thực đơn chay Việt phong phú với giá hợp lý; Chay Garden vào Bib Gourmand từ 2023 và tiếp tục giữ danh hiệu năm 2026.",
   "review": "Khen: món chay ngon, trình bày đẹp, thực đơn rất đa dạng; không gian sân vườn yên tĩnh hợp hẹn hò, gia đình; điểm Foody cao (8,4). Chê: một số khách cho rằng giá hơi cao so với quán chay bình dân và quán ngày càng đông, thương mại hơn; có lúc phục vụ chưa chu đáo.",
   "rating": {
-   "v": 8.4,
-   "n": 53,
-   "src": "Foody.vn (thang điểm 10)",
-   "url": "https://www.foody.vn/ho-chi-minh/chay-garden-restaurant-coffee",
-   "seen": "2026-10",
-   "scale": 10
+   "v": 4.7,
+   "n": 2606,
+   "src": "Google (qua Wanderlog)",
+   "url": "https://wanderlog.com/place/details/2153021/chay-garden-v%C3%B5-v%C4%83n-t%E1%BA%A7n",
+   "seen": "2026-10"
   },
   "hot": false,
   "tags": [
@@ -684,10 +728,14 @@
   "sources": [
    "https://guide.michelin.com/vn/en/ho-chi-minh/ho-chi-minh_2978179/restaurant/chay-garden",
    "https://ngoisao.vnexpress.net/nha-hang-chay-ba-nam-lien-duoc-michelin-vinh-danh-o-tp-hcm-5041808.html",
-   "https://www.foody.vn/ho-chi-minh/chay-garden-restaurant-coffee"
+   "https://www.foody.vn/ho-chi-minh/chay-garden-restaurant-coffee",
+   "https://wanderlog.com/place/details/2153021/chay-garden-v%C3%B5-v%C4%83n-t%E1%BA%A7n"
   ],
   "status": "open",
   "existing": false,
+  "views": null,
+  "warn": "",
+  "guides": 1,
   "imgs": [
    {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/02/G%E1%BB%8Fi_Cu%E1%BB%91n_Chay_Vietnamese_Fresh_Vegetarian_Spring_Roll_2019-1599.jpg/960px-G%E1%BB%8Fi_Cu%E1%BB%91n_Chay_Vietnamese_Fresh_Vegetarian_Spring_Roll_2019-1599.jpg",
@@ -730,6 +778,9 @@
   ],
   "status": "open",
   "existing": false,
+  "views": null,
+  "warn": "",
+  "guides": 0,
   "imgs": [
    {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/64/BanhXeoatSaigon.jpg/960px-BanhXeoatSaigon.jpg",
@@ -773,6 +824,9 @@
   ],
   "status": "open",
   "existing": false,
+  "views": null,
+  "warn": "",
+  "guides": 0,
   "imgs": []
  },
  {
@@ -792,12 +846,11 @@
   "desc": "Quán bò kho bình dân dưới chân chung cư Ngô Gia Tự, phục vụ bò kho trong thố đá giữ nóng, ăn kèm bánh mì, mì hoặc cơm tùy chọn. Nước dùng đậm vị thịt, hơi ngọt kiểu miền Nam; quán liên tục có mặt trong Bib Gourmand, gồm cả năm 2026.",
   "review": "Khen: thịt bò thơm mềm, nước kho đậm đà, khách tự nêm thêm gia vị theo ý; giá dễ chịu. Chê: không gian đơn sơ dưới chung cư cũ, chỉ nhận tiền mặt; phần đặc biệt giá cao hơn hẳn phần thường.",
   "rating": {
-   "v": 6.0,
-   "n": 23,
-   "src": "Foody.vn (thang điểm 10)",
-   "url": "https://www.foody.vn/ho-chi-minh/bo-kho-ganh-chung-cu-ngo-gia-tu",
-   "seen": "2026-10",
-   "scale": 10
+   "v": 4.1,
+   "n": 1450,
+   "src": "Google (qua Wanderlog)",
+   "url": "https://wanderlog.com/place/details/8286954/b%C3%B2-kho-g%C3%A1nh-s%C3%A0i-g%C3%B2n",
+   "seen": "2026-10"
   },
   "hot": false,
   "tags": [
@@ -811,10 +864,14 @@
   "sources": [
    "https://guide.michelin.com/vn/en/ho-chi-minh/ho-chi-minh_2978179/restaurant/bo-kho-ganh",
    "https://vnexpress.net/8-quan-binh-dan-o-tp-hcm-duoc-michelin-goi-ten-4815268.html",
-   "https://www.foody.vn/ho-chi-minh/bo-kho-ganh-chung-cu-ngo-gia-tu"
+   "https://www.foody.vn/ho-chi-minh/bo-kho-ganh-chung-cu-ngo-gia-tu",
+   "https://wanderlog.com/place/details/8286954/b%C3%B2-kho-g%C3%A1nh-s%C3%A0i-g%C3%B2n"
   ],
   "status": "open",
   "existing": false,
+  "views": null,
+  "warn": "",
+  "guides": 0,
   "imgs": [
    {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2b/Bo_Kho.jpg/960px-Bo_Kho.jpg",
@@ -858,6 +915,9 @@
   ],
   "status": "open",
   "existing": false,
+  "views": null,
+  "warn": "",
+  "guides": 0,
   "imgs": [
    {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/97/Canhchua1.jpg/960px-Canhchua1.jpg",
@@ -909,6 +969,9 @@
   ],
   "status": "open",
   "existing": false,
+  "views": null,
+  "warn": "",
+  "guides": 0,
   "imgs": [
    {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3b/B%C3%BAn_ri%C3%AAu_%C4%91%E1%BA%B7c_bi%E1%BB%87t.jpg/960px-B%C3%BAn_ri%C3%AAu_%C4%91%E1%BA%B7c_bi%E1%BB%87t.jpg",
@@ -953,6 +1016,9 @@
   ],
   "status": "open",
   "existing": false,
+  "views": null,
+  "warn": "",
+  "guides": 0,
   "imgs": [
    {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1c/Saigon_style_chicken_ph%E1%BB%9F.jpg/960px-Saigon_style_chicken_ph%E1%BB%9F.jpg",
@@ -996,6 +1062,9 @@
   ],
   "status": "open",
   "existing": false,
+  "views": null,
+  "warn": "",
+  "guides": 0,
   "imgs": [
    {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/90/G%E1%BB%8Fi_cu%E1%BB%91n.jpg/960px-G%E1%BB%8Fi_cu%E1%BB%91n.jpg",
@@ -1040,6 +1109,9 @@
   ],
   "status": "open",
   "existing": false,
+  "views": null,
+  "warn": "",
+  "guides": 0,
   "imgs": [
    {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1c/Saigon_style_chicken_ph%E1%BB%9F.jpg/960px-Saigon_style_chicken_ph%E1%BB%9F.jpg",
@@ -1068,12 +1140,11 @@
   "desc": "Thương hiệu hủ tiếu Nam Vang lâu năm trên đường Võ Văn Tần, kết tinh từ sự giao thoa ẩm thực Triều Châu và Khmer. Tô hủ tiếu sợi mềm đi cùng thịt bằm, gan, tôm sú hoặc huyết; Hồng Phát giữ Bib Gourmand năm 2026.",
   "review": "Khen: hủ tiếu khô và nước đều ngon, tô xí quách đáng gọi thêm, rau tươi, quán sạch sẽ; Michelin gợi ý chả giò tôm cua và sủi cảo chiên làm món khai vị. Chê: giá cao hơn hủ tiếu thường (tô đặc biệt trên 120.000đ), tính thêm tiền khăn lạnh, trà đá; vài khách thấy nước lèo mặn hoặc phục vụ thiên vị khách nước ngoài.",
   "rating": {
-   "v": 6.9,
-   "n": 65,
-   "src": "Foody.vn (thang điểm 10)",
-   "url": "https://www.foody.vn/ho-chi-minh/hu-tieu-hong-phat",
-   "seen": "2026-10",
-   "scale": 10
+   "v": 4.6,
+   "n": 3783,
+   "src": "Google (qua Wanderlog)",
+   "url": "https://wanderlog.com/place/details/4917114/h%E1%BB%A7-ti%E1%BA%BFu-h%E1%BB%93ng-ph%C3%A1t",
+   "seen": "2026-10"
   },
   "hot": false,
   "tags": [
@@ -1085,10 +1156,14 @@
   "web": "https://hutieuhongphat.com",
   "sources": [
    "https://guide.michelin.com/vn/en/ho-chi-minh/ho-chi-minh_2978179/restaurant/hong-phat-district-3",
-   "https://www.foody.vn/ho-chi-minh/hu-tieu-hong-phat"
+   "https://www.foody.vn/ho-chi-minh/hu-tieu-hong-phat",
+   "https://wanderlog.com/place/details/4917114/h%E1%BB%A7-ti%E1%BA%BFu-h%E1%BB%93ng-ph%C3%A1t"
   ],
   "status": "open",
   "existing": false,
+  "views": null,
+  "warn": "",
+  "guides": 1,
   "imgs": [
    {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/97/H%E1%BB%A7_ti%E1%BA%BFu_Nam_Vang_S%C3%A0i_G%C3%B2n.jpg/960px-H%E1%BB%A7_ti%E1%BA%BFu_Nam_Vang_S%C3%A0i_G%C3%B2n.jpg",
@@ -1117,12 +1192,11 @@
   "desc": "Tiệm cơm người Hoa mở năm 1948, nay do thế hệ thứ ba quản lý, nằm trong khu chợ Cũ Tôn Thất Đạm. Món tủ là canh gà ác chưng cách thủy theo cách làm không đổi từ ngày mở quán, nước trong, không bột ngọt, thơm nhẹ thuốc bắc; quán giữ Bib Gourmand năm 2026.",
   "review": "Khen: Michelin khen canh gà ác thanh, không bột ngọt, cơm thố đúng kiểu Quảng Đông xưa; chủ quán tư vấn món tận tình. Chê: nhiều đánh giá cũ trên Foody cho rằng quán chật, cũ kỹ, giá không rẻ so với phần ăn và vệ sinh chưa tốt.",
   "rating": {
-   "v": 6.2,
-   "n": 24,
-   "src": "Foody.vn (thang điểm 10)",
-   "url": "https://www.foody.vn/ho-chi-minh/com-tho-chuyen-ky",
-   "seen": "2026-10",
-   "scale": 10
+   "v": 3.9,
+   "n": 501,
+   "src": "Google (qua Wanderlog)",
+   "url": "https://wanderlog.com/place/details/5811156/ti%E1%BB%87m-c%C6%A1m-th%E1%BB%91-chuy%C3%AAn-k%C3%BD",
+   "seen": "2026-10"
   },
   "hot": false,
   "tags": [
@@ -1135,10 +1209,14 @@
   "web": null,
   "sources": [
    "https://guide.michelin.com/vn/en/ho-chi-minh/ho-chi-minh_2978179/restaurant/tiem-com-tho-chuyen-ky",
-   "https://www.foody.vn/ho-chi-minh/com-tho-chuyen-ky"
+   "https://www.foody.vn/ho-chi-minh/com-tho-chuyen-ky",
+   "https://wanderlog.com/place/details/5811156/ti%E1%BB%87m-c%C6%A1m-th%E1%BB%91-chuy%C3%AAn-k%C3%BD"
   ],
   "status": "open",
   "existing": false,
+  "views": null,
+  "warn": "",
+  "guides": 0,
   "imgs": []
  },
  {
@@ -1173,6 +1251,9 @@
   ],
   "status": "open",
   "existing": false,
+  "views": null,
+  "warn": "",
+  "guides": 0,
   "imgs": [
    {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a7/Guests_adjust_the_spice_before_enjoying_ph%E1%BB%9F_15-07-2018.jpg/960px-Guests_adjust_the_spice_before_enjoying_ph%E1%BB%9F_15-07-2018.jpg",
@@ -1216,6 +1297,9 @@
   ],
   "status": "open",
   "existing": false,
+  "views": null,
+  "warn": "",
+  "guides": 0,
   "imgs": [
    {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/97/Canhchua1.jpg/960px-Canhchua1.jpg",
@@ -1244,12 +1328,11 @@
   "desc": "Tiệm phở của cụ Trần Minh (quê Hà Đông) khởi nghiệp từ gánh phở gần chợ Bến Thành những năm 1930–1940, có gian nhà riêng trong hẻm Pasteur từ khoảng 1950 và nay do đời thứ ba giữ gìn. Công thức gần như không đổi suốt hơn 80 năm, quán bày bàn ghế kiểu Sài Gòn xưa; Phở Minh được Bib Gourmand nhiều năm, gồm cả 2026.",
   "review": "Khen: thịt bò chọn kỹ, nạm gầu mềm ngọt; nước lèo trong, vị thanh kiểu Bắc pha Nam; quán sạch, khách quen lâu năm; bánh pâté chaud nóng giòn là điểm cộng. Chê: chỉ bán buổi sáng và nghỉ sớm khi hết; có người thấy nước dùng hơi nhạt, không đậm đà.",
   "rating": {
-   "v": 7.2,
-   "n": 10,
-   "src": "Foody.vn (thang điểm 10)",
-   "url": "https://www.foody.vn/ho-chi-minh/pho-minh-pasteur",
-   "seen": "2026-10",
-   "scale": 10
+   "v": 4.4,
+   "n": 827,
+   "src": "Google (qua Wanderlog)",
+   "url": "https://wanderlog.com/place/details/410084/ph%E1%BB%9F-minh",
+   "seen": "2026-10"
   },
   "hot": false,
   "tags": [
@@ -1264,10 +1347,14 @@
    "https://guide.michelin.com/vn/en/ho-chi-minh/ho-chi-minh_2978179/restaurant/pho-minh",
    "https://tuoitre.vn/pho-minh-3-nam-lien-duoc-michelin-vinh-danh-va-cau-chuyen-no-nuc-don-vang-khap-thi-thanh-20251211160511221.htm",
    "https://thanhnien.vn/7-quan-pho-noi-tieng-tphcm-duoc-michelin-vinh-danh-2025-co-quan-ruot-cua-ban-khong-185250605224533612.htm",
-   "https://www.foody.vn/ho-chi-minh/pho-minh-pasteur"
+   "https://www.foody.vn/ho-chi-minh/pho-minh-pasteur",
+   "https://wanderlog.com/place/details/410084/ph%E1%BB%9F-minh"
   ],
   "status": "open",
   "existing": false,
+  "views": null,
+  "warn": "",
+  "guides": 0,
   "imgs": [
    {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2e/Pho_and_Eggs_in_Ho_Chi_Minh_city.jpg/960px-Pho_and_Eggs_in_Ho_Chi_Minh_city.jpg",
@@ -1296,12 +1383,11 @@
   "desc": "Quán phở mở năm 2008 của anh Hoàng Văn Khải — em rể bà Phượng của Phở Phượng, dùng chung công thức gia truyền nhưng nêm nếm theo cách riêng. Nước lèo trong, ninh hơn 12 tiếng; quán được Bib Gourmand liên tiếp và giữ danh hiệu năm 2026.",
   "review": "Khen: nước dùng đậm mà vẫn thanh, quán sạch sẽ, có thể gọi thêm gân, nạm, bò bằm hoặc trứng; trà thảo mộc tự nấu được khen. Chê: một số khách trên Foody thấy nước hơi mặn và lượng thịt ít so với giá 60.000–80.000đ.",
   "rating": {
-   "v": 6.2,
-   "n": 22,
-   "src": "Foody.vn (thang điểm 10)",
-   "url": "https://www.foody.vn/ho-chi-minh/pho-hoang-nguyen-tri-phuong",
-   "seen": "2026-10",
-   "scale": 10
+   "v": 4.0,
+   "n": 544,
+   "src": "Google (qua Wanderlog)",
+   "url": "https://wanderlog.com/place/details/7050588/ph%E1%BB%9F-ho%C3%A0ng",
+   "seen": "2026-10"
   },
   "hot": false,
   "tags": [
@@ -1314,10 +1400,14 @@
   "sources": [
    "https://guide.michelin.com/vn/en/ho-chi-minh/ho-chi-minh_2978179/restaurant/pho-hoang",
    "https://tuoitre.vn/nld/hai-quan-pho-mot-nha-cung-duoc-michelin-goi-ten-196250629202128053.htm",
-   "https://www.foody.vn/ho-chi-minh/pho-hoang-nguyen-tri-phuong"
+   "https://www.foody.vn/ho-chi-minh/pho-hoang-nguyen-tri-phuong",
+   "https://wanderlog.com/place/details/7050588/ph%E1%BB%9F-ho%C3%A0ng"
   ],
   "status": "open",
   "existing": false,
+  "views": null,
+  "warn": "",
+  "guides": 0,
   "imgs": [
    {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a7/Guests_adjust_the_spice_before_enjoying_ph%E1%BB%9F_15-07-2018.jpg/960px-Guests_adjust_the_spice_before_enjoying_ph%E1%BB%9F_15-07-2018.jpg",
@@ -1346,12 +1436,11 @@
   "desc": "Căn nhà xinh có sân trong, hiên và đồ trang trí mộc mạc trên con đường yên tĩnh ở Thảo Điền. Món chay Việt biến tấu hiện đại, dùng rau củ tươi phần lớn hữu cơ lấy trực tiếp từ nông trại; Hum Garden giữ Bib Gourmand năm 2026.",
   "review": "Khen: món chay thanh, ít dầu mỡ, trình bày chăm chút; không gian xanh, tao nhã, có hẳn sân chơi cho trẻ em; Michelin khen chả giò nấm 'xuất sắc'. Chê: giá cao hơn quán chay bình dân và nằm xa trung tâm Quận 1.",
   "rating": {
-   "v": 7.6,
-   "n": 20,
-   "src": "Foody.vn (thang điểm 10)",
-   "url": "https://www.foody.vn/ho-chi-minh/hum-vegetarian-garden-restaurant",
-   "seen": "2026-10",
-   "scale": 10
+   "v": 4.6,
+   "n": 1570,
+   "src": "Google (qua Wanderlog)",
+   "url": "https://wanderlog.com/place/details/3589183/hum-garden-healthy-veggies-delights",
+   "seen": "2026-10"
   },
   "hot": false,
   "tags": [
@@ -1366,10 +1455,14 @@
   "web": "https://hum-dining.vn",
   "sources": [
    "https://guide.michelin.com/vn/en/ho-chi-minh/ho-chi-minh_2978179/restaurant/hum-garden",
-   "https://www.foody.vn/ho-chi-minh/hum-vegetarian-garden-restaurant"
+   "https://www.foody.vn/ho-chi-minh/hum-vegetarian-garden-restaurant",
+   "https://wanderlog.com/place/details/3589183/hum-garden-healthy-veggies-delights"
   ],
   "status": "open",
   "existing": false,
+  "views": null,
+  "warn": "",
+  "guides": 0,
   "imgs": [
    {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/02/G%E1%BB%8Fi_Cu%E1%BB%91n_Chay_Vietnamese_Fresh_Vegetarian_Spring_Roll_2019-1599.jpg/960px-G%E1%BB%8Fi_Cu%E1%BB%91n_Chay_Vietnamese_Fresh_Vegetarian_Spring_Roll_2019-1599.jpg",
@@ -1411,6 +1504,9 @@
   ],
   "status": "open",
   "existing": false,
+  "views": null,
+  "warn": "",
+  "guides": 1,
   "imgs": []
  },
  {
@@ -1447,6 +1543,9 @@
   ],
   "status": "open",
   "existing": false,
+  "views": null,
+  "warn": "",
+  "guides": 0,
   "imgs": []
  },
  {
@@ -1481,6 +1580,9 @@
   ],
   "status": "open",
   "existing": false,
+  "views": null,
+  "warn": "",
+  "guides": 0,
   "imgs": [
    {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fa/Bun_Bo_Hue_1.jpg/960px-Bun_Bo_Hue_1.jpg",
@@ -1524,6 +1626,9 @@
   ],
   "status": "open",
   "existing": false,
+  "views": null,
+  "warn": "",
+  "guides": 0,
   "imgs": [
    {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6f/B%C3%A1nh_b%C3%A8o_de_Saigon.jpg/960px-B%C3%A1nh_b%C3%A8o_de_Saigon.jpg",
@@ -1552,12 +1657,11 @@
   "desc": "Quán ốc gần 20 năm trên phố ẩm thực Vĩnh Khánh, luôn đông khách với ốc, tôm, sò, ghẹ được chế biến đủ kiểu. Không có máy lạnh nhưng không khí vỉa hè sôi động bù lại tất cả; Ốc Oanh có tên trong Michelin Selected nhiều năm, gồm cả 2026.",
   "review": "Khen: hải sản tươi, nhiều cách chế biến sáng tạo, không khí phố ốc đặc trưng Sài Gòn mà Michelin đánh giá là 'chân thực'. Chê: điểm Foody thấp (5.0/10) với nhiều phàn nàn về giá cao hơn quán ốc vỉa hè khác, có món không ghi giá trên menu, phục vụ vội vàng khi đông.",
   "rating": {
-   "v": 5.0,
-   "n": 344,
-   "src": "Foody.vn (thang điểm 10)",
-   "url": "https://www.foody.vn/ho-chi-minh/oc-oanh",
-   "seen": "2026-10",
-   "scale": 10
+   "v": 3.7,
+   "n": 3540,
+   "src": "Google (qua Wanderlog)",
+   "url": "https://wanderlog.com/place/details/400429/%E1%BB%91c-oanh",
+   "seen": "2026-10"
   },
   "hot": false,
   "tags": [
@@ -1571,10 +1675,14 @@
   "sources": [
    "https://guide.michelin.com/vn/en/ho-chi-minh/ho-chi-minh_2978179/restaurant/oc-oanh",
    "https://vnexpress.net/8-quan-binh-dan-o-tp-hcm-duoc-michelin-goi-ten-4815268.html",
-   "https://www.foody.vn/ho-chi-minh/oc-oanh"
+   "https://www.foody.vn/ho-chi-minh/oc-oanh",
+   "https://wanderlog.com/place/details/400429/%E1%BB%91c-oanh"
   ],
   "status": "open",
   "existing": false,
+  "views": null,
+  "warn": "",
+  "guides": 1,
   "imgs": [
    {
     "src": "https://upload.wikimedia.org/wikipedia/commons/8/8f/%C4%82n_m%C3%B3n_%E1%BB%91c_m%C3%B3ng_tay_%E1%BB%9F_qu%C3%A1n_S%C3%A0i_G%C3%B2n_n%C4%83m_2013_%2820130518_212422%29.jpg",
@@ -1603,12 +1711,11 @@
   "desc": "Quán nổi tiếng chuyên món cua trên đường Đinh Tiên Hoàng: chả giò cua, cơm chiên cua, cua rang muối, cua hấp, miến cua… Tô miến cua đầy thịt và gạch, nước dùng ngọt sâu; cua lột chiên giòn tại chỗ. Thúy 94 Cũ vào Michelin Selected từ 2024 và vẫn có mặt năm 2026.",
   "review": "Khen: nhiều thịt cua và gạch, miến xào cua và cua lột chiên được Michelin gợi ý; hầu hết món có thể thay cua bằng tôm. Chê: giá cao; một số đánh giá Foody phản ánh nêm nhiều bột ngọt, có lúc cua không tươi, phần mang về ít cua so với giá.",
   "rating": {
-   "v": 6.3,
-   "n": 60,
-   "src": "Foody.vn (thang điểm 10)",
-   "url": "https://www.foody.vn/ho-chi-minh/mien-cua-94",
-   "seen": "2026-10",
-   "scale": 10
+   "v": 3.9,
+   "n": 2817,
+   "src": "Google (qua Wanderlog)",
+   "url": "https://wanderlog.com/place/details/402987/qu%C3%A1n-thu%C3%BD-94-mi%E1%BA%BFn-cua",
+   "seen": "2026-10"
   },
   "hot": false,
   "tags": [
@@ -1621,10 +1728,14 @@
   "sources": [
    "https://guide.michelin.com/vn/en/ho-chi-minh/ho-chi-minh_2978179/restaurant/thuy-94-cu",
    "https://vnexpress.net/8-quan-binh-dan-o-tp-hcm-duoc-michelin-goi-ten-4815268.html",
-   "https://www.foody.vn/ho-chi-minh/mien-cua-94"
+   "https://www.foody.vn/ho-chi-minh/mien-cua-94",
+   "https://wanderlog.com/place/details/402987/qu%C3%A1n-thu%C3%BD-94-mi%E1%BA%BFn-cua"
   ],
   "status": "open",
   "existing": false,
+  "views": null,
+  "warn": "",
+  "guides": 0,
   "imgs": [
    {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/ff/B%C3%A1nh_canh_cua.jpg/960px-B%C3%A1nh_canh_cua.jpg",
@@ -1653,12 +1764,11 @@
   "desc": "Quán gia đình chỉ bán đúng một món: bún thịt nướng với bún tươi, thịt nướng, nem và chả giò giòn, chan nước mắm chua ngọt nhẹ — một món 'giải nhiệt' cho cái nóng Sài Gòn theo cách nói của Michelin. Không gian bình dân nhưng gọn gàng, ngăn nắp; quán có mặt trong Michelin Selected 2026.",
   "review": "Khen: phần ăn rất đầy đặn, thịt nhiều, chả giò to giòn, rau sống để riêng, nước mắm múc thoải mái; phục vụ cực nhanh, có chỗ để xe. Chê: có người thấy chả giò hơi cứng, giá 'không rẻ' so với bún thịt nướng bình dân.",
   "rating": {
-   "v": 7.3,
-   "n": 150,
-   "src": "Foody.vn (thang điểm 10)",
-   "url": "https://www.foody.vn/ho-chi-minh/bun-thit-nuong-hoang-van-137-chan-hung",
-   "seen": "2026-10",
-   "scale": 10
+   "v": 4.4,
+   "n": 579,
+   "src": "Google (qua Wanderlog)",
+   "url": "https://wanderlog.com/place/details/6360200",
+   "seen": "2026-10"
   },
   "hot": false,
   "tags": [
@@ -1670,10 +1780,14 @@
   "web": null,
   "sources": [
    "https://guide.michelin.com/vn/en/ho-chi-minh/ho-chi-minh_2978179/restaurant/bun-thit-nuong-hoang-van",
-   "https://www.foody.vn/ho-chi-minh/bun-thit-nuong-hoang-van-137-chan-hung"
+   "https://www.foody.vn/ho-chi-minh/bun-thit-nuong-hoang-van-137-chan-hung",
+   "https://wanderlog.com/place/details/6360200"
   ],
   "status": "open",
   "existing": false,
+  "views": null,
+  "warn": "",
+  "guides": 0,
   "imgs": [
    {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e5/Saigon_Bun_thit_nuong.jpg/960px-Saigon_Bun_thit_nuong.jpg",
@@ -1702,12 +1816,11 @@
   "desc": "Nhà hàng trong tòa nhà phong cách thuộc địa Pháp thanh lịch trên đường Đồng Khởi, do đầu bếp nổi tiếng người Úc gốc Việt Luke Nguyễn dẫn dắt. Món Việt truyền thống được làm mới theo lối hiện đại, phần ăn rộng rãi hợp đi nhóm; Vietnam House có trong Michelin Selected 2026.",
   "review": "Khen: không gian đẹp, sang, yên tĩnh giữa trung tâm; món trình bày cầu kỳ, bò lá lốt, gỏi cua được khen; set trưa tiện cho khách đi một mình. Chê: một số đánh giá cũ trên Foody cho rằng phục vụ chưa đạt chuẩn fine dining, món được 'Tây hóa' cho khách nước ngoài và có món dùng tôm đông lạnh.",
   "rating": {
-   "v": 7.8,
-   "n": 9,
-   "src": "Foody.vn (thang điểm 10)",
-   "url": "https://www.foody.vn/ho-chi-minh/nha-hang-vietnam-house",
-   "seen": "2026-10",
-   "scale": 10
+   "v": 4.3,
+   "n": 1520,
+   "src": "Google (qua Wanderlog)",
+   "url": "https://wanderlog.com/place/details/847597",
+   "seen": "2026-10"
   },
   "hot": false,
   "tags": [
@@ -1720,10 +1833,14 @@
   "web": "https://vietnamhousesaigon.com",
   "sources": [
    "https://guide.michelin.com/vn/en/ho-chi-minh/ho-chi-minh_2978179/restaurant/vietnam-house",
-   "https://www.foody.vn/ho-chi-minh/nha-hang-vietnam-house"
+   "https://www.foody.vn/ho-chi-minh/nha-hang-vietnam-house",
+   "https://wanderlog.com/place/details/847597"
   ],
   "status": "open",
   "existing": false,
+  "views": null,
+  "warn": "",
+  "guides": 0,
   "imgs": []
  },
  {
@@ -1743,12 +1860,11 @@
   "desc": "Tiệm bánh mì nổi tiếng bậc nhất TP.HCM, thường được truyền thông quốc tế gợi ý là điểm phải ghé. Ổ bánh nặng khoảng 400 g với 13 loại nhân, lớp pate và bơ béo ngậy là 'linh hồn'; tiệm chỉ bán một loại bánh mì truyền thống, đựng hộp giấy, và chia hai cửa hàng cách nhau vài căn — một bên bán tại chỗ, một bên nhận đơn ứng dụng.",
   "review": "Khen: nhân đầy đặn, pate thơm béo, một ổ có thể chia hai người; khách Tây, khách ta sẵn sàng xếp hàng. Chê: giá cao gấp nhiều lần bánh mì bình dân và thường xuyên gây tranh cãi; có người thấy quá nhiều nhân, pate nhanh ngấy; giờ cao điểm phải chờ lâu dưới nắng.",
   "rating": {
-   "v": 6.5,
-   "n": 368,
-   "src": "Foody.vn (thang điểm 10)",
-   "url": "https://www.foody.vn/ho-chi-minh/banh-mi-huynh-hoa-banh-mi-pate",
-   "seen": "2026-10",
-   "scale": 10
+   "v": 4.1,
+   "n": 7480,
+   "src": "Google (qua Wanderlog)",
+   "url": "https://wanderlog.com/place/details/1082476",
+   "seen": "2026-10"
   },
   "hot": false,
   "tags": [
@@ -1762,10 +1878,14 @@
   "sources": [
    "https://vietnamnet.vn/o-banh-mi-dat-bac-nhat-tp-hcm-khien-khach-tay-khach-ta-xep-hang-dai-cho-mua-2268468.html",
    "https://znews.vn/tranh-cai-khau-phan-khong-lo-tai-banh-mi-huynh-hoa-com-tam-ba-ghien-post1605014.html",
-   "https://www.foody.vn/ho-chi-minh/banh-mi-huynh-hoa-banh-mi-pate"
+   "https://www.foody.vn/ho-chi-minh/banh-mi-huynh-hoa-banh-mi-pate",
+   "https://wanderlog.com/place/details/1082476"
   ],
   "status": "open",
   "existing": true,
+  "views": null,
+  "warn": "",
+  "guides": 0,
   "imgs": [
    {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/65/Hu%E1%BB%B3nh_Hoa_bread_stall_23-12-2017.jpg/960px-Hu%E1%BB%B3nh_Hoa_bread_stall_23-12-2017.jpg",
@@ -1794,12 +1914,11 @@
   "desc": "Một trong những tiệm bánh mì lâu đời nhất Sài Gòn (hơn 60 năm), được xem là một trong những nơi đầu tiên bán bánh mì chảo, nằm ở đầu hẻm 53 Cao Thắng. Thực đơn gần như không đổi qua nhiều thập kỷ: bánh mì ốp la 'đủ thứ' trong chảo nóng và bánh mì kẹp thịt nguội.",
   "review": "Khen: bơ, pate, chả chiên ngon, phục vụ nhanh nhẹn vui vẻ; không khí ăn sáng vỉa hè kiểu Sài Gòn xưa, cuối tuần nhiều gia đình ghé. Chê: giá cao so với bánh mì vỉa hè (gọi thêm pate, bơ phải trả tiền), có người thấy ăn nhanh ngán; chỗ ngồi vỉa hè chật, xe ra vào.",
   "rating": {
-   "v": 6.1,
-   "n": 149,
-   "src": "Foody.vn (thang điểm 10)",
-   "url": "https://www.foody.vn/ho-chi-minh/banh-mi-hoa-ma",
-   "seen": "2026-10",
-   "scale": 10
+   "v": 4.3,
+   "n": 1938,
+   "src": "Google (qua Wanderlog)",
+   "url": "https://wanderlog.com/place/details/400415",
+   "seen": "2026-10"
   },
   "hot": false,
   "tags": [
@@ -1812,10 +1931,14 @@
   "web": null,
   "sources": [
    "https://znews.vn/8-tiem-banh-mi-ton-tai-tren-50-nam-tai-tphcm-post1645421.html",
-   "https://www.foody.vn/ho-chi-minh/banh-mi-hoa-ma"
+   "https://www.foody.vn/ho-chi-minh/banh-mi-hoa-ma",
+   "https://wanderlog.com/place/details/400415"
   ],
   "status": "open",
   "existing": true,
+  "views": null,
+  "warn": "",
+  "guides": 0,
   "imgs": [
    {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c5/2023-12-10_Coffee_and_b%C3%A1nh_m%C3%AC_in_Saigon.jpg/960px-2023-12-10_Coffee_and_b%C3%A1nh_m%C3%AC_in_Saigon.jpg",
@@ -1866,6 +1989,9 @@
   ],
   "status": "unverified",
   "existing": true,
+  "views": null,
+  "warn": "",
+  "guides": 0,
   "imgs": [
    {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2e/Pho_and_Eggs_in_Ho_Chi_Minh_city.jpg/960px-Pho_and_Eggs_in_Ho_Chi_Minh_city.jpg",
@@ -1904,8 +2030,11 @@
   "sources": [
    "https://www.foody.vn/ho-chi-minh/dia-diem?q=xiaoge&ss=header_search_form"
   ],
-  "status": "unverified",
+  "status": "removed",
   "existing": true,
+  "views": null,
+  "warn": "",
+  "guides": 0,
   "imgs": [
    {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e2/Beef_hot_pot.jpg/960px-Beef_hot_pot.jpg",
@@ -1951,6 +2080,9 @@
   ],
   "status": "open",
   "existing": true,
+  "views": null,
+  "warn": "",
+  "guides": 2,
   "imgs": [
    {
     "src": "https://upload.wikimedia.org/wikipedia/commons/8/8f/%C4%82n_m%C3%B3n_%E1%BB%91c_m%C3%B3ng_tay_%E1%BB%9F_qu%C3%A1n_S%C3%A0i_G%C3%B2n_n%C4%83m_2013_%2820130518_212422%29.jpg",
@@ -1993,6 +2125,9 @@
   ],
   "status": "open",
   "existing": true,
+  "views": null,
+  "warn": "",
+  "guides": 3,
   "imgs": [
    {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1e/20180413_190400Saigon_Hotpot_Night_Food_Tour_Ho_Thi_Ky_Flower_Market.jpg/960px-20180413_190400Saigon_Hotpot_Night_Food_Tour_Ho_Thi_Ky_Flower_Market.jpg",
@@ -2037,6 +2172,9 @@
   ],
   "status": "open",
   "existing": false,
+  "views": null,
+  "warn": "",
+  "guides": 0,
   "imgs": [
    {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/64/B%C3%BAn_thang.JPG/960px-B%C3%BAn_thang.JPG",
@@ -2065,12 +2203,11 @@
   "desc": "Tiệm phở hoạt động từ năm 1968 trên đường Pasteur, một trong những quán phở kinh điển của Sài Gòn và từng được New York Times, The Washington Post nhắc đến. Quán rất quen thuộc với khách quốc tế; các món bò nhà làm và sách bò là điểm riêng, khách có thể thêm trứng.",
   "review": "Khen: lâu đời, mở cửa cả ngày, phở kiểu Nam đầy đặn với nhiều lựa chọn topping; được khách du lịch biết đến rộng rãi. Chê: điểm Foody thấp (5,9/10) — nhiều phàn nàn giá cao so với chất lượng, nước dùng thiên ngọt hoặc nhạt, phục vụ thiếu thân thiện và thu phí gửi xe.",
   "rating": {
-   "v": 5.9,
-   "n": 229,
-   "src": "Foody.vn (thang điểm 10)",
-   "url": "https://www.foody.vn/ho-chi-minh/pho-hoa-pasteur",
-   "seen": "2026-10",
-   "scale": 10
+   "v": 4.2,
+   "n": 5926,
+   "src": "Google (qua Wanderlog)",
+   "url": "https://wanderlog.com/place/details/1082649",
+   "seen": "2026-10"
   },
   "hot": false,
   "tags": [
@@ -2082,10 +2219,14 @@
   "web": null,
   "sources": [
    "https://www.vietnamairlines.com/en/useful-information/travel-guide/best-pho-in-hcmc",
-   "https://www.foody.vn/ho-chi-minh/pho-hoa-pasteur"
+   "https://www.foody.vn/ho-chi-minh/pho-hoa-pasteur",
+   "https://wanderlog.com/place/details/1082649"
   ],
   "status": "open",
   "existing": false,
+  "views": null,
+  "warn": "",
+  "guides": 0,
   "imgs": [
    {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2e/Pho_and_Eggs_in_Ho_Chi_Minh_city.jpg/960px-Pho_and_Eggs_in_Ho_Chi_Minh_city.jpg",
@@ -2114,12 +2255,11 @@
   "desc": "Tiệm chè do hai ông chủ quê làng Hiển Khánh (Nam Định) mở khoảng cuối thập niên 1950, có cơ sở ở Đa Kao rồi mở thêm cửa hàng hiện tại trên Nguyễn Đình Chiểu từ năm 1965. Quán vẫn giữ bảng hiệu chữ cổ, bàn ghế thấp trải bạt hoa văn và tủ kính đặt bánh quê như Sài Gòn trước 1975; công thức chè thạch nước đường hoa nhài gần như không đổi.",
   "review": "Khen: chè thanh mát, thơm hoa nhài, thạch mềm dai, chén đầy đặn; không gian hoài cổ, chủ quán ôn hòa, chu đáo. Chê: giá nhỉnh hơn quán chè bình dân; giờ mở cửa có nghỉ trưa.",
   "rating": {
-   "v": 7.5,
-   "n": 87,
-   "src": "Foody.vn (thang điểm 10)",
-   "url": "https://www.foody.vn/ho-chi-minh/che-hien-khanh",
-   "seen": "2026-10",
-   "scale": 10
+   "v": 4.4,
+   "n": 885,
+   "src": "Google (qua Wanderlog)",
+   "url": "https://wanderlog.com/place/details/1256312",
+   "seen": "2026-10"
   },
   "hot": false,
   "tags": [
@@ -2133,10 +2273,14 @@
   "sources": [
    "https://vnexpress.net/tiem-che-6-thap-ky-goi-ky-uc-sai-gon-xua-3930692.html",
    "https://thanhnien.vn/thoi-trang-tre/nhung-quan-che-noi-tieng-tai-tphcm-ma-gioi-tre-cuc-ky-yeu-thich-185240715164836483.htm",
-   "https://www.foody.vn/ho-chi-minh/che-hien-khanh"
+   "https://www.foody.vn/ho-chi-minh/che-hien-khanh",
+   "https://wanderlog.com/place/details/1256312"
   ],
   "status": "open",
   "existing": false,
+  "views": null,
+  "warn": "",
+  "guides": 0,
   "imgs": [
    {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/16/Ch%C3%A8_Th%E1%BA%A1ch_Tr%E1%BA%AFng_%C4%90%E1%BA%ADu_Xanh_Nh%C3%A3n_Nh%E1%BB%A5c.JPG/960px-Ch%C3%A8_Th%E1%BA%A1ch_Tr%E1%BA%AFng_%C4%90%E1%BA%ADu_Xanh_Nh%C3%A3n_Nh%E1%BB%A5c.JPG",
@@ -2178,6 +2322,9 @@
   ],
   "status": "open",
   "existing": false,
+  "views": null,
+  "warn": "",
+  "guides": 0,
   "imgs": [
    {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c5/2023-12-10_Coffee_and_b%C3%A1nh_m%C3%AC_in_Saigon.jpg/960px-2023-12-10_Coffee_and_b%C3%A1nh_m%C3%AC_in_Saigon.jpg",
@@ -2220,6 +2367,9 @@
   ],
   "status": "open",
   "existing": false,
+  "views": null,
+  "warn": "",
+  "guides": 1,
   "imgs": [
    {
     "src": "https://upload.wikimedia.org/wikipedia/commons/f/f5/Jiaozi-close-look.jpg",
@@ -2263,6 +2413,9 @@
   ],
   "status": "open",
   "existing": false,
+  "views": null,
+  "warn": "",
+  "guides": 0,
   "imgs": [
    {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/26/H%E1%BB%A7_ti%E1%BA%BFu.jpg/960px-H%E1%BB%A7_ti%E1%BA%BFu.jpg",
@@ -2305,6 +2458,9 @@
   ],
   "status": "open",
   "existing": false,
+  "views": null,
+  "warn": "",
+  "guides": 0,
   "imgs": [
    {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c5/Tofu_noodle_soup_%28Ph%E1%BB%9F_chay%29_-_Pho_Hanoi_Authentic_2024-12-01.jpg/960px-Tofu_noodle_soup_%28Ph%E1%BB%9F_chay%29_-_Pho_Hanoi_Authentic_2024-12-01.jpg",
@@ -2347,6 +2503,9 @@
   ],
   "status": "open",
   "existing": false,
+  "views": null,
+  "warn": "",
+  "guides": 0,
   "imgs": [
    {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ab/C%C6%A1m_t%E1%BA%A5m_SG_%28c%C6%A1m_s%C6%B0%E1%BB%9Dn%29_ng27th9n2020_%281%29.jpg/960px-C%C6%A1m_t%E1%BA%A5m_SG_%28c%C6%A1m_s%C6%B0%E1%BB%9Dn%29_ng27th9n2020_%281%29.jpg",
@@ -2390,6 +2549,9 @@
   ],
   "status": "open",
   "existing": false,
+  "views": null,
+  "warn": "",
+  "guides": 0,
   "imgs": [
    {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/26/H%E1%BB%A7_ti%E1%BA%BFu.jpg/960px-H%E1%BB%A7_ti%E1%BA%BFu.jpg",
@@ -2434,6 +2596,9 @@
   ],
   "status": "open",
   "existing": false,
+  "views": null,
+  "warn": "",
+  "guides": 0,
   "imgs": [
    {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9c/B%C3%BAn_b%C3%B2_Hu%E1%BA%BF_-_Ch%E1%BB%A3_%C4%90%C3%B4ng_Ba_%282024%29_-_img_01.jpg/960px-B%C3%BAn_b%C3%B2_Hu%E1%BA%BF_-_Ch%E1%BB%A3_%C4%90%C3%B4ng_Ba_%282024%29_-_img_01.jpg",
@@ -2476,6 +2641,9 @@
   ],
   "status": "open",
   "existing": false,
+  "views": null,
+  "warn": "",
+  "guides": 0,
   "imgs": []
  },
  {
@@ -2511,6 +2679,9 @@
   ],
   "status": "open",
   "existing": false,
+  "views": null,
+  "warn": "",
+  "guides": 0,
   "imgs": []
  },
  {
@@ -2545,6 +2716,9 @@
   ],
   "status": "open",
   "existing": false,
+  "views": null,
+  "warn": "",
+  "guides": 0,
   "imgs": []
  },
  {
@@ -2578,6 +2752,9 @@
   ],
   "status": "open",
   "existing": false,
+  "views": null,
+  "warn": "",
+  "guides": 0,
   "imgs": []
  },
  {
@@ -2614,6 +2791,9 @@
   ],
   "status": "open",
   "existing": false,
+  "views": null,
+  "warn": "",
+  "guides": 0,
   "imgs": []
  },
  {
@@ -2633,12 +2813,11 @@
   "desc": "Nhà hàng Địa Trung Hải – Trung Đông lâu năm gần Dinh Độc Lập, nổi tiếng với brunch cuối tuần. Tầng trên có một phòng nhỏ cho trẻ mới biết đi chơi, cùng thực đơn trẻ em và ghế ăn cho bé — tiện cho gia đình có con nhỏ đang dạo trung tâm Quận 1.",
   "review": "Khen: không gian đẹp, thực đơn đa dạng, hợp đi brunch; có góc chơi cho bé ngay trong nhà hàng. Chê: một số đánh giá trên Foody cho rằng món khá nhạt và giá cao, chất lượng phục vụ không đều (đánh giá 2021–2022).",
   "rating": {
-   "v": 7.9,
-   "n": 105,
-   "src": "Foody.vn (thang điểm 10)",
-   "url": "https://www.foody.vn/ho-chi-minh/au-parc",
-   "seen": "2026-10",
-   "scale": 10
+   "v": 4.5,
+   "n": 2209,
+   "src": "Google (qua Wanderlog)",
+   "url": "https://wanderlog.com/place/details/439074/au-parc-restaurant",
+   "seen": "2026-10"
   },
   "hot": false,
   "tags": [
@@ -2652,10 +2831,14 @@
   "sources": [
    "https://www.foody.vn/ho-chi-minh/au-parc",
    "https://vietnamisawesome.com/?p=946",
-   "https://restaurantsforkings.com/rankings/ho-chi-minh-city/family-friendly/2026/"
+   "https://restaurantsforkings.com/rankings/ho-chi-minh-city/family-friendly/2026/",
+   "https://wanderlog.com/place/details/439074/au-parc-restaurant"
   ],
   "status": "open",
   "existing": false,
+  "views": null,
+  "warn": "",
+  "guides": 0,
   "imgs": []
  },
  {
@@ -2690,6 +2873,9 @@
   ],
   "status": "open",
   "existing": false,
+  "views": null,
+  "warn": "",
+  "guides": 0,
   "imgs": [
    {
     "src": "https://upload.wikimedia.org/wikipedia/commons/f/f5/Jiaozi-close-look.jpg",
@@ -2739,6 +2925,9 @@
   ],
   "status": "open",
   "existing": true,
+  "views": 6849,
+  "warn": "",
+  "guides": 3,
   "imgs": [
    {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/52/Bui_Vien_Walking_Street_1.jpg/960px-Bui_Vien_Walking_Street_1.jpg",
@@ -2800,6 +2989,9 @@
   ],
   "status": "open",
   "existing": true,
+  "views": 85599,
+  "warn": "",
+  "guides": 5,
   "imgs": [
    {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7d/20190923_Independence_Palace-10.jpg/960px-20190923_Independence_Palace-10.jpg",
@@ -2859,6 +3051,9 @@
   ],
   "status": "open",
   "existing": true,
+  "views": 22066,
+  "warn": "",
+  "guides": 4,
   "imgs": [
    {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/47/War_Remnants_Museum%2C_HCMC%2C_front.JPG/960px-War_Remnants_Museum%2C_HCMC%2C_front.JPG",
@@ -2918,6 +3113,9 @@
   ],
   "status": "open",
   "existing": true,
+  "views": 17801,
+  "warn": "",
+  "guides": 3,
   "imgs": [
    {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e0/Bitexco_Financial_Tower%2C_Ciudad_Ho_Chi_Minh%2C_Vietnam%2C_2013-08-14%2C_DD_02.JPG/960px-Bitexco_Financial_Tower%2C_Ciudad_Ho_Chi_Minh%2C_Vietnam%2C_2013-08-14%2C_DD_02.JPG",
@@ -2986,6 +3184,9 @@
   ],
   "status": "open",
   "existing": true,
+  "views": 60953,
+  "warn": "",
+  "guides": 2,
   "imgs": [
    {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/14/Landmark_81_in_2021.jpg/960px-Landmark_81_in_2021.jpg",
@@ -3053,6 +3254,9 @@
   ],
   "status": "open",
   "existing": true,
+  "views": 56438,
+  "warn": "",
+  "guides": 5,
   "imgs": [
    {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d7/Bas%C3%ADlica_de_Nuestra_Se%C3%B1ora%2C_Ciudad_Ho_Chi_Minh%2C_Vietnam%2C_2013-08-14%2C_DD_03.JPG/960px-Bas%C3%ADlica_de_Nuestra_Se%C3%B1ora%2C_Ciudad_Ho_Chi_Minh%2C_Vietnam%2C_2013-08-14%2C_DD_03.JPG",
@@ -3120,6 +3324,9 @@
   ],
   "status": "open",
   "existing": true,
+  "views": 19580,
+  "warn": "",
+  "guides": 2,
   "imgs": [
    {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3d/Thao_cam_vien_%2C_Phuong_Da_kao%2C_quan_1%2C_tphcmvn_-_panoramio.jpg/960px-Thao_cam_vien_%2C_Phuong_Da_kao%2C_quan_1%2C_tphcmvn_-_panoramio.jpg",
@@ -3179,6 +3386,9 @@
   ],
   "status": "open",
   "existing": true,
+  "views": 45114,
+  "warn": "",
+  "guides": 4,
   "imgs": [
    {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f5/Ben_Thanh%2C_Ciudad_Ho_Chi_Minh%2C_Vietnam%2C_2013-08-14%2C_DD_01.JPG/960px-Ben_Thanh%2C_Ciudad_Ho_Chi_Minh%2C_Vietnam%2C_2013-08-14%2C_DD_01.JPG",
@@ -3237,6 +3447,9 @@
   ],
   "status": "open",
   "existing": true,
+  "views": 8844,
+  "warn": "",
+  "guides": 3,
   "imgs": [
    {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/75/Nguyen_Hue_Street_2020.jpg/960px-Nguyen_Hue_Street_2020.jpg",
@@ -3304,6 +3517,9 @@
   ],
   "status": "open",
   "existing": true,
+  "views": 62889,
+  "warn": "",
+  "guides": 4,
   "imgs": [
    {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/14/C%E1%BB%A7_Chi_tunnels_entrance.JPG/960px-C%E1%BB%A7_Chi_tunnels_entrance.JPG",
@@ -3364,6 +3580,9 @@
   ],
   "status": "open",
   "existing": true,
+  "views": 8489,
+  "warn": "",
+  "guides": 1,
   "imgs": [
    {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2e/SuoiTien1.JPG/960px-SuoiTien1.JPG",
@@ -3418,6 +3637,9 @@
   ],
   "status": "open",
   "existing": true,
+  "views": 6690,
+  "warn": "",
+  "guides": 0,
   "imgs": [
    {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d8/H%E1%BB%93_%C4%90%E1%BA%A7m_Sen.jpg/960px-H%E1%BB%93_%C4%90%E1%BA%A7m_Sen.jpg",
@@ -3475,6 +3697,9 @@
   ],
   "status": "open",
   "existing": false,
+  "views": 21103,
+  "warn": "",
+  "guides": 4,
   "imgs": [
    {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/03/Saigon_Central_Post_Office_%2852681461470%29.jpg/960px-Saigon_Central_Post_Office_%2852681461470%29.jpg",
@@ -3540,6 +3765,9 @@
   ],
   "status": "open",
   "existing": false,
+  "views": 16235,
+  "warn": "",
+  "guides": 1,
   "imgs": [
    {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/Jade_Emperor_Pagoda_Saigon.jpg/960px-Jade_Emperor_Pagoda_Saigon.jpg",
@@ -3605,6 +3833,9 @@
   ],
   "status": "open",
   "existing": false,
+  "views": null,
+  "warn": "",
+  "guides": 1,
   "imgs": [
    {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8f/20190923_Thien_Hau_Temple_front.jpg/960px-20190923_Thien_Hau_Temple_front.jpg",
@@ -3671,6 +3902,9 @@
   ],
   "status": "open",
   "existing": false,
+  "views": 8570,
+  "warn": "",
+  "guides": 3,
   "imgs": [
    {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0f/B%E1%BA%A3o_t%C3%A0ng_M%E1%BB%B9_thu%E1%BA%ADt_Tp_%28ki%E1%BA%BFn_tr%C3%BAc_t%E1%BB%95ng_th%E1%BB%83%29_%282%29.jpg/960px-B%E1%BA%A3o_t%C3%A0ng_M%E1%BB%B9_thu%E1%BA%ADt_Tp_%28ki%E1%BA%BFn_tr%C3%BAc_t%E1%BB%95ng_th%E1%BB%83%29_%282%29.jpg",
@@ -3729,6 +3963,9 @@
   ],
   "status": "open",
   "existing": false,
+  "views": 11062,
+  "warn": "",
+  "guides": 4,
   "imgs": [
    {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6b/Saigon_Opera_House_2014.jpg/960px-Saigon_Opera_House_2014.jpg",
@@ -3787,6 +4024,9 @@
   ],
   "status": "open",
   "existing": false,
+  "views": 9626,
+  "warn": "",
+  "guides": 1,
   "imgs": [
    {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/11/T%C3%A2n_%C4%90%E1%BB%8Bnh_Church_20190922.jpg/960px-T%C3%A2n_%C4%90%E1%BB%8Bnh_Church_20190922.jpg",
@@ -3845,6 +4085,9 @@
   ],
   "status": "open",
   "existing": false,
+  "views": 11211,
+  "warn": "",
+  "guides": 2,
   "imgs": [
    {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/29/B%E1%BA%A3o_t%C3%A0ng_Th%C3%A0nh_ph%E1%BB%91_H%E1%BB%93_Ch%C3%AD_Minh_7.jpg/960px-B%E1%BA%A3o_t%C3%A0ng_Th%C3%A0nh_ph%E1%BB%91_H%E1%BB%93_Ch%C3%AD_Minh_7.jpg",
@@ -3898,6 +4141,9 @@
   ],
   "status": "open",
   "existing": false,
+  "views": null,
+  "warn": "",
+  "guides": 0,
   "imgs": []
  },
  {
@@ -3941,6 +4187,9 @@
   ],
   "status": "open",
   "existing": false,
+  "views": null,
+  "warn": "",
+  "guides": 2,
   "imgs": []
  },
  {
@@ -3981,6 +4230,9 @@
   ],
   "status": "open",
   "existing": false,
+  "views": 9465,
+  "warn": "",
+  "guides": 2,
   "imgs": [
    {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bf/Vn-hcm-cho-binh-tay-27-07-07.JPG/960px-Vn-hcm-cho-binh-tay-27-07-07.JPG",
@@ -4037,6 +4289,9 @@
   ],
   "status": "open",
   "existing": false,
+  "views": 2325,
+  "warn": "",
+  "guides": 1,
   "imgs": [
    {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b0/Cho_Tan_dinh_%2C_duong_hai_ba_trung%2C_quan_1%2C_tphcmvn_-_panoramio.jpg/960px-Cho_Tan_dinh_%2C_duong_hai_ba_trung%2C_quan_1%2C_tphcmvn_-_panoramio.jpg",
@@ -4093,6 +4348,9 @@
   ],
   "status": "open",
   "existing": false,
+  "views": null,
+  "warn": "",
+  "guides": 2,
   "imgs": [
    {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1e/20180413_190400Saigon_Hotpot_Night_Food_Tour_Ho_Thi_Ky_Flower_Market.jpg/960px-20180413_190400Saigon_Hotpot_Night_Food_Tour_Ho_Thi_Ky_Flower_Market.jpg",
@@ -4143,6 +4401,9 @@
   ],
   "status": "open",
   "existing": false,
+  "views": 3607,
+  "warn": "",
+  "guides": 1,
   "imgs": [
    {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/13/Ho_Chi_Minh_City%2C_Saigon_Centre%2C_2020-01_CN-01.jpg/960px-Ho_Chi_Minh_City%2C_Saigon_Centre%2C_2020-01_CN-01.jpg",
@@ -4191,6 +4452,9 @@
   ],
   "status": "open",
   "existing": false,
+  "views": null,
+  "warn": "",
+  "guides": 0,
   "imgs": [
    {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/54/Ho_Chi_Minh_City%2C_Vincom_Center%2C_2020-01_CN-01.jpg/960px-Ho_Chi_Minh_City%2C_Vincom_Center%2C_2020-01_CN-01.jpg",
@@ -4249,6 +4513,9 @@
   ],
   "status": "open",
   "existing": false,
+  "views": 2571,
+  "warn": "",
+  "guides": 1,
   "imgs": [
    {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/23/Crescent_Mall_2.jpg/960px-Crescent_Mall_2.jpg",
@@ -4306,6 +4573,9 @@
   ],
   "status": "open",
   "existing": false,
+  "views": null,
+  "warn": "",
+  "guides": 1,
   "imgs": []
  },
  {
@@ -4344,6 +4614,9 @@
   ],
   "status": "open",
   "existing": false,
+  "views": null,
+  "warn": "",
+  "guides": 1,
   "imgs": []
  },
  {
@@ -4384,6 +4657,9 @@
   ],
   "status": "open",
   "existing": false,
+  "views": null,
+  "warn": "",
+  "guides": 2,
   "imgs": []
  },
  {
@@ -4424,6 +4700,9 @@
   ],
   "status": "open",
   "existing": false,
+  "views": null,
+  "warn": "",
+  "guides": 1,
   "imgs": [
    {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a8/Aeon-mall-celadon-tan-phu.jpg/960px-Aeon-mall-celadon-tan-phu.jpg",
@@ -4468,6 +4747,9 @@
   ],
   "status": "open",
   "existing": false,
+  "views": null,
+  "warn": "",
+  "guides": 0,
   "imgs": []
  },
  {
@@ -4507,6 +4789,9 @@
   ],
   "status": "open",
   "existing": false,
+  "views": null,
+  "warn": "",
+  "guides": 0,
   "imgs": [
    {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/80/42_Nguyen_Hue_Boulevard%2C_Saigon_%2853547606514%29.jpg/960px-42_Nguyen_Hue_Boulevard%2C_Saigon_%2853547606514%29.jpg",
@@ -4555,6 +4840,9 @@
   ],
   "status": "open",
   "existing": false,
+  "views": null,
+  "warn": "",
+  "guides": 0,
   "imgs": []
  },
  {
@@ -4594,6 +4882,9 @@
   ],
   "status": "open",
   "existing": false,
+  "views": null,
+  "warn": "",
+  "guides": 0,
   "imgs": []
  },
  {
@@ -4633,6 +4924,9 @@
   ],
   "status": "open",
   "existing": false,
+  "views": null,
+  "warn": "",
+  "guides": 0,
   "imgs": []
  },
  {
@@ -4672,6 +4966,9 @@
   ],
   "status": "open",
   "existing": false,
+  "views": null,
+  "warn": "",
+  "guides": 0,
   "imgs": []
  },
  {
@@ -4711,6 +5008,9 @@
   ],
   "status": "open",
   "existing": false,
+  "views": null,
+  "warn": "",
+  "guides": 0,
   "imgs": []
  },
  {
@@ -4750,6 +5050,9 @@
   ],
   "status": "open",
   "existing": false,
+  "views": null,
+  "warn": "",
+  "guides": 0,
   "imgs": []
  },
  {
@@ -4787,6 +5090,9 @@
   ],
   "status": "unverified",
   "existing": false,
+  "views": null,
+  "warn": "",
+  "guides": 0,
   "imgs": [
    {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1e/Net-filter_coffee_in_Cheo_Leo_Caf%C3%A9%2C_Ho_Chi_Minh_City.jpg/960px-Net-filter_coffee_in_Cheo_Leo_Caf%C3%A9%2C_Ho_Chi_Minh_City.jpg",
@@ -4838,6 +5144,9 @@
   ],
   "status": "open",
   "existing": false,
+  "views": null,
+  "warn": "",
+  "guides": 0,
   "imgs": []
  },
  {
@@ -4877,6 +5186,9 @@
   ],
   "status": "open",
   "existing": false,
+  "views": null,
+  "warn": "",
+  "guides": 1,
   "imgs": []
  },
  {
@@ -4916,6 +5228,9 @@
   ],
   "status": "open",
   "existing": false,
+  "views": null,
+  "warn": "",
+  "guides": 0,
   "imgs": []
  },
  {
@@ -4957,6 +5272,9 @@
   ],
   "status": "open",
   "existing": false,
+  "views": null,
+  "warn": "",
+  "guides": 1,
   "imgs": [
    {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f8/Saigon_Saigon_Rooftop_Bar-March_2014.jpg/960px-Saigon_Saigon_Rooftop_Bar-March_2014.jpg",
@@ -5005,6 +5323,9 @@
   ],
   "status": "open",
   "existing": false,
+  "views": null,
+  "warn": "",
+  "guides": 0,
   "imgs": []
  },
  {
@@ -5043,6 +5364,9 @@
   ],
   "status": "open",
   "existing": false,
+  "views": null,
+  "warn": "",
+  "guides": 0,
   "imgs": []
  },
  {
@@ -5081,6 +5405,9 @@
   ],
   "status": "open",
   "existing": false,
+  "views": null,
+  "warn": "",
+  "guides": 1,
   "imgs": []
  },
  {
@@ -5119,6 +5446,9 @@
   ],
   "status": "open",
   "existing": false,
+  "views": null,
+  "warn": "",
+  "guides": 2,
   "imgs": []
  },
  {
@@ -5156,6 +5486,9 @@
   ],
   "status": "open",
   "existing": false,
+  "views": 1904,
+  "warn": "",
+  "guides": 2,
   "imgs": [
    {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/95/Landmark_81_and_Saigon_Waterbus.png/960px-Landmark_81_and_Saigon_Waterbus.png",
@@ -5219,6 +5552,9 @@
   ],
   "status": "open",
   "existing": false,
+  "views": 33168,
+  "warn": "",
+  "guides": 0,
   "imgs": [
    {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b3/Interior_of_the_B%E1%BA%BFn_Th%C3%A0nh_Station%2C_HCMC_metro%2C_line_1.jpg/960px-Interior_of_the_B%E1%BA%BFn_Th%C3%A0nh_Station%2C_HCMC_metro%2C_line_1.jpg",
@@ -5282,6 +5618,9 @@
   ],
   "status": "open",
   "existing": false,
+  "views": null,
+  "warn": "",
+  "guides": 1,
   "imgs": [
    {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/81/View_from_Saigon_riverside_park_6.jpg/960px-View_from_Saigon_riverside_park_6.jpg",
@@ -5337,6 +5676,9 @@
   ],
   "status": "open",
   "existing": false,
+  "views": 14534,
+  "warn": "",
+  "guides": 3,
   "imgs": [
    {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e5/Mangrove_in_Can_Gio_forest.jpg/960px-Mangrove_in_Can_Gio_forest.jpg",
@@ -5400,6 +5742,9 @@
   ],
   "status": "open",
   "existing": false,
+  "views": null,
+  "warn": "",
+  "guides": 1,
   "imgs": []
  },
  {
@@ -5442,6 +5787,9 @@
   ],
   "status": "open",
   "existing": false,
+  "views": 4961,
+  "warn": "",
+  "guides": 1,
   "imgs": [
    {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/80/2023-12-10_Mariamman_Temple%2C_Ho_Chi_Minh_City_01.jpg/960px-2023-12-10_Mariamman_Temple%2C_Ho_Chi_Minh_City_01.jpg",
@@ -5499,6 +5847,9 @@
   ],
   "status": "open",
   "existing": false,
+  "views": 6476,
+  "warn": "",
+  "guides": 1,
   "imgs": [
    {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3a/Chua_Giac_Lam_Gate.JPG/960px-Chua_Giac_Lam_Gate.JPG",
@@ -5566,6 +5917,9 @@
   ],
   "status": "open",
   "existing": false,
+  "views": null,
+  "warn": "",
+  "guides": 1,
   "imgs": []
  },
  {
@@ -5606,6 +5960,9 @@
   ],
   "status": "open",
   "existing": false,
+  "views": 2195,
+  "warn": "",
+  "guides": 1,
   "imgs": [
    {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5a/Dan_Sinh_Market.jpg/960px-Dan_Sinh_Market.jpg",
@@ -5662,6 +6019,9 @@
   ],
   "status": "open",
   "existing": false,
+  "views": null,
+  "warn": "",
+  "guides": 0,
   "imgs": [
    {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b1/Ph%E1%BB%91_%C4%91%E1%BB%93_c%E1%BB%95_L%C3%AA_C%C3%B4ng_Ki%E1%BB%81u%2C_T6n2022_%28c%E1%BB%ADa_h%C3%A0ng_%C4%91%E1%BB%93_c%C5%A9_x%C6%B0a%29_%288%29.jpg/960px-Ph%E1%BB%91_%C4%91%E1%BB%93_c%E1%BB%95_L%C3%AA_C%C3%B4ng_Ki%E1%BB%81u%2C_T6n2022_%28c%E1%BB%ADa_h%C3%A0ng_%C4%91%E1%BB%93_c%C5%A9_x%C6%B0a%29_%288%29.jpg",
@@ -5719,6 +6079,9 @@
   ],
   "status": "open",
   "existing": false,
+  "views": null,
+  "warn": "",
+  "guides": 0,
   "imgs": []
  },
  {
@@ -5761,6 +6124,9 @@
   ],
   "status": "open",
   "existing": false,
+  "views": null,
+  "warn": "",
+  "guides": 0,
   "imgs": []
  },
  {
@@ -5800,6 +6166,9 @@
   ],
   "status": "open",
   "existing": false,
+  "views": null,
+  "warn": "",
+  "guides": 3,
   "imgs": [
    {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/Tao_Dan_Park.jpg/960px-Tao_Dan_Park.jpg",
@@ -5857,6 +6226,9 @@
   ],
   "status": "open",
   "existing": false,
+  "views": null,
+  "warn": "",
+  "guides": 1,
   "imgs": [
    {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/71/Le_Van_Tam_park.JPG/960px-Le_Van_Tam_park.JPG",
@@ -5905,6 +6277,9 @@
   ],
   "status": "open",
   "existing": false,
+  "views": null,
+  "warn": "",
+  "guides": 1,
   "imgs": [
    {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9e/Gia_Dinh_park_-_1.jpg/960px-Gia_Dinh_park_-_1.jpg",
@@ -5961,6 +6336,9 @@
   ],
   "status": "open",
   "existing": false,
+  "views": null,
+  "warn": "",
+  "guides": 2,
   "imgs": [
    {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ed/Dam-sen-water-park-tuonglamphotos.jpg/960px-Dam-sen-water-park-tuonglamphotos.jpg",
@@ -6021,6 +6399,9 @@
   ],
   "status": "open",
   "existing": false,
+  "views": null,
+  "warn": "",
+  "guides": 1,
   "imgs": []
  },
  {
@@ -6062,6 +6443,9 @@
   ],
   "status": "open",
   "existing": false,
+  "views": null,
+  "warn": "",
+  "guides": 0,
   "imgs": []
  },
  {
@@ -6103,6 +6487,9 @@
   ],
   "status": "open",
   "existing": false,
+  "views": null,
+  "warn": "",
+  "guides": 0,
   "imgs": []
  },
  {
@@ -6145,6 +6532,9 @@
   ],
   "status": "open",
   "existing": false,
+  "views": null,
+  "warn": "",
+  "guides": 0,
   "imgs": []
  },
  {
@@ -6185,6 +6575,9 @@
   ],
   "status": "open",
   "existing": false,
+  "views": null,
+  "warn": "",
+  "guides": 0,
   "imgs": [
    {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/99/Le_Thi_Rieng_Park_%2849358108272%29.jpg/960px-Le_Thi_Rieng_Park_%2849358108272%29.jpg",
@@ -6234,6 +6627,9 @@
   ],
   "status": "open",
   "existing": false,
+  "views": null,
+  "warn": "",
+  "guides": 1,
   "imgs": [
    {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/18/Sieu_thi_Aeonmall%2Cduong_Ten_lua_duong_so17A%2Cphuong_B%C3%ACnh_Tr%E1%BB%8B_%C4%90%C3%B4ng_B%2C_B%C3%ACnh_T%C3%A2n%2C_TPHCM%2C_Vi%E1%BB%87t_Nam%2C24-07-16-Dyt_-_panoramio.jpg/960px-Sieu_thi_Aeonmall%2Cduong_Ten_lua_duong_so17A%2Cphuong_B%C3%ACnh_Tr%E1%BB%8B_%C4%90%C3%B4ng_B%2C_B%C3%ACnh_T%C3%A2n%2C_TPHCM%2C_Vi%E1%BB%87t_Nam%2C24-07-16-Dyt_-_panoramio.jpg",
@@ -6282,6 +6678,9 @@
   ],
   "status": "open",
   "existing": false,
+  "views": null,
+  "warn": "",
+  "guides": 0,
   "imgs": [
    {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/15/Van_Hanh_Mall_%281%29.jpg/960px-Van_Hanh_Mall_%281%29.jpg",
@@ -6326,6 +6725,9 @@
   ],
   "status": "open",
   "existing": false,
+  "views": null,
+  "warn": "",
+  "guides": 0,
   "imgs": []
  },
  {
@@ -6361,6 +6763,9 @@
   ],
   "status": "open",
   "existing": true,
+  "views": null,
+  "warn": "",
+  "guides": 1,
   "imgs": []
  },
  {
@@ -6400,6 +6805,9 @@
   ],
   "status": "open",
   "existing": true,
+  "views": null,
+  "warn": "",
+  "guides": 1,
   "imgs": [
    {
     "src": "https://upload.wikimedia.org/wikipedia/commons/d/d8/Pizzabanhtrangnuong1.jpg",
@@ -6447,6 +6855,9 @@
   ],
   "status": "open",
   "existing": true,
+  "views": null,
+  "warn": "",
+  "guides": 0,
   "imgs": []
  },
  {
@@ -6488,6 +6899,9 @@
   ],
   "status": "open",
   "existing": true,
+  "views": null,
+  "warn": "",
+  "guides": 0,
   "imgs": []
  },
  {
@@ -6528,6 +6942,9 @@
   ],
   "status": "open",
   "existing": true,
+  "views": null,
+  "warn": "",
+  "guides": 1,
   "imgs": [
    {
     "src": "https://upload.wikimedia.org/wikipedia/commons/d/d8/Pizzabanhtrangnuong1.jpg",
@@ -6575,6 +6992,9 @@
   ],
   "status": "unverified",
   "existing": true,
+  "views": null,
+  "warn": "",
+  "guides": 0,
   "imgs": [
    {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e7/B%C3%A1nh_c%C4%83n_%28Vietnamese_mini_pancake%29_clay_cooking_pots.jpg/960px-B%C3%A1nh_c%C4%83n_%28Vietnamese_mini_pancake%29_clay_cooking_pots.jpg",
@@ -6632,6 +7052,9 @@
   ],
   "status": "open",
   "existing": true,
+  "views": null,
+  "warn": "",
+  "guides": 0,
   "imgs": []
  },
  {
@@ -6674,6 +7097,9 @@
   ],
   "status": "open",
   "existing": true,
+  "views": 6343,
+  "warn": "",
+  "guides": 4,
   "imgs": [
    {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ed/Hang_Nga_guesthouse_01.jpg/960px-Hang_Nga_guesthouse_01.jpg",
@@ -6737,6 +7163,9 @@
   ],
   "status": "open",
   "existing": true,
+  "views": null,
+  "warn": "",
+  "guides": 1,
   "imgs": [
    {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5a/C%C3%A0_Ri_G%C3%A0_Vietnamese_Chicken_Curry_2019-1600.jpg/960px-C%C3%A0_Ri_G%C3%A0_Vietnamese_Chicken_Curry_2019-1600.jpg",
@@ -6786,6 +7215,9 @@
   ],
   "status": "open",
   "existing": true,
+  "views": null,
+  "warn": "",
+  "guides": 0,
   "imgs": [
    {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4c/Dalat_night_market_-_panoramio.jpg/960px-Dalat_night_market_-_panoramio.jpg",
@@ -6837,6 +7269,9 @@
   ],
   "status": "open",
   "existing": true,
+  "views": 12713,
+  "warn": "",
+  "guides": 3,
   "imgs": [
    {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/aa/Da_Lat_-_Xuan_Huong_Lake.jpg/960px-Da_Lat_-_Xuan_Huong_Lake.jpg",
@@ -6897,6 +7332,9 @@
   ],
   "status": "open",
   "existing": true,
+  "views": 5862,
+  "warn": "",
+  "guides": 2,
   "imgs": [
    {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e1/Thung_L%C5%A9ng_T%C3%ACnh_Y%C3%AAu.JPG/960px-Thung_L%C5%A9ng_T%C3%ACnh_Y%C3%AAu.JPG",
@@ -6956,6 +7394,9 @@
   ],
   "status": "open",
   "existing": true,
+  "views": 7985,
+  "warn": "",
+  "guides": 5,
   "imgs": [
    {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3c/Da_Lat_-_Linh_Phuoc_Temple_01.jpg/960px-Da_Lat_-_Linh_Phuoc_Temple_01.jpg",
@@ -7016,6 +7457,9 @@
   ],
   "status": "open",
   "existing": true,
+  "views": 10367,
+  "warn": "",
+  "guides": 4,
   "imgs": [
    {
     "src": "https://upload.wikimedia.org/wikipedia/commons/8/80/Da_Lat_Railway_Station_01.jpg",
@@ -7075,6 +7519,9 @@
   ],
   "status": "open",
   "existing": true,
+  "views": 7417,
+  "warn": "",
+  "guides": 4,
   "imgs": [
    {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d5/Tuyen_Lam_Lake_01.jpg/960px-Tuyen_Lam_Lake_01.jpg",
@@ -7131,6 +7578,9 @@
   ],
   "status": "open",
   "existing": false,
+  "views": null,
+  "warn": "",
+  "guides": 0,
   "imgs": [
    {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e7/B%C3%A1nh_c%C4%83n_%28Vietnamese_mini_pancake%29_clay_cooking_pots.jpg/960px-B%C3%A1nh_c%C4%83n_%28Vietnamese_mini_pancake%29_clay_cooking_pots.jpg",
@@ -7186,6 +7636,9 @@
   ],
   "status": "open",
   "existing": false,
+  "views": null,
+  "warn": "",
+  "guides": 2,
   "imgs": []
  },
  {
@@ -7224,6 +7677,9 @@
   ],
   "status": "open",
   "existing": false,
+  "views": null,
+  "warn": "",
+  "guides": 1,
   "imgs": [
    {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cf/Nem_n%C6%B0%E1%BB%9Bng.jpg/960px-Nem_n%C6%B0%E1%BB%9Bng.jpg",
@@ -7271,6 +7727,9 @@
   ],
   "status": "open",
   "existing": false,
+  "views": null,
+  "warn": "",
+  "guides": 0,
   "imgs": [
    {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/90/L%E1%BA%A9u_b%C3%B2_t%E1%BA%A1i_qu%C3%A1n_B%C3%B2_c%C6%B0%E1%BB%9Di_%283%29.jpg/960px-L%E1%BA%A9u_b%C3%B2_t%E1%BA%A1i_qu%C3%A1n_B%C3%B2_c%C6%B0%E1%BB%9Di_%283%29.jpg",
@@ -7318,6 +7777,9 @@
   ],
   "status": "open",
   "existing": false,
+  "views": null,
+  "warn": "",
+  "guides": 1,
   "imgs": [
    {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fc/Xiu_mai.jpg/960px-Xiu_mai.jpg",
@@ -7374,6 +7836,9 @@
   ],
   "status": "open",
   "existing": false,
+  "views": null,
+  "warn": "",
+  "guides": 1,
   "imgs": []
  },
  {
@@ -7413,6 +7878,9 @@
   ],
   "status": "open",
   "existing": false,
+  "views": null,
+  "warn": "",
+  "guides": 0,
   "imgs": []
  },
  {
@@ -7452,6 +7920,9 @@
   ],
   "status": "open",
   "existing": false,
+  "views": null,
+  "warn": "",
+  "guides": 1,
   "imgs": []
  },
  {
@@ -7490,6 +7961,9 @@
   ],
   "status": "open",
   "existing": false,
+  "views": null,
+  "warn": "",
+  "guides": 1,
   "imgs": []
  },
  {
@@ -7529,6 +8003,9 @@
   ],
   "status": "open",
   "existing": false,
+  "views": null,
+  "warn": "",
+  "guides": 2,
   "imgs": []
  },
  {
@@ -7567,6 +8044,9 @@
   ],
   "status": "open",
   "existing": false,
+  "views": null,
+  "warn": "",
+  "guides": 0,
   "imgs": []
  },
  {
@@ -7605,6 +8085,9 @@
   ],
   "status": "open",
   "existing": false,
+  "views": null,
+  "warn": "",
+  "guides": 2,
   "imgs": []
  },
  {
@@ -7643,6 +8126,9 @@
   ],
   "status": "open",
   "existing": false,
+  "views": null,
+  "warn": "",
+  "guides": 0,
   "imgs": []
  },
  {
@@ -7681,6 +8167,9 @@
   ],
   "status": "open",
   "existing": false,
+  "views": null,
+  "warn": "",
+  "guides": 0,
   "imgs": []
  },
  {
@@ -7719,6 +8208,9 @@
   ],
   "status": "open",
   "existing": false,
+  "views": null,
+  "warn": "",
+  "guides": 2,
   "imgs": []
  },
  {
@@ -7758,6 +8250,9 @@
   ],
   "status": "open",
   "existing": false,
+  "views": null,
+  "warn": "",
+  "guides": 0,
   "imgs": []
  },
  {
@@ -7799,6 +8294,9 @@
   ],
   "status": "open",
   "existing": false,
+  "views": 8979,
+  "warn": "",
+  "guides": 3,
   "imgs": [
    {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/48/Dinh_Bao_Dai_III_-_23061210935.jpg/960px-Dinh_Bao_Dai_III_-_23061210935.jpg",
@@ -7856,6 +8354,9 @@
   ],
   "status": "open",
   "existing": false,
+  "views": 1535,
+  "warn": "",
+  "guides": 4,
   "imgs": [
    {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c4/Palace_I%2C_01.jpg/960px-Palace_I%2C_01.jpg",
@@ -7906,6 +8407,9 @@
   ],
   "status": "open",
   "existing": false,
+  "views": 10999,
+  "warn": "",
+  "guides": 2,
   "imgs": [
    {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d0/Cathedral_of_Da_Lat_11.jpg/960px-Cathedral_of_Da_Lat_11.jpg",
@@ -7963,6 +8467,9 @@
   ],
   "status": "open",
   "existing": false,
+  "views": 7933,
+  "warn": "",
+  "guides": 3,
   "imgs": [
    {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c1/Domaine_de_Marie_00.JPG/960px-Domaine_de_Marie_00.JPG",
@@ -8021,6 +8528,9 @@
   ],
   "status": "open",
   "existing": false,
+  "views": 15315,
+  "warn": "",
+  "guides": 2,
   "imgs": [
    {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fd/Thien_vien_Truc_Lam_o_Da_Lat.jpg/960px-Thien_vien_Truc_Lam_o_Da_Lat.jpg",
@@ -8079,6 +8589,9 @@
   ],
   "status": "open",
   "existing": false,
+  "views": 4710,
+  "warn": "",
+  "guides": 1,
   "imgs": [
    {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c3/Truong_Cao_dang_Su_pham_Da_Lat_-_Tran_Huy_Phuong_1.jpg/960px-Truong_Cao_dang_Su_pham_Da_Lat_-_Tran_Huy_Phuong_1.jpg",
@@ -8144,6 +8657,9 @@
   ],
   "status": "open",
   "existing": false,
+  "views": null,
+  "warn": "",
+  "guides": 1,
   "imgs": [
    {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/83/Sculpture_Tunnel%2C_%C4%90%C3%A0_L%E1%BA%A1t_%28August_7%2C_2017%29_%2830158112568%29.jpg/960px-Sculpture_Tunnel%2C_%C4%90%C3%A0_L%E1%BA%A1t_%28August_7%2C_2017%29_%2830158112568%29.jpg",
@@ -8205,6 +8721,9 @@
   ],
   "status": "open",
   "existing": false,
+  "views": 5485,
+  "warn": "",
+  "guides": 0,
   "imgs": [
    {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8e/L%C3%A2m_Vi%C3%AAn_square_%28August_7%2C_2018%29_%2829079784067%29.jpg/960px-L%C3%A2m_Vi%C3%AAn_square_%28August_7%2C_2018%29_%2829079784067%29.jpg",
@@ -8263,6 +8782,9 @@
   ],
   "status": "open",
   "existing": false,
+  "views": 12821,
+  "warn": "",
+  "guides": 3,
   "imgs": [
    {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9c/Langbiang_Mountain.JPG/960px-Langbiang_Mountain.JPG",
@@ -8322,6 +8844,9 @@
   ],
   "status": "open",
   "existing": false,
+  "views": 3600,
+  "warn": "",
+  "guides": 3,
   "imgs": [
    {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8d/Datanla_Waterfall_1.jpg/960px-Datanla_Waterfall_1.jpg",
@@ -8378,6 +8903,9 @@
   ],
   "status": "open",
   "existing": false,
+  "views": 2204,
+  "warn": "",
+  "guides": 2,
   "imgs": [
    {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2b/Th%C3%A1c_Prenn.JPG/960px-Th%C3%A1c_Prenn.JPG",
@@ -8435,6 +8963,9 @@
   ],
   "status": "open",
   "existing": false,
+  "views": null,
+  "warn": "",
+  "guides": 2,
   "imgs": [
    {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/75/Doi_che_Cau_Dat.jpg/960px-Doi_che_Cau_Dat.jpg",
@@ -8500,6 +9031,9 @@
   ],
   "status": "open",
   "existing": false,
+  "views": null,
+  "warn": "",
+  "guides": 1,
   "imgs": [
    {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/93/C%C3%A1p_treo_%C4%90%C3%A0_L%E1%BA%A1t_-_Thi%E1%BB%81n_vi%E1%BB%87n_Tr%C3%BAc_L%C3%A2m.JPG/960px-C%C3%A1p_treo_%C4%90%C3%A0_L%E1%BA%A1t_-_Thi%E1%BB%81n_vi%E1%BB%87n_Tr%C3%BAc_L%C3%A2m.JPG",
@@ -8564,6 +9098,9 @@
   ],
   "status": "open",
   "existing": false,
+  "views": 831,
+  "warn": "",
+  "guides": 2,
   "imgs": [
    {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e3/Da_Lat_Flower_Park_1.jpg/960px-Da_Lat_Flower_Park_1.jpg",
@@ -8622,6 +9159,9 @@
   ],
   "status": "open",
   "existing": false,
+  "views": null,
+  "warn": "",
+  "guides": 2,
   "imgs": []
  },
  {
@@ -8662,6 +9202,9 @@
   ],
   "status": "open",
   "existing": false,
+  "views": null,
+  "warn": "",
+  "guides": 1,
   "imgs": []
  },
  {
@@ -8701,6 +9244,9 @@
   ],
   "status": "open",
   "existing": false,
+  "views": null,
+  "warn": "",
+  "guides": 1,
   "imgs": []
  },
  {
@@ -8734,6 +9280,9 @@
   ],
   "status": "open",
   "existing": false,
+  "views": null,
+  "warn": "",
+  "guides": 0,
   "imgs": []
  },
  {
@@ -8775,6 +9324,9 @@
   ],
   "status": "open",
   "existing": false,
+  "views": 3733,
+  "warn": "",
+  "guides": 2,
   "imgs": [
    {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/af/Ch%E1%BB%A3_%C4%90%C3%A0_L%E1%BA%A1t_to%C3%A0n_c%E1%BA%A3nh.jpg/960px-Ch%E1%BB%A3_%C4%90%C3%A0_L%E1%BA%A1t_to%C3%A0n_c%E1%BA%A3nh.jpg",
@@ -8830,6 +9382,9 @@
   ],
   "status": "open",
   "existing": false,
+  "views": null,
+  "warn": "",
+  "guides": 0,
   "imgs": []
  },
  {
@@ -8868,6 +9423,9 @@
   ],
   "status": "open",
   "existing": false,
+  "views": null,
+  "warn": "",
+  "guides": 1,
   "imgs": []
  },
  {
@@ -8906,6 +9464,9 @@
   ],
   "status": "open",
   "existing": false,
+  "views": null,
+  "warn": "",
+  "guides": 0,
   "imgs": []
  },
  {
@@ -8946,6 +9507,9 @@
   ],
   "status": "open",
   "existing": false,
+  "views": null,
+  "warn": "",
+  "guides": 0,
   "imgs": []
  },
  {
@@ -8985,6 +9549,9 @@
   ],
   "status": "open",
   "existing": false,
+  "views": null,
+  "warn": "",
+  "guides": 1,
   "imgs": []
  },
  {
@@ -9025,6 +9592,9 @@
   ],
   "status": "open",
   "existing": false,
+  "views": null,
+  "warn": "",
+  "guides": 1,
   "imgs": []
  },
  {
@@ -9065,6 +9635,9 @@
   ],
   "status": "open",
   "existing": false,
+  "views": 795,
+  "warn": "",
+  "guides": 0,
   "imgs": [
    {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6e/Cam_Ly_church_00.jpg/960px-Cam_Ly_church_00.jpg",
@@ -9122,6 +9695,9 @@
   ],
   "status": "open",
   "existing": false,
+  "views": 5634,
+  "warn": "",
+  "guides": 0,
   "imgs": [
    {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0b/Nguyen_Huu_Hoa_Mausoleum_01.jpg/960px-Nguyen_Huu_Hoa_Mausoleum_01.jpg",
@@ -9178,6 +9754,9 @@
   ],
   "status": "open",
   "existing": false,
+  "views": null,
+  "warn": "",
+  "guides": 1,
   "imgs": []
  },
  {
@@ -9218,6 +9797,9 @@
   ],
   "status": "open",
   "existing": false,
+  "views": null,
+  "warn": "",
+  "guides": 0,
   "imgs": []
  },
  {
@@ -9257,6 +9839,9 @@
   ],
   "status": "open",
   "existing": false,
+  "views": null,
+  "warn": "",
+  "guides": 0,
   "imgs": []
  },
  {
@@ -9296,6 +9881,9 @@
   ],
   "status": "open",
   "existing": false,
+  "views": null,
+  "warn": "",
+  "guides": 0,
   "imgs": []
  },
  {
@@ -9329,6 +9917,9 @@
   ],
   "status": "open",
   "existing": false,
+  "views": null,
+  "warn": "",
+  "guides": 0,
   "imgs": []
  },
  {
@@ -9369,6 +9960,9 @@
   ],
   "status": "open",
   "existing": false,
+  "views": null,
+  "warn": "",
+  "guides": 2,
   "imgs": []
  },
  {
@@ -9409,6 +10003,9 @@
   ],
   "status": "open",
   "existing": false,
+  "views": null,
+  "warn": "",
+  "guides": 1,
   "imgs": []
  },
  {
@@ -9449,6 +10046,9 @@
   ],
   "status": "open",
   "existing": false,
+  "views": null,
+  "warn": "",
+  "guides": 0,
   "imgs": []
  },
  {
@@ -9489,6 +10089,9 @@
   ],
   "status": "open",
   "existing": false,
+  "views": null,
+  "warn": "",
+  "guides": 1,
   "imgs": []
  },
  {
@@ -9529,6 +10132,9 @@
   ],
   "status": "open",
   "existing": false,
+  "views": null,
+  "warn": "",
+  "guides": 0,
   "imgs": [
    {
     "src": "https://upload.wikimedia.org/wikipedia/commons/5/55/D%C3%A2u_t%C3%A2y_tr%E1%BB%93ng_t%E1%BA%A1i_%C4%90%C3%A0_L%E1%BA%A1t_%28Vi%E1%BB%87t_Nam%29.jpg",
@@ -9584,6 +10190,9 @@
   ],
   "status": "open",
   "existing": false,
+  "views": null,
+  "warn": "",
+  "guides": 0,
   "imgs": []
  },
  {
@@ -9623,6 +10232,9 @@
   ],
   "status": "open",
   "existing": false,
+  "views": null,
+  "warn": "",
+  "guides": 0,
   "imgs": [
    {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fa/Bun_Bo_Hue_1.jpg/960px-Bun_Bo_Hue_1.jpg",
@@ -9671,6 +10283,9 @@
   ],
   "status": "open",
   "existing": false,
+  "views": null,
+  "warn": "",
+  "guides": 1,
   "imgs": [
    {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/87/X%C3%B4i_g%C3%A0.jpg/960px-X%C3%B4i_g%C3%A0.jpg",
@@ -9719,6 +10334,9 @@
   ],
   "status": "open",
   "existing": false,
+  "views": null,
+  "warn": "",
+  "guides": 1,
   "imgs": [
    {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5a/C%C3%A0_Ri_G%C3%A0_Vietnamese_Chicken_Curry_2019-1600.jpg/960px-C%C3%A0_Ri_G%C3%A0_Vietnamese_Chicken_Curry_2019-1600.jpg",
@@ -9769,6 +10387,9 @@
   ],
   "status": "open",
   "existing": true,
+  "views": null,
+  "warn": "",
+  "guides": 1,
   "imgs": []
  },
  {
@@ -9812,6 +10433,9 @@
   ],
   "status": "open",
   "existing": true,
+  "views": null,
+  "warn": "",
+  "guides": 3,
   "imgs": []
  },
  {
@@ -9853,6 +10477,9 @@
   ],
   "status": "open",
   "existing": true,
+  "views": null,
+  "warn": "",
+  "guides": 1,
   "imgs": [
    {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/32/B%C3%BAn_ch%E1%BA%A3_c%C3%A1%2C_th%C3%A1ng_8_n%C4%83m_2018.JPG/960px-B%C3%BAn_ch%E1%BA%A3_c%C3%A1%2C_th%C3%A1ng_8_n%C4%83m_2018.JPG",
@@ -9902,6 +10529,9 @@
   ],
   "status": "open",
   "existing": true,
+  "views": null,
+  "warn": "",
+  "guides": 1,
   "imgs": [
    {
     "src": "https://upload.wikimedia.org/wikipedia/commons/7/77/M%E1%BA%B9t_nem_n%C6%B0%E1%BB%9Bng_Nha_Trang.jpg",
@@ -9938,8 +10568,11 @@
   "sources": [
    "https://mia.vn/cam-nang-du-lich/review-cua-hang-dac-san-nha-trang-uy-tin-19817"
   ],
-  "status": "unverified",
+  "status": "removed",
   "existing": true,
+  "views": null,
+  "warn": "",
+  "guides": 0,
   "imgs": []
  },
  {
@@ -9965,8 +10598,11 @@
   "wiki": null,
   "web": null,
   "sources": [],
-  "status": "unverified",
+  "status": "removed",
   "existing": true,
+  "views": null,
+  "warn": "",
+  "guides": 0,
   "imgs": []
  },
  {
@@ -9992,8 +10628,11 @@
   "wiki": null,
   "web": null,
   "sources": [],
-  "status": "unverified",
+  "status": "removed",
   "existing": true,
+  "views": null,
+  "warn": "",
+  "guides": 0,
   "imgs": []
  },
  {
@@ -10034,6 +10673,9 @@
   ],
   "status": "open",
   "existing": false,
+  "views": null,
+  "warn": "",
+  "guides": 1,
   "imgs": [
    {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/32/B%C3%BAn_ch%E1%BA%A3_c%C3%A1%2C_th%C3%A1ng_8_n%C4%83m_2018.JPG/960px-B%C3%BAn_ch%E1%BA%A3_c%C3%A1%2C_th%C3%A1ng_8_n%C4%83m_2018.JPG",
@@ -10083,6 +10725,9 @@
   ],
   "status": "open",
   "existing": false,
+  "views": null,
+  "warn": "",
+  "guides": 0,
   "imgs": [
    {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/32/B%C3%BAn_ch%E1%BA%A3_c%C3%A1%2C_th%C3%A1ng_8_n%C4%83m_2018.JPG/960px-B%C3%BAn_ch%E1%BA%A3_c%C3%A1%2C_th%C3%A1ng_8_n%C4%83m_2018.JPG",
@@ -10133,6 +10778,9 @@
   ],
   "status": "open",
   "existing": false,
+  "views": null,
+  "warn": "",
+  "guides": 0,
   "imgs": [
    {
     "src": "https://upload.wikimedia.org/wikipedia/commons/a/a3/B%C3%A1nh_c%C4%83n_1.jpg",
@@ -10189,6 +10837,9 @@
   ],
   "status": "open",
   "existing": false,
+  "views": null,
+  "warn": "",
+  "guides": 1,
   "imgs": [
    {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4c/B%C3%A1nh_x%C3%A8o_nh%C3%A2n_M%E1%BB%B1c%2C_Nha_Trang.jpg/960px-B%C3%A1nh_x%C3%A8o_nh%C3%A2n_M%E1%BB%B1c%2C_Nha_Trang.jpg",
@@ -10236,6 +10887,9 @@
   ],
   "status": "open",
   "existing": false,
+  "views": null,
+  "warn": "",
+  "guides": 0,
   "imgs": [
    {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/ff/B%C3%A1nh_canh_cua.jpg/960px-B%C3%A1nh_canh_cua.jpg",
@@ -10283,6 +10937,9 @@
   ],
   "status": "open",
   "existing": false,
+  "views": null,
+  "warn": "",
+  "guides": 0,
   "imgs": []
  },
  {
@@ -10322,6 +10979,9 @@
   ],
   "status": "open",
   "existing": false,
+  "views": null,
+  "warn": "",
+  "guides": 0,
   "imgs": []
  },
  {
@@ -10361,6 +11021,9 @@
   ],
   "status": "open",
   "existing": false,
+  "views": null,
+  "warn": "",
+  "guides": 0,
   "imgs": []
  },
  {
@@ -10397,6 +11060,9 @@
   ],
   "status": "closed",
   "existing": false,
+  "views": null,
+  "warn": "",
+  "guides": 0,
   "imgs": []
  },
  {
@@ -10437,6 +11103,9 @@
   ],
   "status": "open",
   "existing": false,
+  "views": null,
+  "warn": "",
+  "guides": 0,
   "imgs": []
  },
  {
@@ -10476,6 +11145,9 @@
   ],
   "status": "open",
   "existing": false,
+  "views": null,
+  "warn": "",
+  "guides": 0,
   "imgs": []
  },
  {
@@ -10510,6 +11182,9 @@
   ],
   "status": "open",
   "existing": false,
+  "views": null,
+  "warn": "",
+  "guides": 0,
   "imgs": []
  },
  {
@@ -10559,6 +11234,9 @@
   ],
   "status": "open",
   "existing": true,
+  "views": 31036,
+  "warn": "",
+  "guides": 5,
   "imgs": [
    {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d7/Po_Nagar_Nha_Trang_Vietnam.JPG/960px-Po_Nagar_Nha_Trang_Vietnam.JPG",
@@ -10624,6 +11302,9 @@
   ],
   "status": "open",
   "existing": false,
+  "views": 11509,
+  "warn": "",
+  "guides": 4,
   "imgs": [
    {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3e/Christ_the_King_Cathedral_Nha_Trang.JPG/960px-Christ_the_King_Cathedral_Nha_Trang.JPG",
@@ -10697,6 +11378,9 @@
   ],
   "status": "open",
   "existing": false,
+  "views": 3358,
+  "warn": "",
+  "guides": 4,
   "imgs": [
    {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/53/Nha_Trang%2C_Long_Son_pagoda.jpg/960px-Nha_Trang%2C_Long_Son_pagoda.jpg",
@@ -10762,6 +11446,9 @@
   ],
   "status": "open",
   "existing": false,
+  "views": 4467,
+  "warn": "",
+  "guides": 4,
   "imgs": [
    {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e9/Hon_Chong_rocks_2011.jpg/960px-Hon_Chong_rocks_2011.jpg",
@@ -10836,6 +11523,9 @@
   ],
   "status": "open",
   "existing": false,
+  "views": 1668,
+  "warn": "",
+  "guides": 3,
   "imgs": [
    {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/28/H%E1%BA%A3i_d%C6%B0%C6%A1ng_h%E1%BB%8Dc_Nha_Trang.jpg/960px-H%E1%BA%A3i_d%C6%B0%C6%A1ng_h%E1%BB%8Dc_Nha_Trang.jpg",
@@ -10903,6 +11593,9 @@
   ],
   "status": "open",
   "existing": false,
+  "views": 1828,
+  "warn": "",
+  "guides": 2,
   "imgs": [
    {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/29/Yersin_Museum_%28Nha_Trang%29.jpg/960px-Yersin_Museum_%28Nha_Trang%29.jpg",
@@ -10955,6 +11648,9 @@
   ],
   "status": "open",
   "existing": false,
+  "views": 1564,
+  "warn": "",
+  "guides": 0,
   "imgs": [
    {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/64/Bao_Dai_Villa%2C_Nha_Trang_1.jpg/960px-Bao_Dai_Villa%2C_Nha_Trang_1.jpg",
@@ -11006,6 +11702,9 @@
   ],
   "status": "open",
   "existing": false,
+  "views": 4785,
+  "warn": "",
+  "guides": 0,
   "imgs": [
    {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/51/Th%C3%A1p_Tr%E1%BA%A7m_H%C6%B0%C6%A1ng%2C_Nha_Trang%2C_Vietnam.jpg/960px-Th%C3%A1p_Tr%E1%BA%A7m_H%C6%B0%C6%A1ng%2C_Nha_Trang%2C_Vietnam.jpg",
@@ -11064,6 +11763,9 @@
   ],
   "status": "open",
   "existing": true,
+  "views": null,
+  "warn": "",
+  "guides": 4,
   "imgs": [
    {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b0/B%C3%A3i_t%E1%BA%AFm_Tr%E1%BA%A7n_Ph%C3%BA_tr%C3%AAn_b%E1%BB%9D_bi%E1%BB%83n_Nha_Trang.jpeg/960px-B%C3%A3i_t%E1%BA%AFm_Tr%E1%BA%A7n_Ph%C3%BA_tr%C3%AAn_b%E1%BB%9D_bi%E1%BB%83n_Nha_Trang.jpeg",
@@ -11126,6 +11828,9 @@
   ],
   "status": "open",
   "existing": true,
+  "views": null,
+  "warn": "",
+  "guides": 4,
   "imgs": [
    {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ad/Vinpearl_Land_Nha_Trang_Ferris_wheel.jpg/960px-Vinpearl_Land_Nha_Trang_Ferris_wheel.jpg",
@@ -11187,6 +11892,9 @@
   ],
   "status": "open",
   "existing": false,
+  "views": null,
+  "warn": "",
+  "guides": 0,
   "imgs": [
    {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0a/Vinpearl_Cable_Car_to_Hon_Tre%2C_Nha_Trang%2C_Khanh_Hoa.jpg/960px-Vinpearl_Cable_Car_to_Hon_Tre%2C_Nha_Trang%2C_Khanh_Hoa.jpg",
@@ -11247,6 +11955,9 @@
   ],
   "status": "open",
   "existing": false,
+  "views": 992,
+  "warn": "",
+  "guides": 3,
   "imgs": []
  },
  {
@@ -11292,6 +12003,9 @@
   ],
   "status": "open",
   "existing": false,
+  "views": 1158,
+  "warn": "",
+  "guides": 3,
   "imgs": [
    {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/63/H%C3%B2n_T%E1%BA%B1m_beach%2C_Nha_Trang%2C_Kh%C3%A1nh_Ho%C3%A0.jpg/960px-H%C3%B2n_T%E1%BA%B1m_beach%2C_Nha_Trang%2C_Kh%C3%A1nh_Ho%C3%A0.jpg",
@@ -11351,6 +12065,9 @@
   ],
   "status": "open",
   "existing": false,
+  "views": null,
+  "warn": "",
+  "guides": 2,
   "imgs": []
  },
  {
@@ -11392,6 +12109,9 @@
   ],
   "status": "open",
   "existing": false,
+  "views": null,
+  "warn": "",
+  "guides": 1,
   "imgs": []
  },
  {
@@ -11427,6 +12147,9 @@
   ],
   "status": "open",
   "existing": false,
+  "views": 457,
+  "warn": "",
+  "guides": 1,
   "imgs": [
    {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/04/Th%C3%A1c_Yang_Bay-_Kh%C3%A1nh_H%C3%B2a_-_panoramio.jpg/960px-Th%C3%A1c_Yang_Bay-_Kh%C3%A1nh_H%C3%B2a_-_panoramio.jpg",
@@ -11476,6 +12199,9 @@
   ],
   "status": "open",
   "existing": false,
+  "views": 3576,
+  "warn": "",
+  "guides": 3,
   "imgs": [
    {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d2/Doc_Let_beach_%282025%29.jpg/960px-Doc_Let_beach_%282025%29.jpg",
@@ -11527,6 +12253,9 @@
   ],
   "status": "open",
   "existing": false,
+  "views": 7377,
+  "warn": "",
+  "guides": 0,
   "imgs": [
    {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/56/B%C3%ACnh_Ba_Island.jpg/960px-B%C3%ACnh_Ba_Island.jpg",
@@ -11579,6 +12308,9 @@
   ],
   "status": "open",
   "existing": false,
+  "views": 103,
+  "warn": "",
+  "guides": 0,
   "imgs": [
    {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b3/Ninh_Van_Bay.jpg/960px-Ninh_Van_Bay.jpg",
@@ -11628,6 +12360,9 @@
   ],
   "status": "open",
   "existing": false,
+  "views": null,
+  "warn": "",
+  "guides": 0,
   "imgs": []
  },
  {
@@ -11660,6 +12395,9 @@
   ],
   "status": "open",
   "existing": false,
+  "views": null,
+  "warn": "",
+  "guides": 0,
   "imgs": []
  },
  {
@@ -11695,6 +12433,9 @@
   ],
   "status": "open",
   "existing": false,
+  "views": 3220,
+  "warn": "",
+  "guides": 0,
   "imgs": []
  },
  {
@@ -11740,6 +12481,9 @@
   ],
   "status": "open",
   "existing": true,
+  "views": 1660,
+  "warn": "",
+  "guides": 1,
   "imgs": [
    {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0d/Dam_Market_Nha_Trang_1.jpg/960px-Dam_Market_Nha_Trang_1.jpg",
@@ -11799,6 +12543,9 @@
   ],
   "status": "open",
   "existing": true,
+  "views": null,
+  "warn": "",
+  "guides": 0,
   "imgs": [
    {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/30/Nha_Trang_night_market_-_panoramio.jpg/960px-Nha_Trang_night_market_-_panoramio.jpg",
@@ -11849,6 +12596,9 @@
   ],
   "status": "open",
   "existing": false,
+  "views": null,
+  "warn": "",
+  "guides": 1,
   "imgs": []
  },
  {
@@ -11890,6 +12640,9 @@
   ],
   "status": "open",
   "existing": false,
+  "views": null,
+  "warn": "",
+  "guides": 1,
   "imgs": []
  },
  {
@@ -11932,6 +12685,9 @@
   ],
   "status": "open",
   "existing": false,
+  "views": null,
+  "warn": "",
+  "guides": 0,
   "imgs": []
  },
  {
@@ -11975,6 +12731,9 @@
   ],
   "status": "open",
   "existing": false,
+  "views": null,
+  "warn": "",
+  "guides": 3,
   "imgs": []
  },
  {
@@ -12017,6 +12776,9 @@
   ],
   "status": "open",
   "existing": false,
+  "views": null,
+  "warn": "",
+  "guides": 2,
   "imgs": [
    {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/22/Hotelo_Havana_Nha_Trang_5_%2801%29.jpg/960px-Hotelo_Havana_Nha_Trang_5_%2801%29.jpg",
@@ -12067,6 +12829,9 @@
   ],
   "status": "open",
   "existing": false,
+  "views": null,
+  "warn": "",
+  "guides": 1,
   "imgs": []
  },
  {
@@ -12107,6 +12872,9 @@
   ],
   "status": "open",
   "existing": false,
+  "views": null,
+  "warn": "",
+  "guides": 1,
   "imgs": []
  },
  {
@@ -12140,6 +12908,9 @@
   ],
   "status": "open",
   "existing": false,
+  "views": null,
+  "warn": "",
+  "guides": 0,
   "imgs": []
  },
  {
@@ -12181,6 +12952,9 @@
   ],
   "status": "open",
   "existing": false,
+  "views": null,
+  "warn": "",
+  "guides": 0,
   "imgs": []
  },
  {
@@ -12222,6 +12996,9 @@
   ],
   "status": "open",
   "existing": false,
+  "views": null,
+  "warn": "",
+  "guides": 0,
   "imgs": []
  },
  {
@@ -12264,6 +13041,9 @@
   ],
   "status": "open",
   "existing": false,
+  "views": null,
+  "warn": "",
+  "guides": 3,
   "imgs": []
  },
  {
@@ -12304,6 +13084,9 @@
   ],
   "status": "open",
   "existing": false,
+  "views": null,
+  "warn": "",
+  "guides": 1,
   "imgs": []
  },
  {
@@ -12344,6 +13127,9 @@
   ],
   "status": "open",
   "existing": false,
+  "views": null,
+  "warn": "",
+  "guides": 0,
   "imgs": []
  },
  {
@@ -12385,6 +13171,9 @@
   ],
   "status": "open",
   "existing": false,
+  "views": null,
+  "warn": "",
+  "guides": 0,
   "imgs": []
  },
  {
@@ -12426,6 +13215,9 @@
   ],
   "status": "open",
   "existing": false,
+  "views": null,
+  "warn": "",
+  "guides": 0,
   "imgs": []
  },
  {
@@ -12466,6 +13258,9 @@
   ],
   "status": "open",
   "existing": false,
+  "views": null,
+  "warn": "",
+  "guides": 1,
   "imgs": []
  },
  {
@@ -12500,6 +13295,9 @@
   ],
   "status": "open",
   "existing": false,
+  "views": null,
+  "warn": "",
+  "guides": 0,
   "imgs": []
  },
  {
@@ -12533,6 +13331,9 @@
   ],
   "status": "open",
   "existing": false,
+  "views": null,
+  "warn": "",
+  "guides": 0,
   "imgs": []
  },
  {
@@ -12567,6 +13368,9 @@
   ],
   "status": "open",
   "existing": false,
+  "views": null,
+  "warn": "",
+  "guides": 0,
   "imgs": []
  },
  {
@@ -12608,6 +13412,9 @@
   ],
   "status": "open",
   "existing": false,
+  "views": null,
+  "warn": "",
+  "guides": 1,
   "imgs": [
    {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ef/Tri_Nguyen_Aquarium_in_Nha_Trang_-_panoramio.jpg/960px-Tri_Nguyen_Aquarium_in_Nha_Trang_-_panoramio.jpg",
@@ -12665,6 +13472,9 @@
   ],
   "status": "open",
   "existing": true,
+  "views": null,
+  "warn": "",
+  "guides": 1,
   "imgs": [
    {
     "src": "https://upload.wikimedia.org/wikipedia/commons/7/77/M%E1%BA%B9t_nem_n%C6%B0%E1%BB%9Bng_Nha_Trang.jpg",
@@ -12712,6 +13522,9 @@
   ],
   "status": "open",
   "existing": false,
+  "views": null,
+  "warn": "",
+  "guides": 0,
   "imgs": []
  },
  {
@@ -12752,6 +13565,9 @@
   ],
   "status": "open",
   "existing": false,
+  "views": null,
+  "warn": "",
+  "guides": 0,
   "imgs": []
  },
  {
@@ -12792,6 +13608,9 @@
   ],
   "status": "open",
   "existing": false,
+  "views": null,
+  "warn": "",
+  "guides": 0,
   "imgs": []
  },
  {
@@ -12830,6 +13649,9 @@
   ],
   "status": "unverified",
   "existing": false,
+  "views": null,
+  "warn": "",
+  "guides": 0,
   "imgs": []
  },
  {
@@ -12868,6 +13690,9 @@
   ],
   "status": "unverified",
   "existing": false,
+  "views": null,
+  "warn": "",
+  "guides": 0,
   "imgs": []
  },
  {
@@ -12905,6 +13730,9 @@
   ],
   "status": "unverified",
   "existing": false,
+  "views": null,
+  "warn": "",
+  "guides": 0,
   "imgs": []
  },
  {
@@ -12947,6 +13775,9 @@
   ],
   "status": "open",
   "existing": false,
+  "views": 5866,
+  "warn": "",
+  "guides": 1,
   "imgs": [
    {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/15/Dien_Khanh_western_gate.JPG/960px-Dien_Khanh_western_gate.JPG",
@@ -13013,6 +13844,9 @@
   ],
   "status": "open",
   "existing": false,
+  "views": null,
+  "warn": "",
+  "guides": 1,
   "imgs": []
  },
  {
@@ -13052,6 +13886,9 @@
   ],
   "status": "open",
   "existing": false,
+  "views": null,
+  "warn": "",
+  "guides": 4,
   "imgs": [
    {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/72/MONKEY_ISLAND_NHA_TRANG_BAY_VIETNAM_JAN2012_%286967923315%29.jpg/960px-MONKEY_ISLAND_NHA_TRANG_BAY_VIETNAM_JAN2012_%286967923315%29.jpg",
@@ -13109,6 +13946,9 @@
   ],
   "status": "open",
   "existing": false,
+  "views": null,
+  "warn": "",
+  "guides": 1,
   "imgs": []
  },
  {
@@ -13148,6 +13988,9 @@
   ],
   "status": "open",
   "existing": false,
+  "views": null,
+  "warn": "",
+  "guides": 0,
   "imgs": []
  },
  {
@@ -13186,6 +14029,9 @@
   ],
   "status": "open",
   "existing": false,
+  "views": null,
+  "warn": "",
+  "guides": 0,
   "imgs": []
  },
  {
@@ -13226,6 +14072,9 @@
   ],
   "status": "open",
   "existing": false,
+  "views": null,
+  "warn": "",
+  "guides": 2,
   "imgs": []
  },
  {
@@ -13267,6 +14116,9 @@
   ],
   "status": "open",
   "existing": false,
+  "views": null,
+  "warn": "",
+  "guides": 0,
   "imgs": []
  },
  {
@@ -13308,6 +14160,9 @@
   ],
   "status": "unverified",
   "existing": false,
+  "views": null,
+  "warn": "",
+  "guides": 1,
   "imgs": []
  },
  {
@@ -13347,6 +14202,9 @@
   ],
   "status": "open",
   "existing": false,
+  "views": null,
+  "warn": "",
+  "guides": 0,
   "imgs": []
  },
  {
@@ -13387,8 +14245,11 @@
    "https://www.foody.vn/tien-giang/hu-tieu-quan-ky-ngo-quyen",
    "https://wanderlog.com/place/details/7707959/hủ-tiếu-quần-ký"
   ],
-  "status": "unverified",
+  "status": "removed",
   "existing": true,
+  "views": null,
+  "warn": "",
+  "guides": 0,
   "imgs": [
    {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/25/Hu_tieu_My_Tho.jpg/960px-Hu_tieu_My_Tho.jpg",
@@ -13439,6 +14300,9 @@
   ],
   "status": "open",
   "existing": true,
+  "views": null,
+  "warn": "",
+  "guides": 0,
   "imgs": [
    {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/25/Hu_tieu_My_Tho.jpg/960px-Hu_tieu_My_Tho.jpg",
@@ -13488,6 +14352,9 @@
   ],
   "status": "open",
   "existing": true,
+  "views": null,
+  "warn": "",
+  "guides": 0,
   "imgs": [
    {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/25/Hu_tieu_My_Tho.jpg/960px-Hu_tieu_My_Tho.jpg",
@@ -13536,6 +14403,9 @@
   ],
   "status": "open",
   "existing": false,
+  "views": null,
+  "warn": "",
+  "guides": 0,
   "imgs": [
    {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/25/Hu_tieu_My_Tho.jpg/960px-Hu_tieu_My_Tho.jpg",
@@ -13587,6 +14457,9 @@
   ],
   "status": "open",
   "existing": true,
+  "views": 13540,
+  "warn": "",
+  "guides": 5,
   "imgs": [
    {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e8/Vinh_Trang_Pagoda.JPG/960px-Vinh_Trang_Pagoda.JPG",
@@ -13645,6 +14518,9 @@
   ],
   "status": "open",
   "existing": true,
+  "views": 15011,
+  "warn": "",
+  "guides": 0,
   "imgs": [
    {
     "src": "https://upload.wikimedia.org/wikipedia/commons/2/2c/Rach_Mieu_Bridge_pylon.jpg",
@@ -13705,6 +14581,9 @@
   ],
   "status": "open",
   "existing": true,
+  "views": null,
+  "warn": "",
+  "guides": 3,
   "imgs": [
    {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3c/T%C3%A0u_du_l%E1%BB%8Bch_c%E1%BA%B7p_b%E1%BA%BFn_c%E1%BB%93n_Ph%E1%BB%A5ng.jpg/960px-T%C3%A0u_du_l%E1%BB%8Bch_c%E1%BA%B7p_b%E1%BA%BFn_c%E1%BB%93n_Ph%E1%BB%A5ng.jpg",
@@ -13765,6 +14644,9 @@
   ],
   "status": "open",
   "existing": false,
+  "views": 3704,
+  "warn": "",
+  "guides": 2,
   "imgs": []
  },
  {
@@ -13806,6 +14688,9 @@
   ],
   "status": "open",
   "existing": false,
+  "views": 2252,
+  "warn": "",
+  "guides": 0,
   "imgs": [
    {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/72/C%E1%BB%93n_Ph%E1%BB%A5ng.jpg/960px-C%E1%BB%93n_Ph%E1%BB%A5ng.jpg",
@@ -13872,6 +14757,9 @@
   ],
   "status": "open",
   "existing": true,
+  "views": null,
+  "warn": "",
+  "guides": 0,
   "imgs": [
    {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c7/Cho_My_Tho%2Cduong_Nguyen_hue%2CPh%C6%B0%E1%BB%9Dng_1%2C_tp._M%E1%BB%B9_Tho%2C_Ti%E1%BB%81n_Giang%2C_Vi%E1%BB%87t_Nam_-_panoramio.jpg/960px-Cho_My_Tho%2Cduong_Nguyen_hue%2CPh%C6%B0%E1%BB%9Dng_1%2C_tp._M%E1%BB%B9_Tho%2C_Ti%E1%BB%81n_Giang%2C_Vi%E1%BB%87t_Nam_-_panoramio.jpg",
@@ -13915,8 +14803,11 @@
    "https://wanderlog.com/place/details/18043/cai-be-market",
    "https://mia.vn/cam-nang-du-lich/doc-dao-cho-noi-cai-be-tien-giang-binh-di-va-dac-sac-5139"
   ],
-  "status": "unverified",
+  "status": "removed",
   "existing": false,
+  "views": 2564,
+  "warn": "",
+  "guides": 0,
   "imgs": [
    {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/38/Cai_Be_floating_market_%2815886355696%29.jpg/960px-Cai_Be_floating_market_%2815886355696%29.jpg",
@@ -13972,8 +14863,11 @@
    "https://mia.vn/cam-nang-du-lich/dung-bo-lo-top-5-quan-hu-tieu-ngon-nhat-my-tho-5305",
    "https://www.foody.vn/tien-giang/quan-hanh-hu-tieu-my-tho"
   ],
-  "status": "unverified",
+  "status": "removed",
   "existing": true,
+  "views": null,
+  "warn": "",
+  "guides": 0,
   "imgs": [
    {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/25/Hu_tieu_My_Tho.jpg/960px-Hu_tieu_My_Tho.jpg",
@@ -14024,6 +14918,9 @@
   ],
   "status": "open",
   "existing": false,
+  "views": null,
+  "warn": "",
+  "guides": 0,
   "imgs": [
    {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/25/Hu_tieu_My_Tho.jpg/960px-Hu_tieu_My_Tho.jpg",
@@ -14072,6 +14969,9 @@
   ],
   "status": "open",
   "existing": false,
+  "views": null,
+  "warn": "",
+  "guides": 0,
   "imgs": [
    {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/25/Hu_tieu_My_Tho.jpg/960px-Hu_tieu_My_Tho.jpg",
@@ -14121,6 +15021,9 @@
   ],
   "status": "open",
   "existing": false,
+  "views": null,
+  "warn": "",
+  "guides": 0,
   "imgs": []
  },
  {
@@ -14160,6 +15063,9 @@
   ],
   "status": "open",
   "existing": false,
+  "views": null,
+  "warn": "",
+  "guides": 0,
   "imgs": []
  },
  {
@@ -14200,6 +15106,9 @@
   ],
   "status": "open",
   "existing": false,
+  "views": null,
+  "warn": "",
+  "guides": 0,
   "imgs": []
  },
  {
@@ -14240,6 +15149,9 @@
   ],
   "status": "open",
   "existing": false,
+  "views": null,
+  "warn": "",
+  "guides": 0,
   "imgs": [
    {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f1/C%C3%A1_Tai_T%C6%B0%E1%BB%A3ng_chi%C3%AAn_x%C3%B9.jpg/960px-C%C3%A1_Tai_T%C6%B0%E1%BB%A3ng_chi%C3%AAn_x%C3%B9.jpg",
@@ -14287,6 +15199,9 @@
   ],
   "status": "open",
   "existing": false,
+  "views": null,
+  "warn": "",
+  "guides": 0,
   "imgs": [
    {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e5/B%C3%A1nh_x%C3%A8o_1.jpg/960px-B%C3%A1nh_x%C3%A8o_1.jpg",
@@ -14336,6 +15251,9 @@
   ],
   "status": "open",
   "existing": false,
+  "views": null,
+  "warn": "",
+  "guides": 0,
   "imgs": []
  },
  {
@@ -14378,6 +15296,9 @@
   ],
   "status": "open",
   "existing": true,
+  "views": null,
+  "warn": "",
+  "guides": 0,
   "imgs": []
  },
  {
@@ -14413,6 +15334,9 @@
   ],
   "status": "unverified",
   "existing": true,
+  "views": null,
+  "warn": "",
+  "guides": 0,
   "imgs": []
  },
  {
@@ -14452,6 +15376,9 @@
   ],
   "status": "open",
   "existing": false,
+  "views": null,
+  "warn": "",
+  "guides": 0,
   "imgs": []
  },
  {
@@ -14490,6 +15417,9 @@
   ],
   "status": "open",
   "existing": false,
+  "views": null,
+  "warn": "",
+  "guides": 0,
   "imgs": []
  },
  {
@@ -14529,6 +15459,9 @@
   ],
   "status": "open",
   "existing": false,
+  "views": null,
+  "warn": "",
+  "guides": 0,
   "imgs": []
  },
  {
@@ -14570,6 +15503,9 @@
   ],
   "status": "open",
   "existing": false,
+  "views": null,
+  "warn": "",
+  "guides": 0,
   "imgs": [
    {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b4/Di_L%E1%BA%B7c_B%E1%BB%93_T%C3%A1t_-_ch%C3%B9a_B%E1%BB%ADu_L%C3%A2m_-_M%E1%BB%B9_Tho_-_Ti%E1%BB%81n_Giang_-_VN.jpg/960px-Di_L%E1%BA%B7c_B%E1%BB%93_T%C3%A1t_-_ch%C3%B9a_B%E1%BB%ADu_L%C3%A2m_-_M%E1%BB%B9_Tho_-_Ti%E1%BB%81n_Giang_-_VN.jpg",
@@ -14613,6 +15549,9 @@
   ],
   "status": "open",
   "existing": false,
+  "views": 1752,
+  "warn": "",
+  "guides": 1,
   "imgs": [
    {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c3/Cathedral_My_Tho.jpg/960px-Cathedral_My_Tho.jpg",
@@ -14678,6 +15617,9 @@
   ],
   "status": "open",
   "existing": false,
+  "views": null,
+  "warn": "",
+  "guides": 0,
   "imgs": []
  },
  {
@@ -14721,6 +15663,9 @@
   ],
   "status": "open",
   "existing": false,
+  "views": null,
+  "warn": "",
+  "guides": 3,
   "imgs": []
  },
  {
@@ -14762,6 +15707,9 @@
   ],
   "status": "open",
   "existing": false,
+  "views": 42266,
+  "warn": "",
+  "guides": 1,
   "imgs": [
    {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a6/T%C6%B0%E1%BB%A3ng_%C4%91%C3%A0i_R%E1%BA%A1ch_G%E1%BA%A7m-Xo%C3%A0i_M%C3%BAt.JPG/960px-T%C6%B0%E1%BB%A3ng_%C4%91%C3%A0i_R%E1%BA%A1ch_G%E1%BA%A7m-Xo%C3%A0i_M%C3%BAt.JPG",
@@ -14819,6 +15767,9 @@
   ],
   "status": "open",
   "existing": false,
+  "views": 18689,
+  "warn": "",
+  "guides": 1,
   "imgs": [
    {
     "src": "https://upload.wikimedia.org/wikipedia/commons/2/28/Ap_Bac_Victory_Tien_Giang.jpg",
@@ -14862,6 +15813,9 @@
   ],
   "status": "open",
   "existing": false,
+  "views": 2459,
+  "warn": "",
+  "guides": 3,
   "imgs": [
    {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/93/%C4%90%E1%BB%A9c_Qu%E1%BB%91c_C%C3%B4ng_T%E1%BB%AB.jpg/960px-%C4%90%E1%BB%A9c_Qu%E1%BB%91c_C%C3%B4ng_T%E1%BB%AB.jpg",
@@ -14920,6 +15874,9 @@
   ],
   "status": "open",
   "existing": false,
+  "views": null,
+  "warn": "",
+  "guides": 1,
   "imgs": [
    {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6f/Nh%C3%A0_c%E1%BB%95_C%C3%A1i_B%C3%A8.jpg/960px-Nh%C3%A0_c%E1%BB%95_C%C3%A1i_B%C3%A8.jpg",
@@ -14978,6 +15935,9 @@
   ],
   "status": "open",
   "existing": false,
+  "views": null,
+  "warn": "",
+  "guides": 0,
   "imgs": [
    {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2b/V%C4%A9nh_Kim_market%2C_at_V%C4%A9nh_Kim_commune%2C_Ch%C3%A2u_Th%C3%A0nh_district%2C_Ti%E1%BB%81n_Giang%2C_Vietnam%2C_at_January-2022.jpg/960px-V%C4%A9nh_Kim_market%2C_at_V%C4%A9nh_Kim_commune%2C_Ch%C3%A2u_Th%C3%A0nh_district%2C_Ti%E1%BB%81n_Giang%2C_Vietnam%2C_at_January-2022.jpg",
@@ -15022,6 +15982,9 @@
   ],
   "status": "open",
   "existing": false,
+  "views": null,
+  "warn": "",
+  "guides": 0,
   "imgs": []
  },
  {
@@ -15057,6 +16020,9 @@
   ],
   "status": "unverified",
   "existing": false,
+  "views": null,
+  "warn": "",
+  "guides": 0,
   "imgs": [
    {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1e/Ch%E1%BB%A3_%C4%91%C3%AAm_%C4%83n_u%E1%BB%91ng_%E1%BB%9F_Ph%C6%B0%E1%BB%9Dng_1%2C_Th%C3%A0nh_ph%E1%BB%91_M%E1%BB%B9_Tho.jpg/960px-Ch%E1%BB%A3_%C4%91%C3%AAm_%C4%83n_u%E1%BB%91ng_%E1%BB%9F_Ph%C6%B0%E1%BB%9Dng_1%2C_Th%C3%A0nh_ph%E1%BB%91_M%E1%BB%B9_Tho.jpg",
@@ -15101,6 +16067,9 @@
   ],
   "status": "open",
   "existing": false,
+  "views": null,
+  "warn": "",
+  "guides": 1,
   "imgs": []
  },
  {
@@ -15141,6 +16110,9 @@
   ],
   "status": "open",
   "existing": false,
+  "views": null,
+  "warn": "",
+  "guides": 1,
   "imgs": []
  },
  {
@@ -15185,6 +16157,9 @@
   ],
   "status": "open",
   "existing": false,
+  "views": 644,
+  "warn": "",
+  "guides": 1,
   "imgs": [
    {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/94/B%E1%BA%BFn_%C4%91%C3%B2_T%C3%A2n_Long.jpg/960px-B%E1%BA%BFn_%C4%91%C3%B2_T%C3%A2n_Long.jpg",
@@ -15252,6 +16227,9 @@
   ],
   "status": "open",
   "existing": false,
+  "views": null,
+  "warn": "",
+  "guides": 0,
   "imgs": []
  },
  {
@@ -15292,6 +16270,9 @@
   ],
   "status": "open",
   "existing": false,
+  "views": null,
+  "warn": "",
+  "guides": 0,
   "imgs": []
  },
  {
@@ -15335,6 +16316,9 @@
   ],
   "status": "open",
   "existing": false,
+  "views": 187,
+  "warn": "",
+  "guides": 2,
   "imgs": []
  },
  {
@@ -15370,6 +16354,9 @@
   ],
   "status": "open",
   "existing": false,
+  "views": null,
+  "warn": "",
+  "guides": 0,
   "imgs": []
  },
  {
@@ -15411,6 +16398,9 @@
   ],
   "status": "open",
   "existing": false,
+  "views": null,
+  "warn": "",
+  "guides": 0,
   "imgs": [
    {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/59/Qu%E1%BA%A3ng_tr%C6%B0%E1%BB%9Dng_t%E1%BB%89nh_Ti%E1%BB%81n_Giang%2C_x%C3%A3_%C4%90%E1%BA%A1o_Th%E1%BA%A1nh%2C_Th%C3%A0nh_ph%E1%BB%91_M%E1%BB%B9_Tho.jpg/960px-Qu%E1%BA%A3ng_tr%C6%B0%E1%BB%9Dng_t%E1%BB%89nh_Ti%E1%BB%81n_Giang%2C_x%C3%A3_%C4%90%E1%BA%A1o_Th%E1%BA%A1nh%2C_Th%C3%A0nh_ph%E1%BB%91_M%E1%BB%B9_Tho.jpg",
@@ -15459,6 +16449,9 @@
   ],
   "status": "open",
   "existing": false,
+  "views": null,
+  "warn": "",
+  "guides": 0,
   "imgs": []
  }
 ]
