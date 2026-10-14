@@ -86,6 +86,20 @@ def check_ranking(places):
     return errs
 
 
+def check_links(page_data):
+    """No link tools/checklinks.py found dead reaches the page."""
+    lc = ROOT / "data" / "linkcheck.json"
+    if not lc.exists():
+        return ["data/linkcheck.json missing: run python3 tools/checklinks.py"]
+    dead = {u for u, v in json.loads(lc.read_text()).items() if v == "dead"}
+    errs = []
+    for p in page_data["places"]:
+        shown = [p.get("web"), p.get("wiki"), *(p.get("sources") or []), (p.get("rating") or {}).get("url")]
+        shown += [u for im in p.get("imgs") or [] for u in (im["src"], im["thumb"], im["page"])]
+        errs += [f'{p["id"]}: dead link on the page: {u}' for u in shown if u in dead]
+    return errs
+
+
 def check_script(page):
     """node --check the page's own inline script (the last <script> without src or type)."""
     blocks = re.findall(r"<script>(.*?)</script>", page, re.S)
@@ -113,7 +127,7 @@ def main():
         errs.append("index.html: embedded data block not found")
     else:
         try:
-            json.loads(data.group(1))
+            errs += check_links(json.loads(data.group(1)))
         except Exception as ex:  # noqa: BLE001
             errs.append(f"embedded data does not parse: {ex}")
     errs += check_script(on_disk)

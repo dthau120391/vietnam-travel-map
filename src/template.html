@@ -236,13 +236,15 @@ const CATS = {
   nature:     { label:'Thiên nhiên',        emoji:'🌿', color:'#2a9d8f' },
   experience: { label:'Trải nghiệm',        emoji:'🎟️', color:'#3d5a80' },
   kids:       { label:'Khu vui chơi',       emoji:'🧸', color:'#ec4899' },
-  music:      { label:'Cà phê acoustic',    emoji:'🎸', color:'#7c3aed' }
+  music:      { label:'Cà phê acoustic',    emoji:'🎸', color:'#7c3aed' },
+  wellness:   { label:'Massage & trị liệu', emoji:'💆', color:'#0f9d8a' }
 };
 // The filter tabs. "Tất cả" means the five focus groups; sights, nature and bars sit apart under "other".
 const GROUPS = {
   eat:   { label:'Ăn uống',          emoji:'🍜', color:'#e4572e' },
   cafe:  { label:'Cà phê',           emoji:'☕', color:'#8d5524' },
   music: { label:'Cà phê acoustic',  emoji:'🎸', color:'#7c3aed' },
+  relax: { label:'Massage & thư giãn', emoji:'💆', color:'#0f9d8a' },
   shop:  { label:'Mua sắm',          emoji:'🛍️', color:'#a23b72' },
   kids:  { label:'Khu vui chơi',     emoji:'🧸', color:'#ec4899' },
   other: { label:'Tham quan & khác', emoji:'🏛️', color:'#2e86ab' }
@@ -462,7 +464,7 @@ function renderDetail(p) {
   const rate = r
     ? `<div class="rate"><span class="big">★ ${fmtR(r)}</span><span class="meta">${r.n ? `${r.n.toLocaleString('vi-VN')} lượt đánh giá` : 'Điểm đánh giá'} · nguồn: ${r.url ? `<a href="${safeUrl(r.url)}" target="_blank" rel="noopener">${esc(r.src || host(r.url))}</a>` : esc(r.src)}${r.seen ? ` (ghi nhận ${esc(r.seen)})` : ''}<br>Số liệu tham khảo — bấm “Đánh giá Google” để xem điểm mới nhất.</span></div>`
     : `<div class="rate none"><span class="meta">Chưa có điểm đánh giá đã kiểm chứng trong dữ liệu — xem đánh giá trực tiếp trên <a href="${gmSearch}" target="_blank" rel="noopener">Google Maps</a>.</span></div>`;
-  const mustLabel = p.cat === 'food' || p.cat === 'cafe' || p.cat === 'market' ? 'Nên thử' : 'Nên xem / làm';
+  const mustLabel = p.cat === 'wellness' ? 'Liệu trình' : p.cat === 'food' || p.cat === 'cafe' || p.cat === 'market' ? 'Nên thử' : 'Nên xem / làm';
   const dist = (homeHere() && p.lat != null ? ` · 🏠 cách nhà ${fmtKm(dHome(p))}` : '') +
     (state.me && p.lat != null ? ` · 📍 cách bạn ${fmtKm(km(state.me, [p.lat, p.lng]))}` : '');
   $('#detail').innerHTML = `
@@ -488,8 +490,9 @@ function renderDetail(p) {
       <div class="actions">
         <a class="primary" href="${gmDir}" target="_blank" rel="noopener">🧭 Chỉ đường</a>
         <a href="${gmSearch}" target="_blank" rel="noopener">⭐ Đánh giá & ảnh Google</a>
-        <a href="https://www.tiktok.com/search?q=${encodeURIComponent(p.name + ' ' + city.name)}" target="_blank" rel="noopener">🎬 Review TikTok</a>
-        <a href="https://www.google.com/search?tbm=isch&q=${encodeURIComponent(p.name + ' ' + city.name)}" target="_blank" rel="noopener">🖼️ Thêm ảnh</a>
+        <a href="https://www.tiktok.com/search/video?q=${encodeURIComponent(p.name + ' ' + city.name)}" target="_blank" rel="noopener">🎬 Video TikTok</a>
+        <a href="https://www.youtube.com/results?search_query=${encodeURIComponent(p.name + ' ' + city.name + ' review')}" target="_blank" rel="noopener">▶️ Review YouTube</a>
+        <a href="https://www.google.com/search?udm=2&q=${encodeURIComponent(p.name + ' ' + city.name)}" target="_blank" rel="noopener">🖼️ Thêm ảnh</a>
         ${p.wiki ? `<a href="${safeUrl(p.wiki)}" target="_blank" rel="noopener">📖 Wikipedia</a>` : ''}
         ${p.web ? `<a href="${safeUrl(p.web)}" target="_blank" rel="noopener">🌐 Trang chính thức</a>` : ''}
       </div>

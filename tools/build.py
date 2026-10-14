@@ -16,7 +16,7 @@ sys.path.insert(0, str(Path(__file__).parent))
 from cities import CITIES  # noqa: E402
 
 ROOT = Path(__file__).resolve().parent.parent
-GROUP_VI = {"eat": "Ăn uống", "cafe": "Cà phê", "music": "Cà phê acoustic", "shop": "Mua sắm",
+GROUP_VI = {"eat": "Ăn uống", "cafe": "Cà phê", "music": "Cà phê acoustic", "relax": "Massage & thư giãn", "shop": "Mua sắm",
             "kids": "Khu vui chơi", "other": "Tham quan & khác"}
 MUSIC = re.compile(r"acoustic|phòng trà|nhạc sống|live music|nhạc trịnh|tiệm nhạc", re.I)
 FOOD_MARKET = re.compile(r"ẩm thực|sủi cảo|(^|\s)ốc(\s|$)|hải sản|chợ đêm|ăn vặt|ăn uống|món ăn|street food|food", re.I)
@@ -30,7 +30,7 @@ def group(p):
         return "music"
     if p["cat"] == "market":
         return "eat" if FOOD_MARKET.search(text) else "shop"
-    return {"food": "eat", "cafe": "cafe", "shopping": "shop", "kids": "kids"}.get(p["cat"], "other")
+    return {"food": "eat", "cafe": "cafe", "wellness": "relax", "shopping": "shop", "kids": "kids"}.get(p["cat"], "other")
 
 
 def volume(p):
@@ -95,7 +95,7 @@ def info_html(places, meta):
         f'Tổng hợp ngày {e(meta["generated"])} từ Michelin Guide, Wikipedia, Tripadvisor, báo và blog du lịch, '
         f'kiểm tra chéo vị trí với OpenStreetMap.</p>',
         "<h2 style='font-size:15px;margin-top:12px'>Cách dùng</h2><ul>"
-        "<li>Chọn thành phố, rồi một loại: <b>Tất cả</b> gồm Ăn uống, Cà phê, Cà phê acoustic, Mua sắm và Khu vui chơi; "
+        "<li>Chọn thành phố, rồi một loại: <b>Tất cả</b> gồm Ăn uống, Cà phê, Cà phê acoustic, Massage & thư giãn, Mua sắm và Khu vui chơi; "
         "điểm tham quan, thiên nhiên và quán bar nằm riêng ở <b>🏛️ Tham quan & khác</b>.</li>"
         "<li>Danh sách xếp <b>nổi tiếng & đáng đi nhất trước</b>: nhiều người đánh giá, điểm cao so với mặt bằng của nguồn, "
         "có Michelin, có trang Wikipedia hoặc đang hot; nơi chưa xác minh xếp cuối.</li>"
@@ -138,12 +138,26 @@ def og_image(places):
     return ""
 
 
+def drop_dead_links(p, dead):
+    """A link tools/checklinks.py found dead (404, gone domain, broken certificate, soft 404) never reaches the page."""
+    for k in ("web", "wiki"):
+        if p.get(k) in dead:
+            p[k] = None
+    p["sources"] = [u for u in p.get("sources") or [] if u not in dead]
+    if p.get("rating") and p["rating"].get("url") in dead:
+        p["rating"] = {**p["rating"], "url": ""}  # the score and its source name stay; only the link goes
+    p["imgs"] = [im for im in p.get("imgs") or [] if not {im["src"], im["thumb"], im["page"]} & dead]
+
+
 def build(home=None):
     """home: (lat, lng) for a LOCAL copy only — the published page never carries anyone's home."""
     places = json.loads((ROOT / "data" / "places.json").read_text(encoding="utf-8"))
     meta = json.loads((ROOT / "data" / "meta.json").read_text(encoding="utf-8"))
+    lc_path = ROOT / "data" / "linkcheck.json"
+    dead = {u for u, v in json.loads(lc_path.read_text()).items() if v == "dead"} if lc_path.exists() else set()
     med = group_medians(places)
     for p in places:
+        drop_dead_links(p, dead)
         p["grp"], p["fame"] = group(p), fame(p, med)
     live = [p for p in places if p["status"] in LIVE]
     cities = {k: {kk: v[kk] for kk in ("name", "center", "zoom", "core", "bbox")} for k, v in CITIES.items()}

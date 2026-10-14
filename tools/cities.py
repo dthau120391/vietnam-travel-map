@@ -31,9 +31,9 @@ CITIES = {
     },
 }
 
-CATS = ["food", "cafe", "music", "sight", "shopping", "market", "nightlife", "nature", "experience", "kids"]
+CATS = ["food", "cafe", "music", "wellness", "sight", "shopping", "market", "nightlife", "nature", "experience", "kids"]
 STATUSES = ["open", "unverified", "closed", "removed"]  # closed: a source says so; removed: no source shows it exists now
-GROUPS = ["eat", "cafe", "music", "shop", "kids", "other"]  # the filter tabs; "other" is off by default
+GROUPS = ["eat", "cafe", "music", "relax", "shop", "kids", "other"]  # the filter tabs; "other" is off by default
 
 
 def in_bbox(city, lat, lng):

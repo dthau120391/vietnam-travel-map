@@ -27,7 +27,7 @@ CACHE = ROOT / "data" / ".cache"
 UA = "VietnamTravelMap/1.0 (personal travel map; https://github.com/dthau120391)"
 FILES = {"hcmc-food": "hcmc", "hcmc-explore": "hcmc", "dalat": "dalat", "nhatrang": "nhatrang",
          "nhatrang-b": "nhatrang", "mytho": "mytho", "hcmc-q5-food": "hcmc", "hcmc-q5-shop": "hcmc",
-         "acoustic": None}  # None: each entry names its own city
+         "acoustic": None, "hcmc-massage": "hcmc", "hcmc-therapy": "hcmc"}  # None: each entry names its own city
 AGREE_KM = 1.5  # an agent pin within this distance of an OSM match counts as confirmed
 
 
