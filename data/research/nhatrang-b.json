@@ -1,1763 +1,1866 @@
 [
- {
-  "id": "nhatrang-thap-ba-ponagar",
-  "name": "Tháp Bà Ponagar",
-  "cat": "sight",
-  "subtitle": "Đền tháp Chăm Pa thế kỷ 8–13, di tích quốc gia đặc biệt",
-  "address": "61 đường 2 Tháng 4, Vĩnh Phước, Nha Trang",
-  "lat": 12.26527778,
-  "lng": 109.19555556,
-  "coordSource": "https://en.wikipedia.org/wiki/Po_Nagar",
-  "price": "Vé khoảng 22.000–30.000đ/người (các nguồn 2025–2026 ghi khác nhau); trẻ dưới 1m miễn phí",
-  "hours": "Khoảng 06:00–17:30 (Google qua Wanderlog); nhiều nguồn ghi 08:00–18:00",
-  "mustTry": "Tháp chính thờ nữ thần Thiên Y A Na (Po Inư Nagar), bia ký Chăm cổ, xem múa Chăm và nhạc cụ truyền thống buổi chiều, ngắm sông Cái từ đồi cao",
-  "desc_vi": "Quần thể đền tháp Chăm Pa trên ngọn đồi nhỏ bên bờ bắc sông Cái, cách trung tâm khoảng 2 km. Khu di tích chia ba khu: tháp cổng, tiền đình (mandapa) và khu đền tháp chính; tháp thờ Mẹ xứ sở vẫn là nơi hành lễ của cả người Chăm và người Việt. Tháng 1/2025 di tích được xếp hạng di tích quốc gia đặc biệt.",
-  "review_vi": "Khen: kiến trúc gạch Chăm cổ còn khá nguyên vẹn, vị trí nhìn ra cửa sông đẹp, có biểu diễn múa Chăm, vé rẻ. Chê: bậc thang lên đền dốc, buổi trưa nóng; khu tham quan nhỏ, 30–60 phút là xem hết; quy định trang phục khá chặt.",
-  "rating": {
-   "value": 4.5,
-   "count": 31370,
-   "source": "Google (qua Wanderlog)",
-   "url": "https://wanderlog.com/place/details/6462",
-   "seen": "2026-10"
+  {
+    "id": "nhatrang-thap-ba-ponagar",
+    "name": "Tháp Bà Ponagar",
+    "cat": "sight",
+    "subtitle": "Đền tháp Chăm Pa thế kỷ 8–13, di tích quốc gia đặc biệt",
+    "address": "61 đường 2 Tháng 4, Vĩnh Phước, Nha Trang",
+    "lat": 12.26527778,
+    "lng": 109.19555556,
+    "coordSource": "https://en.wikipedia.org/wiki/Po_Nagar",
+    "price": "Vé khoảng 22.000–30.000đ/người (các nguồn 2025–2026 ghi khác nhau); trẻ dưới 1m miễn phí",
+    "hours": "Khoảng 06:00–17:30 (Google qua Wanderlog); nhiều nguồn ghi 08:00–18:00",
+    "mustTry": "Tháp chính thờ nữ thần Thiên Y A Na (Po Inư Nagar), bia ký Chăm cổ, xem múa Chăm và nhạc cụ truyền thống buổi chiều, ngắm sông Cái từ đồi cao",
+    "desc_vi": "Quần thể đền tháp Chăm Pa trên ngọn đồi nhỏ bên bờ bắc sông Cái, cách trung tâm khoảng 2 km. Khu di tích chia ba khu: tháp cổng, tiền đình (mandapa) và khu đền tháp chính; tháp thờ Mẹ xứ sở vẫn là nơi hành lễ của cả người Chăm và người Việt. Tháng 1/2025 di tích được xếp hạng di tích quốc gia đặc biệt.",
+    "review_vi": "Khen: kiến trúc gạch Chăm cổ còn khá nguyên vẹn, vị trí nhìn ra cửa sông đẹp, có biểu diễn múa Chăm, vé rẻ. Chê: bậc thang lên đền dốc, buổi trưa nóng; khu tham quan nhỏ, 30–60 phút là xem hết; quy định trang phục khá chặt.",
+    "rating": {
+      "value": 4.5,
+      "count": 31370,
+      "source": "Google (qua Wanderlog)",
+      "url": "https://wanderlog.com/place/details/6462",
+      "seen": "2026-10"
+    },
+    "trending": false,
+    "tags": [
+      "Chăm Pa",
+      "di tích quốc gia đặc biệt",
+      "tâm linh",
+      "Hợp với trẻ em"
+    ],
+    "tips_vi": "Mẹo: Mặc quần áo kín vai, quá gối khi vào điện thờ (có áo choàng cho mượn ở cổng); đi sáng sớm hoặc cuối chiều cho mát. Có thể kết hợp tắm bùn Tháp Bà (438 Ngô Đến) ngay gần đó.",
+    "images": [],
+    "wiki": "https://en.wikipedia.org/wiki/Po_Nagar",
+    "website": null,
+    "sources": [
+      "https://en.wikipedia.org/wiki/Po_Nagar",
+      "https://wanderlog.com/place/details/6462",
+      "https://momo.vn/blog/thap-ba-ponagar-nha-trang-c101dt854",
+      "https://mia.vn/cam-nang-du-lich/cap-nhat-gia-ve-cac-diem-tham-quan-co-thu-phi-o-nha-trang-1084",
+      "https://baovanhoa.vn/van-hoa/to-chuc-le-vinh-danh-di-tich-quoc-gia-dac-biet-thap-ba-ponagar-123033.html"
+    ],
+    "status": "open",
+    "existing": true
   },
-  "trending": false,
-  "tags": [
-   "Chăm Pa",
-   "di tích quốc gia đặc biệt",
-   "tâm linh",
-   "Hợp với trẻ em"
-  ],
-  "tips_vi": "Mẹo: Mặc quần áo kín vai, quá gối khi vào điện thờ (có áo choàng cho mượn ở cổng); đi sáng sớm hoặc cuối chiều cho mát. Có thể kết hợp tắm bùn Tháp Bà (438 Ngô Đến) ngay gần đó.",
-  "images": [],
-  "wiki": "https://en.wikipedia.org/wiki/Po_Nagar",
-  "website": null,
-  "sources": [
-   "https://en.wikipedia.org/wiki/Po_Nagar",
-   "https://wanderlog.com/place/details/6462",
-   "https://momo.vn/blog/thap-ba-ponagar-nha-trang-c101dt854",
-   "https://mia.vn/cam-nang-du-lich/cap-nhat-gia-ve-cac-diem-tham-quan-co-thu-phi-o-nha-trang-1084",
-   "https://baovanhoa.vn/van-hoa/to-chuc-le-vinh-danh-di-tich-quoc-gia-dac-biet-thap-ba-ponagar-123033.html"
-  ],
-  "status": "open",
-  "existing": true
- },
- {
-  "id": "nhatrang-chua-long-son",
-  "name": "Chùa Long Sơn",
-  "cat": "sight",
-  "subtitle": "Chùa Phật Trắng dưới chân núi Trại Thủy",
-  "address": "22 đường 23 Tháng 10, Phương Sơn, Nha Trang",
-  "lat": 12.251601,
-  "lng": 109.180765,
-  "coordSource": "https://en.wikipedia.org/wiki/Long_S%C6%A1n_Temple",
-  "price": "Miễn phí",
-  "hours": "Mở cửa cả ngày (Google qua Wanderlog)",
-  "mustTry": "Leo 193 bậc lên tượng Kim Thân Phật Tổ (tổng cao 24 m gồm đài sen), ghé tượng Phật nằm dài 17 m bằng đá granite ở khoảng bậc thứ 44, ngắm toàn cảnh thành phố",
-  "desc_vi": "Ngôi chùa khởi dựng từ cuối thế kỷ 19, được mở rộng thập niên 1930 và nhận sắc tứ \"Long Sơn Tự\" năm 1938. Điểm nhấn là tượng Phật trắng ngồi trên đỉnh đồi Trại Thủy, dưới đài sen khắc chân dung Hòa thượng Thích Quảng Đức và các vị tự thiêu năm 1963. Chùa nằm sát trung tâm, dễ ghé kết hợp với Nhà thờ Núi.",
-  "review_vi": "Khen: miễn phí, không gian thanh tịnh, view thành phố từ chân tượng Phật đẹp, gần trung tâm. Chê: leo gần 200 bậc dưới nắng khá mệt; mùng 1 và rằm âm lịch rất đông người đi lễ.",
-  "rating": {
-   "value": 4.3,
-   "count": 15075,
-   "source": "Google (qua Wanderlog)",
-   "url": "https://wanderlog.com/place/details/6467",
-   "seen": "2026-10"
+  {
+    "id": "nhatrang-chua-long-son",
+    "name": "Chùa Long Sơn",
+    "cat": "sight",
+    "subtitle": "Chùa Phật Trắng dưới chân núi Trại Thủy",
+    "address": "22 đường 23 Tháng 10, Phương Sơn, Nha Trang",
+    "lat": 12.251601,
+    "lng": 109.180765,
+    "coordSource": "https://en.wikipedia.org/wiki/Long_S%C6%A1n_Temple",
+    "price": "Miễn phí",
+    "hours": "Mở cửa cả ngày (Google qua Wanderlog)",
+    "mustTry": "Leo 193 bậc lên tượng Kim Thân Phật Tổ (tổng cao 24 m gồm đài sen), ghé tượng Phật nằm dài 17 m bằng đá granite ở khoảng bậc thứ 44, ngắm toàn cảnh thành phố",
+    "desc_vi": "Ngôi chùa khởi dựng từ cuối thế kỷ 19, được mở rộng thập niên 1930 và nhận sắc tứ \"Long Sơn Tự\" năm 1938. Điểm nhấn là tượng Phật trắng ngồi trên đỉnh đồi Trại Thủy, dưới đài sen khắc chân dung Hòa thượng Thích Quảng Đức và các vị tự thiêu năm 1963. Chùa nằm sát trung tâm, dễ ghé kết hợp với Nhà thờ Núi.",
+    "review_vi": "Khen: miễn phí, không gian thanh tịnh, view thành phố từ chân tượng Phật đẹp, gần trung tâm. Chê: leo gần 200 bậc dưới nắng khá mệt; mùng 1 và rằm âm lịch rất đông người đi lễ.",
+    "rating": {
+      "value": 4.3,
+      "count": 15075,
+      "source": "Google (qua Wanderlog)",
+      "url": "https://wanderlog.com/place/details/6467",
+      "seen": "2026-10"
+    },
+    "trending": false,
+    "tags": [
+      "tâm linh",
+      "miễn phí",
+      "view thành phố"
+    ],
+    "tips_vi": "Mẹo: Đi 7:30–9:00 hoặc 16:00–17:30 cho mát; mang giày thể thao và nước. Ăn mặc lịch sự; chùa không bán vé — nếu có người tự xưng thu phí/dẫn đường thì cứ từ chối.",
+    "images": [
+      {
+        "commons": "File:Nha Trang, Long Son pagoda.jpg",
+        "kind": "place"
+      },
+      {
+        "commons": "File:Long Son Pagoda Buddha.JPG",
+        "kind": "place"
+      }
+    ],
+    "wiki": "https://en.wikipedia.org/wiki/Long_S%C6%A1n_Temple",
+    "website": null,
+    "sources": [
+      "https://en.wikipedia.org/wiki/Long_S%C6%A1n_Temple",
+      "https://wanderlog.com/place/details/6467",
+      "https://vinpearl.com/vi/chua-long-son-ngoi-chua-linh-thieng-dep-bac-nhat-nha-trang",
+      "https://www.vietnamairlines.com/us/vi/plan-book/travel/travel-guide/long-son-pagoda",
+      "https://vinwonders.com/vi/wonderpedia/news/chua-long-son-nha-trang/"
+    ],
+    "status": "open",
+    "existing": false
   },
-  "trending": false,
-  "tags": [
-   "tâm linh",
-   "miễn phí",
-   "view thành phố"
-  ],
-  "tips_vi": "Mẹo: Đi 7:30–9:00 hoặc 16:00–17:30 cho mát; mang giày thể thao và nước. Ăn mặc lịch sự; chùa không bán vé — nếu có người tự xưng thu phí/dẫn đường thì cứ từ chối.",
-  "images": [
-   {
-    "commons": "File:Nha Trang, Long Son pagoda.jpg",
-    "kind": "place"
-   },
-   {
-    "commons": "File:Long Son Pagoda Buddha.JPG",
-    "kind": "place"
-   }
-  ],
-  "wiki": "https://en.wikipedia.org/wiki/Long_S%C6%A1n_Temple",
-  "website": null,
-  "sources": [
-   "https://en.wikipedia.org/wiki/Long_S%C6%A1n_Temple",
-   "https://wanderlog.com/place/details/6467",
-   "https://vinpearl.com/vi/chua-long-son-ngoi-chua-linh-thieng-dep-bac-nhat-nha-trang",
-   "https://www.vietnamairlines.com/us/vi/plan-book/travel/travel-guide/long-son-pagoda",
-   "https://vinwonders.com/vi/wonderpedia/news/chua-long-son-nha-trang/"
-  ],
-  "status": "open",
-  "existing": false
- },
- {
-  "id": "nhatrang-nha-tho-nui",
-  "name": "Nhà thờ Núi (Nhà thờ Chánh tòa Kitô Vua)",
-  "cat": "sight",
-  "subtitle": "Nhà thờ Gothic đá trên đồi Dã Tượng",
-  "address": "01 Thái Nguyên, Phước Tân, Nha Trang",
-  "lat": 12.2468,
-  "lng": 109.1881,
-  "coordSource": "https://en.wikipedia.org/wiki/Christ_the_King_Cathedral,_Nha_Trang",
-  "price": "Miễn phí",
-  "hours": "Ngày thường 05:30–17:00; Chủ nhật 05:00–07:00 và 11:00–16:30 (theo VinWonders/MoMo)",
-  "mustTry": "Mặt tiền và tháp chuông kiểu Gothic bằng đá, kính màu bên trong, tượng Chúa trên đỉnh tháp, lối dốc lên đồi",
-  "desc_vi": "Nhà thờ chính tòa của Giáo phận Nha Trang, xây từ năm 1928 theo phong cách Gothic phục hưng bằng đá, cung hiến năm 1933 với tước hiệu Kitô Vua; tháp chuông hoàn thành năm 1935. Nằm trên ngọn đồi nhỏ cạnh ga Nha Trang, bên trong có nhiều ô kính màu mô tả các thánh và cuộc đời Chúa Giêsu.",
-  "review_vi": "Khen: kiến trúc đá cổ kính, kính màu đẹp, vào cửa miễn phí, gần trung tâm. Chê: giờ vào bên trong bị giới hạn quanh giờ lễ; nằm sát đường Thái Nguyên đông xe nên khó chụp toàn cảnh.",
-  "rating": {
-   "value": 4.1,
-   "count": 3163,
-   "source": "Google (qua Wanderlog)",
-   "url": "https://wanderlog.com/place/details/556497",
-   "seen": "2026-10"
+  {
+    "id": "nhatrang-nha-tho-nui",
+    "name": "Nhà thờ Núi (Nhà thờ Chánh tòa Kitô Vua)",
+    "cat": "sight",
+    "subtitle": "Nhà thờ Gothic đá trên đồi Dã Tượng",
+    "address": "01 Thái Nguyên, Phước Tân, Nha Trang",
+    "lat": 12.2468,
+    "lng": 109.1881,
+    "coordSource": "https://en.wikipedia.org/wiki/Christ_the_King_Cathedral,_Nha_Trang",
+    "price": "Miễn phí",
+    "hours": "Ngày thường 05:30–17:00; Chủ nhật 05:00–07:00 và 11:00–16:30 (theo VinWonders/MoMo)",
+    "mustTry": "Mặt tiền và tháp chuông kiểu Gothic bằng đá, kính màu bên trong, tượng Chúa trên đỉnh tháp, lối dốc lên đồi",
+    "desc_vi": "Nhà thờ chính tòa của Giáo phận Nha Trang, xây từ năm 1928 theo phong cách Gothic phục hưng bằng đá, cung hiến năm 1933 với tước hiệu Kitô Vua; tháp chuông hoàn thành năm 1935. Nằm trên ngọn đồi nhỏ cạnh ga Nha Trang, bên trong có nhiều ô kính màu mô tả các thánh và cuộc đời Chúa Giêsu.",
+    "review_vi": "Khen: kiến trúc đá cổ kính, kính màu đẹp, vào cửa miễn phí, gần trung tâm. Chê: giờ vào bên trong bị giới hạn quanh giờ lễ; nằm sát đường Thái Nguyên đông xe nên khó chụp toàn cảnh.",
+    "rating": {
+      "value": 4.1,
+      "count": 3163,
+      "source": "Google (qua Wanderlog)",
+      "url": "https://wanderlog.com/place/details/556497",
+      "seen": "2026-10"
+    },
+    "trending": false,
+    "tags": [
+      "kiến trúc Pháp",
+      "Công giáo",
+      "miễn phí"
+    ],
+    "tips_vi": "Mẹo: Không bán vé — cẩn thận người lạ thu tiền. Giờ lễ ngày thường 4:45 và 17:00, Chủ nhật nhiều thánh lễ (5:00, 7:00, 9:30, 15:00, 16:30, 18:30); tránh tham quan trong lúc lễ. Ăn mặc kín đáo; kết hợp chùa Long Sơn gần đó.",
+    "images": [
+      {
+        "commons": "File:Christ the King Cathedral Nha Trang.JPG",
+        "kind": "place"
+      },
+      {
+        "commons": "File:Nha Trang Cathedral.jpg",
+        "kind": "place"
+      }
+    ],
+    "wiki": "https://en.wikipedia.org/wiki/Christ_the_King_Cathedral,_Nha_Trang",
+    "website": null,
+    "sources": [
+      "https://en.wikipedia.org/wiki/Christ_the_King_Cathedral,_Nha_Trang",
+      "https://wanderlog.com/place/details/556497",
+      "https://vinwonders.com/vi/wonderpedia/news/nha-tho-nui-nha-trang-dia-diem-tham-quan-check-in-dep-doc-dao/",
+      "https://www.momo.vn/du-lich-di-lai/diem-den/nha-trang/nha-tho-nui-33",
+      "https://vinpearl.com/vi/nha-tho-nui-nha-trang-kham-pha-cong-trinh-kien-truc-mang-dau-an-thoi-gian"
+    ],
+    "status": "open",
+    "existing": false
   },
-  "trending": false,
-  "tags": [
-   "kiến trúc Pháp",
-   "Công giáo",
-   "miễn phí"
-  ],
-  "tips_vi": "Mẹo: Không bán vé — cẩn thận người lạ thu tiền. Giờ lễ ngày thường 4:45 và 17:00, Chủ nhật nhiều thánh lễ (5:00, 7:00, 9:30, 15:00, 16:30, 18:30); tránh tham quan trong lúc lễ. Ăn mặc kín đáo; kết hợp chùa Long Sơn gần đó.",
-  "images": [
-   {
-    "commons": "File:Christ the King Cathedral Nha Trang.JPG",
-    "kind": "place"
-   },
-   {
-    "commons": "File:Nha Trang Cathedral.jpg",
-    "kind": "place"
-   }
-  ],
-  "wiki": "https://en.wikipedia.org/wiki/Christ_the_King_Cathedral,_Nha_Trang",
-  "website": null,
-  "sources": [
-   "https://en.wikipedia.org/wiki/Christ_the_King_Cathedral,_Nha_Trang",
-   "https://wanderlog.com/place/details/556497",
-   "https://vinwonders.com/vi/wonderpedia/news/nha-tho-nui-nha-trang-dia-diem-tham-quan-check-in-dep-doc-dao/",
-   "https://www.momo.vn/du-lich-di-lai/diem-den/nha-trang/nha-tho-nui-33",
-   "https://vinpearl.com/vi/nha-tho-nui-nha-trang-kham-pha-cong-trinh-kien-truc-mang-dau-an-thoi-gian"
-  ],
-  "status": "open",
-  "existing": false
- },
- {
-  "id": "nhatrang-hon-chong",
-  "name": "Hòn Chồng – Hòn Vợ",
-  "cat": "sight",
-  "subtitle": "Bãi đá granite chồng chất bên vịnh Nha Trang",
-  "address": "Vĩnh Phước, Nha Trang (rẽ phải sau cầu vượt Phạm Văn Đồng, cách trung tâm ~4 km)",
-  "lat": 12.27292,
-  "lng": 109.206493,
-  "coordSource": "https://wanderlog.com/place/details/1023738",
-  "price": "22.000đ/người lớn, 11.000đ/trẻ em (giá tham khảo 2025, có thể điều chỉnh)",
-  "hours": "07:00–19:00 hằng ngày",
-  "mustTry": "Tìm \"dấu bàn tay người khổng lồ\" trên tảng đá, ngắm bình minh trên vịnh, nghe đàn đá, đàn nhị, đàn tranh ở Hội quán Vịnh Nha Trang, cà phê view biển ngay cạnh",
-  "desc_vi": "Cụm đá granite tự nhiên xếp chồng lên nhau ở phía bắc vịnh Nha Trang, gắn với truyền thuyết người khổng lồ trượt chân để lại dấu bàn tay trên đá. Từ bãi đá nhìn ra biển và làng chài, nhất là lúc bình minh; xung quanh có nhiều quán cà phê và hải sản.",
-  "review_vi": "Khen: cảnh biển và đá đẹp, chụp bình minh rất ổn, vé rẻ, gần trung tâm. Chê: khu đá nhỏ, đi nhanh là hết; đá gồ ghề và trơn, cuối chiều (16–17h) rất đông khách đoàn.",
-  "rating": {
-   "value": 4.3,
-   "count": 7899,
-   "source": "Google (qua Wanderlog)",
-   "url": "https://wanderlog.com/place/details/1023738",
-   "seen": "2026-10"
+  {
+    "id": "nhatrang-hon-chong",
+    "name": "Hòn Chồng – Hòn Vợ",
+    "cat": "sight",
+    "subtitle": "Bãi đá granite chồng chất bên vịnh Nha Trang",
+    "address": "Vĩnh Phước, Nha Trang (rẽ phải sau cầu vượt Phạm Văn Đồng, cách trung tâm ~4 km)",
+    "lat": 12.27292,
+    "lng": 109.206493,
+    "coordSource": "https://wanderlog.com/place/details/1023738",
+    "price": "22.000đ/người lớn, 11.000đ/trẻ em (giá tham khảo 2025, có thể điều chỉnh)",
+    "hours": "07:00–19:00 hằng ngày",
+    "mustTry": "Tìm \"dấu bàn tay người khổng lồ\" trên tảng đá, ngắm bình minh trên vịnh, nghe đàn đá, đàn nhị, đàn tranh ở Hội quán Vịnh Nha Trang, cà phê view biển ngay cạnh",
+    "desc_vi": "Cụm đá granite tự nhiên xếp chồng lên nhau ở phía bắc vịnh Nha Trang, gắn với truyền thuyết người khổng lồ trượt chân để lại dấu bàn tay trên đá. Từ bãi đá nhìn ra biển và làng chài, nhất là lúc bình minh; xung quanh có nhiều quán cà phê và hải sản.",
+    "review_vi": "Khen: cảnh biển và đá đẹp, chụp bình minh rất ổn, vé rẻ, gần trung tâm. Chê: khu đá nhỏ, đi nhanh là hết; đá gồ ghề và trơn, cuối chiều (16–17h) rất đông khách đoàn.",
+    "rating": {
+      "value": 4.3,
+      "count": 7899,
+      "source": "Google (qua Wanderlog)",
+      "url": "https://wanderlog.com/place/details/1023738",
+      "seen": "2026-10"
+    },
+    "trending": false,
+    "tags": [
+      "bình minh",
+      "đá granite",
+      "check-in"
+    ],
+    "tips_vi": "Mẹo: Đến sáng sớm để có bình minh và tránh đoàn; mang giày đế bằng, bám tốt; không đứng sát mép đá.",
+    "images": [
+      {
+        "commons": "File:Hon Chong rocks 2011.jpg",
+        "kind": "place"
+      },
+      {
+        "commons": "File:Hon Chong seen from the hill.JPG",
+        "kind": "place"
+      }
+    ],
+    "wiki": "https://vi.wikipedia.org/wiki/H%C3%B2n_Ch%E1%BB%93ng",
+    "website": null,
+    "sources": [
+      "https://wanderlog.com/place/details/1023738",
+      "https://www.greensm.com/vn-vi/news/hon-chong-nha-trang",
+      "https://vinpearl.com/vi/review-hon-chong-hon-vo-nha-trang-o-dau-choi-gi-hap-dan",
+      "https://www.vietnamairlines.com/at/vi/plan-book/travel/travel-guide/hon-chong"
+    ],
+    "status": "open",
+    "existing": false
   },
-  "trending": false,
-  "tags": [
-   "bình minh",
-   "đá granite",
-   "check-in"
-  ],
-  "tips_vi": "Mẹo: Đến sáng sớm để có bình minh và tránh đoàn; mang giày đế bằng, bám tốt; không đứng sát mép đá.",
-  "images": [
-   {
-    "commons": "File:Hon Chong rocks 2011.jpg",
-    "kind": "place"
-   },
-   {
-    "commons": "File:Hon Chong seen from the hill.JPG",
-    "kind": "place"
-   }
-  ],
-  "wiki": "https://vi.wikipedia.org/wiki/H%C3%B2n_Ch%E1%BB%93ng",
-  "website": null,
-  "sources": [
-   "https://wanderlog.com/place/details/1023738",
-   "https://www.greensm.com/vn-vi/news/hon-chong-nha-trang",
-   "https://vinpearl.com/vi/review-hon-chong-hon-vo-nha-trang-o-dau-choi-gi-hap-dan",
-   "https://www.vietnamairlines.com/at/vi/plan-book/travel/travel-guide/hon-chong"
-  ],
-  "status": "open",
-  "existing": false
- },
- {
-  "id": "nhatrang-vien-hai-duong-hoc",
-  "name": "Viện Hải dương học Nha Trang (Bảo tàng Hải dương học)",
-  "cat": "kids",
-  "subtitle": "Bảo tàng – thủy cung sinh vật biển lâu đời nhất Việt Nam",
-  "address": "01 Cầu Đá, Vĩnh Nguyên, Nha Trang",
-  "lat": 12.207669,
-  "lng": 109.214495,
-  "coordSource": "https://wanderlog.com/place/details/4181819",
-  "price": "Người lớn 40.000đ; sinh viên 20.000đ; học sinh 10.000đ; trẻ dưới 6 tuổi miễn phí",
-  "hours": "06:00–18:00 hằng ngày",
-  "mustTry": "Hợp với trẻ 3–12 tuổi: bể nuôi hơn 300 loài sinh vật sống, bộ xương cá voi lưng gù dài 18 m, mẫu cá nhám voi hơn 5 m, khu đa dạng sinh học với ~23.000 mẫu vật của khoảng 5.000 loài",
-  "desc_vi": "Thành lập ngày 14/9/1922 theo đề xuất của bác sĩ Alexandre Yersin, đây là một trong những viện nghiên cứu khoa học lâu đời nhất Việt Nam. Bảo tàng của viện trưng bày bể nuôi sinh vật biển sống và hàng chục nghìn mẫu vật; nằm cạnh cảng Cầu Đá nên tiện ghé trước hoặc sau khi đi tàu ra đảo.",
-  "review_vi": "Khen: vé rất rẻ, trẻ em thích khu bể cá và bộ xương cá voi khổng lồ, giá trị khoa học cao. Chê: không gian kiểu bảo tàng nghiên cứu truyền thống, không hiện đại và hoành tráng như thủy cung giải trí; ngày lễ đông.",
-  "rating": {
-   "value": 4.5,
-   "count": 2395,
-   "source": "Google (qua Wanderlog)",
-   "url": "https://wanderlog.com/place/details/4181819",
-   "seen": "2026-10"
+  {
+    "id": "nhatrang-vien-hai-duong-hoc",
+    "name": "Viện Hải dương học Nha Trang (Bảo tàng Hải dương học)",
+    "cat": "kids",
+    "subtitle": "Bảo tàng – thủy cung sinh vật biển lâu đời nhất Việt Nam",
+    "address": "01 Cầu Đá, Vĩnh Nguyên, Nha Trang",
+    "lat": 12.207669,
+    "lng": 109.214495,
+    "coordSource": "https://wanderlog.com/place/details/4181819",
+    "price": "Người lớn 40.000đ; sinh viên 20.000đ; học sinh 10.000đ; trẻ dưới 6 tuổi miễn phí",
+    "hours": "06:00–18:00 hằng ngày",
+    "mustTry": "Hợp với trẻ 3–12 tuổi: bể nuôi hơn 300 loài sinh vật sống, bộ xương cá voi lưng gù dài 18 m, mẫu cá nhám voi hơn 5 m, khu đa dạng sinh học với ~23.000 mẫu vật của khoảng 5.000 loài",
+    "desc_vi": "Thành lập ngày 14/9/1922 theo đề xuất của bác sĩ Alexandre Yersin, đây là một trong những viện nghiên cứu khoa học lâu đời nhất Việt Nam. Bảo tàng của viện trưng bày bể nuôi sinh vật biển sống và hàng chục nghìn mẫu vật; nằm cạnh cảng Cầu Đá nên tiện ghé trước hoặc sau khi đi tàu ra đảo.",
+    "review_vi": "Khen: vé rất rẻ, trẻ em thích khu bể cá và bộ xương cá voi khổng lồ, giá trị khoa học cao. Chê: không gian kiểu bảo tàng nghiên cứu truyền thống, không hiện đại và hoành tráng như thủy cung giải trí; ngày lễ đông.",
+    "rating": {
+      "value": 4.5,
+      "count": 2395,
+      "source": "Google (qua Wanderlog)",
+      "url": "https://wanderlog.com/place/details/4181819",
+      "seen": "2026-10"
+    },
+    "trending": false,
+    "tags": [
+      "Hợp với trẻ em",
+      "thủy cung",
+      "bảo tàng",
+      "giá rẻ"
+    ],
+    "tips_vi": "Mẹo: Đi buổi sáng, kết hợp với cảng Cầu Đá (tàu đi Hòn Mun/tour đảo) ngay gần. Mang thẻ học sinh/sinh viên để mua vé giảm; không cho sinh vật ăn, không chạm vào mẫu vật.",
+    "images": [
+      {
+        "commons": "File:Hải dương học Nha Trang.jpg",
+        "kind": "place"
+      },
+      {
+        "commons": "File:Nhatrang Oceanographic Institute.jpg",
+        "kind": "place"
+      }
+    ],
+    "wiki": "https://en.wikipedia.org/wiki/Nha_Trang_Oceanography_Institute",
+    "website": "https://baotanghdh.vn/",
+    "sources": [
+      "https://wanderlog.com/place/details/4181819",
+      "https://wanderlog.com/place/details/556500",
+      "https://mia.vn/cam-nang-du-lich/cap-nhat-gia-ve-cac-diem-tham-quan-co-thu-phi-o-nha-trang-1084",
+      "https://mia.vn/cam-nang-du-lich/bao-tang-hai-duong-hoc-nha-trang-dai-duong-thu-nho-giua-long-thanh-pho-2559",
+      "https://vinpearl.com/vi/chia-se-kinh-nghiem-tham-quan-vien-hai-duong-hoc-nha-trang-chi-tiet",
+      "https://en.wikipedia.org/wiki/Nha_Trang_Oceanography_Institute"
+    ],
+    "status": "open",
+    "existing": false
   },
-  "trending": false,
-  "tags": [
-   "Hợp với trẻ em",
-   "thủy cung",
-   "bảo tàng",
-   "giá rẻ"
-  ],
-  "tips_vi": "Mẹo: Đi buổi sáng, kết hợp với cảng Cầu Đá (tàu đi Hòn Mun/tour đảo) ngay gần. Mang thẻ học sinh/sinh viên để mua vé giảm; không cho sinh vật ăn, không chạm vào mẫu vật.",
-  "images": [
-   {
-    "commons": "File:Hải dương học Nha Trang.jpg",
-    "kind": "place"
-   },
-   {
-    "commons": "File:Nhatrang Oceanographic Institute.jpg",
-    "kind": "place"
-   }
-  ],
-  "wiki": "https://en.wikipedia.org/wiki/Nha_Trang_Oceanography_Institute",
-  "website": "https://baotanghdh.vn/",
-  "sources": [
-   "https://wanderlog.com/place/details/4181819",
-   "https://wanderlog.com/place/details/556500",
-   "https://mia.vn/cam-nang-du-lich/cap-nhat-gia-ve-cac-diem-tham-quan-co-thu-phi-o-nha-trang-1084",
-   "https://mia.vn/cam-nang-du-lich/bao-tang-hai-duong-hoc-nha-trang-dai-duong-thu-nho-giua-long-thanh-pho-2559",
-   "https://vinpearl.com/vi/chia-se-kinh-nghiem-tham-quan-vien-hai-duong-hoc-nha-trang-chi-tiet",
-   "https://en.wikipedia.org/wiki/Nha_Trang_Oceanography_Institute"
-  ],
-  "status": "open",
-  "existing": false
- },
- {
-  "id": "nhatrang-hai-san-thanh-suong",
-  "name": "Hải sản Thanh Sương",
-  "cat": "food",
-  "subtitle": null,
-  "address": "15 Trần Phú, Vĩnh Nguyên, Nha Trang (chi nhánh 2: 9A Trần Phú)",
-  "lat": 12.213077,
-  "lng": 109.211764,
-  "coordSource": "https://wanderlog.com/place/details/2499533",
-  "price": null,
-  "hours": "10:00–22:00",
-  "mustTry": null,
-  "desc_vi": null,
-  "review_vi": null,
-  "rating": {
-   "value": 4.4,
-   "count": 5396,
-   "source": "Google (qua Wanderlog)",
-   "url": "https://wanderlog.com/place/details/2499533",
-   "seen": "2026-10"
+  {
+    "id": "nhatrang-hai-san-thanh-suong",
+    "name": "Hải sản Thanh Sương",
+    "cat": "food",
+    "subtitle": null,
+    "address": "15 Trần Phú, Vĩnh Nguyên, Nha Trang (chi nhánh 2: 9A Trần Phú)",
+    "lat": 12.213077,
+    "lng": 109.211764,
+    "coordSource": "https://wanderlog.com/place/details/2499533",
+    "price": null,
+    "hours": "10:00–22:00",
+    "mustTry": null,
+    "desc_vi": null,
+    "review_vi": null,
+    "rating": {
+      "value": 4.4,
+      "count": 5396,
+      "source": "Google (qua Wanderlog)",
+      "url": "https://wanderlog.com/place/details/2499533",
+      "seen": "2026-10"
+    },
+    "trending": false,
+    "tags": [],
+    "tips_vi": null,
+    "images": [],
+    "wiki": null,
+    "website": "https://haisanthanhsuong.com/",
+    "sources": [
+      "https://wanderlog.com/place/details/2499533"
+    ],
+    "status": "draft",
+    "existing": true
   },
-  "trending": false,
-  "tags": [],
-  "tips_vi": null,
-  "images": [],
-  "wiki": null,
-  "website": "https://haisanthanhsuong.com/",
-  "sources": [
-   "https://wanderlog.com/place/details/2499533"
-  ],
-  "status": "draft",
-  "existing": true
- },
- {
-  "id": "nhatrang-bo-nuong-lac-canh",
-  "name": "Bò nướng Lạc Cảnh",
-  "cat": "food",
-  "subtitle": null,
-  "address": "77 Nguyễn Bỉnh Khiêm, Nha Trang",
-  "lat": 12.256902,
-  "lng": 109.194521,
-  "coordSource": "https://wanderlog.com/place/details/816758",
-  "price": null,
-  "hours": "09:30–21:00",
-  "mustTry": null,
-  "desc_vi": null,
-  "review_vi": null,
-  "rating": {
-   "value": 3.7,
-   "count": 4212,
-   "source": "Google (qua Wanderlog)",
-   "url": "https://wanderlog.com/place/details/816758",
-   "seen": "2026-10"
+  {
+    "id": "nhatrang-bo-nuong-lac-canh",
+    "name": "Bò nướng Lạc Cảnh",
+    "cat": "food",
+    "subtitle": null,
+    "address": "77 Nguyễn Bỉnh Khiêm, Nha Trang",
+    "lat": 12.256902,
+    "lng": 109.194521,
+    "coordSource": "https://wanderlog.com/place/details/816758",
+    "price": null,
+    "hours": "09:30–21:00",
+    "mustTry": null,
+    "desc_vi": null,
+    "review_vi": null,
+    "rating": {
+      "value": 3.7,
+      "count": 4212,
+      "source": "Google (qua Wanderlog)",
+      "url": "https://wanderlog.com/place/details/816758",
+      "seen": "2026-10"
+    },
+    "trending": false,
+    "tags": [],
+    "tips_vi": null,
+    "images": [],
+    "wiki": null,
+    "website": null,
+    "sources": [
+      "https://wanderlog.com/place/details/816758"
+    ],
+    "status": "draft",
+    "existing": true
   },
-  "trending": false,
-  "tags": [],
-  "tips_vi": null,
-  "images": [],
-  "wiki": null,
-  "website": null,
-  "sources": [
-   "https://wanderlog.com/place/details/816758"
-  ],
-  "status": "draft",
-  "existing": true
- },
- {
-  "id": "nhatrang-nem-nuong-15-le-loi",
-  "name": "Nem nướng Ninh Hòa 15 Lê Lợi",
-  "cat": "food",
-  "subtitle": null,
-  "address": "15 Lê Lợi, Nha Trang",
-  "lat": 12.253546,
-  "lng": 109.193916,
-  "coordSource": "https://wanderlog.com/place/details/3854787",
-  "price": null,
-  "hours": "07:30–20:30",
-  "mustTry": null,
-  "desc_vi": null,
-  "review_vi": null,
-  "rating": {
-   "value": 3.0,
-   "count": 542,
-   "source": "Google (qua Wanderlog)",
-   "url": "https://wanderlog.com/place/details/3854787",
-   "seen": "2026-10"
+  {
+    "id": "nhatrang-nem-nuong-15-le-loi",
+    "name": "Nem nướng Vũ Thành An (15 Lê Lợi)",
+    "cat": "food",
+    "subtitle": "Nem nướng Nha Trang bình dân (quán Vũ Thành An)",
+    "address": "15 Lê Lợi, Nha Trang",
+    "lat": 12.253546,
+    "lng": 109.193916,
+    "coordSource": "https://wanderlog.com/place/details/3854787",
+    "price": "Khoảng 20.000–55.000đ/món (MIA.vn 03/2026); Wanderlog ghi 35.000–70.000đ/món",
+    "hours": "07:30–20:30",
+    "mustTry": "Nem nướng cuốn bánh tráng với rau sống, xoài, đồ chua và nước chấm sệt; bún nem nướng; bò nướng lụi",
+    "desc_vi": "Quán nem nướng bình dân ở số 15 Lê Lợi, trên các trang ẩm thực thường mang tên Nem nướng Vũ Thành An, do chủ quán người gốc Nha Trang mở. Mỗi phần nem nướng ăn kèm bánh tráng, rau sống, xoài, dưa leo, đồ chua và nước chấm sệt theo công thức gia đình; quán bán thêm bún nem nướng, bò nướng lụi và bò nướng mè. Giá rẻ, mở từ sáng đến tối nên là chỗ quen để thử món nem cuốn đặc trưng Khánh Hòa.",
+    "review_vi": "Khen: nem nướng vàng, thơm, không dai không khô, ăn kèm nhiều rau, xoài và đồ chua; nước chấm riêng của quán đậm vị; giá rẻ. Chê: điểm Google chỉ khoảng 3.0 với lượng đánh giá 1 sao rất cao — khách phàn nàn phục vụ thất thường, vệ sinh chưa sạch, quán đông và phải chờ lâu.",
+    "rating": {
+      "value": 3.0,
+      "count": 542,
+      "source": "Google (qua Wanderlog)",
+      "url": "https://wanderlog.com/place/details/3854787",
+      "seen": "2026-10"
+    },
+    "trending": false,
+    "tags": [
+      "đặc sản Khánh Hòa",
+      "bình dân"
+    ],
+    "tips_vi": "Mẹo: Tránh giờ ăn trưa và tối để bớt chờ. Các nguồn ghi giờ mở cửa khác nhau (có nguồn ghi nghỉ trưa 12:00–14:00), nên gọi 0258 3824 024 trước khi đến.",
+    "images": [
+      {
+        "commons": "File:Mẹt nem nướng Nha Trang.jpg",
+        "kind": "dish"
+      }
+    ],
+    "wiki": null,
+    "website": null,
+    "sources": [
+      "https://wanderlog.com/place/details/3854787",
+      "https://mia.vn/cam-nang-du-lich/diem-ten-10-quan-nem-nuong-nha-trang-ngon-quen-loi-ve-682",
+      "https://toplist.vn/top-list/quan-nem-nuong-ngon-nhat-tp-nha-trang-khanh-hoa-53930.htm"
+    ],
+    "status": "open",
+    "existing": true
   },
-  "trending": false,
-  "tags": [],
-  "tips_vi": null,
-  "images": [],
-  "wiki": null,
-  "website": null,
-  "sources": [
-   "https://wanderlog.com/place/details/3854787"
-  ],
-  "status": "draft",
-  "existing": true
- },
- {
-  "id": "nhatrang-nem-nuong-dang-van-quyen",
-  "name": "Nem nướng Đặng Văn Quyên",
-  "cat": "food",
-  "subtitle": null,
-  "address": "16A Lãn Ông, Nha Trang",
-  "lat": 12.25372,
-  "lng": 109.193829,
-  "coordSource": "https://wanderlog.com/place/details/1452355",
-  "price": null,
-  "hours": "07:30–20:30",
-  "mustTry": null,
-  "desc_vi": null,
-  "review_vi": null,
-  "rating": {
-   "value": 4.1,
-   "count": 5941,
-   "source": "Google (qua Wanderlog)",
-   "url": "https://wanderlog.com/place/details/1452355",
-   "seen": "2026-10"
+  {
+    "id": "nhatrang-nem-nuong-dang-van-quyen",
+    "name": "Nem nướng Đặng Văn Quyên",
+    "cat": "food",
+    "subtitle": null,
+    "address": "16A Lãn Ông, Nha Trang",
+    "lat": 12.25372,
+    "lng": 109.193829,
+    "coordSource": "https://wanderlog.com/place/details/1452355",
+    "price": null,
+    "hours": "07:30–20:30",
+    "mustTry": null,
+    "desc_vi": null,
+    "review_vi": null,
+    "rating": {
+      "value": 4.1,
+      "count": 5941,
+      "source": "Google (qua Wanderlog)",
+      "url": "https://wanderlog.com/place/details/1452355",
+      "seen": "2026-10"
+    },
+    "trending": false,
+    "tags": [],
+    "tips_vi": null,
+    "images": [],
+    "wiki": null,
+    "website": "https://nemdangvanquyen.vn/",
+    "sources": [
+      "https://wanderlog.com/place/details/1452355"
+    ],
+    "status": "draft",
+    "existing": false
   },
-  "trending": false,
-  "tags": [],
-  "tips_vi": null,
-  "images": [],
-  "wiki": null,
-  "website": "https://nemdangvanquyen.vn/",
-  "sources": [
-   "https://wanderlog.com/place/details/1452355"
-  ],
-  "status": "draft",
-  "existing": false
- },
- {
-  "id": "nhatrang-nem-nuong-hong-vu",
-  "name": "Nem nướng Hồng Vũ",
-  "cat": "food",
-  "subtitle": null,
-  "address": "45 Núi Một (đi từ hẻm 47 Huỳnh Thúc Kháng), Nha Trang",
-  "lat": 12.245098,
-  "lng": 109.189545,
-  "coordSource": "https://wanderlog.com/place/details/14857916",
-  "price": null,
-  "hours": "10:00–21:00",
-  "mustTry": null,
-  "desc_vi": null,
-  "review_vi": null,
-  "rating": {
-   "value": 4.9,
-   "count": 1172,
-   "source": "Google (qua Wanderlog)",
-   "url": "https://wanderlog.com/place/details/14857916",
-   "seen": "2026-10"
+  {
+    "id": "nhatrang-nem-nuong-hong-vu",
+    "name": "Nem nướng Hồng Vũ",
+    "cat": "food",
+    "subtitle": null,
+    "address": "45 Núi Một (đi từ hẻm 47 Huỳnh Thúc Kháng), Nha Trang",
+    "lat": 12.245098,
+    "lng": 109.189545,
+    "coordSource": "https://wanderlog.com/place/details/14857916",
+    "price": null,
+    "hours": "10:00–21:00",
+    "mustTry": null,
+    "desc_vi": null,
+    "review_vi": null,
+    "rating": {
+      "value": 4.9,
+      "count": 1172,
+      "source": "Google (qua Wanderlog)",
+      "url": "https://wanderlog.com/place/details/14857916",
+      "seen": "2026-10"
+    },
+    "trending": false,
+    "tags": [],
+    "tips_vi": null,
+    "images": [],
+    "wiki": null,
+    "website": null,
+    "sources": [
+      "https://wanderlog.com/place/details/14857916"
+    ],
+    "status": "draft",
+    "existing": false
   },
-  "trending": false,
-  "tags": [],
-  "tips_vi": null,
-  "images": [],
-  "wiki": null,
-  "website": null,
-  "sources": [
-   "https://wanderlog.com/place/details/14857916"
-  ],
-  "status": "draft",
-  "existing": false
- },
- {
-  "id": "nhatrang-bun-ca-nguyen-loan",
-  "name": "Bún cá Nguyên Loan",
-  "cat": "food",
-  "subtitle": null,
-  "address": "123 Ngô Gia Tự, Nha Trang",
-  "lat": 12.241123,
-  "lng": 109.188367,
-  "coordSource": "https://wanderlog.com/place/details/4386825",
-  "price": null,
-  "hours": "05:00–22:00",
-  "mustTry": null,
-  "desc_vi": null,
-  "review_vi": null,
-  "rating": {
-   "value": 4.0,
-   "count": 1546,
-   "source": "Google (qua Wanderlog)",
-   "url": "https://wanderlog.com/place/details/4386825",
-   "seen": "2026-10"
+  {
+    "id": "nhatrang-bun-ca-nguyen-loan",
+    "name": "Bún cá Nguyên Loan",
+    "cat": "food",
+    "subtitle": null,
+    "address": "123 Ngô Gia Tự, Nha Trang",
+    "lat": 12.241123,
+    "lng": 109.188367,
+    "coordSource": "https://wanderlog.com/place/details/4386825",
+    "price": null,
+    "hours": "05:00–22:00",
+    "mustTry": null,
+    "desc_vi": null,
+    "review_vi": null,
+    "rating": {
+      "value": 4.0,
+      "count": 1546,
+      "source": "Google (qua Wanderlog)",
+      "url": "https://wanderlog.com/place/details/4386825",
+      "seen": "2026-10"
+    },
+    "trending": false,
+    "tags": [],
+    "tips_vi": null,
+    "images": [],
+    "wiki": null,
+    "website": null,
+    "sources": [
+      "https://wanderlog.com/place/details/4386825"
+    ],
+    "status": "draft",
+    "existing": false
   },
-  "trending": false,
-  "tags": [],
-  "tips_vi": null,
-  "images": [],
-  "wiki": null,
-  "website": null,
-  "sources": [
-   "https://wanderlog.com/place/details/4386825"
-  ],
-  "status": "draft",
-  "existing": false
- },
- {
-  "id": "nhatrang-banh-can-hai-phuong",
-  "name": "Bánh căn – bánh xèo Hai Phượng",
-  "cat": "food",
-  "subtitle": null,
-  "address": "46/27 Hùng Vương, Nha Trang",
-  "lat": 12.239481,
-  "lng": 109.19453,
-  "coordSource": "https://wanderlog.com/place/details/7227551",
-  "price": null,
-  "hours": "11:00–23:00",
-  "mustTry": null,
-  "desc_vi": null,
-  "review_vi": null,
-  "rating": {
-   "value": 4.6,
-   "count": 995,
-   "source": "Google (qua Wanderlog)",
-   "url": "https://wanderlog.com/place/details/7227551",
-   "seen": "2026-10"
+  {
+    "id": "nhatrang-banh-can-hai-phuong",
+    "name": "Bánh căn – bánh xèo Hai Phượng",
+    "cat": "food",
+    "subtitle": null,
+    "address": "46/27 Hùng Vương, Nha Trang",
+    "lat": 12.239481,
+    "lng": 109.19453,
+    "coordSource": "https://wanderlog.com/place/details/7227551",
+    "price": null,
+    "hours": "11:00–23:00",
+    "mustTry": null,
+    "desc_vi": null,
+    "review_vi": null,
+    "rating": {
+      "value": 4.6,
+      "count": 995,
+      "source": "Google (qua Wanderlog)",
+      "url": "https://wanderlog.com/place/details/7227551",
+      "seen": "2026-10"
+    },
+    "trending": false,
+    "tags": [],
+    "tips_vi": null,
+    "images": [],
+    "wiki": null,
+    "website": null,
+    "sources": [
+      "https://wanderlog.com/place/details/7227551"
+    ],
+    "status": "draft",
+    "existing": false
   },
-  "trending": false,
-  "tags": [],
-  "tips_vi": null,
-  "images": [],
-  "wiki": null,
-  "website": null,
-  "sources": [
-   "https://wanderlog.com/place/details/7227551"
-  ],
-  "status": "draft",
-  "existing": false
- },
- {
-  "id": "nhatrang-moc-quan-seafood",
-  "name": "Mộc Quán Seafood",
-  "cat": "food",
-  "subtitle": null,
-  "address": "74 Hồng Bàng, Nha Trang",
-  "lat": 12.24053,
-  "lng": 109.189476,
-  "coordSource": "https://wanderlog.com/place/details/9445248",
-  "price": null,
-  "hours": "10:30–22:30",
-  "mustTry": null,
-  "desc_vi": null,
-  "review_vi": null,
-  "rating": {
-   "value": 4.5,
-   "count": 3079,
-   "source": "Google (qua Wanderlog)",
-   "url": "https://wanderlog.com/place/details/9445248",
-   "seen": "2026-10"
+  {
+    "id": "nhatrang-moc-quan-seafood",
+    "name": "Mộc Quán Seafood",
+    "cat": "food",
+    "subtitle": "Nhà hàng hải sản tươi sống, chọn tại bể",
+    "address": "74 Hồng Bàng, Nha Trang",
+    "lat": 12.24053,
+    "lng": 109.189476,
+    "coordSource": "https://wanderlog.com/place/details/9445248",
+    "price": null,
+    "hours": "10:30–22:30",
+    "mustTry": "Tôm nướng bơ tỏi, tôm hùm bơ tỏi hoặc phô mai, sò điệp nướng mỡ hành, móng tay xào rau muống, cơm chiên tỏi",
+    "desc_vi": "Nhà hàng hải sản hai tầng trên đường Hồng Bàng, cách Tháp Trầm Hương khoảng 650 m, đặc biệt đông khách Hàn Quốc. Khách chọn hải sản sống trong bể, xem cân tại chỗ rồi chọn cách chế biến; tầng 2 có phòng máy lạnh. Điểm cộng hay được nhắc là nhân viên bóc vỏ tôm, tôm hùm giúp khách và món nêm nếm vừa phải.",
+    "review_vi": "Khen: hải sản tươi, được tự chọn và xem cân; nhân viên thân thiện, nói được nhiều thứ tiếng, tư vấn món và bóc vỏ giúp; quán sạch, có phòng lạnh. Chê: giờ cao điểm buổi tối rất đông, ồn và phải chờ nếu không đặt trước; một số món sốt bị ngọt hoặc ngấy, sò điệp, hàu nướng và cá có lúc nhạt; có người thấy quán được quảng cáo trên mạng quá mức.",
+    "rating": {
+      "value": 4.5,
+      "count": 3079,
+      "source": "Google (qua Wanderlog)",
+      "url": "https://wanderlog.com/place/details/9445248",
+      "seen": "2026-10"
+    },
+    "trending": false,
+    "tags": [
+      "hải sản"
+    ],
+    "tips_vi": "Mẹo: Đặt bàn trước (điện thoại 0934 981 180, quán nhận cả KakaoTalk) và tránh khung 18:00–19:00; hỏi rõ giá theo cân trước khi chế biến.",
+    "images": [],
+    "wiki": null,
+    "website": null,
+    "sources": [
+      "https://wanderlog.com/place/details/9445248",
+      "https://vietnamguide.co.kr/place/나트랑-hai-san-moc-quan-nha-trang/"
+    ],
+    "status": "open",
+    "existing": false
   },
-  "trending": false,
-  "tags": [],
-  "tips_vi": null,
-  "images": [],
-  "wiki": null,
-  "website": null,
-  "sources": [
-   "https://wanderlog.com/place/details/9445248"
-  ],
-  "status": "draft",
-  "existing": false
- },
- {
-  "id": "nhatrang-lang-ngon",
-  "name": "Làng Ngon",
-  "cat": "food",
-  "subtitle": null,
-  "address": "Hẻm 83 Nguyễn Thị Minh Khai, Nha Trang",
-  "lat": 12.236008,
-  "lng": 109.189558,
-  "coordSource": "https://wanderlog.com/place/details/2625148",
-  "price": null,
-  "hours": "10:30–22:00",
-  "mustTry": null,
-  "desc_vi": null,
-  "review_vi": null,
-  "rating": {
-   "value": 4.5,
-   "count": 3521,
-   "source": "Google (qua Wanderlog)",
-   "url": "https://wanderlog.com/place/details/2625148",
-   "seen": "2026-10"
+  {
+    "id": "nhatrang-lang-ngon",
+    "name": "Làng Ngon",
+    "cat": "food",
+    "subtitle": "Nhà hàng món Việt ba miền trong khung cảnh làng quê",
+    "address": "Hẻm 83 Nguyễn Thị Minh Khai, Nha Trang",
+    "lat": 12.236008,
+    "lng": 109.189558,
+    "coordSource": "https://wanderlog.com/place/details/2625148",
+    "price": "Khoảng 17.000–600.000đ/món; hải sản tính theo thời giá (MIA.vn 06/2025)",
+    "hours": "10:30–22:00",
+    "mustTry": "Bún bò, heo sữa quay giòn, bánh căn mực, bún cá Nha Trang, hải sản tươi",
+    "desc_vi": "Nhà hàng món Việt mở từ năm 2016 trên khu đất gần 3.000 m², dựng lại khung cảnh làng quê Bắc Bộ với nhà mái ngói, ao sen, hồ cá koi dưới hàng xà cừ gần trăm năm tuổi. Thực đơn gần 300 món, từ bún đậu mắm tôm, bún bò Huế, mì Quảng, hủ tiếu Nam Vang đến bánh căn, bún cá, nem chả Nha Trang và hải sản tươi. Hợp cho bữa ăn gia đình, đãi khách hoặc tổ chức tiệc.",
+    "review_vi": "Khen: không gian làng quê mái ngói, ao sen, hồ cá đẹp và thoáng; thực đơn rất đa dạng, nguyên liệu tươi; nhân viên chu đáo. Chê: khu ngồi ngoài trời buổi tối có thể oi nóng khi lặng gió; trải nghiệm chưa đồng đều — vẫn có khá nhiều đánh giá 1 sao dù điểm trung bình cao.",
+    "rating": {
+      "value": 4.5,
+      "count": 3521,
+      "source": "Google (qua Wanderlog)",
+      "url": "https://wanderlog.com/place/details/2625148",
+      "seen": "2026-10"
+    },
+    "trending": false,
+    "tags": [
+      "món Việt ba miền",
+      "Hợp với trẻ em"
+    ],
+    "tips_vi": "Mẹo: Đi nhóm đông nên đặt bàn qua hotline 0913 504 319 hoặc form trên langngon.com; tối oi thì xin bàn trong nhà. Có thêm chi nhánh Làng Ngon Corner ở tầng 4 Vincom Center Lê Thánh Tôn (theo MIA.vn 06/2025).",
+    "images": [],
+    "wiki": null,
+    "website": "https://langngon.com/",
+    "sources": [
+      "https://wanderlog.com/place/details/2625148",
+      "https://langngon.com/",
+      "https://mia.vn/cam-nang-du-lich/lang-ngon-vietnamese-cuisine-seafood-restaurant-binh-di-trong-tung-bua-an-viet-nam-735"
+    ],
+    "status": "open",
+    "existing": false
   },
-  "trending": false,
-  "tags": [],
-  "tips_vi": null,
-  "images": [],
-  "wiki": null,
-  "website": "https://langngon.com/",
-  "sources": [
-   "https://wanderlog.com/place/details/2625148"
-  ],
-  "status": "draft",
-  "existing": false
- },
- {
-  "id": "nhatrang-goi-ca-mai-co-hang",
-  "name": "Gỏi cá mai Cô Hằng",
-  "cat": "food",
-  "subtitle": null,
-  "address": "54 Tháp Bà, Vĩnh Thọ, Nha Trang",
-  "lat": 12.265567,
-  "lng": 109.198353,
-  "coordSource": "https://wanderlog.com/place/details/8749453",
-  "price": null,
-  "hours": "10:30–20:00",
-  "mustTry": null,
-  "desc_vi": null,
-  "review_vi": null,
-  "rating": {
-   "value": 4.4,
-   "count": 124,
-   "source": "Google (qua Wanderlog)",
-   "url": "https://wanderlog.com/place/details/8749453",
-   "seen": "2026-10"
+  {
+    "id": "nhatrang-goi-ca-mai-co-hang",
+    "name": "Gỏi cá mai Cô Hằng",
+    "cat": "food",
+    "subtitle": "Gỏi cá mai Nha Trang",
+    "address": "54 Tháp Bà, Vĩnh Thọ, Nha Trang",
+    "lat": 12.265567,
+    "lng": 109.198353,
+    "coordSource": "https://wanderlog.com/place/details/8749453",
+    "price": "Khoảng 50.000–150.000đ/phần cho 1–4 người (MIA.vn 07/2026)",
+    "hours": "10:30–20:00",
+    "mustTry": "Gỏi cá mai cuốn bánh tráng, rau sống, chấm nước chấm gia truyền; kem flan tráng miệng",
+    "desc_vi": "Quán nhỏ gia đình gần Tháp Bà Ponagar chuyên gỏi cá mai — loại cá nhỏ thịt trắng, được lọc xương, tái chanh rồi cuốn bánh tráng với rau sống. Điểm riêng của quán là chén nước chấm sệt nấu từ nước luộc xương cá, thính gạo rang, thịt băm, ớt, tỏi và chanh theo công thức gia truyền. Cá mua trong ngày nên giữ được độ giòn ngọt.",
+    "review_vi": "Khen: cá tươi, không tanh, giòn ngọt; nước chấm đậm đà, khác biệt; rau sống nhiều; giá hợp lý, hai mẹ con chủ quán thân thiện, lên món nhanh. Chê: quán nhỏ, chỗ ngồi ngoài trời nóng vào mùa hè, giờ cao điểm phải chờ; có khách thấy cá tái chanh chưa đều và vị không nổi bật so với giá khoảng 100.000đ/phần.",
+    "rating": {
+      "value": 4.4,
+      "count": 124,
+      "source": "Google (qua Wanderlog)",
+      "url": "https://wanderlog.com/place/details/8749453",
+      "seen": "2026-10"
+    },
+    "trending": false,
+    "tags": [
+      "đặc sản Khánh Hòa",
+      "Ít người biết"
+    ],
+    "tips_vi": "Mẹo: Quán từng dời sang vài căn bên cạnh nên các trang ghi số nhà khác nhau — tìm \"Gỏi cá mai Cô Hằng\" trên bản đồ trước khi đi. Ghé ăn trưa sau khi tham quan Tháp Bà Ponagar.",
+    "images": [],
+    "wiki": null,
+    "website": null,
+    "sources": [
+      "https://wanderlog.com/place/details/8749453",
+      "https://mia.vn/cam-nang-du-lich/quan-goi-ca-mai-nha-trang-21154",
+      "https://vinwonders.com/vi/wonderpedia/news/dac-san-goi-ca-mai-nha-trang/"
+    ],
+    "status": "open",
+    "existing": false
   },
-  "trending": false,
-  "tags": [],
-  "tips_vi": null,
-  "images": [],
-  "wiki": null,
-  "website": null,
-  "sources": [
-   "https://wanderlog.com/place/details/8749453"
-  ],
-  "status": "draft",
-  "existing": false
- },
- {
-  "id": "nhatrang-xoi-ca-com",
-  "name": "Xôi cá cơm Ngô Sĩ Liên",
-  "cat": "food",
-  "subtitle": null,
-  "address": "11A Ngô Sĩ Liên, Nha Trang",
-  "lat": 12.248424,
-  "lng": 109.189329,
-  "coordSource": "https://wanderlog.com/place/details/7810380",
-  "price": null,
-  "hours": "17:30–20:30",
-  "mustTry": null,
-  "desc_vi": null,
-  "review_vi": null,
-  "rating": {
-   "value": 4.7,
-   "count": 64,
-   "source": "Google (qua Wanderlog)",
-   "url": "https://wanderlog.com/place/details/7810380",
-   "seen": "2026-10"
+  {
+    "id": "nhatrang-xoi-ca-com",
+    "name": "Xôi cá cơm Ngô Sĩ Liên",
+    "cat": "food",
+    "subtitle": "Xôi cá cơm Nha Trang (bán mang đi)",
+    "address": "11A Ngô Sĩ Liên, Nha Trang",
+    "lat": 12.248424,
+    "lng": 109.189329,
+    "coordSource": "https://wanderlog.com/place/details/7810380",
+    "price": null,
+    "hours": "17:30–20:30",
+    "mustTry": "Xôi cá cơm kho rưới mỡ hành",
+    "desc_vi": "Điểm bán xôi cá cơm buổi chiều tối ở 11A Ngô Sĩ Liên — xôi dẻo rưới mỡ hành, phủ cá cơm kho mặn ngọt, có thể thêm chả, lạp xưởng hoặc thịt; theo Wanderlog quán chỉ bán mang đi.",
+    "review_vi": null,
+    "rating": {
+      "value": 4.7,
+      "count": 64,
+      "source": "Google (qua Wanderlog)",
+      "url": "https://wanderlog.com/place/details/7810380",
+      "seen": "2026-10"
+    },
+    "trending": false,
+    "tags": [
+      "đặc sản Khánh Hòa",
+      "Ít người biết"
+    ],
+    "tips_vi": "Mẹo: Chỉ bán buổi chiều tối (khoảng 17:30–20:30 theo Google) và không có chỗ ngồi — mua mang về ăn. Chưa có nguồn 2025–2026 xác nhận quán còn bán, nên xem Google Maps trước khi đi.",
+    "images": [],
+    "wiki": null,
+    "website": null,
+    "sources": [
+      "https://wanderlog.com/place/details/7810380"
+    ],
+    "status": "unverified",
+    "existing": false
   },
-  "trending": false,
-  "tags": [],
-  "tips_vi": null,
-  "images": [],
-  "wiki": null,
-  "website": null,
-  "sources": [
-   "https://wanderlog.com/place/details/7810380"
-  ],
-  "status": "draft",
-  "existing": false
- },
- {
-  "id": "nhatrang-bun-ca-la-hieu-an",
-  "name": "Bún cá lá Ninh Hòa Hiếu An",
-  "cat": "food",
-  "subtitle": null,
-  "address": "2A Xương Huân (góc Lãn Ông), Nha Trang",
-  "lat": 12.254216,
-  "lng": 109.193517,
-  "coordSource": "https://wanderlog.com/place/details/8750754",
-  "price": null,
-  "hours": "05:30–10:00",
-  "mustTry": null,
-  "desc_vi": null,
-  "review_vi": null,
-  "rating": {
-   "value": 4.8,
-   "count": 70,
-   "source": "Google (qua Wanderlog)",
-   "url": "https://wanderlog.com/place/details/8750754",
-   "seen": "2026-10"
+  {
+    "id": "nhatrang-bun-ca-la-hieu-an",
+    "name": "Bún cá lá Ninh Hòa Hiếu An",
+    "cat": "food",
+    "subtitle": "Bún cá lá kiểu Ninh Hòa (bán sáng)",
+    "address": "2A Xương Huân (góc Lãn Ông), Nha Trang",
+    "lat": 12.254216,
+    "lng": 109.193517,
+    "coordSource": "https://wanderlog.com/place/details/8750754",
+    "price": null,
+    "hours": "05:30–10:00",
+    "mustTry": "Bún cá lá với chả cá và sứa",
+    "desc_vi": "Quán bún cá nhỏ chỉ bán buổi sáng ở góc Xương Huân – Lãn Ông, nấu bún cá lá kiểu Ninh Hòa với nước dùng cá thanh, chả cá và sứa, ăn kèm xà lách, giá và bắp chuối bào.",
+    "review_vi": null,
+    "rating": {
+      "value": 4.8,
+      "count": 70,
+      "source": "Google (qua Wanderlog)",
+      "url": "https://wanderlog.com/place/details/8750754",
+      "seen": "2026-10"
+    },
+    "trending": false,
+    "tags": [
+      "đặc sản Khánh Hòa",
+      "Ít người biết"
+    ],
+    "tips_vi": "Mẹo: Chỉ mở buổi sáng (khoảng 05:30–10:00 theo Google) nên đến sớm; nêm thêm mắm ruốc, ớt có sẵn trên bàn. Chưa có nguồn 2025–2026 xác nhận, nên xem Google Maps trước khi đi.",
+    "images": [],
+    "wiki": null,
+    "website": null,
+    "sources": [
+      "https://wanderlog.com/place/details/8750754"
+    ],
+    "status": "unverified",
+    "existing": false
   },
-  "trending": false,
-  "tags": [],
-  "tips_vi": null,
-  "images": [],
-  "wiki": null,
-  "website": null,
-  "sources": [
-   "https://wanderlog.com/place/details/8750754"
-  ],
-  "status": "draft",
-  "existing": false
- },
- {
-  "id": "nhatrang-banh-canh-long-ca-tran-van-on",
-  "name": "Bánh canh lòng cá Trần Văn Ơn",
-  "cat": "food",
-  "subtitle": null,
-  "address": "17 Trần Văn Ơn, Nha Trang",
-  "lat": 12.24891,
-  "lng": 109.193184,
-  "coordSource": "https://wanderlog.com/place/details/8129088",
-  "price": null,
-  "hours": null,
-  "mustTry": null,
-  "desc_vi": null,
-  "review_vi": null,
-  "rating": {
-   "value": 4.8,
-   "count": 97,
-   "source": "Google (qua Wanderlog)",
-   "url": "https://wanderlog.com/place/details/8129088",
-   "seen": "2026-10"
+  {
+    "id": "nhatrang-banh-canh-long-ca-tran-van-on",
+    "name": "Bánh canh lòng cá Trần Văn Ơn",
+    "cat": "food",
+    "subtitle": null,
+    "address": "17 Trần Văn Ơn, Nha Trang",
+    "lat": 12.24891,
+    "lng": 109.193184,
+    "coordSource": "https://wanderlog.com/place/details/8129088",
+    "price": null,
+    "hours": null,
+    "mustTry": null,
+    "desc_vi": null,
+    "review_vi": null,
+    "rating": {
+      "value": 4.8,
+      "count": 97,
+      "source": "Google (qua Wanderlog)",
+      "url": "https://wanderlog.com/place/details/8129088",
+      "seen": "2026-10"
+    },
+    "trending": false,
+    "tags": [],
+    "tips_vi": null,
+    "images": [],
+    "wiki": null,
+    "website": null,
+    "sources": [
+      "https://wanderlog.com/place/details/8129088"
+    ],
+    "status": "draft",
+    "existing": false
   },
-  "trending": false,
-  "tags": [],
-  "tips_vi": null,
-  "images": [],
-  "wiki": null,
-  "website": null,
-  "sources": [
-   "https://wanderlog.com/place/details/8129088"
-  ],
-  "status": "draft",
-  "existing": false
- },
- {
-  "id": "nhatrang-banh-uot-long-ga-minh-loc",
-  "name": "Bánh ướt lòng gà Minh Lộc",
-  "cat": "food",
-  "subtitle": null,
-  "address": "67 Huỳnh Thúc Kháng, Nha Trang",
-  "lat": 12.244016,
-  "lng": 109.18966,
-  "coordSource": "https://wanderlog.com/place/details/12149211",
-  "price": null,
-  "hours": "08:00–13:00",
-  "mustTry": null,
-  "desc_vi": null,
-  "review_vi": null,
-  "rating": {
-   "value": 4.8,
-   "count": 65,
-   "source": "Google (qua Wanderlog)",
-   "url": "https://wanderlog.com/place/details/12149211",
-   "seen": "2026-10"
+  {
+    "id": "nhatrang-banh-uot-long-ga-minh-loc",
+    "name": "Bánh ướt lòng gà Minh Lộc",
+    "cat": "food",
+    "subtitle": "Bánh ướt lòng gà, cơm gà buổi sáng",
+    "address": "67 Huỳnh Thúc Kháng, Nha Trang",
+    "lat": 12.244016,
+    "lng": 109.18966,
+    "coordSource": "https://wanderlog.com/place/details/12149211",
+    "price": null,
+    "hours": "08:00–13:00",
+    "mustTry": "Bánh ướt lòng gà chấm nước mắm gừng; gỏi gà; nước dùng gà",
+    "desc_vi": "Quán gà bán buổi sáng ở 67 Huỳnh Thúc Kháng: bánh ướt tráng mỏng ăn với thịt gà xé, lòng gà và nước mắm gừng hơi cay, cùng cơm gà, gỏi gà và miến gà. Các đánh giá Google từ cuối 2023 đến cuối 2024 đều cho 5 sao, khen gà và nước dùng.",
+    "review_vi": "Khen: gà luộc ngọt, nạc; nước dùng gà đậm; gỏi gà và bánh ướt ngon; chủ quán thân thiện, giá hợp lý, chỗ ngồi sạch sẽ. Chê: các đánh giá đọc được (2023–2024) không nêu phàn nàn cụ thể; quán chỉ bán đến khoảng đầu giờ chiều.",
+    "rating": {
+      "value": 4.8,
+      "count": 65,
+      "source": "Google (qua Wanderlog)",
+      "url": "https://wanderlog.com/place/details/12149211",
+      "seen": "2026-10"
+    },
+    "trending": false,
+    "tags": [
+      "Ít người biết"
+    ],
+    "tips_vi": "Mẹo: Quán bán khoảng 08:00–13:00 (theo Google). Đánh giá mới nhất tìm được là cuối 2024, chưa có nguồn 2025–2026 — xem Google Maps trước khi đi.",
+    "images": [],
+    "wiki": null,
+    "website": null,
+    "sources": [
+      "https://wanderlog.com/place/details/12149211"
+    ],
+    "status": "unverified",
+    "existing": false
   },
-  "trending": false,
-  "tags": [],
-  "tips_vi": null,
-  "images": [],
-  "wiki": null,
-  "website": null,
-  "sources": [
-   "https://wanderlog.com/place/details/12149211"
-  ],
-  "status": "draft",
-  "existing": false
- },
- {
-  "id": "nhatrang-banh-xeo-chao-85",
-  "name": "Bánh xèo chảo 85",
-  "cat": "food",
-  "subtitle": null,
-  "address": "101 Trần Nhật Duật, Nha Trang",
-  "lat": 12.237622,
-  "lng": 109.185513,
-  "coordSource": "https://wanderlog.com/place/details/3052087",
-  "price": null,
-  "hours": "10:00–21:30",
-  "mustTry": null,
-  "desc_vi": null,
-  "review_vi": null,
-  "rating": {
-   "value": 4.3,
-   "count": 440,
-   "source": "Google (qua Wanderlog)",
-   "url": "https://wanderlog.com/place/details/3052087",
-   "seen": "2026-10"
+  {
+    "id": "nhatrang-banh-xeo-chao-85",
+    "name": "Bánh xèo chảo 85",
+    "cat": "food",
+    "subtitle": null,
+    "address": "101 Trần Nhật Duật, Nha Trang",
+    "lat": 12.237622,
+    "lng": 109.185513,
+    "coordSource": "https://wanderlog.com/place/details/3052087",
+    "price": null,
+    "hours": "10:00–21:30",
+    "mustTry": null,
+    "desc_vi": null,
+    "review_vi": null,
+    "rating": {
+      "value": 4.3,
+      "count": 440,
+      "source": "Google (qua Wanderlog)",
+      "url": "https://wanderlog.com/place/details/3052087",
+      "seen": "2026-10"
+    },
+    "trending": false,
+    "tags": [],
+    "tips_vi": null,
+    "images": [],
+    "wiki": null,
+    "website": null,
+    "sources": [
+      "https://wanderlog.com/place/details/3052087"
+    ],
+    "status": "draft",
+    "existing": false
   },
-  "trending": false,
-  "tags": [],
-  "tips_vi": null,
-  "images": [],
-  "wiki": null,
-  "website": null,
-  "sources": [
-   "https://wanderlog.com/place/details/3052087"
-  ],
-  "status": "draft",
-  "existing": false
- },
- {
-  "id": "nhatrang-bao-tang-yersin",
-  "name": "Bảo tàng Alexandre Yersin",
-  "cat": "sight",
-  "subtitle": null,
-  "address": "10 Trần Phú, Nha Trang",
-  "lat": 12.25096,
-  "lng": 109.195996,
-  "coordSource": "https://wanderlog.com/place/details/556499",
-  "price": null,
-  "hours": "T2–T6 07:30–11:30, 14:00–17:00; T7 07:30–11:30",
-  "mustTry": null,
-  "desc_vi": null,
-  "review_vi": null,
-  "rating": {
-   "value": 4.5,
-   "count": 482,
-   "source": "Google (qua Wanderlog)",
-   "url": "https://wanderlog.com/place/details/556499",
-   "seen": "2026-10"
+  {
+    "id": "nhatrang-bao-tang-yersin",
+    "name": "Bảo tàng Alexandre Yersin",
+    "cat": "sight",
+    "subtitle": null,
+    "address": "10 Trần Phú, Nha Trang",
+    "lat": 12.25096,
+    "lng": 109.195996,
+    "coordSource": "https://wanderlog.com/place/details/556499",
+    "price": null,
+    "hours": "T2–T6 07:30–11:30, 14:00–17:00; T7 07:30–11:30",
+    "mustTry": null,
+    "desc_vi": null,
+    "review_vi": null,
+    "rating": {
+      "value": 4.5,
+      "count": 482,
+      "source": "Google (qua Wanderlog)",
+      "url": "https://wanderlog.com/place/details/556499",
+      "seen": "2026-10"
+    },
+    "trending": false,
+    "tags": [],
+    "tips_vi": null,
+    "images": [],
+    "wiki": null,
+    "website": null,
+    "sources": [
+      "https://wanderlog.com/place/details/556499"
+    ],
+    "status": "draft",
+    "existing": false
   },
-  "trending": false,
-  "tags": [],
-  "tips_vi": null,
-  "images": [],
-  "wiki": null,
-  "website": null,
-  "sources": [
-   "https://wanderlog.com/place/details/556499"
-  ],
-  "status": "draft",
-  "existing": false
- },
- {
-  "id": "nhatrang-thanh-co-dien-khanh",
-  "name": "Thành cổ Diên Khánh",
-  "cat": "sight",
-  "subtitle": null,
-  "address": "Thị trấn Diên Khánh, Khánh Hòa (~12 km từ Nha Trang)",
-  "lat": 12.255568,
-  "lng": 109.090927,
-  "coordSource": "https://wanderlog.com/place/details/1838440",
-  "price": null,
-  "hours": null,
-  "mustTry": null,
-  "desc_vi": null,
-  "review_vi": null,
-  "rating": {
-   "value": 4.5,
-   "count": 255,
-   "source": "Google (qua Wanderlog)",
-   "url": "https://wanderlog.com/place/details/1838440",
-   "seen": "2026-10"
+  {
+    "id": "nhatrang-thanh-co-dien-khanh",
+    "name": "Thành cổ Diên Khánh",
+    "cat": "sight",
+    "subtitle": "Thành cổ kiểu Vauban thời chúa Nguyễn (1793)",
+    "address": "Thị trấn Diên Khánh, Khánh Hòa (~12 km từ Nha Trang)",
+    "lat": 12.255568,
+    "lng": 109.090927,
+    "coordSource": "https://wanderlog.com/place/details/1838440",
+    "price": null,
+    "hours": null,
+    "mustTry": "Cổng Tây và cổng Tiền với vọng lâu hai tầng, đoạn tường thành và hào nước, nhà thờ Hà Dừa cạnh cổng Tây",
+    "desc_vi": "Tòa thành quân sự do Nguyễn Ánh cho đắp từ năm 1793 sau khi giành lại Diên Khánh từ quân Tây Sơn, theo kiểu Vauban với tường đất hình lục giác không đều dài khoảng 2,7 km, bao quanh là hào nước rộng 20–30 m. Thành ban đầu có 6 cửa, nay còn 4 cửa Đông, Tây, Tiền, Hậu với vọng lâu hai tầng mái ngói cong; từng là đại bản doanh phong trào Cần Vương ở Khánh Hòa và được xếp hạng di tích quốc gia năm 1988. Năm 2026 di tích đang trong dự án trùng tu lớn: nạo vét hào, đắp lại tường thành, tu bổ các cổng.",
+    "review_vi": "Khen: các cổng thành gạch cổ còn khá nguyên vẹn, leo lên được, chụp ảnh đẹp; dễ kết hợp nhà thờ Hà Dừa và Văn miếu Diên Khánh gần đó. Chê: ngoài cổng và tường thành không có nhiều thứ để xem, thiếu bảng thông tin; chừng 15–30 phút là xem xong; năm 2026 nhiều đoạn đang là công trường trùng tu.",
+    "rating": {
+      "value": 4.5,
+      "count": 255,
+      "source": "Google (qua Wanderlog)",
+      "url": "https://wanderlog.com/place/details/1838440",
+      "seen": "2026-10"
+    },
+    "trending": false,
+    "tags": [
+      "di tích quốc gia",
+      "lịch sử",
+      "Ít người biết"
+    ],
+    "tips_vi": "Mẹo: Cách trung tâm Nha Trang khoảng 10–12 km về phía tây. Ghé cổng Tây rồi đi bộ khoảng 200 m sang nhà thờ Hà Dừa, sau đó qua Văn miếu Diên Khánh; vì công trường trùng tu đang thi công (09/2026), một số đoạn có thể bị rào chắn.",
+    "images": [
+      {
+        "commons": "File:Dien Khanh western gate.JPG",
+        "kind": "place"
+      },
+      {
+        "commons": "File:Dien Khanh front gate.JPG",
+        "kind": "place"
+      },
+      {
+        "commons": "File:Dien Khanh eastern gate.JPG",
+        "kind": "place"
+      }
+    ],
+    "wiki": "https://vi.wikipedia.org/wiki/Th%C3%A0nh_c%E1%BB%95_Di%C3%AAn_Kh%C3%A1nh",
+    "website": null,
+    "sources": [
+      "https://wanderlog.com/place/details/1838440",
+      "https://vi.wikipedia.org/wiki/Th%C3%A0nh_c%E1%BB%95_Di%C3%AAn_Kh%C3%A1nh",
+      "https://vov.vn/du-lich/trai-nghiem-tuyen-tham-quan-thanh-co-quan-su-duy-nhat-mien-trung-808296.vov",
+      "https://baovanhoa.vn/van-hoa/co-kip-hoan-thanh-truoc-mua-mua-bao-den-263582.html"
+    ],
+    "status": "open",
+    "existing": false
   },
-  "trending": false,
-  "tags": [],
-  "tips_vi": null,
-  "images": [],
-  "wiki": null,
-  "website": null,
-  "sources": [
-   "https://wanderlog.com/place/details/1838440"
-  ],
-  "status": "draft",
-  "existing": false
- },
- {
-  "id": "nhatrang-hon-mun",
-  "name": "Hòn Mun – lặn ngắm san hô",
-  "cat": "nature",
-  "subtitle": null,
-  "address": "Vịnh Nha Trang (tàu đi từ cảng Cầu Đá)",
-  "lat": 12.169998,
-  "lng": 109.300205,
-  "coordSource": "https://wanderlog.com/place/details/21830",
-  "price": null,
-  "hours": null,
-  "mustTry": null,
-  "desc_vi": null,
-  "review_vi": null,
-  "rating": {
-   "value": 4.4,
-   "count": 1142,
-   "source": "Google (qua Wanderlog)",
-   "url": "https://wanderlog.com/place/details/21830",
-   "seen": "2026-10"
+  {
+    "id": "nhatrang-hon-mun",
+    "name": "Hòn Mun – lặn ngắm san hô",
+    "cat": "nature",
+    "subtitle": null,
+    "address": "Vịnh Nha Trang (tàu đi từ cảng Cầu Đá)",
+    "lat": 12.169998,
+    "lng": 109.300205,
+    "coordSource": "https://wanderlog.com/place/details/21830",
+    "price": null,
+    "hours": null,
+    "mustTry": null,
+    "desc_vi": null,
+    "review_vi": null,
+    "rating": {
+      "value": 4.4,
+      "count": 1142,
+      "source": "Google (qua Wanderlog)",
+      "url": "https://wanderlog.com/place/details/21830",
+      "seen": "2026-10"
+    },
+    "trending": false,
+    "tags": [],
+    "tips_vi": null,
+    "images": [],
+    "wiki": null,
+    "website": null,
+    "sources": [
+      "https://wanderlog.com/place/details/21830"
+    ],
+    "status": "draft",
+    "existing": false
   },
-  "trending": false,
-  "tags": [],
-  "tips_vi": null,
-  "images": [],
-  "wiki": null,
-  "website": null,
-  "sources": [
-   "https://wanderlog.com/place/details/21830"
-  ],
-  "status": "draft",
-  "existing": false
- },
- {
-  "id": "nhatrang-hon-tam",
-  "name": "Hòn Tằm",
-  "cat": "experience",
-  "subtitle": null,
-  "address": "Đảo Hòn Tằm, vịnh Nha Trang",
-  "lat": 12.175891,
-  "lng": 109.24301,
-  "coordSource": "https://wanderlog.com/place/details/1641748",
-  "price": null,
-  "hours": null,
-  "mustTry": null,
-  "desc_vi": null,
-  "review_vi": null,
-  "rating": {
-   "value": 4.5,
-   "count": 893,
-   "source": "Google (qua Wanderlog)",
-   "url": "https://wanderlog.com/place/details/1641748",
-   "seen": "2026-10"
+  {
+    "id": "nhatrang-hon-tam",
+    "name": "Hòn Tằm",
+    "cat": "experience",
+    "subtitle": null,
+    "address": "Đảo Hòn Tằm, vịnh Nha Trang",
+    "lat": 12.175891,
+    "lng": 109.24301,
+    "coordSource": "https://wanderlog.com/place/details/1641748",
+    "price": null,
+    "hours": null,
+    "mustTry": null,
+    "desc_vi": null,
+    "review_vi": null,
+    "rating": {
+      "value": 4.5,
+      "count": 893,
+      "source": "Google (qua Wanderlog)",
+      "url": "https://wanderlog.com/place/details/1641748",
+      "seen": "2026-10"
+    },
+    "trending": false,
+    "tags": [],
+    "tips_vi": null,
+    "images": [],
+    "wiki": null,
+    "website": null,
+    "sources": [
+      "https://wanderlog.com/place/details/1641748"
+    ],
+    "status": "draft",
+    "existing": false
   },
-  "trending": false,
-  "tags": [],
-  "tips_vi": null,
-  "images": [],
-  "wiki": null,
-  "website": null,
-  "sources": [
-   "https://wanderlog.com/place/details/1641748"
-  ],
-  "status": "draft",
-  "existing": false
- },
- {
-  "id": "nhatrang-tam-bun-i-resort",
-  "name": "Tắm bùn khoáng nóng I-Resort",
-  "cat": "experience",
-  "subtitle": null,
-  "address": "Tổ 19 thôn Xuân Ngọc, Vĩnh Ngọc, Nha Trang",
-  "lat": 12.273192,
-  "lng": 109.175778,
-  "coordSource": "https://wanderlog.com/place/details/147319",
-  "price": null,
-  "hours": null,
-  "mustTry": null,
-  "desc_vi": null,
-  "review_vi": null,
-  "rating": {
-   "value": 4.4,
-   "count": 13271,
-   "source": "Google (qua Wanderlog)",
-   "url": "https://wanderlog.com/place/details/147319",
-   "seen": "2026-10"
+  {
+    "id": "nhatrang-tam-bun-i-resort",
+    "name": "Tắm bùn khoáng nóng I-Resort",
+    "cat": "experience",
+    "subtitle": null,
+    "address": "Tổ 19 thôn Xuân Ngọc, Vĩnh Ngọc, Nha Trang",
+    "lat": 12.273192,
+    "lng": 109.175778,
+    "coordSource": "https://wanderlog.com/place/details/147319",
+    "price": null,
+    "hours": null,
+    "mustTry": null,
+    "desc_vi": null,
+    "review_vi": null,
+    "rating": {
+      "value": 4.4,
+      "count": 13271,
+      "source": "Google (qua Wanderlog)",
+      "url": "https://wanderlog.com/place/details/147319",
+      "seen": "2026-10"
+    },
+    "trending": false,
+    "tags": [],
+    "tips_vi": null,
+    "images": [],
+    "wiki": null,
+    "website": "https://www.i-resort.vn/",
+    "sources": [
+      "https://wanderlog.com/place/details/147319"
+    ],
+    "status": "draft",
+    "existing": false
   },
-  "trending": false,
-  "tags": [],
-  "tips_vi": null,
-  "images": [],
-  "wiki": null,
-  "website": "https://www.i-resort.vn/",
-  "sources": [
-   "https://wanderlog.com/place/details/147319"
-  ],
-  "status": "draft",
-  "existing": false
- },
- {
-  "id": "nhatrang-tam-bun-thap-ba",
-  "name": "Tắm bùn Tháp Bà",
-  "cat": "experience",
-  "subtitle": null,
-  "address": "438 Ngô Đến, Vĩnh Phước, Nha Trang",
-  "lat": 12.270216,
-  "lng": 109.177783,
-  "coordSource": "https://wanderlog.com/place/details/797237",
-  "price": null,
-  "hours": "07:30–17:00",
-  "mustTry": null,
-  "desc_vi": null,
-  "review_vi": null,
-  "rating": {
-   "value": 4.4,
-   "count": 5389,
-   "source": "Google (qua Wanderlog)",
-   "url": "https://wanderlog.com/place/details/797237",
-   "seen": "2026-10"
+  {
+    "id": "nhatrang-tam-bun-thap-ba",
+    "name": "Tắm bùn Tháp Bà",
+    "cat": "experience",
+    "subtitle": null,
+    "address": "438 Ngô Đến, Vĩnh Phước, Nha Trang",
+    "lat": 12.270216,
+    "lng": 109.177783,
+    "coordSource": "https://wanderlog.com/place/details/797237",
+    "price": null,
+    "hours": "07:30–17:00",
+    "mustTry": null,
+    "desc_vi": null,
+    "review_vi": null,
+    "rating": {
+      "value": 4.4,
+      "count": 5389,
+      "source": "Google (qua Wanderlog)",
+      "url": "https://wanderlog.com/place/details/797237",
+      "seen": "2026-10"
+    },
+    "trending": false,
+    "tags": [],
+    "tips_vi": null,
+    "images": [],
+    "wiki": null,
+    "website": "https://tambunthapba.vn/",
+    "sources": [
+      "https://wanderlog.com/place/details/797237"
+    ],
+    "status": "draft",
+    "existing": false
   },
-  "trending": false,
-  "tags": [],
-  "tips_vi": null,
-  "images": [],
-  "wiki": null,
-  "website": "https://tambunthapba.vn/",
-  "sources": [
-   "https://wanderlog.com/place/details/797237"
-  ],
-  "status": "draft",
-  "existing": false
- },
- {
-  "id": "nhatrang-tram-trung-100-egg",
-  "name": "Tắm bùn Trăm Trứng (100 Egg)",
-  "cat": "experience",
-  "subtitle": null,
-  "address": "Đại lộ Nguyễn Tất Thành, Phước Đồng, Nha Trang",
-  "lat": 12.185299,
-  "lng": 109.161497,
-  "coordSource": "https://wanderlog.com/place/details/8265746",
-  "price": null,
-  "hours": "08:30–18:00",
-  "mustTry": null,
-  "desc_vi": null,
-  "review_vi": null,
-  "rating": {
-   "value": 4.7,
-   "count": 1251,
-   "source": "Google (qua Wanderlog)",
-   "url": "https://wanderlog.com/place/details/8265746",
-   "seen": "2026-10"
+  {
+    "id": "nhatrang-tram-trung-100-egg",
+    "name": "Tắm bùn Trăm Trứng (100 Egg)",
+    "cat": "experience",
+    "subtitle": "Khu du lịch tắm bùn trong bồn hình quả trứng",
+    "address": "Đại lộ Nguyễn Tất Thành, Phước Đồng, Nha Trang",
+    "lat": 12.185299,
+    "lng": 109.161497,
+    "coordSource": "https://wanderlog.com/place/details/8265746",
+    "price": "Vé tham quan (gói Khám phá) 150.000đ người lớn, 100.000đ trẻ em; các gói Thư giãn, Tinh hoa, VIP 300.000–700.000đ người lớn, 210.000–490.000đ trẻ em (website chính thức, xem 10/2026). MIA.vn 05/2026 ghi vé thấp hơn (80.000đ/65.000đ).",
+    "hours": "08:30–18:00",
+    "mustTry": "Ngâm bùn khoáng nóng trong bồn hình quả trứng, ngâm thảo dược, hồ bơi, khu Chăm Pa và công viên trứng để chụp ảnh",
+    "desc_vi": "Khu du lịch sinh thái hơn 20 ha trên đại lộ Nguyễn Tất Thành, cách trung tâm Nha Trang khoảng 8 km, nổi tiếng với dịch vụ ngâm bùn khoáng nóng trong hơn 100 bồn hình quả trứng khổng lồ. Ngoài tắm bùn và ngâm thảo dược còn có hồ bơi, khu kiến trúc Chăm Pa, làng nhà sàn kiểu Tây Nguyên, công viên trứng để chụp ảnh, nhà hàng và khu vui chơi, chia theo các chủ đề văn hóa Việt, Chăm, Tây Nguyên và trứng.",
+    "review_vi": "Khen: bồn tắm bùn hình trứng độc đáo; khuôn viên rộng, nhiều cây xanh và góc chụp ảnh; nhân viên thân thiện, khu vực sạch sẽ; nhà hàng trong khu nấu món địa phương ngon. Chê: ít phàn nàn — điểm trừ chủ yếu là chi phí cộng dồn vì ăn uống, bồn nóng, hồ bơi tính phí riêng, mang đồ ăn từ ngoài vào có thể bị phụ thu, và giá vé mỗi nguồn ghi một khác.",
+    "rating": {
+      "value": 4.7,
+      "count": 1251,
+      "source": "Google (qua Wanderlog)",
+      "url": "https://wanderlog.com/place/details/8265746",
+      "seen": "2026-10"
+    },
+    "trending": false,
+    "tags": [
+      "tắm bùn",
+      "Hợp với trẻ em"
+    ],
+    "tips_vi": "Mẹo: Người có bệnh tim mạch hoặc huyết áp cao nên cân nhắc trước khi ngâm bùn nóng. Có đồ bơi tại chỗ nếu quên mang; gửi đồ có giá trị vào túi niêm phong có thẻ tên được phát tại quầy. Kết hợp được với Galina Lake View ở gần đó.",
+    "images": [],
+    "wiki": null,
+    "website": "http://tramtrung100egg.vn/",
+    "sources": [
+      "https://wanderlog.com/place/details/8265746",
+      "http://tramtrung100egg.vn/",
+      "https://dulichso.khanhhoa.gov.vn/article/khu-du-lich-tram-trung-b11",
+      "https://mia.vn/cam-nang-du-lich/khu-du-lich-tram-trung-15402"
+    ],
+    "status": "open",
+    "existing": false
   },
-  "trending": false,
-  "tags": [],
-  "tips_vi": null,
-  "images": [],
-  "wiki": null,
-  "website": "http://tramtrung100egg.vn/",
-  "sources": [
-   "https://wanderlog.com/place/details/8265746"
-  ],
-  "status": "draft",
-  "existing": false
- },
- {
-  "id": "nhatrang-bai-doc-let",
-  "name": "Bãi biển Dốc Lết",
-  "cat": "nature",
-  "subtitle": null,
-  "address": "Ninh Thủy, Ninh Hòa, Khánh Hòa (~45 km bắc Nha Trang)",
-  "lat": 12.548618,
-  "lng": 109.235379,
-  "coordSource": "https://wanderlog.com/place/details/556496",
-  "price": null,
-  "hours": null,
-  "mustTry": null,
-  "desc_vi": null,
-  "review_vi": null,
-  "rating": {
-   "value": 4.3,
-   "count": 2034,
-   "source": "Google (qua Wanderlog)",
-   "url": "https://wanderlog.com/place/details/556496",
-   "seen": "2026-10"
+  {
+    "id": "nhatrang-bai-doc-let",
+    "name": "Bãi biển Dốc Lết",
+    "cat": "nature",
+    "subtitle": null,
+    "address": "Ninh Thủy, Ninh Hòa, Khánh Hòa (~45 km bắc Nha Trang)",
+    "lat": 12.548618,
+    "lng": 109.235379,
+    "coordSource": "https://wanderlog.com/place/details/556496",
+    "price": null,
+    "hours": null,
+    "mustTry": null,
+    "desc_vi": null,
+    "review_vi": null,
+    "rating": {
+      "value": 4.3,
+      "count": 2034,
+      "source": "Google (qua Wanderlog)",
+      "url": "https://wanderlog.com/place/details/556496",
+      "seen": "2026-10"
+    },
+    "trending": false,
+    "tags": [],
+    "tips_vi": null,
+    "images": [],
+    "wiki": null,
+    "website": null,
+    "sources": [
+      "https://wanderlog.com/place/details/556496"
+    ],
+    "status": "draft",
+    "existing": false
   },
-  "trending": false,
-  "tags": [],
-  "tips_vi": null,
-  "images": [],
-  "wiki": null,
-  "website": null,
-  "sources": [
-   "https://wanderlog.com/place/details/556496"
-  ],
-  "status": "draft",
-  "existing": false
- },
- {
-  "id": "nhatrang-vinh-ninh-van",
-  "name": "Vịnh Ninh Vân",
-  "cat": "nature",
-  "subtitle": null,
-  "address": "Bán đảo Hòn Hèo, Ninh Hòa, Khánh Hòa",
-  "lat": 12.355875,
-  "lng": 109.276462,
-  "coordSource": "https://wanderlog.com/place/details/93701",
-  "price": null,
-  "hours": null,
-  "mustTry": null,
-  "desc_vi": null,
-  "review_vi": null,
-  "rating": {
-   "value": 4.7,
-   "count": 116,
-   "source": "Google (qua Wanderlog)",
-   "url": "https://wanderlog.com/place/details/93701",
-   "seen": "2026-10"
+  {
+    "id": "nhatrang-vinh-ninh-van",
+    "name": "Vịnh Ninh Vân",
+    "cat": "nature",
+    "subtitle": null,
+    "address": "Bán đảo Hòn Hèo, Ninh Hòa, Khánh Hòa",
+    "lat": 12.355875,
+    "lng": 109.276462,
+    "coordSource": "https://wanderlog.com/place/details/93701",
+    "price": null,
+    "hours": null,
+    "mustTry": null,
+    "desc_vi": null,
+    "review_vi": null,
+    "rating": {
+      "value": 4.7,
+      "count": 116,
+      "source": "Google (qua Wanderlog)",
+      "url": "https://wanderlog.com/place/details/93701",
+      "seen": "2026-10"
+    },
+    "trending": false,
+    "tags": [],
+    "tips_vi": null,
+    "images": [],
+    "wiki": null,
+    "website": null,
+    "sources": [
+      "https://wanderlog.com/place/details/93701"
+    ],
+    "status": "draft",
+    "existing": false
   },
-  "trending": false,
-  "tags": [],
-  "tips_vi": null,
-  "images": [],
-  "wiki": null,
-  "website": null,
-  "sources": [
-   "https://wanderlog.com/place/details/93701"
-  ],
-  "status": "draft",
-  "existing": false
- },
- {
-  "id": "nhatrang-ba-ho",
-  "name": "Khu du lịch Ba Hồ",
-  "cat": "nature",
-  "subtitle": null,
-  "address": "Thôn Vạn Thuận, Ninh Ích, Ninh Hòa, Khánh Hòa (~25 km bắc Nha Trang)",
-  "lat": 12.389802,
-  "lng": 109.13788,
-  "coordSource": "https://wanderlog.com/place/details/6461",
-  "price": null,
-  "hours": null,
-  "mustTry": null,
-  "desc_vi": null,
-  "review_vi": null,
-  "rating": {
-   "value": 4.5,
-   "count": 3349,
-   "source": "Google (qua Wanderlog)",
-   "url": "https://wanderlog.com/place/details/6461",
-   "seen": "2026-10"
+  {
+    "id": "nhatrang-ba-ho",
+    "name": "Khu du lịch Ba Hồ",
+    "cat": "nature",
+    "subtitle": null,
+    "address": "Thôn Vạn Thuận, Ninh Ích, Ninh Hòa, Khánh Hòa (~25 km bắc Nha Trang)",
+    "lat": 12.389802,
+    "lng": 109.13788,
+    "coordSource": "https://wanderlog.com/place/details/6461",
+    "price": null,
+    "hours": null,
+    "mustTry": null,
+    "desc_vi": null,
+    "review_vi": null,
+    "rating": {
+      "value": 4.5,
+      "count": 3349,
+      "source": "Google (qua Wanderlog)",
+      "url": "https://wanderlog.com/place/details/6461",
+      "seen": "2026-10"
+    },
+    "trending": false,
+    "tags": [],
+    "tips_vi": null,
+    "images": [],
+    "wiki": null,
+    "website": "https://baho.vn/",
+    "sources": [
+      "https://wanderlog.com/place/details/6461"
+    ],
+    "status": "draft",
+    "existing": false
   },
-  "trending": false,
-  "tags": [],
-  "tips_vi": null,
-  "images": [],
-  "wiki": null,
-  "website": "https://baho.vn/",
-  "sources": [
-   "https://wanderlog.com/place/details/6461"
-  ],
-  "status": "draft",
-  "existing": false
- },
- {
-  "id": "nhatrang-dao-khi",
-  "name": "Đảo Khỉ (Hòn Lao)",
-  "cat": "kids",
-  "subtitle": null,
-  "address": "Hòn Lao, đầm Nha Phu (bến tàu Long Phú, Vĩnh Lương)",
-  "lat": 12.359675,
-  "lng": 109.21291,
-  "coordSource": "https://wanderlog.com/place/details/147322",
-  "price": null,
-  "hours": "07:30–16:30",
-  "mustTry": null,
-  "desc_vi": null,
-  "review_vi": null,
-  "rating": {
-   "value": 4.2,
-   "count": 3705,
-   "source": "Google (qua Wanderlog)",
-   "url": "https://wanderlog.com/place/details/147322",
-   "seen": "2026-10"
+  {
+    "id": "nhatrang-dao-khi",
+    "name": "Đảo Khỉ (Hòn Lao)",
+    "cat": "kids",
+    "subtitle": "Đảo khỉ thả tự nhiên trong đầm Nha Phu",
+    "address": "Hòn Lao, đầm Nha Phu (bến tàu Long Phú, Vĩnh Lương)",
+    "lat": 12.359675,
+    "lng": 109.21291,
+    "coordSource": "https://wanderlog.com/place/details/147322",
+    "price": "Người lớn (từ 1,4 m) 180.000đ, trẻ 1–1,39 m 100.000đ, dưới 1 m miễn phí, đã gồm tàu hai chiều và các tiết mục biểu diễn (VinWonders 12/2025); trò chơi thêm tính riêng, ví dụ bắn súng sơn 50.000đ, lặn biển 400.000đ/20 phút",
+    "hours": "07:30–16:30",
+    "mustTry": "Xem đàn khỉ thả tự nhiên, xiếc hải cẩu (10:30, 13:30, 15:30 theo VinWonders 12/2025), công viên nổi trên nước",
+    "desc_vi": "Hòn Lao nằm trong đầm Nha Phu, cách trung tâm Nha Trang khoảng 15–18 km về phía bắc; từ bến tàu Long Phú đi tàu khoảng 15 phút là tới. Trên đảo có khoảng 1.000–1.500 con khỉ sống thả tự nhiên, kèm các tiết mục xiếc khỉ, xiếc hải cẩu, đua chó, công viên nổi trên nước và các trò trả phí như bắn súng sơn, cưỡi đà điểu, lặn biển. Đây là điểm đi trong ngày quen thuộc với các gia đình có trẻ nhỏ.",
+    "review_vi": "Khen: được xem khỉ ở cự ly gần, trẻ em rất thích; chuyến tàu ngắn, cảnh đầm và đảo đẹp, nhiều góc chụp ảnh; vé đã gồm tàu hai chiều và các tiết mục biểu diễn. Chê: một số con khỉ hung dữ, giật đồ, cắn hoặc đeo bám đòi ăn; nhiều khách băn khoăn về cách đối xử với thú trong các màn xiếc; cơ sở vật chất trên đảo có phần xuống cấp.",
+    "rating": {
+      "value": 4.2,
+      "count": 3705,
+      "source": "Google (qua Wanderlog)",
+      "url": "https://wanderlog.com/place/details/147322",
+      "seen": "2026-10"
+    },
+    "trending": false,
+    "tags": [
+      "đảo",
+      "Hợp với trẻ em"
+    ],
+    "tips_vi": "Mẹo: Không đeo trang sức, không cầm đồ ăn hay túi lỏng khi đi giữa đàn khỉ vì khỉ hay giật đồ; không chạm vào đầu khỉ khi cho ăn và đừng trêu chọc chúng. Muốn mua chuối cho khỉ thì mua trước khi lên tàu sẽ rẻ hơn.",
+    "images": [
+      {
+        "commons": "File:MONKEY ISLAND NHA TRANG BAY VIETNAM JAN2012 (6967923315).jpg",
+        "kind": "place"
+      },
+      {
+        "commons": "File:MONKEY ISLAND NHA TRANG BAY VIETNAM JAN 2012 (6967919935).jpg",
+        "kind": "place"
+      }
+    ],
+    "wiki": null,
+    "website": "http://longphutourist.com/",
+    "sources": [
+      "https://wanderlog.com/place/details/147322",
+      "https://vinwonders.com/vi/wonderpedia/news/dao-khi-nha-trang/"
+    ],
+    "status": "open",
+    "existing": false
   },
-  "trending": false,
-  "tags": [],
-  "tips_vi": null,
-  "images": [],
-  "wiki": null,
-  "website": "http://longphutourist.com/",
-  "sources": [
-   "https://wanderlog.com/place/details/147322"
-  ],
-  "status": "draft",
-  "existing": false
- },
- {
-  "id": "nhatrang-bai-duong",
-  "name": "Bãi Dương",
-  "cat": "nature",
-  "subtitle": null,
-  "address": "Bãi Dương, Vĩnh Phước, Nha Trang (cạnh Hòn Chồng)",
-  "lat": 12.274357,
-  "lng": 109.202727,
-  "coordSource": "https://wanderlog.com/place/details/5841536",
-  "price": null,
-  "hours": null,
-  "mustTry": null,
-  "desc_vi": null,
-  "review_vi": null,
-  "rating": {
-   "value": 4.4,
-   "count": 48,
-   "source": "Google (qua Wanderlog)",
-   "url": "https://wanderlog.com/place/details/5841536",
-   "seen": "2026-10"
+  {
+    "id": "nhatrang-bai-duong",
+    "name": "Bãi Dương",
+    "cat": "nature",
+    "subtitle": "Bãi biển hàng dương yên tĩnh cạnh Hòn Chồng",
+    "address": "Bãi Dương, Vĩnh Phước, Nha Trang (cạnh Hòn Chồng)",
+    "lat": 12.274357,
+    "lng": 109.202727,
+    "coordSource": "https://wanderlog.com/place/details/5841536",
+    "price": null,
+    "hours": null,
+    "mustTry": null,
+    "desc_vi": "Bãi biển ở phía bắc Nha Trang thuộc quần thể Hòn Chồng, có hàng cây dương lớn rợp bóng dọc bãi cát dài. Biển ít sóng gió, nước nông và trong, lúc triều xuống nhìn thấy đáy và có người dân lội ra bắt ốc; không khí yên tĩnh hơn hẳn bãi Trần Phú ở trung tâm.",
+    "review_vi": "Khen: yên tĩnh, ít người hơn các bãi trung tâm; cát mịn, xuống nước thoải, hợp trẻ nhỏ; ngắm Hòn Chồng và hoàng hôn đẹp. Chê: hạ tầng kém hơn khu trung tâm, không phải lúc nào cũng có chỗ tắm tráng nước ngọt; mùa gió biển động, một số đoạn có sỏi đá hoặc mảnh san hô.",
+    "rating": {
+      "value": 4.4,
+      "count": 48,
+      "source": "Google (qua Wanderlog)",
+      "url": "https://wanderlog.com/place/details/5841536",
+      "seen": "2026-10"
+    },
+    "trending": false,
+    "tags": [
+      "bãi biển",
+      "Hợp với trẻ em",
+      "Ít người biết"
+    ],
+    "tips_vi": "Mẹo: Tắm sáng sớm (khoảng 5:00–7:30) hoặc sau 15:00, tránh nắng gắt 11:00–15:00; mùa hè để ý sứa. Mang theo nước ngọt để tráng người. Kết hợp tham quan Hòn Chồng ngay bên cạnh.",
+    "images": [],
+    "wiki": null,
+    "website": null,
+    "sources": [
+      "https://wanderlog.com/place/details/5841536",
+      "https://vinwonders.com/vi/wonderpedia/news/bai-tam-nha-trang/"
+    ],
+    "status": "open",
+    "existing": false
   },
-  "trending": false,
-  "tags": [],
-  "tips_vi": null,
-  "images": [],
-  "wiki": null,
-  "website": null,
-  "sources": [
-   "https://wanderlog.com/place/details/5841536"
-  ],
-  "status": "draft",
-  "existing": false
- },
- {
-  "id": "nhatrang-galina-lake-view",
-  "name": "Galina Lake View",
-  "cat": "kids",
-  "subtitle": null,
-  "address": "Phước Trung, Nha Trang (đại lộ Nguyễn Tất Thành)",
-  "lat": 12.188199,
-  "lng": 109.156644,
-  "coordSource": "https://wanderlog.com/place/details/3052053",
-  "price": null,
-  "hours": "08:00–16:00",
-  "mustTry": null,
-  "desc_vi": null,
-  "review_vi": null,
-  "rating": {
-   "value": 4.0,
-   "count": 511,
-   "source": "Google (qua Wanderlog)",
-   "url": "https://wanderlog.com/place/details/3052053",
-   "seen": "2026-10"
+  {
+    "id": "nhatrang-galina-lake-view",
+    "name": "Galina Lake View",
+    "cat": "kids",
+    "subtitle": "Khu du lịch sinh thái hồ Kênh Hạ",
+    "address": "Phước Trung, Nha Trang (đại lộ Nguyễn Tất Thành)",
+    "lat": 12.188199,
+    "lng": 109.156644,
+    "coordSource": "https://wanderlog.com/place/details/3052053",
+    "price": "Vé vào cổng 80.000đ người lớn, 50.000đ trẻ 1–1,4 m, dưới 1 m miễn phí; đạp vịt thiên nga 100.000đ/45 phút, thuyền chèo 80.000đ/45 phút, ca nô 250.000đ/vòng (MIA.vn 06/2026, giá tham khảo)",
+    "hours": "08:00–16:00",
+    "mustTry": "Đạp vịt thiên nga trên hồ, câu cá và nhờ nấu tại chỗ, đi ca nô vòng hồ, cắm trại trên bãi cỏ",
+    "desc_vi": "Khu du lịch sinh thái bên hồ Kênh Hạ ở phía nam Nha Trang (xã Phước Đồng cũ, nay là phường Nam Nha Trang), cách trung tâm khoảng 10 km. Khách đến để đạp vịt thiên nga, chèo thuyền, đi ca nô quanh hồ, câu cá rồi nhờ nấu tại chỗ, cắm trại hoặc tổ chức team building trên bãi cỏ; gần đó có di tích căn cứ cách mạng Đồng Bò.",
+    "review_vi": "Khen: hồ nước trong, cảnh núi rừng xanh và yên bình; giá dịch vụ phải chăng; đồ ăn ngon, nhân viên thân thiện. Chê: vệ sinh và cơ sở vật chất có lúc chưa tốt; nhạc mở từ khoảng 7–8 giờ sáng nên khó tìm sự yên tĩnh.",
+    "rating": {
+      "value": 4.0,
+      "count": 511,
+      "source": "Google (qua Wanderlog)",
+      "url": "https://wanderlog.com/place/details/3052053",
+      "seen": "2026-10"
+    },
+    "trending": false,
+    "tags": [
+      "sinh thái",
+      "Hợp với trẻ em"
+    ],
+    "tips_vi": "Mẹo: Tránh tháng 9–12 vì mùa mưa lũ, đường trơn; theo MIA.vn (06/2026) khu không mở qua đêm. Website galinalakeview.com hiện không truy cập được — gọi hỏi giá và giờ trước khi đi. Có thể kết hợp với tắm bùn Trăm Trứng gần đó.",
+    "images": [],
+    "wiki": null,
+    "website": "http://www.galinalakeview.com/",
+    "sources": [
+      "https://wanderlog.com/place/details/3052053",
+      "https://mia.vn/cam-nang-du-lich/ho-kenh-ha-galina-lake-view-20839"
+    ],
+    "status": "open",
+    "existing": false
   },
-  "trending": false,
-  "tags": [],
-  "tips_vi": null,
-  "images": [],
-  "wiki": null,
-  "website": "http://www.galinalakeview.com/",
-  "sources": [
-   "https://wanderlog.com/place/details/3052053"
-  ],
-  "status": "draft",
-  "existing": false
- },
- {
-  "id": "nhatrang-cong-vien-yersin",
-  "name": "Công viên Yersin (bờ biển bắc)",
-  "cat": "kids",
-  "subtitle": null,
-  "address": "Đầu bắc đường Trần Phú, Nha Trang",
-  "lat": 12.258917,
-  "lng": 109.198731,
-  "coordSource": "https://wanderlog.com/place/details/8788068",
-  "price": null,
-  "hours": "Mở cả ngày",
-  "mustTry": null,
-  "desc_vi": null,
-  "review_vi": null,
-  "rating": {
-   "value": 4.5,
-   "count": 425,
-   "source": "Google (qua Wanderlog)",
-   "url": "https://wanderlog.com/place/details/8788068",
-   "seen": "2026-10"
+  {
+    "id": "nhatrang-cong-vien-yersin",
+    "name": "Công viên Yersin (bờ biển bắc)",
+    "cat": "kids",
+    "subtitle": "Công viên ven biển có tượng bác sĩ Yersin",
+    "address": "Đầu bắc đường Trần Phú, Nha Trang",
+    "lat": 12.258917,
+    "lng": 109.198731,
+    "coordSource": "https://wanderlog.com/place/details/8788068",
+    "price": "Miễn phí",
+    "hours": "Mở cả ngày",
+    "mustTry": "Tượng bác sĩ Yersin và bia tưởng niệm, lối đi dạo ven biển, góc nhìn cầu Trần Phú và Tháp Bà Ponagar",
+    "desc_vi": "Công viên ven biển ở đầu bắc đường Trần Phú, gần cầu Trần Phú, mang tên bác sĩ Alexandre Yersin. Trong công viên có tượng Yersin cùng bia tóm tắt cuộc đời ông và mối gắn bó với Nha Trang, lối đi bộ rợp cây, ghế đá nhìn ra vịnh, sân bóng chuyền, dụng cụ tập thể dục và nhà vệ sinh công cộng miễn phí; từ đây nhìn thấy cầu Trần Phú và Tháp Bà Ponagar.",
+    "review_vi": "Khen: sạch, rộng, được chăm sóc kỹ; yên tĩnh, hợp đi dạo, tập thể dục buổi sáng hoặc cho trẻ chạy chơi; nhìn ra cầu Trần Phú và Tháp Bà đẹp; miễn phí, mở cả ngày. Chê: ít phàn nàn; điểm cần lưu ý là công viên nằm sát trục đường chính đông xe nên phải trông trẻ nhỏ.",
+    "rating": {
+      "value": 4.5,
+      "count": 425,
+      "source": "Google (qua Wanderlog)",
+      "url": "https://wanderlog.com/place/details/8788068",
+      "seen": "2026-10"
+    },
+    "trending": false,
+    "tags": [
+      "miễn phí",
+      "Hợp với trẻ em"
+    ],
+    "tips_vi": "Mẹo: Đi sáng sớm hoặc chiều mát để đi dạo; dễ nối tiếp bằng cách đi bộ dọc biển Trần Phú về trung tâm hoặc qua cầu Trần Phú sang Tháp Bà Ponagar.",
+    "images": [],
+    "wiki": null,
+    "website": null,
+    "sources": [
+      "https://wanderlog.com/place/details/8788068"
+    ],
+    "status": "open",
+    "existing": false
   },
-  "trending": false,
-  "tags": [],
-  "tips_vi": null,
-  "images": [],
-  "wiki": null,
-  "website": null,
-  "sources": [
-   "https://wanderlog.com/place/details/8788068"
-  ],
-  "status": "draft",
-  "existing": false
- },
- {
-  "id": "nhatrang-vincom-plaza-tran-phu",
-  "name": "Vincom Plaza Trần Phú",
-  "cat": "shopping",
-  "subtitle": null,
-  "address": "78–80 Trần Phú, Nha Trang",
-  "lat": 12.233215,
-  "lng": 109.197219,
-  "coordSource": "https://wanderlog.com/place/details/1761634",
-  "price": null,
-  "hours": "T2–T6 10:00–22:00; T7–CN 09:30–22:00",
-  "mustTry": null,
-  "desc_vi": null,
-  "review_vi": null,
-  "rating": {
-   "value": 4.4,
-   "count": 2835,
-   "source": "Google (qua Wanderlog)",
-   "url": "https://wanderlog.com/place/details/1761634",
-   "seen": "2026-10"
+  {
+    "id": "nhatrang-vincom-plaza-tran-phu",
+    "name": "Vincom Plaza Trần Phú",
+    "cat": "shopping",
+    "subtitle": null,
+    "address": "78–80 Trần Phú, Nha Trang",
+    "lat": 12.233215,
+    "lng": 109.197219,
+    "coordSource": "https://wanderlog.com/place/details/1761634",
+    "price": null,
+    "hours": "T2–T6 10:00–22:00; T7–CN 09:30–22:00",
+    "mustTry": null,
+    "desc_vi": null,
+    "review_vi": null,
+    "rating": {
+      "value": 4.4,
+      "count": 2835,
+      "source": "Google (qua Wanderlog)",
+      "url": "https://wanderlog.com/place/details/1761634",
+      "seen": "2026-10"
+    },
+    "trending": false,
+    "tags": [],
+    "tips_vi": null,
+    "images": [],
+    "wiki": null,
+    "website": "https://vincom.com.vn/vincom-plaza-tran-phu-nha-trang",
+    "sources": [
+      "https://wanderlog.com/place/details/1761634"
+    ],
+    "status": "draft",
+    "existing": false
   },
-  "trending": false,
-  "tags": [],
-  "tips_vi": null,
-  "images": [],
-  "wiki": null,
-  "website": "https://vincom.com.vn/vincom-plaza-tran-phu-nha-trang",
-  "sources": [
-   "https://wanderlog.com/place/details/1761634"
-  ],
-  "status": "draft",
-  "existing": false
- },
- {
-  "id": "nhatrang-nha-trang-center",
-  "name": "Nha Trang Center",
-  "cat": "shopping",
-  "subtitle": null,
-  "address": "20 Trần Phú, Nha Trang",
-  "lat": 12.248084,
-  "lng": 109.195953,
-  "coordSource": "https://wanderlog.com/place/details/105809",
-  "price": null,
-  "hours": null,
-  "mustTry": null,
-  "desc_vi": null,
-  "review_vi": null,
-  "rating": {
-   "value": 4.2,
-   "count": 11875,
-   "source": "Google (qua Wanderlog)",
-   "url": "https://wanderlog.com/place/details/105809",
-   "seen": "2026-10"
+  {
+    "id": "nhatrang-nha-trang-center",
+    "name": "Nha Trang Center",
+    "cat": "shopping",
+    "subtitle": null,
+    "address": "20 Trần Phú, Nha Trang",
+    "lat": 12.248084,
+    "lng": 109.195953,
+    "coordSource": "https://wanderlog.com/place/details/105809",
+    "price": null,
+    "hours": null,
+    "mustTry": null,
+    "desc_vi": null,
+    "review_vi": null,
+    "rating": {
+      "value": 4.2,
+      "count": 11875,
+      "source": "Google (qua Wanderlog)",
+      "url": "https://wanderlog.com/place/details/105809",
+      "seen": "2026-10"
+    },
+    "trending": false,
+    "tags": [],
+    "tips_vi": null,
+    "images": [],
+    "wiki": null,
+    "website": "http://nhatrangcenter.com/",
+    "sources": [
+      "https://wanderlog.com/place/details/105809"
+    ],
+    "status": "draft",
+    "existing": false
   },
-  "trending": false,
-  "tags": [],
-  "tips_vi": null,
-  "images": [],
-  "wiki": null,
-  "website": "http://nhatrangcenter.com/",
-  "sources": [
-   "https://wanderlog.com/place/details/105809"
-  ],
-  "status": "draft",
-  "existing": false
- },
- {
-  "id": "nhatrang-lotte-mart",
-  "name": "Lotte Mart Nha Trang",
-  "cat": "shopping",
-  "subtitle": null,
-  "address": "58 đường 23 Tháng 10, Nha Trang",
-  "lat": 12.251697,
-  "lng": 109.177042,
-  "coordSource": "https://wanderlog.com/place/details/1748601",
-  "price": null,
-  "hours": "07:30–22:00",
-  "mustTry": null,
-  "desc_vi": null,
-  "review_vi": null,
-  "rating": {
-   "value": 4.3,
-   "count": 7569,
-   "source": "Google (qua Wanderlog)",
-   "url": "https://wanderlog.com/place/details/1748601",
-   "seen": "2026-10"
+  {
+    "id": "nhatrang-lotte-mart",
+    "name": "Lotte Mart Nha Trang",
+    "cat": "shopping",
+    "subtitle": null,
+    "address": "58 đường 23 Tháng 10, Nha Trang",
+    "lat": 12.251697,
+    "lng": 109.177042,
+    "coordSource": "https://wanderlog.com/place/details/1748601",
+    "price": null,
+    "hours": "07:30–22:00",
+    "mustTry": null,
+    "desc_vi": null,
+    "review_vi": null,
+    "rating": {
+      "value": 4.3,
+      "count": 7569,
+      "source": "Google (qua Wanderlog)",
+      "url": "https://wanderlog.com/place/details/1748601",
+      "seen": "2026-10"
+    },
+    "trending": false,
+    "tags": [],
+    "tips_vi": null,
+    "images": [],
+    "wiki": null,
+    "website": "https://lottemart.com.vn/",
+    "sources": [
+      "https://wanderlog.com/place/details/1748601"
+    ],
+    "status": "draft",
+    "existing": false
   },
-  "trending": false,
-  "tags": [],
-  "tips_vi": null,
-  "images": [],
-  "wiki": null,
-  "website": "https://lottemart.com.vn/",
-  "sources": [
-   "https://wanderlog.com/place/details/1748601"
-  ],
-  "status": "draft",
-  "existing": false
- },
- {
-  "id": "nhatrang-cho-xom-moi",
-  "name": "Chợ Xóm Mới",
-  "cat": "market",
-  "subtitle": null,
-  "address": "49 Ngô Gia Tự, Nha Trang",
-  "lat": 12.242762,
-  "lng": 109.19043,
-  "coordSource": "https://wanderlog.com/place/details/1761635",
-  "price": null,
-  "hours": "06:00–17:00",
-  "mustTry": null,
-  "desc_vi": null,
-  "review_vi": null,
-  "rating": {
-   "value": 4.0,
-   "count": 5462,
-   "source": "Google (qua Wanderlog)",
-   "url": "https://wanderlog.com/place/details/1761635",
-   "seen": "2026-10"
+  {
+    "id": "nhatrang-cho-xom-moi",
+    "name": "Chợ Xóm Mới",
+    "cat": "market",
+    "subtitle": "Chợ dân sinh lâu đời: hải sản tươi, đồ khô, món ăn sáng",
+    "address": "49 Ngô Gia Tự, Nha Trang",
+    "lat": 12.242762,
+    "lng": 109.19043,
+    "coordSource": "https://wanderlog.com/place/details/1761635",
+    "price": null,
+    "hours": "06:00–17:00",
+    "mustTry": "Hải sản khô (mực một nắng, mực rim), bánh căn, bún chả cá, bánh xèo mực ở khu ăn uống",
+    "desc_vi": "Chợ dân sinh hơn 60 năm tuổi trên đường Ngô Gia Tự với khoảng 1.000–1.200 sạp, là nơi người Nha Trang đi chợ hằng ngày. Chợ bán hải sản tươi ngư dân mang về, hải sản khô như mực một nắng, mực rim, cá khô, cùng trái cây, rau, thịt, quần áo và đồ thủ công; khu ăn uống trên lầu có bánh căn, bún chả cá, bánh xèo mực, nem nướng. Không khí địa phương, ít màu du lịch hơn chợ Đầm.",
+    "review_vi": "Khen: không khí chợ địa phương thật, ít khách du lịch hơn chợ Đầm; hàng hóa đa dạng, tươi, giá phải chăng; nhiều món ăn sáng ngon, rẻ. Chê: khu hải sản có mùi nồng; phải hỏi giá và mặc cả; chợ không có khu chế biến hải sản tại chỗ.",
+    "rating": {
+      "value": 4.0,
+      "count": 5462,
+      "source": "Google (qua Wanderlog)",
+      "url": "https://wanderlog.com/place/details/1761635",
+      "seen": "2026-10"
+    },
+    "trending": false,
+    "tags": [
+      "chợ địa phương",
+      "hải sản khô"
+    ],
+    "tips_vi": "Mẹo: Đi khoảng 7:00 sáng để có hàng tươi và giá tốt; hỏi giá trước khi mua. Một số hàng ăn chỉ bán buổi sáng.",
+    "images": [],
+    "wiki": null,
+    "website": null,
+    "sources": [
+      "https://wanderlog.com/place/details/1761635",
+      "https://vinwonders.com/vi/wonderpedia/news/review-tho-dia-7-cho-hai-san-nha-trang-noi-tieng-tuoi-ngon-gia-re/",
+      "https://mia.vn/cam-nang-du-lich/tham-quan-cho-nha-trang-16286"
+    ],
+    "status": "open",
+    "existing": false
   },
-  "trending": false,
-  "tags": [],
-  "tips_vi": null,
-  "images": [],
-  "wiki": null,
-  "website": null,
-  "sources": [
-   "https://wanderlog.com/place/details/1761635"
-  ],
-  "status": "draft",
-  "existing": false
- },
- {
-  "id": "nhatrang-cho-vinh-luong",
-  "name": "Chợ cá Vĩnh Lương",
-  "cat": "market",
-  "subtitle": null,
-  "address": "Quốc lộ 1A, Vĩnh Lương, Nha Trang",
-  "lat": 12.336743,
-  "lng": 109.195345,
-  "coordSource": "https://wanderlog.com/place/details/147329",
-  "price": null,
-  "hours": "05:00–19:00",
-  "mustTry": null,
-  "desc_vi": null,
-  "review_vi": null,
-  "rating": {
-   "value": 4.0,
-   "count": 373,
-   "source": "Google (qua Wanderlog)",
-   "url": "https://wanderlog.com/place/details/147329",
-   "seen": "2026-10"
+  {
+    "id": "nhatrang-cho-vinh-luong",
+    "name": "Chợ cá Vĩnh Lương",
+    "cat": "market",
+    "subtitle": "Chợ đầu mối hải sản phía bắc Nha Trang",
+    "address": "Quốc lộ 1A, Vĩnh Lương, Nha Trang",
+    "lat": 12.336743,
+    "lng": 109.195345,
+    "coordSource": "https://wanderlog.com/place/details/147329",
+    "price": null,
+    "hours": "05:00–19:00",
+    "mustTry": "Hải sản tươi giá sỉ (mực, ghẹ, tôm sú, cá hố), chè và bánh xèo trong chợ, cảnh tàu cá cập cảng lúc sáng sớm",
+    "desc_vi": "Chợ lớn trên Quốc lộ 1A ở Vĩnh Lương, cách trung tâm khoảng 11 km về phía bắc, là đầu mối bán sỉ nông sản và hải sản với giá mềm hơn các chợ trong thành phố; ngoài cá tôm còn có rau trái, đồ gia dụng và món ăn vặt như chè, bánh xèo. Gần đó là cảng cá Vĩnh Lương trên đường Phạm Văn Đồng, nơi tàu cá từ Khánh Hòa, Bình Định, Phú Yên cập bến bán cá hố, cá đuối, cá nục, mực, ghẹ, tôm sú.",
+    "review_vi": "Khen: giá không bị đội cho khách du lịch, hải sản tươi và rẻ; trải nghiệm chợ đúng chất địa phương, người bán thân thiện; có chè, bánh xèo ăn vặt. Chê: xa trung tâm; ít phàn nàn cụ thể, chủ yếu là nên để ý đồ đạc khi chợ đông.",
+    "rating": {
+      "value": 4.0,
+      "count": 373,
+      "source": "Google (qua Wanderlog)",
+      "url": "https://wanderlog.com/place/details/147329",
+      "seen": "2026-10"
+    },
+    "trending": false,
+    "tags": [
+      "hải sản",
+      "chợ địa phương",
+      "Ít người biết"
+    ],
+    "tips_vi": "Mẹo: Muốn xem cảnh lên cá thì ra cảng cá Vĩnh Lương từ khoảng 4:00–6:00 sáng, vừa mua được hàng tươi giá gốc vừa ngắm bình minh; mang túi giữ lạnh nếu mua hải sản về khách sạn.",
+    "images": [],
+    "wiki": null,
+    "website": null,
+    "sources": [
+      "https://wanderlog.com/place/details/147329",
+      "https://mia.vn/cam-nang-du-lich/tham-quan-cho-nha-trang-16286",
+      "https://vinwonders.com/vi/wonderpedia/news/review-tho-dia-7-cho-hai-san-nha-trang-noi-tieng-tuoi-ngon-gia-re/"
+    ],
+    "status": "open",
+    "existing": false
   },
-  "trending": false,
-  "tags": [],
-  "tips_vi": null,
-  "images": [],
-  "wiki": null,
-  "website": null,
-  "sources": [
-   "https://wanderlog.com/place/details/147329"
-  ],
-  "status": "draft",
-  "existing": false
- },
- {
-  "id": "nhatrang-sailing-club",
-  "name": "Sailing Club Nha Trang",
-  "cat": "nightlife",
-  "subtitle": null,
-  "address": "72–74 Trần Phú, Nha Trang",
-  "lat": 12.234092,
-  "lng": 109.198021,
-  "coordSource": "https://wanderlog.com/place/details/105739",
-  "price": null,
-  "hours": "07:00–02:00",
-  "mustTry": null,
-  "desc_vi": null,
-  "review_vi": null,
-  "rating": {
-   "value": 4.2,
-   "count": 11013,
-   "source": "Google (qua Wanderlog)",
-   "url": "https://wanderlog.com/place/details/105739",
-   "seen": "2026-10"
+  {
+    "id": "nhatrang-sailing-club",
+    "name": "Sailing Club Nha Trang",
+    "cat": "nightlife",
+    "subtitle": null,
+    "address": "72–74 Trần Phú, Nha Trang",
+    "lat": 12.234092,
+    "lng": 109.198021,
+    "coordSource": "https://wanderlog.com/place/details/105739",
+    "price": null,
+    "hours": "07:00–02:00",
+    "mustTry": null,
+    "desc_vi": null,
+    "review_vi": null,
+    "rating": {
+      "value": 4.2,
+      "count": 11013,
+      "source": "Google (qua Wanderlog)",
+      "url": "https://wanderlog.com/place/details/105739",
+      "seen": "2026-10"
+    },
+    "trending": false,
+    "tags": [],
+    "tips_vi": null,
+    "images": [],
+    "wiki": null,
+    "website": "http://www.sailingclubnhatrang.com/",
+    "sources": [
+      "https://wanderlog.com/place/details/105739"
+    ],
+    "status": "draft",
+    "existing": false
   },
-  "trending": false,
-  "tags": [],
-  "tips_vi": null,
-  "images": [],
-  "wiki": null,
-  "website": "http://www.sailingclubnhatrang.com/",
-  "sources": [
-   "https://wanderlog.com/place/details/105739"
-  ],
-  "status": "draft",
-  "existing": false
- },
- {
-  "id": "nhatrang-skylight",
-  "name": "Skylight Nha Trang",
-  "cat": "nightlife",
-  "subtitle": null,
-  "address": "38 Trần Phú (tầng thượng Havana), Nha Trang",
-  "lat": 12.243396,
-  "lng": 109.195842,
-  "coordSource": "https://wanderlog.com/place/details/446137",
-  "price": null,
-  "hours": null,
-  "mustTry": null,
-  "desc_vi": null,
-  "review_vi": null,
-  "rating": {
-   "value": 4.6,
-   "count": 7344,
-   "source": "Google (qua Wanderlog)",
-   "url": "https://wanderlog.com/place/details/446137",
-   "seen": "2026-10"
+  {
+    "id": "nhatrang-skylight",
+    "name": "Skylight Nha Trang",
+    "cat": "nightlife",
+    "subtitle": null,
+    "address": "38 Trần Phú (tầng thượng Havana), Nha Trang",
+    "lat": 12.243396,
+    "lng": 109.195842,
+    "coordSource": "https://wanderlog.com/place/details/446137",
+    "price": null,
+    "hours": null,
+    "mustTry": null,
+    "desc_vi": null,
+    "review_vi": null,
+    "rating": {
+      "value": 4.6,
+      "count": 7344,
+      "source": "Google (qua Wanderlog)",
+      "url": "https://wanderlog.com/place/details/446137",
+      "seen": "2026-10"
+    },
+    "trending": false,
+    "tags": [],
+    "tips_vi": null,
+    "images": [],
+    "wiki": null,
+    "website": "https://skylightnhatrang.com/",
+    "sources": [
+      "https://wanderlog.com/place/details/446137"
+    ],
+    "status": "draft",
+    "existing": false
   },
-  "trending": false,
-  "tags": [],
-  "tips_vi": null,
-  "images": [],
-  "wiki": null,
-  "website": "https://skylightnhatrang.com/",
-  "sources": [
-   "https://wanderlog.com/place/details/446137"
-  ],
-  "status": "draft",
-  "existing": false
- },
- {
-  "id": "nhatrang-louisiane-brewhouse",
-  "name": "Louisiane Brewhouse",
-  "cat": "nightlife",
-  "subtitle": null,
-  "address": "Lô 29 Trần Phú, Nha Trang",
-  "lat": 12.231019,
-  "lng": 109.198803,
-  "coordSource": "https://wanderlog.com/place/details/875953",
-  "price": null,
-  "hours": "07:00–01:00",
-  "mustTry": null,
-  "desc_vi": null,
-  "review_vi": null,
-  "rating": {
-   "value": 4.3,
-   "count": 4471,
-   "source": "Google (qua Wanderlog)",
-   "url": "https://wanderlog.com/place/details/875953",
-   "seen": "2026-10"
+  {
+    "id": "nhatrang-louisiane-brewhouse",
+    "name": "Louisiane Brewhouse",
+    "cat": "nightlife",
+    "subtitle": null,
+    "address": "Lô 29 Trần Phú, Nha Trang",
+    "lat": 12.231019,
+    "lng": 109.198803,
+    "coordSource": "https://wanderlog.com/place/details/875953",
+    "price": null,
+    "hours": "07:00–01:00",
+    "mustTry": null,
+    "desc_vi": null,
+    "review_vi": null,
+    "rating": {
+      "value": 4.3,
+      "count": 4471,
+      "source": "Google (qua Wanderlog)",
+      "url": "https://wanderlog.com/place/details/875953",
+      "seen": "2026-10"
+    },
+    "trending": false,
+    "tags": [],
+    "tips_vi": null,
+    "images": [],
+    "wiki": null,
+    "website": "https://louisianebrewhouse.com.vn/",
+    "sources": [
+      "https://wanderlog.com/place/details/875953"
+    ],
+    "status": "draft",
+    "existing": false
   },
-  "trending": false,
-  "tags": [],
-  "tips_vi": null,
-  "images": [],
-  "wiki": null,
-  "website": "https://louisianebrewhouse.com.vn/",
-  "sources": [
-   "https://wanderlog.com/place/details/875953"
-  ],
-  "status": "draft",
-  "existing": false
- },
- {
-  "id": "nhatrang-altitude-rooftop",
-  "name": "Altitude Rooftop Bar (Sheraton)",
-  "cat": "nightlife",
-  "subtitle": null,
-  "address": "Tầng 28 Sheraton, 26–28 Trần Phú, Nha Trang",
-  "lat": 12.24639,
-  "lng": 109.195831,
-  "coordSource": "https://wanderlog.com/place/details/1324171",
-  "price": null,
-  "hours": "15:00–24:00",
-  "mustTry": null,
-  "desc_vi": null,
-  "review_vi": null,
-  "rating": {
-   "value": 4.8,
-   "count": 2178,
-   "source": "Google (qua Wanderlog)",
-   "url": "https://wanderlog.com/place/details/1324171",
-   "seen": "2026-10"
+  {
+    "id": "nhatrang-altitude-rooftop",
+    "name": "Altitude Rooftop Bar (Sheraton)",
+    "cat": "nightlife",
+    "subtitle": null,
+    "address": "Tầng 28 Sheraton, 26–28 Trần Phú, Nha Trang",
+    "lat": 12.24639,
+    "lng": 109.195831,
+    "coordSource": "https://wanderlog.com/place/details/1324171",
+    "price": null,
+    "hours": "15:00–24:00",
+    "mustTry": null,
+    "desc_vi": null,
+    "review_vi": null,
+    "rating": {
+      "value": 4.8,
+      "count": 2178,
+      "source": "Google (qua Wanderlog)",
+      "url": "https://wanderlog.com/place/details/1324171",
+      "seen": "2026-10"
+    },
+    "trending": false,
+    "tags": [],
+    "tips_vi": null,
+    "images": [],
+    "wiki": null,
+    "website": null,
+    "sources": [
+      "https://wanderlog.com/place/details/1324171"
+    ],
+    "status": "draft",
+    "existing": false
   },
-  "trending": false,
-  "tags": [],
-  "tips_vi": null,
-  "images": [],
-  "wiki": null,
-  "website": null,
-  "sources": [
-   "https://wanderlog.com/place/details/1324171"
-  ],
-  "status": "draft",
-  "existing": false
- },
- {
-  "id": "nhatrang-cafe-hon-chong-view",
-  "name": "Cà phê Hòn Chồng View",
-  "cat": "cafe",
-  "subtitle": null,
-  "address": "6 Phạm Văn Đồng, Vĩnh Phước, Nha Trang",
-  "lat": 12.272752,
-  "lng": 109.203076,
-  "coordSource": "https://wanderlog.com/place/details/1507114",
-  "price": null,
-  "hours": "06:00–22:00",
-  "mustTry": null,
-  "desc_vi": null,
-  "review_vi": null,
-  "rating": {
-   "value": 4.1,
-   "count": 438,
-   "source": "Google (qua Wanderlog)",
-   "url": "https://wanderlog.com/place/details/1507114",
-   "seen": "2026-10"
+  {
+    "id": "nhatrang-cafe-hon-chong-view",
+    "name": "Cà phê Hòn Chồng View",
+    "cat": "cafe",
+    "subtitle": null,
+    "address": "6 Phạm Văn Đồng, Vĩnh Phước, Nha Trang",
+    "lat": 12.272752,
+    "lng": 109.203076,
+    "coordSource": "https://wanderlog.com/place/details/1507114",
+    "price": null,
+    "hours": "06:00–22:00",
+    "mustTry": null,
+    "desc_vi": null,
+    "review_vi": null,
+    "rating": {
+      "value": 4.1,
+      "count": 438,
+      "source": "Google (qua Wanderlog)",
+      "url": "https://wanderlog.com/place/details/1507114",
+      "seen": "2026-10"
+    },
+    "trending": false,
+    "tags": [],
+    "tips_vi": null,
+    "images": [],
+    "wiki": null,
+    "website": null,
+    "sources": [
+      "https://wanderlog.com/place/details/1507114"
+    ],
+    "status": "draft",
+    "existing": false
   },
-  "trending": false,
-  "tags": [],
-  "tips_vi": null,
-  "images": [],
-  "wiki": null,
-  "website": null,
-  "sources": [
-   "https://wanderlog.com/place/details/1507114"
-  ],
-  "status": "draft",
-  "existing": false
- },
- {
-  "id": "nhatrang-cafe-hon-kien",
-  "name": "Cafe Hòn Kiến (phòng trà)",
-  "cat": "cafe",
-  "subtitle": null,
-  "address": "56 Đống Đa, Nha Trang",
-  "lat": 12.240077,
-  "lng": 109.19097,
-  "coordSource": "https://wanderlog.com/place/details/1507118",
-  "price": null,
-  "hours": "06:30–22:00",
-  "mustTry": null,
-  "desc_vi": null,
-  "review_vi": null,
-  "rating": {
-   "value": 4.8,
-   "count": 2002,
-   "source": "Google (qua Wanderlog)",
-   "url": "https://wanderlog.com/place/details/1507118",
-   "seen": "2026-10"
+  {
+    "id": "nhatrang-cafe-hon-kien",
+    "name": "Cafe Hòn Kiến (phòng trà)",
+    "cat": "cafe",
+    "subtitle": null,
+    "address": "56 Đống Đa, Nha Trang",
+    "lat": 12.240077,
+    "lng": 109.19097,
+    "coordSource": "https://wanderlog.com/place/details/1507118",
+    "price": null,
+    "hours": "06:30–22:00",
+    "mustTry": null,
+    "desc_vi": null,
+    "review_vi": null,
+    "rating": {
+      "value": 4.8,
+      "count": 2002,
+      "source": "Google (qua Wanderlog)",
+      "url": "https://wanderlog.com/place/details/1507118",
+      "seen": "2026-10"
+    },
+    "trending": false,
+    "tags": [],
+    "tips_vi": null,
+    "images": [],
+    "wiki": null,
+    "website": "https://www.facebook.com/CafeHonKien.NhaTrang",
+    "sources": [
+      "https://wanderlog.com/place/details/1507118"
+    ],
+    "status": "draft",
+    "existing": false
   },
-  "trending": false,
-  "tags": [],
-  "tips_vi": null,
-  "images": [],
-  "wiki": null,
-  "website": "https://www.facebook.com/CafeHonKien.NhaTrang",
-  "sources": [
-   "https://wanderlog.com/place/details/1507118"
-  ],
-  "status": "draft",
-  "existing": false
- },
- {
-  "id": "nhatrang-alpaca-homestyle-cafe",
-  "name": "Alpaca Homestyle Cafe",
-  "cat": "cafe",
-  "subtitle": null,
-  "address": "10/1B Nguyễn Thiện Thuật, Nha Trang",
-  "lat": 12.241105,
-  "lng": 109.193239,
-  "coordSource": "https://wanderlog.com/place/details/1279660",
-  "price": null,
-  "hours": "08:00–21:30",
-  "mustTry": null,
-  "desc_vi": null,
-  "review_vi": null,
-  "rating": {
-   "value": 4.8,
-   "count": 6868,
-   "source": "Google (qua Wanderlog)",
-   "url": "https://wanderlog.com/place/details/1279660",
-   "seen": "2026-10"
+  {
+    "id": "nhatrang-alpaca-homestyle-cafe",
+    "name": "Alpaca Homestyle Cafe",
+    "cat": "cafe",
+    "subtitle": "Cà phê – brunch kiểu nhà châu Âu",
+    "address": "10/1B Nguyễn Thiện Thuật, Nha Trang",
+    "lat": 12.241105,
+    "lng": 109.193239,
+    "coordSource": "https://wanderlog.com/place/details/1279660",
+    "price": null,
+    "hours": "08:00–21:30",
+    "mustTry": "Bữa sáng kiểu Âu với bánh mì, trái cây và mứt; burrito, fajitas gà; hummus; granola xoài; cheesecake",
+    "desc_vi": "Quán cà phê kiêm quán ăn nhỏ trong hẻm Nguyễn Thiện Thuật, do một cặp vợ chồng người Nga điều hành, bày trí như một ngôi nhà châu Âu với nội thất gỗ, đồ cổ và hoa tươi. Thực đơn gồm bữa sáng – brunch kiểu Âu, món Địa Trung Hải và Mexico (burrito, fajitas, hummus), salad, bánh ngọt và cà phê. Đây là một trong những quán được đánh giá cao nhất Nha Trang (Google 4.8 với gần 7.000 lượt).",
+    "review_vi": "Khen: món ăn ngon, trình bày đẹp, phần ăn lớn; nhân viên thân thiện, nói được tiếng Anh và tiếng Nga; không gian ấm cúng, nhiều chi tiết trang trí, đôi khi được tặng bánh trong lúc chờ. Chê: giá cao hơn quán Việt bình dân (món chính thường trên 100.000đ); vài món mặn bị nhạt; có món phải chờ 15–30 phút.",
+    "rating": {
+      "value": 4.8,
+      "count": 6868,
+      "source": "Google (qua Wanderlog)",
+      "url": "https://wanderlog.com/place/details/1279660",
+      "seen": "2026-10"
+    },
+    "trending": false,
+    "tags": [
+      "brunch",
+      "món Âu"
+    ],
+    "tips_vi": "Mẹo: Muốn thử mà tiết kiệm thì gọi cà phê, bánh ngọt hoặc bữa sáng thay vì món chính. Vài trang ghi địa chỉ 60B Hùng Vương — địa chỉ được nhiều nguồn xác nhận nhất là 10/1B Nguyễn Thiện Thuật; xem Google Maps trước khi đi.",
+    "images": [],
+    "wiki": null,
+    "website": "https://www.facebook.com/alpacanhatrang",
+    "sources": [
+      "https://wanderlog.com/place/details/1279660",
+      "https://www.foody.vn/khanh-hoa/alpaca-coffee-store",
+      "https://www.wheregoesrose.com/how-to-survive-a-trip-to-nha-trang/",
+      "https://vietnamguide.co.kr/city/nhatrang/places/cafes/"
+    ],
+    "status": "unverified",
+    "existing": false
   },
-  "trending": false,
-  "tags": [],
-  "tips_vi": null,
-  "images": [],
-  "wiki": null,
-  "website": "https://www.facebook.com/alpacanhatrang",
-  "sources": [
-   "https://wanderlog.com/place/details/1279660"
-  ],
-  "status": "draft",
-  "existing": false
- },
- {
-  "id": "nhatrang-jungle-coffee",
-  "name": "Jungle Coffee",
-  "cat": "cafe",
-  "subtitle": null,
-  "address": "8 Lê Quý Đôn, Nha Trang",
-  "lat": 12.245073,
-  "lng": 109.189767,
-  "coordSource": "https://wanderlog.com/place/details/12515018",
-  "price": null,
-  "hours": "06:30–22:00",
-  "mustTry": null,
-  "desc_vi": null,
-  "review_vi": null,
-  "rating": {
-   "value": 4.7,
-   "count": 499,
-   "source": "Google (qua Wanderlog)",
-   "url": "https://wanderlog.com/place/details/12515018",
-   "seen": "2026-10"
+  {
+    "id": "nhatrang-jungle-coffee",
+    "name": "Jungle Coffee",
+    "cat": "cafe",
+    "subtitle": "Cà phê phong cách rừng nhiệt đới",
+    "address": "8 Lê Quý Đôn, Nha Trang",
+    "lat": 12.245073,
+    "lng": 109.189767,
+    "coordSource": "https://wanderlog.com/place/details/12515018",
+    "price": "Đồ uống và set tráng miệng khoảng 40.000–70.000đ (vietnamguide.co.kr 09/2026)",
+    "hours": "06:30–22:00",
+    "mustTry": "Cà phê dừa, cà phê muối, sinh tố dừa, set kem dừa xoài tươi",
+    "desc_vi": "Quán cà phê nhỏ trên đường Lê Quý Đôn, cách Tháp Trầm Hương khoảng 600 m, trang trí như một khu rừng với nhiều cây xanh và hoa tươi. Đồ uống được phục vụ kèm hoa và bánh nhỏ; tầng 1 và tầng 2 có phòng máy lạnh, không gian yên tĩnh, wifi tốt nên hợp ngồi làm việc. Món nổi bật là cà phê dừa, cà phê muối và set kem dừa với xoài tươi.",
+    "review_vi": "Khen: không gian xanh, đẹp để chụp ảnh, yên tĩnh hơn các chuỗi lớn; đồ uống kèm hoa tươi và bánh nhỏ; nhân viên thân thiện, chu đáo; có phòng lạnh. Chê: đồ uống ra chậm, có khi phải chờ 15–30 phút; bánh ngọt hay hết vào một số khung giờ; nhiều cây hoa giả lẫn hoa thật; ban công tầng 2 cho hút thuốc.",
+    "rating": {
+      "value": 4.7,
+      "count": 499,
+      "source": "Google (qua Wanderlog)",
+      "url": "https://wanderlog.com/place/details/12515018",
+      "seen": "2026-10"
+    },
+    "trending": false,
+    "tags": [
+      "không gian xanh",
+      "làm việc"
+    ],
+    "tips_vi": "Mẹo: Ngại khói thuốc thì ngồi phòng lạnh trong nhà thay vì ban công tầng 2; đi giờ vắng nếu muốn yên tĩnh và gọi món sớm vì đồ uống ra khá lâu.",
+    "images": [],
+    "wiki": null,
+    "website": null,
+    "sources": [
+      "https://wanderlog.com/place/details/12515018",
+      "https://vietnamguide.co.kr/place/%EB%82%98%ED%8A%B8%EB%9E%91-jungle-coffee-nha-trang/"
+    ],
+    "status": "open",
+    "existing": false
   },
-  "trending": false,
-  "tags": [],
-  "tips_vi": null,
-  "images": [],
-  "wiki": null,
-  "website": null,
-  "sources": [
-   "https://wanderlog.com/place/details/12515018"
-  ],
-  "status": "draft",
-  "existing": false
- },
- {
-  "id": "nhatrang-vinwonders",
-  "name": "VinWonders Nha Trang",
-  "cat": "kids",
-  "subtitle": null,
-  "address": "Đảo Hòn Tre, Vĩnh Nguyên, Nha Trang",
-  "lat": 12.217049,
-  "lng": 109.240872,
-  "coordSource": "https://wanderlog.com/place/details/1133432",
-  "price": null,
-  "hours": null,
-  "mustTry": null,
-  "desc_vi": null,
-  "review_vi": null,
-  "rating": {
-   "value": 4.7,
-   "count": 17036,
-   "source": "Google (qua Wanderlog)",
-   "url": "https://wanderlog.com/place/details/1133432",
-   "seen": "2026-10"
+  {
+    "id": "nhatrang-vinwonders",
+    "name": "VinWonders Nha Trang",
+    "cat": "kids",
+    "subtitle": null,
+    "address": "Đảo Hòn Tre, Vĩnh Nguyên, Nha Trang",
+    "lat": 12.217049,
+    "lng": 109.240872,
+    "coordSource": "https://wanderlog.com/place/details/1133432",
+    "price": null,
+    "hours": null,
+    "mustTry": null,
+    "desc_vi": null,
+    "review_vi": null,
+    "rating": {
+      "value": 4.7,
+      "count": 17036,
+      "source": "Google (qua Wanderlog)",
+      "url": "https://wanderlog.com/place/details/1133432",
+      "seen": "2026-10"
+    },
+    "trending": false,
+    "tags": [],
+    "tips_vi": null,
+    "images": [],
+    "wiki": null,
+    "website": "https://vinwonders.com/",
+    "sources": [
+      "https://wanderlog.com/place/details/1133432"
+    ],
+    "status": "draft",
+    "existing": true
   },
-  "trending": false,
-  "tags": [],
-  "tips_vi": null,
-  "images": [],
-  "wiki": null,
-  "website": "https://vinwonders.com/",
-  "sources": [
-   "https://wanderlog.com/place/details/1133432"
-  ],
-  "status": "draft",
-  "existing": true
- },
- {
-  "id": "nhatrang-bai-bien-tran-phu",
-  "name": "Bãi biển Trần Phú",
-  "cat": "nature",
-  "subtitle": null,
-  "address": "Dọc đường Trần Phú, Nha Trang",
-  "lat": 12.236339,
-  "lng": 109.197853,
-  "coordSource": "https://wanderlog.com/place/details/21829",
-  "price": null,
-  "hours": "Mở cả ngày",
-  "mustTry": null,
-  "desc_vi": null,
-  "review_vi": null,
-  "rating": {
-   "value": 4.5,
-   "count": 2080,
-   "source": "Google (qua Wanderlog)",
-   "url": "https://wanderlog.com/place/details/21829",
-   "seen": "2026-10"
+  {
+    "id": "nhatrang-bai-bien-tran-phu",
+    "name": "Bãi biển Trần Phú",
+    "cat": "nature",
+    "subtitle": null,
+    "address": "Dọc đường Trần Phú, Nha Trang",
+    "lat": 12.236339,
+    "lng": 109.197853,
+    "coordSource": "https://wanderlog.com/place/details/21829",
+    "price": null,
+    "hours": "Mở cả ngày",
+    "mustTry": null,
+    "desc_vi": null,
+    "review_vi": null,
+    "rating": {
+      "value": 4.5,
+      "count": 2080,
+      "source": "Google (qua Wanderlog)",
+      "url": "https://wanderlog.com/place/details/21829",
+      "seen": "2026-10"
+    },
+    "trending": false,
+    "tags": [],
+    "tips_vi": null,
+    "images": [],
+    "wiki": null,
+    "website": null,
+    "sources": [
+      "https://wanderlog.com/place/details/21829"
+    ],
+    "status": "draft",
+    "existing": true
   },
-  "trending": false,
-  "tags": [],
-  "tips_vi": null,
-  "images": [],
-  "wiki": null,
-  "website": null,
-  "sources": [
-   "https://wanderlog.com/place/details/21829"
-  ],
-  "status": "draft",
-  "existing": true
- },
- {
-  "id": "nhatrang-cho-dem-tran-phu",
-  "name": "Chợ đêm Nha Trang (Trần Phú)",
-  "cat": "market",
-  "subtitle": null,
-  "address": "Đường Trần Phú (gần Tháp Trầm Hương), Nha Trang",
-  "lat": 12.239717,
-  "lng": 109.196442,
-  "coordSource": "https://wanderlog.com/place/details/1761565",
-  "price": null,
-  "hours": "17:00–23:00",
-  "mustTry": null,
-  "desc_vi": null,
-  "review_vi": null,
-  "rating": {
-   "value": 3.8,
-   "count": 6738,
-   "source": "Google (qua Wanderlog)",
-   "url": "https://wanderlog.com/place/details/1761565",
-   "seen": "2026-10"
+  {
+    "id": "nhatrang-cho-dem-tran-phu",
+    "name": "Chợ đêm Nha Trang (Trần Phú)",
+    "cat": "market",
+    "subtitle": null,
+    "address": "Đường Trần Phú (gần Tháp Trầm Hương), Nha Trang",
+    "lat": 12.239717,
+    "lng": 109.196442,
+    "coordSource": "https://wanderlog.com/place/details/1761565",
+    "price": null,
+    "hours": "17:00–23:00",
+    "mustTry": null,
+    "desc_vi": null,
+    "review_vi": null,
+    "rating": {
+      "value": 3.8,
+      "count": 6738,
+      "source": "Google (qua Wanderlog)",
+      "url": "https://wanderlog.com/place/details/1761565",
+      "seen": "2026-10"
+    },
+    "trending": false,
+    "tags": [],
+    "tips_vi": null,
+    "images": [],
+    "wiki": null,
+    "website": null,
+    "sources": [
+      "https://wanderlog.com/place/details/1761565"
+    ],
+    "status": "draft",
+    "existing": true
   },
-  "trending": false,
-  "tags": [],
-  "tips_vi": null,
-  "images": [],
-  "wiki": null,
-  "website": null,
-  "sources": [
-   "https://wanderlog.com/place/details/1761565"
-  ],
-  "status": "draft",
-  "existing": true
- },
- {
-  "id": "nhatrang-cho-dam",
-  "name": "Chợ Đầm",
-  "cat": "market",
-  "subtitle": null,
-  "address": "Phan Bội Châu, Xương Huân, Nha Trang",
-  "lat": 12.254951,
-  "lng": 109.191816,
-  "coordSource": "https://wanderlog.com/place/details/21827",
-  "price": null,
-  "hours": "05:00–18:30",
-  "mustTry": null,
-  "desc_vi": null,
-  "review_vi": null,
-  "rating": {
-   "value": 3.9,
-   "count": 18339,
-   "source": "Google (qua Wanderlog)",
-   "url": "https://wanderlog.com/place/details/21827",
-   "seen": "2026-10"
-  },
-  "trending": false,
-  "tags": [],
-  "tips_vi": null,
-  "images": [],
-  "wiki": null,
-  "website": null,
-  "sources": [
-   "https://wanderlog.com/place/details/21827"
-  ],
-  "status": "draft",
-  "existing": true
- }
+  {
+    "id": "nhatrang-cho-dam",
+    "name": "Chợ Đầm",
+    "cat": "market",
+    "subtitle": null,
+    "address": "Phan Bội Châu, Xương Huân, Nha Trang",
+    "lat": 12.254951,
+    "lng": 109.191816,
+    "coordSource": "https://wanderlog.com/place/details/21827",
+    "price": null,
+    "hours": "05:00–18:30",
+    "mustTry": null,
+    "desc_vi": null,
+    "review_vi": null,
+    "rating": {
+      "value": 3.9,
+      "count": 18339,
+      "source": "Google (qua Wanderlog)",
+      "url": "https://wanderlog.com/place/details/21827",
+      "seen": "2026-10"
+    },
+    "trending": false,
+    "tags": [],
+    "tips_vi": null,
+    "images": [],
+    "wiki": null,
+    "website": null,
+    "sources": [
+      "https://wanderlog.com/place/details/21827"
+    ],
+    "status": "draft",
+    "existing": true
+  }
 ]

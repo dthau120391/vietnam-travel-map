@@ -12628,6 +12628,728 @@
   ]
  },
  {
+  "id": "nhatrang-nem-nuong-15-le-loi",
+  "city": "nhatrang",
+  "name": "Nem nướng Vũ Thành An (15 Lê Lợi)",
+  "cat": "food",
+  "sub": "Nem nướng Nha Trang bình dân (quán Vũ Thành An)",
+  "addr": "15 Lê Lợi, Nha Trang",
+  "lat": 12.253546,
+  "lng": 109.193916,
+  "approx": false,
+  "coordHow": "agent+osm",
+  "price": "Khoảng 20.000–55.000đ/món (MIA.vn 03/2026); Wanderlog ghi 35.000–70.000đ/món",
+  "hours": "07:30–20:30",
+  "must": "Nem nướng cuốn bánh tráng với rau sống, xoài, đồ chua và nước chấm sệt; bún nem nướng; bò nướng lụi",
+  "desc": "Quán nem nướng bình dân ở số 15 Lê Lợi, trên các trang ẩm thực thường mang tên Nem nướng Vũ Thành An, do chủ quán người gốc Nha Trang mở. Mỗi phần nem nướng ăn kèm bánh tráng, rau sống, xoài, dưa leo, đồ chua và nước chấm sệt theo công thức gia đình; quán bán thêm bún nem nướng, bò nướng lụi và bò nướng mè. Giá rẻ, mở từ sáng đến tối nên là chỗ quen để thử món nem cuốn đặc trưng Khánh Hòa.",
+  "review": "Khen: nem nướng vàng, thơm, không dai không khô, ăn kèm nhiều rau, xoài và đồ chua; nước chấm riêng của quán đậm vị; giá rẻ. Chê: điểm Google chỉ khoảng 3.0 với lượng đánh giá 1 sao rất cao — khách phàn nàn phục vụ thất thường, vệ sinh chưa sạch, quán đông và phải chờ lâu.",
+  "rating": {
+   "v": 3.0,
+   "n": 542,
+   "src": "Google (qua Wanderlog)",
+   "url": "https://wanderlog.com/place/details/3854787",
+   "seen": "2026-10"
+  },
+  "hot": false,
+  "tags": [
+   "đặc sản Khánh Hòa",
+   "bình dân"
+  ],
+  "tips": "Mẹo: Tránh giờ ăn trưa và tối để bớt chờ. Các nguồn ghi giờ mở cửa khác nhau (có nguồn ghi nghỉ trưa 12:00–14:00), nên gọi 0258 3824 024 trước khi đến.",
+  "wiki": null,
+  "web": null,
+  "sources": [
+   "https://wanderlog.com/place/details/3854787",
+   "https://mia.vn/cam-nang-du-lich/diem-ten-10-quan-nem-nuong-nha-trang-ngon-quen-loi-ve-682",
+   "https://toplist.vn/top-list/quan-nem-nuong-ngon-nhat-tp-nha-trang-khanh-hoa-53930.htm"
+  ],
+  "status": "open",
+  "existing": true,
+  "imgs": [
+   {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/7/77/M%E1%BA%B9t_nem_n%C6%B0%E1%BB%9Bng_Nha_Trang.jpg",
+    "thumb": "https://upload.wikimedia.org/wikipedia/commons/7/77/M%E1%BA%B9t_nem_n%C6%B0%E1%BB%9Bng_Nha_Trang.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:M%E1%BA%B9t_nem_n%C6%B0%E1%BB%9Bng_Nha_Trang.jpg",
+    "credit": "Letruongan1122",
+    "lic": "CC BY-SA 4.0",
+    "kind": "dish"
+   }
+  ]
+ },
+ {
+  "id": "nhatrang-moc-quan-seafood",
+  "city": "nhatrang",
+  "name": "Mộc Quán Seafood",
+  "cat": "food",
+  "sub": "Nhà hàng hải sản tươi sống, chọn tại bể",
+  "addr": "74 Hồng Bàng, Nha Trang",
+  "lat": 12.24053,
+  "lng": 109.189476,
+  "approx": false,
+  "coordHow": "agent+osm",
+  "price": "",
+  "hours": "10:30–22:30",
+  "must": "Tôm nướng bơ tỏi, tôm hùm bơ tỏi hoặc phô mai, sò điệp nướng mỡ hành, móng tay xào rau muống, cơm chiên tỏi",
+  "desc": "Nhà hàng hải sản hai tầng trên đường Hồng Bàng, cách Tháp Trầm Hương khoảng 650 m, đặc biệt đông khách Hàn Quốc. Khách chọn hải sản sống trong bể, xem cân tại chỗ rồi chọn cách chế biến; tầng 2 có phòng máy lạnh. Điểm cộng hay được nhắc là nhân viên bóc vỏ tôm, tôm hùm giúp khách và món nêm nếm vừa phải.",
+  "review": "Khen: hải sản tươi, được tự chọn và xem cân; nhân viên thân thiện, nói được nhiều thứ tiếng, tư vấn món và bóc vỏ giúp; quán sạch, có phòng lạnh. Chê: giờ cao điểm buổi tối rất đông, ồn và phải chờ nếu không đặt trước; một số món sốt bị ngọt hoặc ngấy, sò điệp, hàu nướng và cá có lúc nhạt; có người thấy quán được quảng cáo trên mạng quá mức.",
+  "rating": {
+   "v": 4.5,
+   "n": 3079,
+   "src": "Google (qua Wanderlog)",
+   "url": "https://wanderlog.com/place/details/9445248",
+   "seen": "2026-10"
+  },
+  "hot": false,
+  "tags": [
+   "hải sản"
+  ],
+  "tips": "Mẹo: Đặt bàn trước (điện thoại 0934 981 180, quán nhận cả KakaoTalk) và tránh khung 18:00–19:00; hỏi rõ giá theo cân trước khi chế biến.",
+  "wiki": null,
+  "web": null,
+  "sources": [
+   "https://wanderlog.com/place/details/9445248",
+   "https://vietnamguide.co.kr/place/나트랑-hai-san-moc-quan-nha-trang/"
+  ],
+  "status": "open",
+  "existing": false,
+  "imgs": []
+ },
+ {
+  "id": "nhatrang-lang-ngon",
+  "city": "nhatrang",
+  "name": "Làng Ngon",
+  "cat": "food",
+  "sub": "Nhà hàng món Việt ba miền trong khung cảnh làng quê",
+  "addr": "Hẻm 83 Nguyễn Thị Minh Khai, Nha Trang",
+  "lat": 12.236008,
+  "lng": 109.189558,
+  "approx": false,
+  "coordHow": "agent",
+  "price": "Khoảng 17.000–600.000đ/món; hải sản tính theo thời giá (MIA.vn 06/2025)",
+  "hours": "10:30–22:00",
+  "must": "Bún bò, heo sữa quay giòn, bánh căn mực, bún cá Nha Trang, hải sản tươi",
+  "desc": "Nhà hàng món Việt mở từ năm 2016 trên khu đất gần 3.000 m², dựng lại khung cảnh làng quê Bắc Bộ với nhà mái ngói, ao sen, hồ cá koi dưới hàng xà cừ gần trăm năm tuổi. Thực đơn gần 300 món, từ bún đậu mắm tôm, bún bò Huế, mì Quảng, hủ tiếu Nam Vang đến bánh căn, bún cá, nem chả Nha Trang và hải sản tươi. Hợp cho bữa ăn gia đình, đãi khách hoặc tổ chức tiệc.",
+  "review": "Khen: không gian làng quê mái ngói, ao sen, hồ cá đẹp và thoáng; thực đơn rất đa dạng, nguyên liệu tươi; nhân viên chu đáo. Chê: khu ngồi ngoài trời buổi tối có thể oi nóng khi lặng gió; trải nghiệm chưa đồng đều — vẫn có khá nhiều đánh giá 1 sao dù điểm trung bình cao.",
+  "rating": {
+   "v": 4.5,
+   "n": 3521,
+   "src": "Google (qua Wanderlog)",
+   "url": "https://wanderlog.com/place/details/2625148",
+   "seen": "2026-10"
+  },
+  "hot": false,
+  "tags": [
+   "món Việt ba miền",
+   "Hợp với trẻ em"
+  ],
+  "tips": "Mẹo: Đi nhóm đông nên đặt bàn qua hotline 0913 504 319 hoặc form trên langngon.com; tối oi thì xin bàn trong nhà. Có thêm chi nhánh Làng Ngon Corner ở tầng 4 Vincom Center Lê Thánh Tôn (theo MIA.vn 06/2025).",
+  "wiki": null,
+  "web": "https://langngon.com/",
+  "sources": [
+   "https://wanderlog.com/place/details/2625148",
+   "https://langngon.com/",
+   "https://mia.vn/cam-nang-du-lich/lang-ngon-vietnamese-cuisine-seafood-restaurant-binh-di-trong-tung-bua-an-viet-nam-735"
+  ],
+  "status": "open",
+  "existing": false,
+  "imgs": []
+ },
+ {
+  "id": "nhatrang-goi-ca-mai-co-hang",
+  "city": "nhatrang",
+  "name": "Gỏi cá mai Cô Hằng",
+  "cat": "food",
+  "sub": "Gỏi cá mai Nha Trang",
+  "addr": "54 Tháp Bà, Vĩnh Thọ, Nha Trang",
+  "lat": 12.265567,
+  "lng": 109.198353,
+  "approx": false,
+  "coordHow": "agent+osm",
+  "price": "Khoảng 50.000–150.000đ/phần cho 1–4 người (MIA.vn 07/2026)",
+  "hours": "10:30–20:00",
+  "must": "Gỏi cá mai cuốn bánh tráng, rau sống, chấm nước chấm gia truyền; kem flan tráng miệng",
+  "desc": "Quán nhỏ gia đình gần Tháp Bà Ponagar chuyên gỏi cá mai — loại cá nhỏ thịt trắng, được lọc xương, tái chanh rồi cuốn bánh tráng với rau sống. Điểm riêng của quán là chén nước chấm sệt nấu từ nước luộc xương cá, thính gạo rang, thịt băm, ớt, tỏi và chanh theo công thức gia truyền. Cá mua trong ngày nên giữ được độ giòn ngọt.",
+  "review": "Khen: cá tươi, không tanh, giòn ngọt; nước chấm đậm đà, khác biệt; rau sống nhiều; giá hợp lý, hai mẹ con chủ quán thân thiện, lên món nhanh. Chê: quán nhỏ, chỗ ngồi ngoài trời nóng vào mùa hè, giờ cao điểm phải chờ; có khách thấy cá tái chanh chưa đều và vị không nổi bật so với giá khoảng 100.000đ/phần.",
+  "rating": {
+   "v": 4.4,
+   "n": 124,
+   "src": "Google (qua Wanderlog)",
+   "url": "https://wanderlog.com/place/details/8749453",
+   "seen": "2026-10"
+  },
+  "hot": false,
+  "tags": [
+   "đặc sản Khánh Hòa",
+   "Ít người biết"
+  ],
+  "tips": "Mẹo: Quán từng dời sang vài căn bên cạnh nên các trang ghi số nhà khác nhau — tìm \"Gỏi cá mai Cô Hằng\" trên bản đồ trước khi đi. Ghé ăn trưa sau khi tham quan Tháp Bà Ponagar.",
+  "wiki": null,
+  "web": null,
+  "sources": [
+   "https://wanderlog.com/place/details/8749453",
+   "https://mia.vn/cam-nang-du-lich/quan-goi-ca-mai-nha-trang-21154",
+   "https://vinwonders.com/vi/wonderpedia/news/dac-san-goi-ca-mai-nha-trang/"
+  ],
+  "status": "open",
+  "existing": false,
+  "imgs": []
+ },
+ {
+  "id": "nhatrang-xoi-ca-com",
+  "city": "nhatrang",
+  "name": "Xôi cá cơm Ngô Sĩ Liên",
+  "cat": "food",
+  "sub": "Xôi cá cơm Nha Trang (bán mang đi)",
+  "addr": "11A Ngô Sĩ Liên, Nha Trang",
+  "lat": 12.248424,
+  "lng": 109.189329,
+  "approx": false,
+  "coordHow": "agent",
+  "price": "",
+  "hours": "17:30–20:30",
+  "must": "Xôi cá cơm kho rưới mỡ hành",
+  "desc": "Điểm bán xôi cá cơm buổi chiều tối ở 11A Ngô Sĩ Liên — xôi dẻo rưới mỡ hành, phủ cá cơm kho mặn ngọt, có thể thêm chả, lạp xưởng hoặc thịt; theo Wanderlog quán chỉ bán mang đi.",
+  "review": "",
+  "rating": {
+   "v": 4.7,
+   "n": 64,
+   "src": "Google (qua Wanderlog)",
+   "url": "https://wanderlog.com/place/details/7810380",
+   "seen": "2026-10"
+  },
+  "hot": false,
+  "tags": [
+   "đặc sản Khánh Hòa",
+   "Ít người biết"
+  ],
+  "tips": "Mẹo: Chỉ bán buổi chiều tối (khoảng 17:30–20:30 theo Google) và không có chỗ ngồi — mua mang về ăn. Chưa có nguồn 2025–2026 xác nhận quán còn bán, nên xem Google Maps trước khi đi.",
+  "wiki": null,
+  "web": null,
+  "sources": [
+   "https://wanderlog.com/place/details/7810380"
+  ],
+  "status": "unverified",
+  "existing": false,
+  "imgs": []
+ },
+ {
+  "id": "nhatrang-bun-ca-la-hieu-an",
+  "city": "nhatrang",
+  "name": "Bún cá lá Ninh Hòa Hiếu An",
+  "cat": "food",
+  "sub": "Bún cá lá kiểu Ninh Hòa (bán sáng)",
+  "addr": "2A Xương Huân (góc Lãn Ông), Nha Trang",
+  "lat": 12.254216,
+  "lng": 109.193517,
+  "approx": false,
+  "coordHow": "agent+osm",
+  "price": "",
+  "hours": "05:30–10:00",
+  "must": "Bún cá lá với chả cá và sứa",
+  "desc": "Quán bún cá nhỏ chỉ bán buổi sáng ở góc Xương Huân – Lãn Ông, nấu bún cá lá kiểu Ninh Hòa với nước dùng cá thanh, chả cá và sứa, ăn kèm xà lách, giá và bắp chuối bào.",
+  "review": "",
+  "rating": {
+   "v": 4.8,
+   "n": 70,
+   "src": "Google (qua Wanderlog)",
+   "url": "https://wanderlog.com/place/details/8750754",
+   "seen": "2026-10"
+  },
+  "hot": false,
+  "tags": [
+   "đặc sản Khánh Hòa",
+   "Ít người biết"
+  ],
+  "tips": "Mẹo: Chỉ mở buổi sáng (khoảng 05:30–10:00 theo Google) nên đến sớm; nêm thêm mắm ruốc, ớt có sẵn trên bàn. Chưa có nguồn 2025–2026 xác nhận, nên xem Google Maps trước khi đi.",
+  "wiki": null,
+  "web": null,
+  "sources": [
+   "https://wanderlog.com/place/details/8750754"
+  ],
+  "status": "unverified",
+  "existing": false,
+  "imgs": []
+ },
+ {
+  "id": "nhatrang-banh-uot-long-ga-minh-loc",
+  "city": "nhatrang",
+  "name": "Bánh ướt lòng gà Minh Lộc",
+  "cat": "food",
+  "sub": "Bánh ướt lòng gà, cơm gà buổi sáng",
+  "addr": "67 Huỳnh Thúc Kháng, Nha Trang",
+  "lat": 12.244016,
+  "lng": 109.18966,
+  "approx": false,
+  "coordHow": "agent+osm",
+  "price": "",
+  "hours": "08:00–13:00",
+  "must": "Bánh ướt lòng gà chấm nước mắm gừng; gỏi gà; nước dùng gà",
+  "desc": "Quán gà bán buổi sáng ở 67 Huỳnh Thúc Kháng: bánh ướt tráng mỏng ăn với thịt gà xé, lòng gà và nước mắm gừng hơi cay, cùng cơm gà, gỏi gà và miến gà. Các đánh giá Google từ cuối 2023 đến cuối 2024 đều cho 5 sao, khen gà và nước dùng.",
+  "review": "Khen: gà luộc ngọt, nạc; nước dùng gà đậm; gỏi gà và bánh ướt ngon; chủ quán thân thiện, giá hợp lý, chỗ ngồi sạch sẽ. Chê: các đánh giá đọc được (2023–2024) không nêu phàn nàn cụ thể; quán chỉ bán đến khoảng đầu giờ chiều.",
+  "rating": {
+   "v": 4.8,
+   "n": 65,
+   "src": "Google (qua Wanderlog)",
+   "url": "https://wanderlog.com/place/details/12149211",
+   "seen": "2026-10"
+  },
+  "hot": false,
+  "tags": [
+   "Ít người biết"
+  ],
+  "tips": "Mẹo: Quán bán khoảng 08:00–13:00 (theo Google). Đánh giá mới nhất tìm được là cuối 2024, chưa có nguồn 2025–2026 — xem Google Maps trước khi đi.",
+  "wiki": null,
+  "web": null,
+  "sources": [
+   "https://wanderlog.com/place/details/12149211"
+  ],
+  "status": "unverified",
+  "existing": false,
+  "imgs": []
+ },
+ {
+  "id": "nhatrang-thanh-co-dien-khanh",
+  "city": "nhatrang",
+  "name": "Thành cổ Diên Khánh",
+  "cat": "sight",
+  "sub": "Thành cổ kiểu Vauban thời chúa Nguyễn (1793)",
+  "addr": "Thị trấn Diên Khánh, Khánh Hòa (~12 km từ Nha Trang)",
+  "lat": 12.255568,
+  "lng": 109.090927,
+  "approx": false,
+  "coordHow": "agent",
+  "price": "",
+  "hours": "",
+  "must": "Cổng Tây và cổng Tiền với vọng lâu hai tầng, đoạn tường thành và hào nước, nhà thờ Hà Dừa cạnh cổng Tây",
+  "desc": "Tòa thành quân sự do Nguyễn Ánh cho đắp từ năm 1793 sau khi giành lại Diên Khánh từ quân Tây Sơn, theo kiểu Vauban với tường đất hình lục giác không đều dài khoảng 2,7 km, bao quanh là hào nước rộng 20–30 m. Thành ban đầu có 6 cửa, nay còn 4 cửa Đông, Tây, Tiền, Hậu với vọng lâu hai tầng mái ngói cong; từng là đại bản doanh phong trào Cần Vương ở Khánh Hòa và được xếp hạng di tích quốc gia năm 1988. Năm 2026 di tích đang trong dự án trùng tu lớn: nạo vét hào, đắp lại tường thành, tu bổ các cổng.",
+  "review": "Khen: các cổng thành gạch cổ còn khá nguyên vẹn, leo lên được, chụp ảnh đẹp; dễ kết hợp nhà thờ Hà Dừa và Văn miếu Diên Khánh gần đó. Chê: ngoài cổng và tường thành không có nhiều thứ để xem, thiếu bảng thông tin; chừng 15–30 phút là xem xong; năm 2026 nhiều đoạn đang là công trường trùng tu.",
+  "rating": {
+   "v": 4.5,
+   "n": 255,
+   "src": "Google (qua Wanderlog)",
+   "url": "https://wanderlog.com/place/details/1838440",
+   "seen": "2026-10"
+  },
+  "hot": false,
+  "tags": [
+   "di tích quốc gia",
+   "lịch sử",
+   "Ít người biết"
+  ],
+  "tips": "Mẹo: Cách trung tâm Nha Trang khoảng 10–12 km về phía tây. Ghé cổng Tây rồi đi bộ khoảng 200 m sang nhà thờ Hà Dừa, sau đó qua Văn miếu Diên Khánh; vì công trường trùng tu đang thi công (09/2026), một số đoạn có thể bị rào chắn.",
+  "wiki": "https://vi.wikipedia.org/wiki/Th%C3%A0nh_c%E1%BB%95_Di%C3%AAn_Kh%C3%A1nh",
+  "web": null,
+  "sources": [
+   "https://wanderlog.com/place/details/1838440",
+   "https://vi.wikipedia.org/wiki/Th%C3%A0nh_c%E1%BB%95_Di%C3%AAn_Kh%C3%A1nh",
+   "https://vov.vn/du-lich/trai-nghiem-tuyen-tham-quan-thanh-co-quan-su-duy-nhat-mien-trung-808296.vov",
+   "https://baovanhoa.vn/van-hoa/co-kip-hoan-thanh-truoc-mua-mua-bao-den-263582.html"
+  ],
+  "status": "open",
+  "existing": false,
+  "imgs": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/15/Dien_Khanh_western_gate.JPG/960px-Dien_Khanh_western_gate.JPG",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/15/Dien_Khanh_western_gate.JPG/330px-Dien_Khanh_western_gate.JPG",
+    "page": "https://commons.wikimedia.org/wiki/File:Dien_Khanh_western_gate.JPG",
+    "credit": "Vinhtantran",
+    "lic": "CC BY-SA 3.0",
+    "kind": "place"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fb/Dien_Khanh_front_gate.JPG/960px-Dien_Khanh_front_gate.JPG",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fb/Dien_Khanh_front_gate.JPG/330px-Dien_Khanh_front_gate.JPG",
+    "page": "https://commons.wikimedia.org/wiki/File:Dien_Khanh_front_gate.JPG",
+    "credit": "Vinhtantran",
+    "lic": "CC BY-SA 3.0",
+    "kind": "place"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2d/Dien_Khanh_eastern_gate.JPG/960px-Dien_Khanh_eastern_gate.JPG",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2d/Dien_Khanh_eastern_gate.JPG/330px-Dien_Khanh_eastern_gate.JPG",
+    "page": "https://commons.wikimedia.org/wiki/File:Dien_Khanh_eastern_gate.JPG",
+    "credit": "Vinhtantran",
+    "lic": "CC BY-SA 3.0",
+    "kind": "place"
+   }
+  ]
+ },
+ {
+  "id": "nhatrang-tram-trung-100-egg",
+  "city": "nhatrang",
+  "name": "Tắm bùn Trăm Trứng (100 Egg)",
+  "cat": "experience",
+  "sub": "Khu du lịch tắm bùn trong bồn hình quả trứng",
+  "addr": "Đại lộ Nguyễn Tất Thành, Phước Đồng, Nha Trang",
+  "lat": 12.185299,
+  "lng": 109.161497,
+  "approx": false,
+  "coordHow": "agent-reviewed",
+  "price": "Vé tham quan (gói Khám phá) 150.000đ người lớn, 100.000đ trẻ em; các gói Thư giãn, Tinh hoa, VIP 300.000–700.000đ người lớn, 210.000–490.000đ trẻ em (website chính thức, xem 10/2026). MIA.vn 05/2026 ghi vé thấp hơn (80.000đ/65.000đ).",
+  "hours": "08:30–18:00",
+  "must": "Ngâm bùn khoáng nóng trong bồn hình quả trứng, ngâm thảo dược, hồ bơi, khu Chăm Pa và công viên trứng để chụp ảnh",
+  "desc": "Khu du lịch sinh thái hơn 20 ha trên đại lộ Nguyễn Tất Thành, cách trung tâm Nha Trang khoảng 8 km, nổi tiếng với dịch vụ ngâm bùn khoáng nóng trong hơn 100 bồn hình quả trứng khổng lồ. Ngoài tắm bùn và ngâm thảo dược còn có hồ bơi, khu kiến trúc Chăm Pa, làng nhà sàn kiểu Tây Nguyên, công viên trứng để chụp ảnh, nhà hàng và khu vui chơi, chia theo các chủ đề văn hóa Việt, Chăm, Tây Nguyên và trứng.",
+  "review": "Khen: bồn tắm bùn hình trứng độc đáo; khuôn viên rộng, nhiều cây xanh và góc chụp ảnh; nhân viên thân thiện, khu vực sạch sẽ; nhà hàng trong khu nấu món địa phương ngon. Chê: ít phàn nàn — điểm trừ chủ yếu là chi phí cộng dồn vì ăn uống, bồn nóng, hồ bơi tính phí riêng, mang đồ ăn từ ngoài vào có thể bị phụ thu, và giá vé mỗi nguồn ghi một khác.",
+  "rating": {
+   "v": 4.7,
+   "n": 1251,
+   "src": "Google (qua Wanderlog)",
+   "url": "https://wanderlog.com/place/details/8265746",
+   "seen": "2026-10"
+  },
+  "hot": false,
+  "tags": [
+   "tắm bùn",
+   "Hợp với trẻ em"
+  ],
+  "tips": "Mẹo: Người có bệnh tim mạch hoặc huyết áp cao nên cân nhắc trước khi ngâm bùn nóng. Có đồ bơi tại chỗ nếu quên mang; gửi đồ có giá trị vào túi niêm phong có thẻ tên được phát tại quầy. Kết hợp được với Galina Lake View ở gần đó.",
+  "wiki": null,
+  "web": "http://tramtrung100egg.vn/",
+  "sources": [
+   "https://wanderlog.com/place/details/8265746",
+   "http://tramtrung100egg.vn/",
+   "https://dulichso.khanhhoa.gov.vn/article/khu-du-lich-tram-trung-b11",
+   "https://mia.vn/cam-nang-du-lich/khu-du-lich-tram-trung-15402"
+  ],
+  "status": "open",
+  "existing": false,
+  "imgs": []
+ },
+ {
+  "id": "nhatrang-dao-khi",
+  "city": "nhatrang",
+  "name": "Đảo Khỉ (Hòn Lao)",
+  "cat": "kids",
+  "sub": "Đảo khỉ thả tự nhiên trong đầm Nha Phu",
+  "addr": "Hòn Lao, đầm Nha Phu (bến tàu Long Phú, Vĩnh Lương)",
+  "lat": 12.359675,
+  "lng": 109.21291,
+  "approx": false,
+  "coordHow": "agent+osm",
+  "price": "Người lớn (từ 1,4 m) 180.000đ, trẻ 1–1,39 m 100.000đ, dưới 1 m miễn phí, đã gồm tàu hai chiều và các tiết mục biểu diễn (VinWonders 12/2025); trò chơi thêm tính riêng, ví dụ bắn súng sơn 50.000đ, lặn biển 400.000đ/20 phút",
+  "hours": "07:30–16:30",
+  "must": "Xem đàn khỉ thả tự nhiên, xiếc hải cẩu (10:30, 13:30, 15:30 theo VinWonders 12/2025), công viên nổi trên nước",
+  "desc": "Hòn Lao nằm trong đầm Nha Phu, cách trung tâm Nha Trang khoảng 15–18 km về phía bắc; từ bến tàu Long Phú đi tàu khoảng 15 phút là tới. Trên đảo có khoảng 1.000–1.500 con khỉ sống thả tự nhiên, kèm các tiết mục xiếc khỉ, xiếc hải cẩu, đua chó, công viên nổi trên nước và các trò trả phí như bắn súng sơn, cưỡi đà điểu, lặn biển. Đây là điểm đi trong ngày quen thuộc với các gia đình có trẻ nhỏ.",
+  "review": "Khen: được xem khỉ ở cự ly gần, trẻ em rất thích; chuyến tàu ngắn, cảnh đầm và đảo đẹp, nhiều góc chụp ảnh; vé đã gồm tàu hai chiều và các tiết mục biểu diễn. Chê: một số con khỉ hung dữ, giật đồ, cắn hoặc đeo bám đòi ăn; nhiều khách băn khoăn về cách đối xử với thú trong các màn xiếc; cơ sở vật chất trên đảo có phần xuống cấp.",
+  "rating": {
+   "v": 4.2,
+   "n": 3705,
+   "src": "Google (qua Wanderlog)",
+   "url": "https://wanderlog.com/place/details/147322",
+   "seen": "2026-10"
+  },
+  "hot": false,
+  "tags": [
+   "đảo",
+   "Hợp với trẻ em"
+  ],
+  "tips": "Mẹo: Không đeo trang sức, không cầm đồ ăn hay túi lỏng khi đi giữa đàn khỉ vì khỉ hay giật đồ; không chạm vào đầu khỉ khi cho ăn và đừng trêu chọc chúng. Muốn mua chuối cho khỉ thì mua trước khi lên tàu sẽ rẻ hơn.",
+  "wiki": null,
+  "web": "http://longphutourist.com/",
+  "sources": [
+   "https://wanderlog.com/place/details/147322",
+   "https://vinwonders.com/vi/wonderpedia/news/dao-khi-nha-trang/"
+  ],
+  "status": "open",
+  "existing": false,
+  "imgs": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/72/MONKEY_ISLAND_NHA_TRANG_BAY_VIETNAM_JAN2012_%286967923315%29.jpg/960px-MONKEY_ISLAND_NHA_TRANG_BAY_VIETNAM_JAN2012_%286967923315%29.jpg",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/72/MONKEY_ISLAND_NHA_TRANG_BAY_VIETNAM_JAN2012_%286967923315%29.jpg/330px-MONKEY_ISLAND_NHA_TRANG_BAY_VIETNAM_JAN2012_%286967923315%29.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:MONKEY_ISLAND_NHA_TRANG_BAY_VIETNAM_JAN2012_(6967923315).jpg",
+    "credit": "calflier001",
+    "lic": "CC BY-SA 2.0",
+    "kind": "place"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/75/MONKEY_ISLAND_NHA_TRANG_BAY_VIETNAM_JAN_2012_%286967919935%29.jpg/960px-MONKEY_ISLAND_NHA_TRANG_BAY_VIETNAM_JAN_2012_%286967919935%29.jpg",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/75/MONKEY_ISLAND_NHA_TRANG_BAY_VIETNAM_JAN_2012_%286967919935%29.jpg/330px-MONKEY_ISLAND_NHA_TRANG_BAY_VIETNAM_JAN_2012_%286967919935%29.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:MONKEY_ISLAND_NHA_TRANG_BAY_VIETNAM_JAN_2012_(6967919935).jpg",
+    "credit": "calflier001",
+    "lic": "CC BY-SA 2.0",
+    "kind": "place"
+   }
+  ]
+ },
+ {
+  "id": "nhatrang-bai-duong",
+  "city": "nhatrang",
+  "name": "Bãi Dương",
+  "cat": "nature",
+  "sub": "Bãi biển hàng dương yên tĩnh cạnh Hòn Chồng",
+  "addr": "Bãi Dương, Vĩnh Phước, Nha Trang (cạnh Hòn Chồng)",
+  "lat": 12.274357,
+  "lng": 109.202727,
+  "approx": false,
+  "coordHow": "agent+osm",
+  "price": "",
+  "hours": "",
+  "must": "",
+  "desc": "Bãi biển ở phía bắc Nha Trang thuộc quần thể Hòn Chồng, có hàng cây dương lớn rợp bóng dọc bãi cát dài. Biển ít sóng gió, nước nông và trong, lúc triều xuống nhìn thấy đáy và có người dân lội ra bắt ốc; không khí yên tĩnh hơn hẳn bãi Trần Phú ở trung tâm.",
+  "review": "Khen: yên tĩnh, ít người hơn các bãi trung tâm; cát mịn, xuống nước thoải, hợp trẻ nhỏ; ngắm Hòn Chồng và hoàng hôn đẹp. Chê: hạ tầng kém hơn khu trung tâm, không phải lúc nào cũng có chỗ tắm tráng nước ngọt; mùa gió biển động, một số đoạn có sỏi đá hoặc mảnh san hô.",
+  "rating": {
+   "v": 4.4,
+   "n": 48,
+   "src": "Google (qua Wanderlog)",
+   "url": "https://wanderlog.com/place/details/5841536",
+   "seen": "2026-10"
+  },
+  "hot": false,
+  "tags": [
+   "bãi biển",
+   "Hợp với trẻ em",
+   "Ít người biết"
+  ],
+  "tips": "Mẹo: Tắm sáng sớm (khoảng 5:00–7:30) hoặc sau 15:00, tránh nắng gắt 11:00–15:00; mùa hè để ý sứa. Mang theo nước ngọt để tráng người. Kết hợp tham quan Hòn Chồng ngay bên cạnh.",
+  "wiki": null,
+  "web": null,
+  "sources": [
+   "https://wanderlog.com/place/details/5841536",
+   "https://vinwonders.com/vi/wonderpedia/news/bai-tam-nha-trang/"
+  ],
+  "status": "open",
+  "existing": false,
+  "imgs": []
+ },
+ {
+  "id": "nhatrang-galina-lake-view",
+  "city": "nhatrang",
+  "name": "Galina Lake View",
+  "cat": "kids",
+  "sub": "Khu du lịch sinh thái hồ Kênh Hạ",
+  "addr": "Phước Trung, Nha Trang (đại lộ Nguyễn Tất Thành)",
+  "lat": 12.188199,
+  "lng": 109.156644,
+  "approx": false,
+  "coordHow": "agent",
+  "price": "Vé vào cổng 80.000đ người lớn, 50.000đ trẻ 1–1,4 m, dưới 1 m miễn phí; đạp vịt thiên nga 100.000đ/45 phút, thuyền chèo 80.000đ/45 phút, ca nô 250.000đ/vòng (MIA.vn 06/2026, giá tham khảo)",
+  "hours": "08:00–16:00",
+  "must": "Đạp vịt thiên nga trên hồ, câu cá và nhờ nấu tại chỗ, đi ca nô vòng hồ, cắm trại trên bãi cỏ",
+  "desc": "Khu du lịch sinh thái bên hồ Kênh Hạ ở phía nam Nha Trang (xã Phước Đồng cũ, nay là phường Nam Nha Trang), cách trung tâm khoảng 10 km. Khách đến để đạp vịt thiên nga, chèo thuyền, đi ca nô quanh hồ, câu cá rồi nhờ nấu tại chỗ, cắm trại hoặc tổ chức team building trên bãi cỏ; gần đó có di tích căn cứ cách mạng Đồng Bò.",
+  "review": "Khen: hồ nước trong, cảnh núi rừng xanh và yên bình; giá dịch vụ phải chăng; đồ ăn ngon, nhân viên thân thiện. Chê: vệ sinh và cơ sở vật chất có lúc chưa tốt; nhạc mở từ khoảng 7–8 giờ sáng nên khó tìm sự yên tĩnh.",
+  "rating": {
+   "v": 4.0,
+   "n": 511,
+   "src": "Google (qua Wanderlog)",
+   "url": "https://wanderlog.com/place/details/3052053",
+   "seen": "2026-10"
+  },
+  "hot": false,
+  "tags": [
+   "sinh thái",
+   "Hợp với trẻ em"
+  ],
+  "tips": "Mẹo: Tránh tháng 9–12 vì mùa mưa lũ, đường trơn; theo MIA.vn (06/2026) khu không mở qua đêm. Website galinalakeview.com hiện không truy cập được — gọi hỏi giá và giờ trước khi đi. Có thể kết hợp với tắm bùn Trăm Trứng gần đó.",
+  "wiki": null,
+  "web": "http://www.galinalakeview.com/",
+  "sources": [
+   "https://wanderlog.com/place/details/3052053",
+   "https://mia.vn/cam-nang-du-lich/ho-kenh-ha-galina-lake-view-20839"
+  ],
+  "status": "open",
+  "existing": false,
+  "imgs": []
+ },
+ {
+  "id": "nhatrang-cong-vien-yersin",
+  "city": "nhatrang",
+  "name": "Công viên Yersin (bờ biển bắc)",
+  "cat": "kids",
+  "sub": "Công viên ven biển có tượng bác sĩ Yersin",
+  "addr": "Đầu bắc đường Trần Phú, Nha Trang",
+  "lat": 12.258917,
+  "lng": 109.198731,
+  "approx": false,
+  "coordHow": "agent+osm",
+  "price": "Miễn phí",
+  "hours": "Mở cả ngày",
+  "must": "Tượng bác sĩ Yersin và bia tưởng niệm, lối đi dạo ven biển, góc nhìn cầu Trần Phú và Tháp Bà Ponagar",
+  "desc": "Công viên ven biển ở đầu bắc đường Trần Phú, gần cầu Trần Phú, mang tên bác sĩ Alexandre Yersin. Trong công viên có tượng Yersin cùng bia tóm tắt cuộc đời ông và mối gắn bó với Nha Trang, lối đi bộ rợp cây, ghế đá nhìn ra vịnh, sân bóng chuyền, dụng cụ tập thể dục và nhà vệ sinh công cộng miễn phí; từ đây nhìn thấy cầu Trần Phú và Tháp Bà Ponagar.",
+  "review": "Khen: sạch, rộng, được chăm sóc kỹ; yên tĩnh, hợp đi dạo, tập thể dục buổi sáng hoặc cho trẻ chạy chơi; nhìn ra cầu Trần Phú và Tháp Bà đẹp; miễn phí, mở cả ngày. Chê: ít phàn nàn; điểm cần lưu ý là công viên nằm sát trục đường chính đông xe nên phải trông trẻ nhỏ.",
+  "rating": {
+   "v": 4.5,
+   "n": 425,
+   "src": "Google (qua Wanderlog)",
+   "url": "https://wanderlog.com/place/details/8788068",
+   "seen": "2026-10"
+  },
+  "hot": false,
+  "tags": [
+   "miễn phí",
+   "Hợp với trẻ em"
+  ],
+  "tips": "Mẹo: Đi sáng sớm hoặc chiều mát để đi dạo; dễ nối tiếp bằng cách đi bộ dọc biển Trần Phú về trung tâm hoặc qua cầu Trần Phú sang Tháp Bà Ponagar.",
+  "wiki": null,
+  "web": null,
+  "sources": [
+   "https://wanderlog.com/place/details/8788068"
+  ],
+  "status": "open",
+  "existing": false,
+  "imgs": []
+ },
+ {
+  "id": "nhatrang-cho-xom-moi",
+  "city": "nhatrang",
+  "name": "Chợ Xóm Mới",
+  "cat": "market",
+  "sub": "Chợ dân sinh lâu đời: hải sản tươi, đồ khô, món ăn sáng",
+  "addr": "49 Ngô Gia Tự, Nha Trang",
+  "lat": 12.242762,
+  "lng": 109.19043,
+  "approx": false,
+  "coordHow": "agent+osm",
+  "price": "",
+  "hours": "06:00–17:00",
+  "must": "Hải sản khô (mực một nắng, mực rim), bánh căn, bún chả cá, bánh xèo mực ở khu ăn uống",
+  "desc": "Chợ dân sinh hơn 60 năm tuổi trên đường Ngô Gia Tự với khoảng 1.000–1.200 sạp, là nơi người Nha Trang đi chợ hằng ngày. Chợ bán hải sản tươi ngư dân mang về, hải sản khô như mực một nắng, mực rim, cá khô, cùng trái cây, rau, thịt, quần áo và đồ thủ công; khu ăn uống trên lầu có bánh căn, bún chả cá, bánh xèo mực, nem nướng. Không khí địa phương, ít màu du lịch hơn chợ Đầm.",
+  "review": "Khen: không khí chợ địa phương thật, ít khách du lịch hơn chợ Đầm; hàng hóa đa dạng, tươi, giá phải chăng; nhiều món ăn sáng ngon, rẻ. Chê: khu hải sản có mùi nồng; phải hỏi giá và mặc cả; chợ không có khu chế biến hải sản tại chỗ.",
+  "rating": {
+   "v": 4.0,
+   "n": 5462,
+   "src": "Google (qua Wanderlog)",
+   "url": "https://wanderlog.com/place/details/1761635",
+   "seen": "2026-10"
+  },
+  "hot": false,
+  "tags": [
+   "chợ địa phương",
+   "hải sản khô"
+  ],
+  "tips": "Mẹo: Đi khoảng 7:00 sáng để có hàng tươi và giá tốt; hỏi giá trước khi mua. Một số hàng ăn chỉ bán buổi sáng.",
+  "wiki": null,
+  "web": null,
+  "sources": [
+   "https://wanderlog.com/place/details/1761635",
+   "https://vinwonders.com/vi/wonderpedia/news/review-tho-dia-7-cho-hai-san-nha-trang-noi-tieng-tuoi-ngon-gia-re/",
+   "https://mia.vn/cam-nang-du-lich/tham-quan-cho-nha-trang-16286"
+  ],
+  "status": "open",
+  "existing": false,
+  "imgs": []
+ },
+ {
+  "id": "nhatrang-cho-vinh-luong",
+  "city": "nhatrang",
+  "name": "Chợ cá Vĩnh Lương",
+  "cat": "market",
+  "sub": "Chợ đầu mối hải sản phía bắc Nha Trang",
+  "addr": "Quốc lộ 1A, Vĩnh Lương, Nha Trang",
+  "lat": 12.336743,
+  "lng": 109.195345,
+  "approx": false,
+  "coordHow": "agent",
+  "price": "",
+  "hours": "05:00–19:00",
+  "must": "Hải sản tươi giá sỉ (mực, ghẹ, tôm sú, cá hố), chè và bánh xèo trong chợ, cảnh tàu cá cập cảng lúc sáng sớm",
+  "desc": "Chợ lớn trên Quốc lộ 1A ở Vĩnh Lương, cách trung tâm khoảng 11 km về phía bắc, là đầu mối bán sỉ nông sản và hải sản với giá mềm hơn các chợ trong thành phố; ngoài cá tôm còn có rau trái, đồ gia dụng và món ăn vặt như chè, bánh xèo. Gần đó là cảng cá Vĩnh Lương trên đường Phạm Văn Đồng, nơi tàu cá từ Khánh Hòa, Bình Định, Phú Yên cập bến bán cá hố, cá đuối, cá nục, mực, ghẹ, tôm sú.",
+  "review": "Khen: giá không bị đội cho khách du lịch, hải sản tươi và rẻ; trải nghiệm chợ đúng chất địa phương, người bán thân thiện; có chè, bánh xèo ăn vặt. Chê: xa trung tâm; ít phàn nàn cụ thể, chủ yếu là nên để ý đồ đạc khi chợ đông.",
+  "rating": {
+   "v": 4.0,
+   "n": 373,
+   "src": "Google (qua Wanderlog)",
+   "url": "https://wanderlog.com/place/details/147329",
+   "seen": "2026-10"
+  },
+  "hot": false,
+  "tags": [
+   "hải sản",
+   "chợ địa phương",
+   "Ít người biết"
+  ],
+  "tips": "Mẹo: Muốn xem cảnh lên cá thì ra cảng cá Vĩnh Lương từ khoảng 4:00–6:00 sáng, vừa mua được hàng tươi giá gốc vừa ngắm bình minh; mang túi giữ lạnh nếu mua hải sản về khách sạn.",
+  "wiki": null,
+  "web": null,
+  "sources": [
+   "https://wanderlog.com/place/details/147329",
+   "https://mia.vn/cam-nang-du-lich/tham-quan-cho-nha-trang-16286",
+   "https://vinwonders.com/vi/wonderpedia/news/review-tho-dia-7-cho-hai-san-nha-trang-noi-tieng-tuoi-ngon-gia-re/"
+  ],
+  "status": "open",
+  "existing": false,
+  "imgs": []
+ },
+ {
+  "id": "nhatrang-alpaca-homestyle-cafe",
+  "city": "nhatrang",
+  "name": "Alpaca Homestyle Cafe",
+  "cat": "cafe",
+  "sub": "Cà phê – brunch kiểu nhà châu Âu",
+  "addr": "10/1B Nguyễn Thiện Thuật, Nha Trang",
+  "lat": 12.241105,
+  "lng": 109.193239,
+  "approx": false,
+  "coordHow": "agent+osm",
+  "price": "",
+  "hours": "08:00–21:30",
+  "must": "Bữa sáng kiểu Âu với bánh mì, trái cây và mứt; burrito, fajitas gà; hummus; granola xoài; cheesecake",
+  "desc": "Quán cà phê kiêm quán ăn nhỏ trong hẻm Nguyễn Thiện Thuật, do một cặp vợ chồng người Nga điều hành, bày trí như một ngôi nhà châu Âu với nội thất gỗ, đồ cổ và hoa tươi. Thực đơn gồm bữa sáng – brunch kiểu Âu, món Địa Trung Hải và Mexico (burrito, fajitas, hummus), salad, bánh ngọt và cà phê. Đây là một trong những quán được đánh giá cao nhất Nha Trang (Google 4.8 với gần 7.000 lượt).",
+  "review": "Khen: món ăn ngon, trình bày đẹp, phần ăn lớn; nhân viên thân thiện, nói được tiếng Anh và tiếng Nga; không gian ấm cúng, nhiều chi tiết trang trí, đôi khi được tặng bánh trong lúc chờ. Chê: giá cao hơn quán Việt bình dân (món chính thường trên 100.000đ); vài món mặn bị nhạt; có món phải chờ 15–30 phút.",
+  "rating": {
+   "v": 4.8,
+   "n": 6868,
+   "src": "Google (qua Wanderlog)",
+   "url": "https://wanderlog.com/place/details/1279660",
+   "seen": "2026-10"
+  },
+  "hot": false,
+  "tags": [
+   "brunch",
+   "món Âu"
+  ],
+  "tips": "Mẹo: Muốn thử mà tiết kiệm thì gọi cà phê, bánh ngọt hoặc bữa sáng thay vì món chính. Vài trang ghi địa chỉ 60B Hùng Vương — địa chỉ được nhiều nguồn xác nhận nhất là 10/1B Nguyễn Thiện Thuật; xem Google Maps trước khi đi.",
+  "wiki": null,
+  "web": "https://www.facebook.com/alpacanhatrang",
+  "sources": [
+   "https://wanderlog.com/place/details/1279660",
+   "https://www.foody.vn/khanh-hoa/alpaca-coffee-store",
+   "https://www.wheregoesrose.com/how-to-survive-a-trip-to-nha-trang/",
+   "https://vietnamguide.co.kr/city/nhatrang/places/cafes/"
+  ],
+  "status": "unverified",
+  "existing": false,
+  "imgs": []
+ },
+ {
+  "id": "nhatrang-jungle-coffee",
+  "city": "nhatrang",
+  "name": "Jungle Coffee",
+  "cat": "cafe",
+  "sub": "Cà phê phong cách rừng nhiệt đới",
+  "addr": "8 Lê Quý Đôn, Nha Trang",
+  "lat": 12.245073,
+  "lng": 109.189767,
+  "approx": false,
+  "coordHow": "agent+osm",
+  "price": "Đồ uống và set tráng miệng khoảng 40.000–70.000đ (vietnamguide.co.kr 09/2026)",
+  "hours": "06:30–22:00",
+  "must": "Cà phê dừa, cà phê muối, sinh tố dừa, set kem dừa xoài tươi",
+  "desc": "Quán cà phê nhỏ trên đường Lê Quý Đôn, cách Tháp Trầm Hương khoảng 600 m, trang trí như một khu rừng với nhiều cây xanh và hoa tươi. Đồ uống được phục vụ kèm hoa và bánh nhỏ; tầng 1 và tầng 2 có phòng máy lạnh, không gian yên tĩnh, wifi tốt nên hợp ngồi làm việc. Món nổi bật là cà phê dừa, cà phê muối và set kem dừa với xoài tươi.",
+  "review": "Khen: không gian xanh, đẹp để chụp ảnh, yên tĩnh hơn các chuỗi lớn; đồ uống kèm hoa tươi và bánh nhỏ; nhân viên thân thiện, chu đáo; có phòng lạnh. Chê: đồ uống ra chậm, có khi phải chờ 15–30 phút; bánh ngọt hay hết vào một số khung giờ; nhiều cây hoa giả lẫn hoa thật; ban công tầng 2 cho hút thuốc.",
+  "rating": {
+   "v": 4.7,
+   "n": 499,
+   "src": "Google (qua Wanderlog)",
+   "url": "https://wanderlog.com/place/details/12515018",
+   "seen": "2026-10"
+  },
+  "hot": false,
+  "tags": [
+   "không gian xanh",
+   "làm việc"
+  ],
+  "tips": "Mẹo: Ngại khói thuốc thì ngồi phòng lạnh trong nhà thay vì ban công tầng 2; đi giờ vắng nếu muốn yên tĩnh và gọi món sớm vì đồ uống ra khá lâu.",
+  "wiki": null,
+  "web": null,
+  "sources": [
+   "https://wanderlog.com/place/details/12515018",
+   "https://vietnamguide.co.kr/place/%EB%82%98%ED%8A%B8%EB%9E%91-jungle-coffee-nha-trang/"
+  ],
+  "status": "open",
+  "existing": false,
+  "imgs": []
+ },
+ {
   "id": "mytho-hu-tieu-quan-ky",
   "city": "mytho",
   "name": "Hủ tiếu Quần Ký",
