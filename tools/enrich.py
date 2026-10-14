@@ -115,9 +115,16 @@ def key_tokens(name):
     return set(t for t in toks if t not in GENERIC) or set(toks)
 
 
+KINDS = ({"cafe", "music", "nightlife"}, {"food", "market"}, {"shopping", "market"}, {"sight", "nature", "experience"},
+         {"kids", "sight", "nature", "experience"})  # a theme park or an aquarium is filed under either
+
+
 def same_place(a, b):
     """Two researchers' entries for one venue under different names ("Hòn Tằm" / "Đảo Hòn Tằm").
-    Only called across files, where a slip merges two real places, so a weak name match needs nearby pins."""
+    Only called across files, where a slip merges two real places, so a weak name match needs nearby pins,
+    and the two must be the same kind of place: "Phòng trà Bến Thành" is not "Chợ Bến Thành"."""
+    if a.get("cat") != b.get("cat") and not any({a.get("cat"), b.get("cat")} <= k for k in KINDS):
+        return False
     ka, kb = key_tokens(a["name"]), key_tokens(b["name"])
     if not ka or not kb:
         return False
@@ -277,14 +284,14 @@ def main():
             if p["city"] not in CITIES:
                 print(f'! {stem}: {p.get("name")!r} has no known city, skipped', file=sys.stderr)
                 continue
-            twin = next((q for q in places if q["city"] == city and q["_file"] != stem and same_place(p, q)), None)
+            twin = next((q for q in places if q["city"] == p["city"] and q["_file"] != stem and same_place(p, q)), None)
             if twin is None:
                 places.append(p)
                 continue
             keep, lose = (p, twin) if richness(p) > richness(twin) else (twin, p)
             fill_from(keep, lose)
             places[places.index(twin)] = keep
-            merges.append(f'{city}: kept "{keep["name"]}" ({keep["_file"]}), merged "{lose["name"]}" ({lose["_file"]})')
+            merges.append(f'{p["city"]}: kept "{keep["name"]}" ({keep["_file"]}), merged "{lose["name"]}" ({lose["_file"]})')
 
     geo, img, head, pv = Cache("nominatim"), Cache("commons"), Cache("urlcheck"), Cache("pageviews")
     # Places listed by 3+ independent major guides (data/signature.json, one URL per guide).

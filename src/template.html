@@ -619,8 +619,15 @@ let home = (() => {
   try { const h = JSON.parse(localStorage.getItem(HOME_KEY)); if (Array.isArray(h) && h.length === 2 && h.every(Number.isFinite)) return h; } catch {}
   return Array.isArray(DATA.home) ? DATA.home : null;   // a private local copy may carry one; the published page never does
 })();
-const homeHere = () => !!home && km(home, CITIES[state.city].center) < 40;
-let homeLayer = null, picking = false;
+// A point belongs to the city whose box holds it; Hồ Chí Minh's and Mỹ Tho's boxes overlap, so the nearer centre wins.
+function cityOf(pt) {
+  if (!pt) return null;
+  const inside = Object.entries(CITIES).filter(([, c]) => { const [s, w, n, e] = c.bbox; return pt[0] >= s && pt[0] <= n && pt[1] >= w && pt[1] <= e; });
+  inside.sort((a, b) => km(a[1].center, pt) - km(b[1].center, pt));
+  return inside.length ? inside[0][0] : null;
+}
+const homeHere = () => cityOf(home) === state.city;
+let homeLayer = null, picking = false, stopPick = null;
 function saveHome(h) {
   home = h;
   try { h ? localStorage.setItem(HOME_KEY, JSON.stringify(h)) : localStorage.removeItem(HOME_KEY); } catch {}
@@ -646,8 +653,12 @@ function startPick() {
   const b = L.DomUtil.create('div', 'pick-banner', map.getContainer());
   b.innerHTML = '🏠 Bấm vào bản đồ tại nơi bạn ở <button>Hủy</button>';
   map.removeLayer(cluster);   // place pins would catch the click in a dense area, so they step aside while picking
-  const stop = () => { picking = false; map.getContainer().classList.remove('picking'); b.remove(); map.off('click', onPick); map.addLayer(cluster); };
-  const onPick = e => { stop(); saveHome([+e.latlng.lat.toFixed(5), +e.latlng.lng.toFixed(5)]); toast('Đã đặt Nhà của tôi — danh sách hiện khoảng cách 🏠'); };
+  const stop = () => { stopPick = null; picking = false; map.getContainer().classList.remove('picking'); b.remove(); map.off('click', onPick); map.addLayer(cluster); };
+  const onPick = e => {
+    stop(); saveHome([+e.latlng.lat.toFixed(5), +e.latlng.lng.toFixed(5)]);
+    toast(homeHere() ? 'Đã đặt Nhà của tôi — danh sách hiện khoảng cách 🏠' : 'Đã đặt Nhà của tôi — điểm này nằm ngoài khu vực thành phố đang xem');
+  };
+  stopPick = stop;
   b.querySelector('button').onclick = e => { L.DomEvent.stop(e); stop(); };
   L.DomEvent.disableClickPropagation(b);
   map.on('click', onPick);
@@ -684,6 +695,7 @@ function flyTo(p, z) {
 function select(id, fly) {
   const p = BY_ID.get(id);
   if (!p) return;
+  if (stopPick) stopPick();   // choosing a place ends a home pick; flyTo needs the pins back on the map
   if (p.city !== state.city) setCity(p.city, false);
   state.sel = id;
   renderDetail(p);
@@ -706,6 +718,7 @@ function fitCity(all) {
 }
 function setCity(city, fit) {
   state.city = city;
+  if (state.grp !== 'all' && !PLACES.some(p => p.city === city && p.grp === state.grp)) state.grp = 'all';
   state.sel = null;
   $('#detail').hidden = true;
   highlight(null);
@@ -727,8 +740,8 @@ function locate(prevSort) {
     if (meMarker) meMarker.remove();
     meMarker = L.marker(state.me, { icon:L.divIcon({ className:'pin-wrap', html:'<div class="me-dot"></div>', iconSize:[16, 16] }), title:'Bạn đang ở đây' }).addTo(map);
     // jump to the city you are in, if it is one of ours
-    const near = Object.entries(CITIES).map(([k, c]) => [k, km(c.center, state.me)]).sort((a, b) => a[1] - b[1])[0];
-    if (near && near[1] < 40 && near[0] !== state.city) setCity(near[0], false);
+    const here = cityOf(state.me);
+    if (here && here !== state.city) setCity(here, false);
     state.sort = 'near'; $('#sort').value = 'near';
     renderList();
     map.flyTo(state.me, 15);

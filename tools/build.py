@@ -146,7 +146,7 @@ def build(home=None):
     for p in places:
         p["grp"], p["fame"] = group(p), fame(p, med)
     live = [p for p in places if p["status"] in LIVE]
-    cities = {k: {kk: v[kk] for kk in ("name", "center", "zoom", "core")} for k, v in CITIES.items()}
+    cities = {k: {kk: v[kk] for kk in ("name", "center", "zoom", "core", "bbox")} for k, v in CITIES.items()}
     payload = {"generated": meta["generated"], "cities": cities, "places": places,
                "infoHtml": info_html(places, meta)}
     if home:
