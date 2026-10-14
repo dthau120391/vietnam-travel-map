@@ -78,7 +78,7 @@ def fame(p, med):
     return round(s, 2)
 
 
-def info_html(places, meta):
+def info_html(places, meta, sync=False):
     live = [p for p in places if p["status"] in LIVE]
     closed = [p for p in places if p["status"] == "closed"]
     removed = [p for p in places if p["status"] == "removed"]
@@ -102,6 +102,8 @@ def info_html(places, meta):
         "<li>🏠 <b>Nhà của tôi</b>: bấm 🏠 trên bản đồ rồi bấm vào chỗ bạn ở — danh sách hiện khoảng cách, lọc trong 1–3 km "
         "và có cách xếp “Đáng đi nhất gần nhà”. Vị trí nhà chỉ lưu trong trình duyệt của bạn.</li>"
         "<li>⭐ <b>Michelin</b>: có trong Michelin Guide 2026 · 🔥 <b>Hot</b>: nổi trên TikTok/báo 2025–2026.</li>"
+        + ("<li>👥 <b>Nhóm</b>: tạo nhóm, gửi link mời cho bạn bè — cả nhóm thấy ai muốn đi, ai đã đi đâu, ngay lập tức. "
+           "Chỉ chia sẻ đánh dấu và tên bạn chọn; ghi chú và vị trí nhà vẫn chỉ ở máy bạn.</li>" if sync else "") +
         "<li>Trong trang chi tiết, đánh dấu <b>🎯 Muốn đi</b>, <b>✅ Đã đi</b> hoặc <b>🚫 Bỏ qua</b> và ghi chú riêng. "
         "Đánh dấu lưu trong trình duyệt của bạn (không gửi đi đâu); mục 🚫 bị ẩn khỏi bản đồ cho gọn.</li>"
         "<li><b>🔗 Chia sẻ danh sách</b> tạo một link chứa các đánh dấu của bạn — gửi cho bạn bè, họ bấm "
@@ -149,8 +151,10 @@ def drop_dead_links(p, dead):
     p["imgs"] = [im for im in p.get("imgs") or [] if not {im["src"], im["thumb"], im["page"]} & dead]
 
 
-def build(home=None):
-    """home: (lat, lng) for a LOCAL copy only — the published page never carries anyone's home."""
+def build(home=None, sync=None):
+    """home: (lat, lng) for a LOCAL copy only — the published page never carries anyone's home.
+    sync: the shared-marks backend config; defaults to data/sync.json, and the page turns group marks on only
+    when one is present (a test copy may point it at the local Firebase emulator)."""
     places = json.loads((ROOT / "data" / "places.json").read_text(encoding="utf-8"))
     meta = json.loads((ROOT / "data" / "meta.json").read_text(encoding="utf-8"))
     lc_path = ROOT / "data" / "linkcheck.json"
@@ -161,10 +165,14 @@ def build(home=None):
         p["grp"], p["fame"] = group(p), fame(p, med)
     live = [p for p in places if p["status"] in LIVE]
     cities = {k: {kk: v[kk] for kk in ("name", "center", "zoom", "core", "bbox")} for k, v in CITIES.items()}
+    sync_path = ROOT / "data" / "sync.json"
+    sync = sync or (json.loads(sync_path.read_text(encoding="utf-8")) if sync_path.exists() else None)
     payload = {"generated": meta["generated"], "cities": cities, "places": places,
-               "infoHtml": info_html(places, meta)}
+               "infoHtml": info_html(places, meta, bool(sync))}
     if home:
         payload["home"] = list(home)
+    if sync:
+        payload["sync"] = sync
     # "<" as < keeps "</script>" and "<!--" inside the data from ending the script block
     data = json.dumps(payload, ensure_ascii=False, separators=(",", ":")).replace("<", "\\u003c")
     desc = (f"{len(live)} địa điểm ăn uống, cà phê, tham quan, mua sắm và chỗ chơi cho bé ở Hồ Chí Minh, "
@@ -183,10 +191,14 @@ def main():
         lat, lng = (float(x) for x in args.pop(args.index("--home") + 1).split(","))
         args.remove("--home")
         home = (lat, lng)
+    sync = None
+    if "--sync" in args:  # e.g. an emulator config for a test copy; the published page uses data/sync.json only
+        sync = json.loads(Path(args.pop(args.index("--sync") + 1)).read_text(encoding="utf-8"))
+        args.remove("--sync")
     outs = [Path(a) for a in args[args.index("--out") + 1:]] if "--out" in args else [ROOT / "index.html"]
-    if home and ROOT / "index.html" in [o.resolve() for o in outs]:
-        sys.exit("refusing to write a home location into the published index.html")
-    page = build(home)
+    if (home or sync) and ROOT / "index.html" in [o.resolve() for o in outs]:
+        sys.exit("refusing to write a home location or a test sync config into the published index.html")
+    page = build(home, sync)
     for out in outs:
         out.write_text(page, encoding="utf-8")
         print(f"wrote {out} ({len(page.encode()):,} bytes)")

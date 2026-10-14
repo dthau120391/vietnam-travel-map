@@ -10,7 +10,7 @@ Buttons open Google Maps directions, Google reviews and TikTok reviews for the p
 
 The list opens most famous first. The order comes from `fame()` in `tools/build.py`: review volume compared with places of the same category, rating against its source's average, Wikipedia page views, a bonus when 3 or more independent guides list the place, Michelin and trending signals. Unconfirmed places sink. CI fails if a place 4 or more guides agree on drops out of its city's top 20%.
 
-Visitors can mark a place 🎯 want to go, ✅ been there or 🚫 skip, add a note, and share their list as a link. They can set 🏠 a home base by tapping the map, which adds distances, a 1–3 km filter and near-home sorts. Marks and home stay in the visitor's own browser; nothing is sent to a server, and `tools/build.py` refuses to write a home into the published `index.html`.
+Visitors can mark a place 🎯 want to go, ✅ been there or 🚫 skip, add a note, and share their list as a link. They can set 🏠 a home base by tapping the map, which adds distances, a 1–3 km filter and near-home sorts. Marks and home stay in the visitor's own browser; nothing is sent to a server unless the visitor joins a group (only when `data/sync.json` holds a Firebase config, and then only marks and a chosen name are shared), and `tools/build.py` refuses to write a home into the published `index.html`.
 
 ## Layout
 
@@ -26,6 +26,9 @@ Visitors can mark a place 🎯 want to go, ✅ been there or 🚫 skip, add a no
 | `data/meta.json`      | The data's date                                                                                        |
 | `tools/enrich.py`     | Merges research files, checks each pin against OpenStreetMap, resolves Commons photos                  |
 | `tools/build.py`      | Puts the data into the template and writes `index.html`                                                |
+| `tools/smoke.mjs`     | CI, in a real browser: no script errors, every city lists places, details open on desktop and phone    |
+| `tools/checklinks.py` | Follows every link a visitor can click; `build.py` drops the dead ones (`data/linkcheck.json`)         |
+| `firestore.rules`     | Rules for the shared group marks: members write only their own marks; nobody can list groups           |
 | `tools/validate.py`   | The CI gate: data well formed, pins inside their city, `index.html` up to date, script parses          |
 
 ## Update

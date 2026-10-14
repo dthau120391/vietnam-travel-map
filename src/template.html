@@ -70,6 +70,15 @@ button { font:inherit; cursor:pointer; }
 .toast { position:fixed; left:50%; bottom:24px; transform:translateX(-50%); background:#1d2733; color:#fff; padding:10px 16px; border-radius:10px; font-size:13.5px; z-index:9999; box-shadow:0 6px 20px rgba(0,0,0,.3); max-width:92vw; }
 .importbar { background:#fffaeb; border-bottom:1px solid #f5d77a; padding:8px 16px; font-size:13.5px; display:flex; gap:8px; align-items:center; flex-wrap:wrap; }
 .importbar[hidden] { display:none; }
+.badge.grp { background:#e8f1ff; color:#0b4a8f; font-weight:600; }
+.gm { display:flex; flex-wrap:wrap; gap:6px; margin-top:6px; }
+.gm span { font-size:13px; background:#f2f6fc; border:1px solid #d6e4f5; border-radius:10px; padding:4px 8px; }
+#groupDlg input[type=text] { width:100%; border:1px solid var(--line); border-radius:10px; padding:10px; font:inherit; font-size:16px; margin:6px 0 10px; }
+#groupDlg .row { display:flex; gap:8px; flex-wrap:wrap; margin:8px 0; }
+#groupDlg .row button { border:1px solid var(--line); background:#fff; border-radius:10px; padding:10px 14px; font-size:14px; min-height:44px; }
+#groupDlg .row button.primary { background:var(--brand); border-color:var(--brand); color:#fff; font-weight:600; }
+#groupDlg .link { font-size:12.5px; word-break:break-all; background:#f6f7f9; border-radius:8px; padding:8px; }
+#groupDlg .fine { font-size:12.5px; color:var(--muted); }
 .homebar { display:flex; gap:6px; align-items:center; padding:6px 12px; border-bottom:1px solid var(--line); font-size:12px; color:var(--muted); flex-wrap:wrap; background:#f5fbff; }
 .homebar[hidden] { display:none; }
 .homebar button { border:1px solid var(--line); background:#fff; border-radius:12px; padding:3px 9px; font-size:12px; }
@@ -255,6 +264,12 @@ dialog .close { float:right; border:0; background:#f0f2f5; border-radius:8px; pa
 </div>
 <div class="peek" id="peek" hidden></div>
 
+<dialog id="groupDlg">
+  <button class="close" id="groupClose">Đóng ✕</button>
+  <h2>👥 Nhóm cùng đi</h2>
+  <div id="groupBody"></div>
+</dialog>
+
 <dialog id="info">
   <button class="close" id="infoClose">Đóng ✕</button>
   <h2>Về bản đồ này</h2>
@@ -326,6 +341,7 @@ function toast(msg) {
 // ── state ────────────────────────────────────────────
 const state = { city:'hcmc', grp:'all', q:'', hot:false, mich:false, mark:null, sort:'fame', me:null, sel:null, radius:0 };
 const marks = store.get();   // { placeId: { s:'want'|'been'|'skip', note:'…', t:epochMs } }
+const groupMarks = new Map();   // the group's shared marks, placeId -> [{ uid, name, s }]; pins read it while being drawn
 const isMark = s => typeof s === 'string' && Object.hasOwn(MARKS, s);
 const markOf = id => (marks[id] && isMark(marks[id].s)) ? marks[id].s : null;   // never trust stored or shared text in markup
 
@@ -372,7 +388,7 @@ function pinIcon(p, sel) {
   const mk = markOf(p.id);
   return L.divIcon({
     className:'pin-wrap',
-    html:`<div class="pin-holder"><div class="pin${p.hot ? ' hot' : ''}${p.approx ? ' approx' : ''}${sel ? ' sel' : ''}${mk ? ' m-' + mk : ''}" style="--c:${c.color}"><span>${c.emoji}</span></div>${mk === 'been' ? '<span class="pin-badge">✅</span>' : mk === 'want' ? '<span class="pin-badge">🎯</span>' : ''}</div>`,
+    html:`<div class="pin-holder"><div class="pin${p.hot ? ' hot' : ''}${p.approx ? ' approx' : ''}${sel ? ' sel' : ''}${mk ? ' m-' + mk : ''}" style="--c:${c.color}"><span>${c.emoji}</span></div>${mk === 'been' ? '<span class="pin-badge">✅</span>' : mk === 'want' ? '<span class="pin-badge">🎯</span>' : (groupMarks.get(p.id) || []).length ? '<span class="pin-badge">👥</span>' : ''}</div>`,
     iconSize:sel ? [40, 40] : [32, 32], iconAnchor:sel ? [20, 40] : [16, 34]
   });
 }
@@ -445,6 +461,8 @@ function badgesHtml(p, max) {
   const b = [];
   const mk = markOf(p.id);
   if (p.status === 'unverified') b.push('<span class="badge unv">⚠️ Chưa xác minh</span>');
+  const gs = groupSummary(p.id);
+  if (gs) b.push(`<span class="badge grp">👥 ${gs}</span>`);
   if ((p.guides || 0) >= 3) b.push('<span class="badge mich">🏆 Biểu tượng</span>');
   if (mk) b.push(`<span class="badge m-${mk}">${MARKS[mk].emoji} ${MARKS[mk].label}</span>`);
   if (p.hot) b.push('<span class="badge hot">🔥 Hot</span>');
@@ -519,6 +537,7 @@ function renderDetail(p) {
       <div class="badges" style="margin-top:6px">${badgesHtml(p)}</div>
       ${p.status === 'unverified' ? `<div class="warnbox">⚠️ <b>Chưa xác minh quán còn mở.</b> ${p.warn ? esc(p.warn) : 'Không tìm thấy nguồn 2025–2026 xác nhận nơi này còn hoạt động.'} Hãy xem “Đánh giá & ảnh Google” hoặc gọi trước khi đi.</div>` : ''}
       <div class="marks">${Object.entries(MARKS).map(([k, m]) => `<button data-m="${k}" class="${markOf(p.id) === k ? 'on' : ''}">${m.emoji} ${m.label}</button>`).join('')}</div>
+      ${(groupMarks.get(p.id) || []).length ? `<div class="gm">${groupMarks.get(p.id).map(m => `<span>👥 ${esc(m.name)} — ${MARKS[m.s].emoji} ${MARKS[m.s].label}</span>`).join('')}</div>` : ''}
       <textarea class="mynote" id="myNote" placeholder="Ghi chú của bạn (chỉ lưu trên máy này)…">${esc((marks[p.id] && marks[p.id].note) || '')}</textarea>
       ${rate}
       <dl class="facts">
@@ -572,6 +591,7 @@ function setMark(id, m) {
   if (!next && !cur.note) delete marks[id];
   else marks[id] = { ...cur, s:next || undefined, t:Date.now() };
   store.set(marks);
+  pushMark(id, next);
   const p = BY_ID.get(id), mk = markers.get(id);
   if (mk) mk.setIcon(pinIcon(p, state.sel === id));
   renderDetail(p); renderFilters(); renderList();
@@ -591,8 +611,10 @@ function renderProgress() {
   const mk = (k, label) => `<button class="mk ${state.mark === k ? 'on' : ''}" data-mark="${k}" title="Chỉ hiện nơi ${MARKS[k].label.toLowerCase()}">${label}</button>`;
   $('#progress').innerHTML = `<span>✅ Đã đi <b>${been}</b>/${all.length}</span><span class="bar"><i style="width:${pct}%"></i></span>` +
     mk('want', `🎯 ${n('want')}`) + mk('been', `✅ ${been}`) + mk('skip', `🚫 ${n('skip')}`) +
-    `<button id="shareBtn" title="Tạo link chứa danh sách của bạn để gửi bạn bè">🔗 Chia sẻ</button>`;
+    `<button id="shareBtn" title="Tạo link chứa danh sách của bạn để gửi bạn bè">🔗 Chia sẻ</button>` +
+    (SYNC_ON ? `<button id="groupBtn" title="Cùng nhóm thấy đánh dấu của nhau">👥 ${group ? 'Nhóm · ' + members() : 'Nhóm'}</button>` : '');
   $('#shareBtn').onclick = shareMarks;
+  if (SYNC_ON) $('#groupBtn').onclick = () => openGroupDialog();
   $('#progress').querySelectorAll('.mk').forEach(b => b.onclick = () => {
     state.mark = state.mark === b.dataset.mark ? null : b.dataset.mark;
     renderList();
@@ -728,6 +750,107 @@ function renderSort() {
   $('#sort').innerHTML = opts.map(([v, l]) => `<option value="${v}"${v === state.sort ? ' selected' : ''}>${l}</option>`).join('');
 }
 
+// ── shared group marks: only on the website, only when the build carries a sync config ──
+// What is shared: each member's 🎯/✅/🚫 marks and the name they chose. Notes and home stay on the device.
+const GROUP_KEY = 'vnmap-group';
+const SYNC_ON = !!DATA.sync && /^https?:$/.test(location.protocol);
+let group = (() => {
+  try { const g = JSON.parse(localStorage.getItem(GROUP_KEY)); return g && /^[a-z0-9]{16,40}$/.test(g.code) && typeof g.name === 'string' ? g : null; } catch { return null; }
+})();
+let fb = null, unlisten = null;
+const saveGroup = g => { group = g; try { g ? localStorage.setItem(GROUP_KEY, JSON.stringify(g)) : localStorage.removeItem(GROUP_KEY); } catch {} };
+const newCode = () => [...crypto.getRandomValues(new Uint8Array(20))].map(b => 'abcdefghijklmnopqrstuvwxyz0123456789'[b % 36]).join('');
+const inviteUrl = () => `${location.href.split('#')[0]}#${state.city}&group=${group.code}`;
+const members = () => new Set([...groupMarks.values()].flat().map(m => m.uid)).size;
+async function syncStart() {
+  if (!SYNC_ON || !group) return;
+  try {
+    if (!fb) {
+      const base = 'https://www.gstatic.com/firebasejs/13.0.0/';
+      const [{ initializeApp }, A, F] = await Promise.all([import(base + 'firebase-app.js'), import(base + 'firebase-auth.js'), import(base + 'firebase-firestore.js')]);
+      const app = initializeApp(DATA.sync.config);
+      const auth = A.getAuth(app), db = F.getFirestore(app);
+      if (DATA.sync.emulator) { A.connectAuthEmulator(auth, DATA.sync.emulator.auth, { disableWarnings:true }); F.connectFirestoreEmulator(db, ...DATA.sync.emulator.firestore); }
+      const cred = await A.signInAnonymously(auth);
+      fb = { db, F, uid:cred.user.uid };
+      if (DATA.sync.emulator) window.__vnSync = fb;   // test hook, emulator builds only
+    }
+    if (unlisten) unlisten();
+    const { F, db } = fb;
+    unlisten = F.onSnapshot(F.collection(db, 'groups', group.code, 'marks'), snap => {
+      groupMarks.clear();
+      snap.forEach(d => {
+        const m = d.data();
+        if (!isMark(m.s) || !BY_ID.has(m.place)) return;   // shared data is untrusted input too
+        if (!groupMarks.has(m.place)) groupMarks.set(m.place, []);
+        groupMarks.get(m.place).push({ uid:String(m.uid), name:String(m.name || '').slice(0, 40), s:m.s });
+      });
+      refreshMarks();
+    }, err => toast('Mất kết nối nhóm: ' + (err.code || err.message)));
+    if (group.uploadLocal) {
+      const g = { ...group }; delete g.uploadLocal; saveGroup(g);
+      for (const id of Object.keys(marks)) { const s = markOf(id); if (s) await pushMark(id, s); }
+    }
+  } catch (e) {
+    console.warn(e);
+    toast('Không kết nối được nhóm — đánh dấu vẫn lưu trên máy này.');
+  }
+}
+async function pushMark(placeId, s) {
+  if (!fb || !group) return;
+  const { F, db, uid } = fb, ref = F.doc(db, 'groups', group.code, 'marks', `${placeId}__${uid}`);
+  try { s ? await F.setDoc(ref, { place:placeId, uid, name:group.name, s, t:F.serverTimestamp() }) : await F.deleteDoc(ref); }
+  catch (e) { toast('Không gửi được lên nhóm: ' + (e.code || e.message)); }
+}
+function leaveGroup() {
+  if (unlisten) unlisten();
+  unlisten = null; groupMarks.clear(); saveGroup(null); refreshMarks();
+}
+function refreshMarks() {   // group marks changed: pins, list, progress, open details
+  for (const [id, m] of markers) m.setIcon(pinIcon(BY_ID.get(id), state.sel === id));
+  renderList();
+  const p = state.sel && BY_ID.get(state.sel);
+  if (p && !$('#detail').hidden) renderDetail(p);
+}
+function groupSummary(id) {   // "✅ 2 · 🎯 1" for the group's marks on a place
+  const g = groupMarks.get(id) || [];
+  return Object.keys(MARKS).map(k => [k, g.filter(m => m.s === k).length]).filter(([, n]) => n).map(([k, n]) => `${MARKS[k].emoji} ${n}`).join(' · ');
+}
+function openGroupDialog(invite) {
+  const body = $('#groupBody');
+  const nameInput = v => `<label>Tên hiển thị trong nhóm<input type="text" id="gName" maxlength="40" value="${esc(v || '')}" placeholder="VD: Lucas"></label>`;
+  const fine = '<p class="fine">Chỉ chia sẻ các đánh dấu 🎯 ✅ 🚫 và tên bạn chọn. Ghi chú và vị trí nhà vẫn chỉ ở máy bạn. Ai có link mời đều xem và đánh dấu được — chỉ gửi cho người bạn tin.</p>';
+  if (invite && (!group || group.code !== invite)) {
+    body.innerHTML = `<p>Bạn được mời vào một nhóm. Đánh dấu của mọi người trong nhóm sẽ hiện trên bản đồ của bạn.</p>${nameInput(group && group.name)}
+      <label class="fine"><input type="checkbox" id="gUpload" checked> Đưa các đánh dấu sẵn có của tôi vào nhóm</label>
+      <div class="row"><button class="primary" id="gJoin">Tham gia nhóm</button><button id="gNo">Không</button></div>${fine}`;
+    $('#gJoin').onclick = () => {
+      const name = $('#gName').value.trim().slice(0, 40); if (!name) { $('#gName').focus(); return; }
+      if (unlisten) unlisten();
+      saveGroup({ code:invite, name, uploadLocal:$('#gUpload').checked }); $('#groupDlg').close(); syncStart(); toast('Đã vào nhóm 👥');
+    };
+    $('#gNo').onclick = () => $('#groupDlg').close();
+  } else if (!group) {
+    body.innerHTML = `<p>Tạo một nhóm để cả nhóm cùng thấy ai muốn đi, ai đã đi những đâu.</p>${nameInput('')}
+      <label class="fine"><input type="checkbox" id="gUpload" checked> Đưa các đánh dấu sẵn có của tôi vào nhóm</label>
+      <div class="row"><button class="primary" id="gCreate">Tạo nhóm mới</button></div>${fine}`;
+    $('#gCreate').onclick = () => {
+      const name = $('#gName').value.trim().slice(0, 40); if (!name) { $('#gName').focus(); return; }
+      saveGroup({ code:newCode(), name, uploadLocal:$('#gUpload').checked }); syncStart(); openGroupDialog();
+    };
+  } else {
+    body.innerHTML = `<p>Bạn đang ở trong nhóm, tên <b>${esc(group.name)}</b> · ${members()} người đã đánh dấu.</p>
+      <p>Gửi link mời này cho bạn bè:</p><div class="link" id="gLink">${esc(inviteUrl())}</div>
+      <div class="row"><button class="primary" id="gCopy">📋 Sao chép link mời</button><button id="gLeave">Rời nhóm</button></div>${fine}`;
+    $('#gCopy').onclick = async () => {
+      try { if (navigator.share && phone()) await navigator.share({ title:'Nhóm du lịch của mình', url:inviteUrl() }); else { await navigator.clipboard.writeText(inviteUrl()); toast('Đã sao chép link mời'); } }
+      catch { prompt('Sao chép link mời:', inviteUrl()); }
+    };
+    $('#gLeave').onclick = () => { leaveGroup(); $('#groupDlg').close(); toast('Đã rời nhóm'); };
+  }
+  if (!$('#groupDlg').open) $('#groupDlg').showModal();
+}
+
 // ── phones: map or list, a peek card for a tapped pin ─
 const phone = () => matchMedia('(max-width: 820px)').matches;
 let view = 'map';
@@ -846,6 +969,7 @@ $('#infoBtn').onclick = () => $('#info').showModal();
 document.querySelectorAll('#viewtoggle button').forEach(b => b.onclick = () => setView(b.dataset.v));
 map.on('click', () => { if (!picking && !$('#peek').hidden) { hidePeek(); highlight(null); } });
 $('#infoClose').onclick = () => $('#info').close();
+$('#groupClose').onclick = () => $('#groupDlg').close();
 $('#info').addEventListener('click', e => { if (e.target === $('#info')) $('#info').close(); });
 document.addEventListener('keydown', e => { if (e.key === 'Escape' && !$('#detail').hidden && !$('#info').open) closeDetail(); });
 
@@ -865,6 +989,9 @@ $('#infoBody').innerHTML = DATA.infoHtml;
   setCity(CITIES[c] ? c : 'hcmc');
   if (id && BY_ID.has(id)) select(id, true);
   checkImport(hash0);
+  syncStart();
+  const inv = hash0.match(/[&#]group=([a-z0-9]{16,40})(?![a-z0-9])/);
+  if (inv && SYNC_ON) openGroupDialog(inv[1]);
 })();
 </script>
 </body>

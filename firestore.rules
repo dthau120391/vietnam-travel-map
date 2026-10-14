@@ -1,0 +1,26 @@
+rules_version = '2';
+// Shared group marks for the travel map. A group is a random 16–40 character code that only people
+// holding the invite link know; nobody can list groups. Every visitor signs in anonymously, and a
+// mark document is named "<placeId>__<uid>", so people can write and delete only their own marks.
+service cloud.firestore {
+  match /databases/{database}/documents {
+    match /groups/{group}/marks/{markId} {
+      function validGroup() {
+        return group.matches('^[a-z0-9]{16,40}$');
+      }
+      function validMark() {
+        let m = request.resource.data;
+        return m.keys().hasOnly(['place', 'uid', 'name', 's', 't'])
+          && m.place is string && m.place.matches('^[a-z0-9-]{3,80}$')
+          && m.uid == request.auth.uid
+          && markId == m.place + '__' + request.auth.uid
+          && m.name is string && m.name.size() > 0 && m.name.size() <= 40
+          && m.s in ['want', 'been', 'skip']
+          && m.t == request.time;
+      }
+      allow read: if request.auth != null && validGroup();
+      allow create, update: if request.auth != null && validGroup() && validMark();
+      allow delete: if request.auth != null && validGroup() && resource.data.uid == request.auth.uid;
+    }
+  }
+}
