@@ -641,9 +641,12 @@ async function unpack(s) {
   return JSON.parse(new TextDecoder().decode(buf));
 }
 async function shareMarks() {
-  const ids = Object.keys(marks).filter(id => BY_ID.has(id) && (marks[id].s || marks[id].note));
+  // Notes are private ("chỉ lưu trên máy này"): a link carries marks only, unless you say yes to notes here.
+  const noted = Object.keys(marks).filter(id => BY_ID.has(id) && marks[id].note).length;
+  const withNotes = noted > 0 && confirm(`Kèm cả ${noted} ghi chú riêng của bạn trong link?\n\nOK = gửi kèm ghi chú · Hủy = chỉ gửi đánh dấu 🎯 ✅ 🚫`);
+  const ids = Object.keys(marks).filter(id => BY_ID.has(id) && (marks[id].s || (withNotes && marks[id].note)));
   if (!ids.length) { toast('Bạn chưa đánh dấu địa điểm nào.'); return; }
-  const payload = {}; for (const id of ids) payload[id] = [marks[id].s || '', marks[id].note || ''];
+  const payload = {}; for (const id of ids) payload[id] = [marks[id].s || '', withNotes ? marks[id].note || '' : ''];
   const url = `${location.href.split('#')[0]}#${state.city}&marks=${await pack(payload)}`;
   try {
     if (navigator.share && /Mobi|Android/i.test(navigator.userAgent)) await navigator.share({ title:'Danh sách du lịch của mình', url });

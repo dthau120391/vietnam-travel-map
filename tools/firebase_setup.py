@@ -79,4 +79,5 @@ elif step == "restrictkey":
         print("restrict", k.get("displayName"), "->", code, json.dumps(op.get("error", "ok"))[:200])
 elif step == "status":
     code, cfg = call("GET", f"https://identitytoolkit.googleapis.com/admin/v2/projects/{PID}/config")
-    print("auth config:", code, json.dumps(cfg.get("signIn", cfg.get("error")))[:300])
+    # only the switch this map needs; the rest of the config includes the password-hash key, never printed
+    print("auth config:", code, json.dumps({"anonymous": cfg.get("signIn", {}).get("anonymous")} if code == 200 else cfg.get("error")))

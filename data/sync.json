@@ -1,0 +1,10 @@
+{
+ "config": {
+  "apiKey": "AIzaSyAfLXwzIrAj-yDpL4kiqleeiCDrRnojtVo",
+  "authDomain": "vn-travel-map-696303.firebaseapp.com",
+  "projectId": "vn-travel-map-696303",
+  "appId": "1:824890910823:web:28cdb3954c13726ca98cc2",
+  "messagingSenderId": "824890910823",
+  "storageBucket": "vn-travel-map-696303.firebasestorage.app"
+ }
+}
