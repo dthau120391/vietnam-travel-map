@@ -1,0 +1,1177 @@
+[
+  {
+    "id": "hcmc-cho-an-dong",
+    "name": "Chợ An Đông",
+    "cat": "market",
+    "subtitle": "Đầu mối sỉ thời trang lớn nhất Sài Gòn",
+    "address": "34-36 An Dương Vương, Phường 9, Quận 5",
+    "lat": 10.758199,
+    "lng": 106.672282,
+    "coordSource": "https://wanderlog.com/place/details/21659",
+    "price": "Vào cửa miễn phí; quần áo, vải, túi giày giá sỉ/lẻ bình dân, mặc cả được",
+    "hours": "Khoảng 6:00–18:00 hằng ngày; vài sạp mở muộn hơn",
+    "mustTry": "Quần áo, vải vóc, túi xách, giày dép giá sỉ; trang sức ở tầng hầm; đồ khô, mứt; ăn vặt ở khu ăn uống (bún bò, bánh tráng trộn…)",
+    "desc_vi": "Chợ hình thành khoảng năm 1950, được xây mới thành Trung tâm Thương mại – Dịch vụ An Đông năm 1991 với hơn 2.700 sạp trên nhiều tầng. Đây là đầu mối bán sỉ quần áo, vải vóc lớn nhất TP.HCM; ngay cạnh là An Đông Plaza và chợ thực phẩm An Đông.",
+    "review_vi": "Khen: hàng hóa rất nhiều, giá mềm, mặc cả được; người bán ít chèo kéo hơn chợ Bến Thành; một số khu có máy lạnh, khu ăn uống rẻ. Chê: nhiều sạp bị chê mẫu mã cũ; báo chí nhiều năm phản ánh chợ xuống cấp và có lúc vắng khách.",
+    "rating": {
+      "value": 4.1,
+      "count": 10535,
+      "source": "Google (qua Wanderlog)",
+      "url": "https://wanderlog.com/place/details/21659",
+      "seen": "2026-10"
+    },
+    "trending": false,
+    "tags": [],
+    "tips_vi": "Mẹo: đi buổi sáng để tránh đông và nóng; nhiều sạp ưu tiên khách sỉ nên hỏi rõ giá lẻ trước; mang tiền mặt và mặc cả nhẹ nhàng.",
+    "images": [
+      {
+        "commons": "File:An Dong market.jpg",
+        "kind": "place"
+      }
+    ],
+    "wiki": "https://vi.wikipedia.org/wiki/Ch%E1%BB%A3_An_%C4%90%C3%B4ng",
+    "website": null,
+    "sources": [
+      "https://wanderlog.com/place/details/21659",
+      "https://vi.wikipedia.org/wiki/Ch%E1%BB%A3_An_%C4%90%C3%B4ng",
+      "https://www.greensm.com/vn-vi/news/cho-an-dong-quan-5",
+      "https://localvietnam.com/blog/an-dong-market/",
+      "https://vinwonders.com/vi/wonderpedia/news/cho-an-dong-sai-gon/",
+      "https://vnexpress.net/cho-an-dong-lam-canh-muc-nat-3644744.html",
+      "https://commons.wikimedia.org/wiki/Category:An_Dong_Market"
+    ],
+    "status": "open"
+  },
+  {
+    "id": "hcmc-cho-hoa-binh",
+    "name": "Chợ Hòa Bình",
+    "cat": "market",
+    "subtitle": "Chợ người Hoa, thiên đường ăn vặt Quận 5",
+    "address": "37 Bạch Vân, Phường 5, Quận 5",
+    "lat": 10.752037,
+    "lng": 106.675646,
+    "coordSource": "https://wanderlog.com/place/details/1855447",
+    "price": "Món ăn vặt bình dân; tô bánh canh cua đầy đủ có thể 200.000–250.000đ tùy cua",
+    "hours": "Từ sáng sớm đến tối (khoảng 7:00–22:00); hàng ăn đông nhất chiều tối",
+    "mustTry": "Bánh canh cua, hủ tiếu mì, xíu mại, há cảo, sủi cảo, chè (bà ba, đậu xanh, trôi nước), bánh tiêu – chuối chiên; đặc sản Hoa như lạp xưởng, mứt, khô cá; đồ thờ cúng, phong thủy",
+    "desc_vi": "Chợ gắn với cộng đồng người Hoa Chợ Lớn từ đầu thế kỷ 20, nằm giữa đường Bạch Vân và Trần Hưng Đạo. Khu thực phẩm tươi sống, đồ khô và đặc sản Hoa chiếm phần lớn, kèm khu đồ thờ cúng, quần áo; xung quanh là dãy hàng ăn vặt nổi tiếng của Quận 5.",
+    "review_vi": "Khen: đồ ăn vặt đa dạng, giá phải chăng, không khí nhộn nhịp về chiều tối; hải sản, rau củ tươi; tiểu thương thân thiện. Chê: hợp ăn vặt hơn là ngồi ăn bữa chính, chỗ ngồi chật; vài món giá cao nên cần hỏi giá trước.",
+    "rating": {
+      "value": 4.2,
+      "count": 3358,
+      "source": "Google (qua Wanderlog)",
+      "url": "https://wanderlog.com/place/details/1855447",
+      "seen": "2026-10"
+    },
+    "trending": false,
+    "tags": [],
+    "tips_vi": "Mẹo: đến chiều tối khi hàng ăn bày đủ; hỏi giá trước khi gọi món; mang tiền mặt vì nhiều sạp nhỏ chưa nhận chuyển khoản; mua đồ cúng nên chọn sạp uy tín.",
+    "images": [],
+    "wiki": null,
+    "website": null,
+    "sources": [
+      "https://wanderlog.com/place/details/1855447",
+      "https://www.greensm.com/vn-vi/news/cho-hoa-binh",
+      "https://www.foody.vn/ho-chi-minh/khu-am-thuc-cho-hoa-binh",
+      "https://www.openstreetmap.org/way/1523591691"
+    ],
+    "status": "open"
+  },
+  {
+    "id": "hcmc-hoi-quan-nghia-an",
+    "name": "Hội quán Nghĩa An (Chùa Ông)",
+    "cat": "sight",
+    "subtitle": "Miếu Quan Đế của người Triều Châu – di tích quốc gia",
+    "address": "678 Nguyễn Trãi, Phường 11, Quận 5",
+    "lat": 10.753729,
+    "lng": 106.66209,
+    "coordSource": "https://wanderlog.com/place/details/555836",
+    "price": "Miễn phí (cúng dường tùy tâm)",
+    "hours": "6:00–17:00 hằng ngày",
+    "mustTry": "Chạm khắc gỗ thếp vàng ở các gian thờ, chiếc thuyền gỗ chạm treo trên lối vào, tượng ngựa thần nơi khách làm lễ cầu may; điện thờ Quan Công",
+    "desc_vi": "Hội quán của người Tiều (Triều Châu) dựng khoảng cuối thế kỷ 18, thờ Quan Vũ nên còn gọi là Miếu Quan Đế hay chùa Ông. Công trình nổi tiếng với chạm khắc gỗ tinh xảo nửa cuối thế kỷ 19 – đầu thế kỷ 20 và được công nhận di tích kiến trúc nghệ thuật cấp quốc gia năm 1993. Lễ vía Quan Công (13/1 và 24/6 âm lịch) và dịp Nguyên Tiêu rất đông.",
+    "review_vi": "Khen: kiến trúc mái và chạm khắc gỗ rất công phu, tượng thếp vàng đẹp; không khí tín ngưỡng sống động của người Hoa địa phương mà vẫn yên tĩnh. Chê: các nguồn đã đọc hầu như không ghi nhận phàn nàn đáng kể; ngày rằm, lễ vía khói nhang và người rất đông.",
+    "rating": {
+      "value": 4.7,
+      "count": 1190,
+      "source": "Google (qua Wanderlog)",
+      "url": "https://wanderlog.com/place/details/555836",
+      "seen": "2026-10"
+    },
+    "trending": false,
+    "tags": [],
+    "tips_vi": "Mẹo: đến khoảng 7:30 sáng để vắng người; muốn xem nghi lễ thì đi ngày rằm, mùng một; ăn mặc kín đáo, chụp ảnh nhẹ nhàng, tránh cản người hành lễ.",
+    "images": [
+      {
+        "commons": "File:Nghia An Hoi Quan Pagoda (10018256906).jpg",
+        "kind": "place"
+      },
+      {
+        "commons": "File:Nghĩa An hội quán.jpg",
+        "kind": "place"
+      }
+    ],
+    "wiki": "https://vi.wikipedia.org/wiki/H%E1%BB%99i_qu%C3%A1n_Ngh%C4%A9a_An",
+    "website": null,
+    "sources": [
+      "https://wanderlog.com/place/details/555836",
+      "https://vi.wikipedia.org/wiki/H%E1%BB%99i_qu%C3%A1n_Ngh%C4%A9a_An",
+      "https://mia.vn/cam-nang-du-lich/kham-pha-phuong-cho-lon-19945",
+      "https://mia.vn/cam-nang-du-lich/hoi-quan-nghia-an-cho-lon-19132",
+      "https://www.asiakingtravel.com/attraction/nghia-an-assembly-hall",
+      "https://www.openstreetmap.org/way/1499809233"
+    ],
+    "status": "open"
+  },
+  {
+    "id": "hcmc-hoi-quan-tam-son",
+    "name": "Hội quán Tam Sơn",
+    "cat": "sight",
+    "subtitle": "Hội quán Phúc Kiến, nơi cầu con nổi tiếng",
+    "address": "118 Triệu Quang Phục, Phường 11, Quận 5",
+    "lat": 10.752575,
+    "lng": 106.66148,
+    "coordSource": "https://wanderlog.com/place/details/5779404",
+    "price": "Miễn phí",
+    "hours": "Ban ngày; giờ mở cửa không cố định, nên kiểm tra trước",
+    "mustTry": "Điện thờ Mẹ Sanh – nơi nhiều cặp vợ chồng đến cầu con; tường đỏ, tranh tượng sặc sỡ; sân thiên tỉnh giữa tiền điện và trung điện",
+    "desc_vi": "Hội quán do người Hoa gốc Phúc Châu (Phúc Kiến) lập ở Chợ Lớn; tên Tam Sơn chỉ ba ngọn núi ở Phúc Châu. Văn bia ghi lần sửa năm 1796 và trùng tu năm 1887; năm 2015 được xếp hạng di tích kiến trúc nghệ thuật cấp thành phố. Ngôi hội quán nổi tiếng là nơi các cặp vợ chồng đến cầu tự.",
+    "review_vi": "Khen: nhỏ, yên tĩnh, ít khách du lịch; màu đỏ rực, tranh và tượng sinh động, đậm văn hóa Hoa. Chê: không có thông tin giờ mở cửa rõ ràng; quy mô nhỏ, nên ghép tuyến với Nghĩa An và Thiên Hậu gần đó.",
+    "rating": {
+      "value": 4.3,
+      "count": 190,
+      "source": "Google (qua Wanderlog)",
+      "url": "https://wanderlog.com/place/details/5779404",
+      "seen": "2026-10"
+    },
+    "trending": false,
+    "tags": [
+      "Ít người biết"
+    ],
+    "tips_vi": "Mẹo: đi ngày thường cho vắng; chụp ảnh được nhưng giữ yên lặng, tôn trọng người đang cầu nguyện; đi bộ vài phút là tới Hội quán Nghĩa An.",
+    "images": [
+      {
+        "commons": "File:Tam Son Hoi Quan Pagoda (10018253875).jpg",
+        "kind": "place"
+      },
+      {
+        "commons": "File:Tam Son Hoi Quan Pagoda (10018258696).jpg",
+        "kind": "place"
+      }
+    ],
+    "wiki": "https://vi.wikipedia.org/wiki/H%E1%BB%99i_qu%C3%A1n_Tam_S%C6%A1n",
+    "website": null,
+    "sources": [
+      "https://wanderlog.com/place/details/5779404",
+      "https://vi.wikipedia.org/wiki/H%E1%BB%99i_qu%C3%A1n_Tam_S%C6%A1n",
+      "https://mia.vn/cam-nang-du-lich/kham-pha-phuong-cho-lon-19945",
+      "https://www.openstreetmap.org/way/1502769172"
+    ],
+    "status": "open"
+  },
+  {
+    "id": "hcmc-hung-vuong-plaza",
+    "name": "Hùng Vương Plaza",
+    "cat": "shopping",
+    "subtitle": "TTTM 7 tầng của KIDO giữa Chợ Lớn (Parkson cũ)",
+    "address": "126 Hồng Bàng, Phường 12, Quận 5",
+    "lat": 10.756251,
+    "lng": 106.663062,
+    "coordSource": "https://wanderlog.com/place/details/4492132",
+    "price": "Vào cửa miễn phí; gửi xe máy từ 5.000đ, ô tô từ 40.000đ/4 giờ đầu",
+    "hours": "9:30–22:00 (CGV, Haidilao mở khuya hơn)",
+    "mustTry": "Thời trang quốc tế (H&M, Mango, Levi's, Nike…), Fahasa, Miniso; ăn uống tầng 3–4 (Haidilao, Kichi-Kichi, Crystal Jade, Swensen's); rạp CGV tầng 7; khu game center cho trẻ",
+    "desc_vi": "Trung tâm thương mại 7 tầng trong khu phức hợp Hùng Vương Plaza, trước là Parkson Hùng Vương (mở năm 2007). Sau khi Parkson đóng cửa, KIDO tiếp quản và mở lại với tên Hùng Vương Plaza từ 2023, nay có gần 200 thương hiệu thời trang, mỹ phẩm, ăn uống, giải trí.",
+    "review_vi": "Khen: nhiều thương hiệu, sạch sẽ, máy lạnh mát; nhiều nhà hàng và rạp CGV nên tiện đi cả nhà. Chê: cuối tuần đông; các nguồn đã đọc không nêu phàn nàn cụ thể khác.",
+    "rating": {
+      "value": 4.2,
+      "count": 3437,
+      "source": "Google (qua Wanderlog)",
+      "url": "https://wanderlog.com/place/details/4492132",
+      "seen": "2026-10"
+    },
+    "trending": false,
+    "tags": [
+      "Hợp với trẻ em"
+    ],
+    "tips_vi": "Mẹo: đi ngày thường để tránh đông; quầy thông tin tầng trệt có wifi miễn phí và cho mượn xe lăn; nhiều tuyến buýt (06, 07, 08…) dừng gần.",
+    "images": [],
+    "wiki": null,
+    "website": null,
+    "sources": [
+      "https://wanderlog.com/place/details/4492132",
+      "https://www.greensm.com/vn-vi/news/hung-vuong-plaza-quan-5",
+      "https://znews.vn/kido-tiep-quan-parkson-hung-vuong-post1431061.html",
+      "https://www.greensm.com/vn-vi/news/khu-vui-choi-tre-em-quan-5",
+      "https://www.openstreetmap.org/way/165791821"
+    ],
+    "status": "open"
+  },
+  {
+    "id": "hcmc-hoi-quan-on-lang",
+    "name": "Hội quán Ôn Lăng (Chùa Quan Âm)",
+    "cat": "sight",
+    "subtitle": "Chùa Quan Âm của người Phúc Kiến, lập năm 1740",
+    "address": "12 Lão Tử, Phường 11, Quận 5",
+    "lat": 10.754133,
+    "lng": 106.659625,
+    "coordSource": "https://wanderlog.com/place/details/21657",
+    "price": "Miễn phí",
+    "hours": "Ban ngày, từ sáng sớm đến chiều (nên kiểm tra trước)",
+    "mustTry": "Tượng gốm sặc sỡ trên mái, gian thờ Quan Âm và Thiên Hậu, bàn thờ Thần Tài, Thái Tuế, Tề Thiên Đại Thánh, Bao Công; sân trong có hồ nước và cây cảnh",
+    "desc_vi": "Còn gọi là chùa Quan Âm hay chùa Ông Lào, hội quán do thương nhân người Hoa gốc Tuyền Châu (Phúc Kiến) lập năm 1740; 'Ôn Lăng' là tên cổ của Tuyền Châu. Bên trong thờ Quan Thế Âm, Thiên Hậu cùng khoảng mười mấy vị thần khác; khói nhang quanh năm, người dân đến lễ rất đông vào ngày rằm, mùng một.",
+    "review_vi": "Khen: mái chùa phủ tượng gốm rực rỡ, chạm khắc công phu; không gian trầm mặc giữa phố ồn ào; người dân đến lễ rất thành tâm, có sân, hồ nước. Chê: các nguồn đã đọc gần như không có phàn nàn; ngày rằm, mùng một rất đông và nhiều khói nhang.",
+    "rating": {
+      "value": 4.7,
+      "count": 2396,
+      "source": "Google (qua Wanderlog)",
+      "url": "https://wanderlog.com/place/details/21657",
+      "seen": "2026-10"
+    },
+    "trending": false,
+    "tags": [],
+    "tips_vi": "Mẹo: đi sáng sớm ngày thường cho vắng; ăn mặc kín vai, kín gối; hạn chế quay phim, chụp ảnh bên trong chánh điện; có chỗ gửi xe máy gần cổng.",
+    "images": [
+      {
+        "commons": "File:Chùa Ôn Lăng.jpg",
+        "kind": "place"
+      }
+    ],
+    "wiki": "https://vi.wikipedia.org/wiki/H%E1%BB%99i_qu%C3%A1n_%C3%94n_L%C4%83ng",
+    "website": null,
+    "sources": [
+      "https://wanderlog.com/place/details/21657",
+      "https://vi.wikipedia.org/wiki/H%E1%BB%99i_qu%C3%A1n_%C3%94n_L%C4%83ng",
+      "https://www.greensm.com/vn-vi/news/chua-quan-5-tphcm",
+      "https://mia.vn/cam-nang-du-lich/chua-quan-am-12427",
+      "https://www.openstreetmap.org/way/366664393"
+    ],
+    "status": "open"
+  },
+  {
+    "id": "hcmc-hoi-quan-ha-chuong",
+    "name": "Hội quán Hà Chương",
+    "cat": "sight",
+    "subtitle": "Hội quán Chương Châu (Phúc Kiến) dựng năm 1809",
+    "address": "802 Nguyễn Trãi, Quận 5",
+    "lat": 10.753246,
+    "lng": 106.657963,
+    "coordSource": "https://wanderlog.com/place/details/1706257",
+    "price": "Miễn phí",
+    "hours": "Ban ngày (nên kiểm tra trước)",
+    "mustTry": "Mái kiểu miếu Phúc Kiến cong vút với hai cửa sổ tròn tượng trưng nhật – nguyệt; chạm khắc gỗ, đá, gạch ngói kết hợp; gian thờ Thiên Hậu",
+    "desc_vi": "Còn gọi là Hội quán Chương Châu, chùa Ông Hược hay chùa Bà Hà Chương, do người Hoa thuộc 7 huyện phủ Chương Châu (Phúc Kiến) lập năm 1809 trên khu đất khoảng 2.400 m². Kiến trúc theo kiểu miếu Phúc Kiến, kết hợp điêu khắc gỗ, đá và gạch ngói. Hội quán nằm cách Hội quán Ôn Lăng và Thiên Hậu vài trăm mét.",
+    "review_vi": "Khen: kiến trúc cổ đẹp, được xem là một trong những ngôi miếu lâu đời nhất Chợ Lớn, gắn bó với đời sống người Hoa địa phương. Chê: có khách thấy quy mô khiêm tốn; đi một mình khó hiểu hết lịch sử nên đi kèm người hướng dẫn sẽ thú vị hơn.",
+    "rating": {
+      "value": 4.7,
+      "count": 200,
+      "source": "Google (qua Wanderlog)",
+      "url": "https://wanderlog.com/place/details/1706257",
+      "seen": "2026-10"
+    },
+    "trending": false,
+    "tags": [
+      "Ít người biết"
+    ],
+    "tips_vi": "Mẹo: ghép tuyến đi bộ Ôn Lăng – Hà Chương – Thiên Hậu – Nghĩa An – Tam Sơn trong một buổi sáng; giữ yên lặng khi có người đang lễ.",
+    "images": [
+      {
+        "commons": "File:Hội quán Hà Chương.jpg",
+        "kind": "place"
+      }
+    ],
+    "wiki": "https://vi.wikipedia.org/wiki/H%E1%BB%99i_qu%C3%A1n_H%C3%A0_Ch%C6%B0%C6%A1ng",
+    "website": null,
+    "sources": [
+      "https://wanderlog.com/place/details/1706257",
+      "https://vi.wikipedia.org/wiki/H%E1%BB%99i_qu%C3%A1n_H%C3%A0_Ch%C6%B0%C6%A1ng",
+      "https://www.openstreetmap.org/way/1489994542",
+      "https://www.grab.com/vn/food-blog/an-yen-ca-troi-cam-noi-quan-cafe-chung-cu-cu/"
+    ],
+    "status": "unverified"
+  },
+  {
+    "id": "hcmc-nha-tho-cha-tam",
+    "name": "Nhà thờ Cha Tam (Thánh Phanxicô Xaviê)",
+    "cat": "sight",
+    "subtitle": "Nhà thờ Gothic pha kiến trúc Hoa giữa Chợ Lớn",
+    "address": "25 Học Lạc, Phường 14, Quận 5",
+    "lat": 10.751965,
+    "lng": 106.654339,
+    "coordSource": "https://wanderlog.com/place/details/145455",
+    "price": "Miễn phí",
+    "hours": "Theo giờ lễ của giáo xứ; nên đến ban ngày và hỏi lịch lễ",
+    "mustTry": "Mặt tiền vàng phong cách Gothic, cổng và tháp mang dáng mái chùa Hoa; câu chuyện lịch sử năm 1963 gắn với ông Ngô Đình Diệm",
+    "desc_vi": "Nhà thờ do linh mục Pierre d'Assou (tên Hoa Đàm Á Tố, quen gọi Cha Tam) đứng ra xây cho giáo dân người Hoa; đặt đá năm 1900 và cung hiến ngày 10/1/1902. Công trình pha trộn kiến trúc Gothic châu Âu với chi tiết Á Đông. Đây là nơi ông Ngô Đình Diệm và Ngô Đình Nhu dừng chân trong cuộc đảo chính tháng 11/1963.",
+    "review_vi": "Khen: kiến trúc lạ mắt kết hợp Gothic và nét Hoa, màu vàng nổi bật; không gian yên tĩnh giữa khu phố đông đúc; ý nghĩa lịch sử với cộng đồng Công giáo người Hoa. Chê: có thời gian trùng tu nên có thể không vào được bên trong; đường quanh nhà thờ nhiều xe máy giờ cao điểm.",
+    "rating": {
+      "value": 4.6,
+      "count": 1418,
+      "source": "Google (qua Wanderlog)",
+      "url": "https://wanderlog.com/place/details/145455",
+      "seen": "2026-10"
+    },
+    "trending": false,
+    "tags": [],
+    "tips_vi": "Mẹo: ăn mặc lịch sự, giữ yên lặng khi có thánh lễ; hỏi trước nếu muốn vào bên trong vì có thể đang trùng tu; kết hợp ghé Chợ Bình Tây gần đó.",
+    "images": [
+      {
+        "commons": "File:Cha Tam Church.jpg",
+        "kind": "place"
+      },
+      {
+        "commons": "File:Nhà thờ Cha Tam.jpg",
+        "kind": "place"
+      }
+    ],
+    "wiki": "https://vi.wikipedia.org/wiki/Nh%C3%A0_th%E1%BB%9D_Cha_Tam",
+    "website": null,
+    "sources": [
+      "https://wanderlog.com/place/details/145455",
+      "https://vi.wikipedia.org/wiki/Nh%C3%A0_th%E1%BB%9D_Cha_Tam",
+      "https://mia.vn/cam-nang-du-lich/kham-pha-phuong-cho-lon-19945",
+      "https://www.openstreetmap.org/way/1482251693"
+    ],
+    "status": "open"
+  },
+  {
+    "id": "hcmc-dinh-minh-huong-gia-thanh",
+    "name": "Đình Minh Hương Gia Thạnh",
+    "cat": "sight",
+    "subtitle": "Ngôi đình đầu tiên của người Minh Hương ở Chợ Lớn (1789)",
+    "address": "380 Trần Hưng Đạo, Phường 11, Quận 5",
+    "lat": 10.752384,
+    "lng": 106.661067,
+    "coordSource": "https://www.openstreetmap.org/way/1497591459",
+    "price": "Miễn phí",
+    "hours": "Ban ngày (chưa có giờ chính thức, nên kiểm tra trước)",
+    "mustTry": "Tượng gốm lò Đồng Hòa (1901) trên mái; hoành phi 'Thiện Tục Khả Phong' vua Tự Đức ban năm 1863; 25 bức hoành phi và 29 câu đối ở gian võ ca",
+    "desc_vi": "Đình do con cháu người Minh Hương (di thần nhà Minh) dựng năm 1789 trên đất Đề Ngạn xưa; năm 1808 vua Gia Long ban tên 'Gia Thạnh đường'. Kiến trúc kiểu Quảng Đông, lưu giữ nhiều hoành phi, câu đối và tượng gốm quý. Học giả Vương Hồng Sển từng nhắc đến đình như một chứng tích lịch sử quan trọng của Chợ Lớn.",
+    "review_vi": "Khen: các bài viết đánh giá cao giá trị lịch sử và tượng gốm, hoành phi quý; yên tĩnh, ít khách du lịch. Chê: ít thông tin hướng dẫn tại chỗ, giờ mở cửa không cố định; chưa có nhiều đánh giá trực tuyến để tham khảo.",
+    "rating": null,
+    "trending": false,
+    "tags": [
+      "Ít người biết"
+    ],
+    "tips_vi": "Mẹo: nằm ngay trên Trần Hưng Đạo, gần Hội quán Quỳnh Phủ và Tam Sơn; nên đi cùng tour văn hóa Chợ Lớn nếu muốn nghe kể chuyện người Minh Hương.",
+    "images": [
+      {
+        "commons": "File:Đình Minh Hương Gia Thạnh.jpg",
+        "kind": "place"
+      }
+    ],
+    "wiki": "https://vi.wikipedia.org/wiki/%C4%90%C3%ACnh_Minh_H%C6%B0%C6%A1ng_Gia_Th%E1%BA%A1nh",
+    "website": null,
+    "sources": [
+      "https://www.openstreetmap.org/way/1497591459",
+      "https://vi.wikipedia.org/wiki/%C4%90%C3%ACnh_Minh_H%C6%B0%C6%A1ng_Gia_Th%E1%BA%A1nh",
+      "https://tuoitre.vn/kham-pha-3-hoi-quan-lau-doi-o-sai-gon-20200630105807055.htm",
+      "https://saigoneer.com/saigon-events/28806-echoing-trip-minh-hương-cự-tộc-d5-cutural-center",
+      "https://baophapluat.vn/net-doc-dao-dinh-lang-dau-tien-cua-nguoi-hoa-o-sai-gon-cho-lon-post399543.html"
+    ],
+    "status": "open"
+  },
+  {
+    "id": "hcmc-hoi-quan-quynh-phu",
+    "name": "Hội quán Quỳnh Phủ (Chùa Bà Hải Nam)",
+    "cat": "sight",
+    "subtitle": "Hội quán của người Hoa gốc Hải Nam",
+    "address": "276 Trần Hưng Đạo, Phường 11, Quận 5",
+    "lat": 10.752595,
+    "lng": 106.663343,
+    "coordSource": "https://www.openstreetmap.org/way/1468659844",
+    "price": "Miễn phí",
+    "hours": "Ban ngày (chưa có giờ chính thức, nên kiểm tra trước)",
+    "mustTry": "Cột gỗ chạm rồng, đèn lồng đỏ; gian thờ Thiên Hậu, Tứ Vị Thánh Nương và Ý Mỹ Nương Nương; góc chụp ảnh áo dài",
+    "desc_vi": "Hội quán do bà con người Hoa gốc Hải Nam góp tiền xây dựng khoảng 200 năm trước, thời nhà Nguyễn. Bên trong thờ Thiên Hậu Thánh Mẫu, Tứ Vị Thánh Nương và Ý Mỹ Nương Nương; hội quán cũng thường làm từ thiện. Kiến trúc khác hẳn các hội quán Phúc Kiến, Triều Châu gần đó.",
+    "review_vi": "Khen: các bài giới thiệu khen kiến trúc riêng, cột chạm rồng và đèn lồng đỏ ăn ảnh, ít người. Chê: thông tin trực tuyến còn ít, chưa thấy điểm đánh giá đáng tin để tham khảo.",
+    "rating": null,
+    "trending": false,
+    "tags": [
+      "Ít người biết"
+    ],
+    "tips_vi": "Mẹo: đi bộ vài bước là tới Đình Minh Hương Gia Thạnh và Hội quán Tam Sơn; giữ trật tự khi chụp ảnh.",
+    "images": [],
+    "wiki": null,
+    "website": null,
+    "sources": [
+      "https://www.openstreetmap.org/way/1468659844",
+      "https://www.greensm.com/vn-vi/news/chua-quan-5-tphcm",
+      "https://mia.vn/cam-nang-du-lich/quan-5-co-gi-choi-15202",
+      "https://vi.wikipedia.org/wiki/H%E1%BB%99i_qu%C3%A1n_Qu%E1%BB%B3nh_Ph%E1%BB%A7"
+    ],
+    "status": "open"
+  },
+  {
+    "id": "hcmc-chua-van-phat",
+    "name": "Chùa Vạn Phật",
+    "cat": "sight",
+    "subtitle": "Ngôi chùa hơn 10.000 tượng Phật trong hẻm Quận 5",
+    "address": "66/14 Nghĩa Thục, Phường 5, Quận 5",
+    "lat": 10.75337,
+    "lng": 106.6753,
+    "coordSource": "https://wanderlog.com/place/details/5294",
+    "price": "Miễn phí; nhang được phát miễn phí, cúng dường tùy tâm",
+    "hours": "Khoảng 7:00–19:00 hằng ngày (có nguồn ghi 6:00–22:00)",
+    "mustTry": "Bức tường vạn tượng Phật ở chánh điện tầng trên; tượng Thích Ca bằng đồng trên đài sen nghìn cánh; tượng Phật Dược Sư tầng 2; máy xin xăm tự động ở lối vào",
+    "desc_vi": "Chùa do hai hòa thượng gốc Hoa là Đức Bổn và Diệu Hoa lập năm 1959, trùng tu mở rộng các năm 1998 và 2008. Ngôi chùa 5 tầng, rộng khoảng 200 m², nổi bật sắc đỏ kiểu Hoa và lưu giữ hơn 10.000 tượng Phật bằng gỗ, đá, đồng, sứ, đất nung – được ghi nhận kỷ lục Việt Nam. Chùa thường tổ chức lễ Tết, Phật đản, Vu Lan và các khóa tu.",
+    "review_vi": "Khen: không khí thanh tịnh giữa khu dân cư đông đúc; số lượng tượng Phật và trang trí rất ấn tượng; sư và người giữ chùa thân thiện, có nhang miễn phí. Chê: nằm sâu trong hẻm nhỏ khá khó tìm, phải leo nhiều tầng mới xem hết.",
+    "rating": {
+      "value": 4.8,
+      "count": 2905,
+      "source": "Google (qua Wanderlog)",
+      "url": "https://wanderlog.com/place/details/5294",
+      "seen": "2026-10"
+    },
+    "trending": false,
+    "tags": [],
+    "tips_vi": "Mẹo: vào từ đường Nghĩa Thục, tìm hẻm 66; gửi xe ở các bãi trên Nghĩa Thục; dành thời gian đi hết 5 tầng chứ không chỉ tầng trên cùng; ăn mặc kín đáo.",
+    "images": [
+      {
+        "commons": "File:Ten Thousand Buddha Pagoda in HCMC.jpg",
+        "kind": "place"
+      }
+    ],
+    "wiki": null,
+    "website": null,
+    "sources": [
+      "https://wanderlog.com/place/details/5294",
+      "https://www.greensm.com/vn-vi/news/chua-van-phat",
+      "https://www.greensm.com/vn-vi/news/chua-quan-5-tphcm",
+      "https://www.foody.vn/ho-chi-minh/chua-van-phat"
+    ],
+    "status": "open"
+  },
+  {
+    "id": "hcmc-mieu-nhi-phu",
+    "name": "Miếu Nhị Phủ (Chùa Ông Bổn)",
+    "cat": "sight",
+    "subtitle": "Miếu cổ của người Phúc Kiến trên phố thuốc bắc",
+    "address": "264 Hải Thượng Lãn Ông, Phường 14, Quận 5",
+    "lat": 10.751397,
+    "lng": 106.65726,
+    "coordSource": "https://www.openstreetmap.org/way/666569008",
+    "price": "Miễn phí",
+    "hours": "6:00–18:00 hằng ngày",
+    "mustTry": "Gian thờ Ông Bổn – vị thần bảo hộ đất đai và con người; trống chầu, chuông đồng, tượng kỳ lân đá; lễ rằm tháng Giêng và rằm tháng Tám",
+    "desc_vi": "Miếu Nhị Phủ, còn gọi Hội quán Nhị Phủ hay chùa Ông Bổn, do người Hoa ở hai phủ Tuyền Châu và Chương Châu (Phúc Kiến) cùng góp công dựng vào khoảng đầu thế kỷ 18 – được xem là một trong những ngôi miếu người Hoa lâu đời nhất Chợ Lớn. Về sau hai nhóm tách ra lập thêm Hội quán Ôn Lăng và Hà Chương. Miếu nằm ngay trên con phố thuốc bắc Hải Thượng Lãn Ông.",
+    "review_vi": "Khen: các bài giới thiệu đánh giá cao vẻ cổ kính, đồ thờ quý và không khí lễ hội rằm tháng Giêng. Chê: chưa thấy điểm đánh giá trực tuyến đáng tin; khu vực trước miếu rất đông xe vì là phố buôn bán sỉ.",
+    "rating": null,
+    "trending": false,
+    "tags": [
+      "Ít người biết"
+    ],
+    "tips_vi": "Mẹo: ghép với dạo phố thuốc bắc Hải Thượng Lãn Ông và Chợ Kim Biên ngay gần; đi buổi sáng ngày thường cho đỡ kẹt xe.",
+    "images": [
+      {
+        "commons": "File:Miếu Nhị Phủ.jpg",
+        "kind": "place"
+      },
+      {
+        "commons": "File:Ong Bon Pagoda (10018222995).jpg",
+        "kind": "place"
+      }
+    ],
+    "wiki": null,
+    "website": null,
+    "sources": [
+      "https://www.openstreetmap.org/way/666569008",
+      "https://www.greensm.com/vn-vi/news/chua-quan-5-tphcm",
+      "https://mia.vn/cam-nang-du-lich/chua-ong-bon-sai-gon-17650",
+      "https://www.nomadotravel.app/vi/attractions/ong-bon-pagoda",
+      "https://vi.wikipedia.org/wiki/H%E1%BB%99i_qu%C3%A1n_H%C3%A0_Ch%C6%B0%C6%A1ng",
+      "https://commons.wikimedia.org/wiki/File:Mi%E1%BA%BFu_Nh%E1%BB%8B_Ph%E1%BB%A7.jpg"
+    ],
+    "status": "open"
+  },
+  {
+    "id": "hcmc-buu-dien-cho-lon",
+    "name": "Bưu điện Chợ Lớn (Bưu điện Quận 5)",
+    "cat": "sight",
+    "subtitle": "Tòa bưu điện kiểu thuộc địa trên nền chợ Chợ Lớn cũ",
+    "address": "26 Nguyễn Thi, Phường 13, Quận 5",
+    "lat": 10.75001,
+    "lng": 106.659278,
+    "coordSource": "https://www.openstreetmap.org/way/366664390",
+    "price": "Miễn phí ngắm kiến trúc; dịch vụ bưu chính theo giá niêm yết",
+    "hours": "Bưu cục: Thứ Hai–Thứ Sáu 7:00–18:00, Thứ Bảy 7:30–17:00, Chủ nhật nghỉ (nên gọi trước)",
+    "mustTry": "Mặt tiền kiểu thuộc địa nhìn ra vòng xoay Châu Văn Liêm – Hải Thượng Lãn Ông; gửi một tấm bưu thiếp từ Chợ Lớn",
+    "desc_vi": "Tòa bưu điện được dựng trên nền chợ cũ của Chợ Lớn sau khi chợ dời về Chợ Bình Tây do Quách Đàm xây (hoàn thành năm 1930). Công trình mang phong cách thuộc địa, quay mặt ra vòng xoay nối Châu Văn Liêm và Hải Thượng Lãn Ông. Trước đó, bưu điện đầu tiên của Chợ Lớn nằm ở góc Hồng Bàng – Tổng Đốc Phương (nay là Châu Văn Liêm).",
+    "review_vi": "Khen: các bài viết lịch sử xem đây là một cột mốc kiến trúc của Chợ Lớn xưa, đẹp khi chụp từ vòng xoay. Chê: vẫn là bưu cục đang làm việc, không có khu trưng bày hay hướng dẫn tham quan như Bưu điện Thành phố; chưa có điểm đánh giá trực tuyến đáng tin.",
+    "rating": null,
+    "trending": false,
+    "tags": [
+      "Ít người biết"
+    ],
+    "tips_vi": "Mẹo: chụp mặt tiền từ phía vòng xoay; ghé buổi sáng ngày thường, sau đó đi bộ sang phố thuốc bắc Hải Thượng Lãn Ông.",
+    "images": [
+      {
+        "commons": "File:Bưu điện quận 5, HCMVN - panoramio.jpg",
+        "kind": "place"
+      }
+    ],
+    "wiki": null,
+    "website": null,
+    "sources": [
+      "https://www.openstreetmap.org/way/366664390",
+      "https://commons.wikimedia.org/wiki/Category:Cho_Lon_Central_Post_Office",
+      "https://saigoneer.com/saigon-heritage/18396-photos-cho-lon-s-first-ever-post-office,-as-seen-in-the-1920s",
+      "https://vnexpress.net/cho-lon-xua-va-nay-4056243.html",
+      "https://virtual-saigon.net/Data/Buildings?ID=4050",
+      "https://ghn.vn/blogs/thong-tin-giao-hang/buu-dien-quan-5"
+    ],
+    "status": "open"
+  },
+  {
+    "id": "hcmc-cho-kim-bien",
+    "name": "Chợ Kim Biên",
+    "cat": "market",
+    "subtitle": "Chợ sỉ hóa chất, gia dụng, dụng cụ làm bánh của Chợ Lớn",
+    "address": "37 Vạn Tượng, Phường 13, Quận 5",
+    "lat": 10.749985,
+    "lng": 106.655923,
+    "coordSource": "https://vi.wikipedia.org/wiki/Ch%E1%BB%A3_Kim_Bi%C3%AAn",
+    "price": "Giá sỉ; mua lẻ được ở nhiều sạp, nên mặc cả",
+    "hours": "Khoảng 6:00–19:00 hằng ngày",
+    "mustTry": "Dụng cụ làm bánh, nồi chảo, chén bát; chất tẩy rửa gia dụng; phụ kiện điện tử; mỹ phẩm sỉ; hương liệu, phụ gia (chỉ mua ở sạp có nhãn mác rõ ràng)",
+    "desc_vi": "Chợ hình thành từ những năm 1960, ban đầu là nơi đổi đô la và bán hàng quân tiếp vụ; sau 1975 trở thành chợ sỉ nổi tiếng nhất thành phố về hóa chất công nghiệp, phụ gia thực phẩm. Ngày nay chợ còn bán nhiều đồ gia dụng, dụng cụ làm bánh, điện tử, mỹ phẩm và thời trang giá buôn, nằm sát phố thuốc bắc Hải Thượng Lãn Ông.",
+    "review_vi": "Khen: hàng hóa rất đa dạng, giá buôn rẻ, là nơi dân làm bánh và tiểu thương nhỏ tìm nguồn hàng. Chê: không phải điểm tham quan hay mua quà; lối đi chật, đông, cần giữ đồ cẩn thận; báo chí nhiều lần phản ánh việc buôn bán hóa chất thiếu nhãn mác và cơ quan chức năng đã xử phạt.",
+    "rating": null,
+    "trending": false,
+    "tags": [
+      "Ít người biết"
+    ],
+    "tips_vi": "Mẹo: đi sáng sớm hoặc chiều muộn để đỡ đông; kiểm tra hạn dùng, tem nhãn khi mua mỹ phẩm, phụ gia; không mua hóa chất không rõ nguồn gốc.",
+    "images": [
+      {
+        "commons": "File:Chợ Kim Biên 06 2022.jpg",
+        "kind": "place"
+      }
+    ],
+    "wiki": "https://vi.wikipedia.org/wiki/Ch%E1%BB%A3_Kim_Bi%C3%AAn",
+    "website": null,
+    "sources": [
+      "https://vi.wikipedia.org/wiki/Ch%E1%BB%A3_Kim_Bi%C3%AAn",
+      "https://mia.vn/cam-nang-du-lich/cho-kim-bien-va-nhung-su-that-co-the-ban-chua-tung-nghe-qua-12216",
+      "https://mia.vn/cam-nang-du-lich/kham-pha-phuong-cho-lon-19945",
+      "https://plo.vn/tphcm-xu-phat-hang-tram-trieu-dong-lien-quan-den-viec-ban-hoa-chat-tai-cho-kim-bien-post854853.html",
+      "https://www.openstreetmap.org/way/189027782"
+    ],
+    "status": "open"
+  },
+  {
+    "id": "hcmc-cho-xa-tay",
+    "name": "Chợ Xã Tây",
+    "cat": "market",
+    "subtitle": "Chợ dân sinh người Hoa giữa khu hội quán",
+    "address": "36 Phù Đổng Thiên Vương, Phường 11, Quận 5",
+    "lat": 10.753014,
+    "lng": 106.662854,
+    "coordSource": "https://www.openstreetmap.org/way/1468659871",
+    "price": "Bình dân: chè khoảng 6.000đ/chén, hủ tiếu khoảng 30.000đ, cà ri gà vịt 50.000–75.000đ",
+    "hours": "Từ sáng sớm đến khoảng 18:00–19:00; vài quán ăn bán đến tối",
+    "mustTry": "Cà ri gà vịt Chị My (quán hơn 40 năm), chè nóng 6K đối diện chợ, hủ tiếu bò viên Thòn Ký; khu hải sản, thịt, rau tươi buổi sáng",
+    "desc_vi": "Chợ truyền thống lâu đời của khu Chợ Lớn, nằm giữa các hội quán Nghĩa An, Thiên Hậu và Quỳnh Phủ. Chợ bán thực phẩm tươi sống, hải sản về mỗi ngày, quần áo, đồ gia dụng; quanh chợ là nhiều hàng ăn người Hoa như mì gà, lạp xưởng, vịt quay, chè mè đen, sâm bổ lượng.",
+    "review_vi": "Chưa có điểm đánh giá trực tuyến đáng tin. Theo các bài giới thiệu – Khen: không khí chợ người Hoa rất đời, đồ ăn rẻ và có quán lâu năm. Chê: chợ nhỏ, đông và chật vào buổi sáng; nhiều sạp không nhận chuyển khoản.",
+    "rating": null,
+    "trending": false,
+    "tags": [
+      "Ít người biết"
+    ],
+    "tips_vi": "Mẹo: đi 6:00–9:00 nếu muốn xem chợ đông vui, chiều tối để ăn; mang tiền lẻ, giữ đồ cẩn thận khi chợ đông; ghép tuyến với các hội quán trên Nguyễn Trãi.",
+    "images": [],
+    "wiki": null,
+    "website": null,
+    "sources": [
+      "https://www.openstreetmap.org/way/1468659871",
+      "https://www.greensm.com/vn-vi/news/cho-xa-tay-quan-5",
+      "https://mia.vn/cam-nang-du-lich/kham-pha-phuong-cho-lon-19945"
+    ],
+    "status": "open"
+  },
+  {
+    "id": "hcmc-cho-phung-hung",
+    "name": "Chợ Phùng Hưng (chợ Thủ Đô)",
+    "cat": "market",
+    "subtitle": "Chợ gần trăm tuổi của người Hoa, có cà phê vợt Ba Lù",
+    "address": "214 Phùng Hưng, Phường 14, Quận 5",
+    "lat": 10.753183,
+    "lng": 106.657462,
+    "coordSource": "https://wanderlog.com/place/details/4194461",
+    "price": "Bình dân: nước sâm từ khoảng 12.000đ/ly, bánh mì 20.000–50.000đ",
+    "hours": "Từ sáng sớm (khoảng 4:00) đến tối; đông nhất buổi sáng",
+    "mustTry": "Cà phê vợt Ba Lù trong chợ; há cảo, bánh bao, hủ tiếu, mì vịt tiềm; nước sâm 24 vị, mía lau, trà bông cúc; hải sản, rau củ tươi",
+    "desc_vi": "Chợ hình thành khoảng năm 1928, phát triển thành trung tâm mua bán của người Hoa Quận 5 khi các chung cư cũ quanh đó mọc lên những năm 1960; còn gọi là chợ Thủ Đô hay chợ Nhà Giàu vì từng bán hải sản tươi và đặc sản cao cấp. Trong chợ có quán cà phê Ba Lù pha vợt gần trăm năm.",
+    "review_vi": "Khen: không khí chợ địa phương sống động, hàng tươi, hải sản giá tốt, món sáng ngon, người bán thân thiện; cà phê Ba Lù rất đáng thử. Chê: vài khu hơi bừa bộn, ẩm ướt; giờ cao điểm rất đông.",
+    "rating": {
+      "value": 4.2,
+      "count": 638,
+      "source": "Google (qua Wanderlog)",
+      "url": "https://wanderlog.com/place/details/4194461",
+      "seen": "2026-10"
+    },
+    "trending": false,
+    "tags": [],
+    "tips_vi": "Mẹo: đi sáng sớm để thấy chợ đông vui nhất và uống cà phê Ba Lù; buổi chiều ghé các quán há cảo, chè quanh đường Lão Tử.",
+    "images": [],
+    "wiki": null,
+    "website": null,
+    "sources": [
+      "https://wanderlog.com/place/details/4194461",
+      "https://www.greensm.com/vn-vi/news/cho-phung-hung",
+      "https://www.greensm.com/vn-vi/news/cho-quan-5",
+      "https://mia.vn/cam-nang-du-lich/kham-pha-phuong-cho-lon-19945"
+    ],
+    "status": "open"
+  },
+  {
+    "id": "hcmc-cho-vai-soai-kinh-lam",
+    "name": "Chợ vải Soái Kình Lâm",
+    "cat": "market",
+    "subtitle": "Chợ vải sỉ lớn nhất Sài Gòn (Thương xá Đồng Khánh)",
+    "address": "465–473 Trần Hưng Đạo, Phường 14, Quận 5",
+    "lat": 10.751932,
+    "lng": 106.656776,
+    "coordSource": "https://wanderlog.com/place/details/1760513",
+    "price": "Không niêm yết; giá theo chất liệu và số lượng, mua sỉ được giá tốt hơn",
+    "hours": "Khoảng 6:00–18:00 (nên kiểm tra trước)",
+    "mustTry": "Vải áo dài, lụa, gấm, nhung, ren, voan, kaki, jean; vải rèm, khăn trải bàn, ga giường; vải trang phục biểu diễn",
+    "desc_vi": "Chợ hình thành năm 1989 khi Quận 5 gom tiểu thương vải sợi về Thương xá Đồng Khánh; giai đoạn 1989–1995 có gần 1.000 sạp, cung cấp vải khắp cả nước. Nay chợ còn khoảng 500 sạp, mỗi sạp chuyên một dòng vải nhập từ Trung Quốc, Nhật, Hàn, Thái, Ấn Độ, Ý… Khu phố quanh chợ là phố vải do nhiều thế hệ người Hoa gìn giữ.",
+    "review_vi": "Khen: lựa chọn cực nhiều, giá rẻ, sạp xếp theo loại vải dễ tìm, người bán nhiệt tình tư vấn; các tầng trên vắng vẻ, lạ mắt cho người thích chụp ảnh. Chê: không phải sạp nào cũng bán lẻ; tầng trên nhiều sạp đóng cửa; cuối tuần đông.",
+    "rating": {
+      "value": 4.2,
+      "count": 37,
+      "source": "Google (qua Wanderlog)",
+      "url": "https://wanderlog.com/place/details/1760513",
+      "seen": "2026-10"
+    },
+    "trending": false,
+    "tags": [],
+    "tips_vi": "Mẹo: đi buổi sáng ngày thường để được tư vấn kỹ; hỏi trước sạp có bán lẻ không; sờ, kéo thử, soi vải mỏng dưới ánh sáng và chà thử vải in xem có phai màu.",
+    "images": [
+      {
+        "commons": "File:Cholon Textile Market - Chợ vải Soái kình lâm chợ lớn.jpg",
+        "kind": "place"
+      }
+    ],
+    "wiki": null,
+    "website": null,
+    "sources": [
+      "https://wanderlog.com/place/details/1760513",
+      "https://www.greensm.com/vn-vi/news/cho-soai-kinh-lam",
+      "https://www.sggp.org.vn/cho-vai-me-truyen-con-noi-post70509.html",
+      "https://mia.vn/cam-nang-du-lich/kham-pha-phuong-cho-lon-19945"
+    ],
+    "status": "open"
+  },
+  {
+    "id": "hcmc-cho-nguyen-tri-phuong",
+    "name": "Chợ Nguyễn Tri Phương",
+    "cat": "market",
+    "subtitle": "Chợ dân sinh Quận 10 cạnh Kỳ Đài Quang Trung",
+    "address": "Đường Nguyễn Lâm (gần Nguyễn Tri Phương), Phường 6, Quận 10",
+    "lat": 10.764468,
+    "lng": 106.663523,
+    "coordSource": "https://wanderlog.com/place/details/6827763",
+    "price": "Bình dân; quần áo cũ giá rẻ, nên mặc cả",
+    "hours": "Từ khoảng 5:00 sáng; quanh chợ có hàng quán đến khuya",
+    "mustTry": "Rau củ, trái cây tươi buổi sáng sớm; quần áo cũ giá rẻ; hàng ăn vặt trên đường Nguyễn Tri Phương buổi tối",
+    "desc_vi": "Chợ truyền thống của dân Quận 10, nằm sát vòng xoay Kỳ Đài Quang Trung và dãy hàng ăn nổi tiếng trên đường Nguyễn Tri Phương. Chợ bán thực phẩm tươi, trái cây, quần áo cũ, trang sức bình dân; ít khách du lịch hơn các chợ trung tâm.",
+    "review_vi": "Khen: rau trái tươi từ sáng sớm, giá rẻ, không khí chợ truyền thống, ít đông hơn chợ Bến Thành; buổi tối có hàng vỉa hè. Chê: nhiều người thấy chợ chỉ ở mức bình thường; hàng cũ chất lượng không bằng khu Nhật Tảo gần đó.",
+    "rating": {
+      "value": 4.3,
+      "count": 227,
+      "source": "Google (qua Wanderlog)",
+      "url": "https://wanderlog.com/place/details/6827763",
+      "seen": "2026-10"
+    },
+    "trending": false,
+    "tags": [],
+    "tips_vi": "Mẹo: đi khoảng 5:00–7:00 để mua đồ tươi; tối ghé Kỳ Đài Quang Trung và dãy ăn vặt Nguyễn Tri Phương ngay cạnh.",
+    "images": [],
+    "wiki": null,
+    "website": null,
+    "sources": [
+      "https://wanderlog.com/place/details/6827763",
+      "https://www.openstreetmap.org/way/319782550",
+      "https://znews.vn/dia-chi-an-uong-o-duong-nguyen-tri-phuong-post1160656.html"
+    ],
+    "status": "open"
+  },
+  {
+    "id": "hcmc-the-garden-mall",
+    "name": "The Garden Mall (Thuận Kiều Plaza cũ)",
+    "cat": "shopping",
+    "subtitle": "Thuận Kiều Plaza hồi sinh thành TTTM có vườn và nhà sách lớn",
+    "address": "190 Hồng Bàng, Phường 12, Quận 5",
+    "lat": 10.754649,
+    "lng": 106.657,
+    "coordSource": "https://wanderlog.com/place/details/8348585",
+    "price": "Vào cửa miễn phí",
+    "hours": "10:00–22:00",
+    "mustTry": "Nhà sách Phương Nam cỡ lớn; khu vườn chủ đề hồng hạc và The Garden Art trên sân thượng; ăn uống (Manwah, Baoz Dimsum, Hoàng Yến…); giày thể thao Adidas, Puma, Skechers; game center",
+    "desc_vi": "Tổ hợp ba tháp 33 tầng Thuận Kiều Plaza xây 1994–1999 trên nền ga xe lửa Chợ Lớn cũ, từng bỏ hoang nhiều năm. Khối đế được cải tạo thành The Garden Mall với 3 tầng thương mại khoảng 30.000 m², có siêu thị, nhà hàng, nhà sách, game center, hồ bơi ngoài trời và nhà hát Théâtre De Cholon; các bài viết 2025–2026 cho biết nơi đây đã được làm mới và khá đông khách cuối tuần.",
+    "review_vi": "Khen: không gian cải tạo mới, nhiều cây xanh, yên tĩnh dễ chịu; có nhà sách, quà lưu niệm và các nhãn như Nike, Charles & Keith, GAP; nhiều quán ăn (dimsum, món Hoa). Chê: một số khu còn đang sửa chữa hoặc vắng; vài người phàn nàn về phục vụ; các khối tháp căn hộ cũ phía trên tạo cảm giác hơi u ám.",
+    "rating": {
+      "value": 4.2,
+      "count": 3193,
+      "source": "Google (qua Wanderlog)",
+      "url": "https://wanderlog.com/place/details/8348585",
+      "seen": "2026-10"
+    },
+    "trending": false,
+    "tags": [
+      "Hợp với trẻ em"
+    ],
+    "tips_vi": "Mẹo: đi ngày thường cho vắng; cuối tuần, lễ nên đặt bàn trước ở nhà hàng; buýt 07, 08, 10, 139, 150 dừng gần; nếu khu nào đóng cửa có thể sang Hùng Vương Plaza gần đó.",
+    "images": [
+      {
+        "commons": "File:Ho Chi Minh City, Hong Bang Boulevard, 2024-05-19 5.png",
+        "kind": "place"
+      }
+    ],
+    "wiki": "https://vi.wikipedia.org/wiki/Thu%E1%BA%ADn_Ki%E1%BB%81u_Plaza",
+    "website": null,
+    "sources": [
+      "https://wanderlog.com/place/details/8348585",
+      "https://www.greensm.com/vn-vi/news/toa-nha-the-garden-mall-quan-5",
+      "https://mia.vn/cam-nang-du-lich/the-garden-shopping-center-18244",
+      "https://mia.vn/cam-nang-du-lich/kham-pha-phuong-cho-lon-19945",
+      "https://vi.wikipedia.org/wiki/Thu%E1%BA%ADn_Ki%E1%BB%81u_Plaza",
+      "https://vnexpress.net/thuan-kieu-plaza-truoc-lua-chon-cai-tao-hay-pha-do-3304029.html"
+    ],
+    "status": "open"
+  },
+  {
+    "id": "hcmc-nowzone",
+    "name": "NOWZONE Fashion Mall",
+    "cat": "shopping",
+    "subtitle": "TTTM thời trang nhỏ gọn, có rạp phim, cạnh Quận 5",
+    "address": "235 Nguyễn Văn Cừ, Phường Nguyễn Cư Trinh, Quận 1",
+    "lat": 10.763763,
+    "lng": 106.682649,
+    "coordSource": "https://wanderlog.com/place/details/1760350",
+    "price": "Vào cửa miễn phí; gửi xe trả tiền mặt",
+    "hours": "Ban ngày đến tối (chưa xác minh giờ chính xác)",
+    "mustTry": "Thời trang nam nữ trẻ trung, mỹ phẩm, trang sức; buffet Nhật – Hàn, trà sữa; rạp chiếu phim tầng trên; khu đồ chơi, trò chơi",
+    "desc_vi": "Trung tâm mua sắm mở năm 2008 ở đầu đường Nguyễn Văn Cừ, giáp ranh Quận 1 và Quận 5. Các tầng có mỹ phẩm, trang sức, thời trang (cả đồ trẻ em), khu ẩm thực và rạp chiếu phim trên cùng.",
+    "review_vi": "Khen: sạch sẽ, tiện ghé mua nhanh hoặc ăn uống, xem phim; thời trang trẻ trung. Chê: quy mô nhỏ, ít thương hiệu hơn các TTTM lớn gần đó; vài người phàn nàn về thái độ phục vụ.",
+    "rating": {
+      "value": 4.2,
+      "count": 6774,
+      "source": "Google (qua Wanderlog)",
+      "url": "https://wanderlog.com/place/details/1760350",
+      "seen": "2026-10"
+    },
+    "trending": false,
+    "tags": [],
+    "tips_vi": "Mẹo: đi ngày thường cho vắng; mang tiền mặt trả phí gửi xe vì bãi chưa nhận chuyển khoản QR.",
+    "images": [],
+    "wiki": null,
+    "website": null,
+    "sources": [
+      "https://wanderlog.com/place/details/1760350",
+      "https://www.openstreetmap.org/way/289968620"
+    ],
+    "status": "unverified"
+  },
+  {
+    "id": "hcmc-parc-mall",
+    "name": "Parc Mall (AEON Tạ Quang Bửu)",
+    "cat": "shopping",
+    "subtitle": "TTTM mới ở Quận 8 có AEON, Timezone, tiNiWorld",
+    "address": "547–549 Tạ Quang Bửu, Phường 4, Quận 8",
+    "lat": 10.740732,
+    "lng": 106.679143,
+    "coordSource": "https://www.openstreetmap.org/way/1226734708",
+    "price": "Vào cửa miễn phí; xe máy gửi tầng hầm",
+    "hours": "Thứ Hai–Thứ Sáu 10:00–22:00; Thứ Bảy, Chủ nhật, lễ 9:00–22:00",
+    "mustTry": "Siêu thị AEON Tạ Quang Bửu; thời trang Uniqlo, H&M, Canifa, Miniso; ăn uống Kichi Kichi, Manwah, Phúc Long, Highlands; rạp Galaxy; khu vui chơi Timezone, tiNiWorld, Kidzoona",
+    "desc_vi": "Trung tâm thương mại khoảng 55.000 m² mở cửa năm 2024 ở Quận 8, cách Chợ Lớn chừng 2 km về phía nam. Có siêu thị AEON khoảng 7.000 m², hơn 100 thương hiệu, khu ẩm thực, rạp phim và nhiều khu vui chơi trẻ em – trong đó Timezone ở tầng 4 là điểm lớn nhất của chuỗi tại TP.HCM.",
+    "review_vi": "Chưa đọc được điểm đánh giá đáng tin. Theo các bài giới thiệu – Khen: mới, rộng, đủ siêu thị, ăn uống, phim và chỗ chơi cho trẻ trong một nơi. Chê: cuối tuần, lễ rất đông và bãi ô tô dễ kín.",
+    "rating": null,
+    "trending": true,
+    "tags": [
+      "Hợp với trẻ em"
+    ],
+    "tips_vi": "Mẹo: đi ngày thường hoặc sáng sớm cuối tuần; ô tô nên đến sớm; kết hợp mua sắm AEON và cho bé chơi Timezone, tiNiWorld cùng chuyến.",
+    "images": [],
+    "wiki": null,
+    "website": "https://www.parcmall.com.vn",
+    "sources": [
+      "https://www.openstreetmap.org/way/1226734708",
+      "https://mia.vn/cam-nang-du-lich/trung-tam-thuong-mai-parc-mall-quan-8-16703",
+      "https://znews.vn/aeon-ta-quang-buu-tai-quan-8-se-khai-truong-trong-thang-9-post1499968.html",
+      "https://www.timezonegames.com/en-vn/venues/hcmc/parc-mall/"
+    ],
+    "status": "open"
+  },
+  {
+    "id": "hcmc-pho-thuoc-bac-hai-thuong-lan-ong",
+    "name": "Phố thuốc bắc Hải Thượng Lãn Ông",
+    "cat": "shopping",
+    "subtitle": "Phố đông y, đồ trang trí Tết và nhà phố Pháp cổ",
+    "address": "Đường Hải Thượng Lãn Ông (đoạn Võ Văn Kiệt – Học Lạc), Phường 10 & 14, Quận 5",
+    "lat": 10.750676,
+    "lng": 106.658437,
+    "coordSource": "https://wanderlog.com/place/details/5361518",
+    "price": "Miễn phí dạo phố; thuốc, dược liệu theo giá từng tiệm",
+    "hours": "Các tiệm mở ban ngày, khoảng sáng đến chiều tối",
+    "mustTry": "Mùi thảo dược từ các tiệm thuốc bắc lâu đời; câu đối, lồng đèn, đồ trang trí Tết, Trung thu (đoạn Châu Văn Liêm – Học Lạc); dãy nhà phố kiểu Pháp; Miếu Nhị Phủ và Chợ Kim Biên ngay trên đường",
+    "desc_vi": "Con phố cổ của Chợ Lớn nổi tiếng với hàng loạt tiệm thuốc bắc người Hoa (đoạn Võ Văn Kiệt – Châu Văn Liêm) và hàng trăm cửa hiệu câu đối, lồng đèn, đồ trang trí lễ Tết (đoạn Châu Văn Liêm – Học Lạc). Hai bên còn nhiều nhà phố kiểu Pháp; dịp Trung thu, Tết Nguyên đán phố rực đỏ, rất đẹp để chụp ảnh.",
+    "review_vi": "Chưa có điểm đánh giá đáng tin cho cả con phố. Theo các bài viết – Khen: không khí phố người Hoa đậm chất, mùi thuốc bắc đặc trưng, nhiều tiệm lâu đời; mùa lễ Tết rực rỡ. Chê: phố buôn sỉ nên xe tải, xe máy đông, vỉa hè chật, không có khu đi bộ riêng.",
+    "rating": null,
+    "trending": false,
+    "tags": [],
+    "tips_vi": "Mẹo: đi sáng ngày thường để xem các tiệm bốc thuốc; trước Tết và Trung thu phố đẹp nhất nhưng rất đông; giữ đồ cẩn thận khi chụp ảnh giữa phố.",
+    "images": [
+      {
+        "commons": "File:Hai thuong lang ong street- phường 10, Quận 5, TPHCM, Việt Nam - panoramio.jpg",
+        "kind": "place"
+      }
+    ],
+    "wiki": null,
+    "website": null,
+    "sources": [
+      "https://wanderlog.com/place/details/5361518",
+      "https://mia.vn/cam-nang-du-lich/kham-pha-phuong-cho-lon-19945",
+      "https://vnexpress.net/sai-gon-pho-nghe-2287055.html",
+      "https://vietnamnews.vn/life-style/351814/oriental-medicine-tours-a-hit-in-hcm-city.html",
+      "https://commons.wikimedia.org/wiki/Category:Cho_Lon_Central_Post_Office"
+    ],
+    "status": "open"
+  },
+  {
+    "id": "hcmc-pho-thoi-trang-nguyen-trai",
+    "name": "Phố thời trang Nguyễn Trãi",
+    "cat": "shopping",
+    "subtitle": "Phố thời trang đầu tiên của TP.HCM, dài gần 2 km",
+    "address": "Đường Nguyễn Trãi (đoạn Nguyễn Văn Cừ – Trần Phú), Quận 5",
+    "lat": 10.755419,
+    "lng": 106.673576,
+    "coordSource": "https://wanderlog.com/place/details/1112739",
+    "price": "Bình dân đến tầm trung",
+    "hours": "Các shop mở từ sáng đến tối; đông nhất 16:00–23:00, trước Tết có shop mở tới 1–2 giờ sáng",
+    "mustTry": "Quần áo, giày dép, túi, phụ kiện theo xu hướng; các đợt xả hàng, giảm giá cuối năm",
+    "desc_vi": "Quận 5 chính thức công nhận tuyến Nguyễn Trãi là phố thời trang vào tháng 4/2018 – con phố đầu tiên như vậy ở TP.HCM. Phố dài gần 2 km từ Nguyễn Văn Cừ đến Trần Phú – Nguyễn Duy Dương, với hơn 200 cửa hàng: shop bình dân nằm xen các thương hiệu lớn.",
+    "review_vi": "Khen: rất nhiều lựa chọn từ shop bình dân đến thương hiệu lớn; phố được định hướng bán đúng giá, 'không nói thách'; dịp Tết giảm giá mạnh. Chê: vỉa hè bị lấn chiếm, đậu xe khó; tối cuối tuần và trước Tết kẹt xe.",
+    "rating": {
+      "value": 4.5,
+      "count": 234,
+      "source": "Google (qua Wanderlog)",
+      "url": "https://wanderlog.com/place/details/1112739",
+      "seen": "2026-10"
+    },
+    "trending": false,
+    "tags": [],
+    "tips_vi": "Mẹo: đi chiều tối ngày thường; gửi xe ở bãi trong hẻm thay vì đỗ vỉa hè; so sánh giá vài shop trước khi mua.",
+    "images": [],
+    "wiki": null,
+    "website": null,
+    "sources": [
+      "https://wanderlog.com/place/details/1112739",
+      "https://www.sggp.org.vn/quan-5-chinh-thuc-ra-mat-pho-thoi-trang-post475916.html",
+      "https://plo.vn/lan-dau-tien-tphcm-co-pho-thoi-trang-khong-noi-thach-post480179.html",
+      "https://vnexpress.net/nua-dem-di-sam-tet-4841783.html",
+      "https://mia.vn/cam-nang-du-lich/quan-5-co-gi-choi-15202"
+    ],
+    "status": "unverified"
+  },
+  {
+    "id": "hcmc-vincom-plaza-3-2",
+    "name": "Vincom Plaza 3/2",
+    "cat": "shopping",
+    "subtitle": "TTTM Quận 10 có rạp BHD và nhiều khu chơi cho bé",
+    "address": "3C Đường 3 Tháng 2, Phường 10, Quận 10",
+    "lat": 10.77629,
+    "lng": 106.680839,
+    "coordSource": "https://www.openstreetmap.org/way/509015321",
+    "price": "Vào cửa miễn phí; trò chơi trẻ em tính vé/lượt riêng",
+    "hours": "10:00–22:00",
+    "mustTry": "Rạp BHD Star (5 phòng); khu chơi trẻ em Champion (2–12 tuổi), GiGO, Universal Game, Playtime Joongang, Đức Nguyên Phát (tầng 1); ăn uống Pizza 4P's, Poseidon, Long Wang dimsum (tầng 3), Highlands; đồ gia dụng KKV",
+    "desc_vi": "Trung tâm thương mại trên mặt tiền đường 3 Tháng 2 (Quận 10), trước đây là Maximark 3/2. Ngoài mua sắm, nơi này tập trung nhiều khu vui chơi trẻ em, rạp phim và nhà hàng nên hợp đi cả gia đình vào buổi tối hoặc cuối tuần.",
+    "review_vi": "Chưa đọc được điểm đánh giá đáng tin. Theo bài giới thiệu 2025 – Khen: nhiều khu vui chơi cho trẻ, rạp phim, nhà hàng đa dạng, dễ đi lại. Chê: khu vực Quận 10 hay kẹt xe giờ cao điểm, bãi giữ xe tầng hầm có lúc đông.",
+    "rating": null,
+    "trending": false,
+    "tags": [
+      "Hợp với trẻ em"
+    ],
+    "tips_vi": "Mẹo: tránh giờ tan tầm; buýt 07, 65, 91, 156D dừng gần (trạm Bệnh viện Bình Dân); xem lịch chiếu phim trước khi đi.",
+    "images": [],
+    "wiki": null,
+    "website": null,
+    "sources": [
+      "https://www.openstreetmap.org/way/509015321",
+      "https://mia.vn/cam-nang-du-lich/vincom-plaza-32-tp-hcm-19113"
+    ],
+    "status": "open"
+  },
+  {
+    "id": "hcmc-tuyen-tailor",
+    "name": "Tiệm may Tuyển Tailor",
+    "cat": "shopping",
+    "subtitle": "Tiệm may đo âu phục được khách quốc tế khen nức nở",
+    "address": "129/4 Nguyễn Tri Phương, Quận 5",
+    "lat": 10.755134,
+    "lng": 106.669188,
+    "coordSource": "https://wanderlog.com/place/details/5281",
+    "price": "Báo giá theo vải và kiểu; nhận may gấp",
+    "hours": "Thứ Hai–Thứ Bảy 8:00–19:30; Chủ nhật 8:00–17:00",
+    "mustTry": "May đo quần tây, bộ vest; sửa áo sơ mi; chọn vải tại tiệm, tiệm lưu số đo để đặt lại và gửi hàng ra nước ngoài",
+    "desc_vi": "Tiệm may gia đình nằm trong hẻm Nguyễn Tri Phương, chủ tiệm và vợ trực tiếp đo, tư vấn. Tiệm nổi tiếng với khách nước ngoài nhờ may quần, vest vừa dáng, bền, kể cả cho người cao lớn.",
+    "review_vi": "Khen: may vừa vặn, bền; chú ý chi tiết; làm nhanh, giao tiếp dễ (nhắn tin, Facebook, email); nhiều lựa chọn vải và được tư vấn tận tình. Chê: đôi khi vẫn cần chỉnh sửa nhỏ sau lần thử; mùa đông khách nên đặt sớm.",
+    "rating": {
+      "value": 4.8,
+      "count": 276,
+      "source": "Google (qua Wanderlog)",
+      "url": "https://wanderlog.com/place/details/5281",
+      "seen": "2026-10"
+    },
+    "trending": false,
+    "tags": [
+      "Ít người biết"
+    ],
+    "tips_vi": "Mẹo: đặt sớm vài ngày để có thời gian thử và sửa; quyết định trước kiểu ve áo, nút, lót; đặt nhiều món cùng lúc để đỡ đi thử nhiều lần.",
+    "images": [],
+    "wiki": null,
+    "website": null,
+    "sources": [
+      "https://wanderlog.com/place/details/5281"
+    ],
+    "status": "unverified"
+  },
+  {
+    "id": "hcmc-cho-dai-quang-minh",
+    "name": "Chợ Đại Quang Minh",
+    "cat": "market",
+    "subtitle": "Chợ phụ liệu may mặc, đồ handmade của Chợ Lớn",
+    "address": "31 Châu Văn Liêm, Phường 14, Quận 5",
+    "lat": 10.751696,
+    "lng": 106.658707,
+    "coordSource": "https://www.openstreetmap.org/node/4531687589",
+    "price": "Từ khoảng 5.000đ; bán cả sỉ lẫn lẻ",
+    "hours": "Ban ngày (chưa xác minh giờ cụ thể)",
+    "mustTry": "Hạt cườm, dây da, vòng tay, hoa vải, ren, ruy băng, kim chỉ và vải – nguyên liệu làm đồ handmade, phụ kiện thời trang",
+    "desc_vi": "Khu chợ chuyên phụ liệu may mặc và đồ thủ công nằm trên đường Châu Văn Liêm, cách chợ vải Soái Kình Lâm một ngã tư. Hàng phần lớn nhập từ Trung Quốc, đa dạng mẫu mã, là nơi quen thuộc của người làm đồ handmade và tiệm may.",
+    "review_vi": "Chưa đọc được điểm đánh giá đáng tin. Theo các bài giới thiệu – Khen: rất nhiều phụ liệu, giá rẻ, có thể tự làm món handmade tương tự hàng bán trên mạng với giá thấp hơn. Chê: phụ liệu phần lớn nhập từ Trung Quốc nên cần xem kỹ trước khi mua.",
+    "rating": null,
+    "trending": false,
+    "tags": [
+      "Ít người biết"
+    ],
+    "tips_vi": "Mẹo: ghép chuyến với chợ vải Soái Kình Lâm gần đó; mang mẫu hoặc ảnh món muốn làm để người bán gợi ý đúng phụ liệu.",
+    "images": [],
+    "wiki": null,
+    "website": null,
+    "sources": [
+      "https://www.openstreetmap.org/node/4531687589",
+      "https://toplist.vn/top-list/cho-phu-lieu-lon-nhat-o-sai-gon-8331.htm",
+      "https://mia.vn/cam-nang-du-lich/kham-pha-phuong-cho-lon-19945"
+    ],
+    "status": "open"
+  },
+  {
+    "id": "hcmc-cho-hoa-tren-ben-duoi-thuyen",
+    "name": "Chợ hoa Xuân \"Trên bến dưới thuyền\" (Bến Bình Đông)",
+    "cat": "market",
+    "subtitle": "Chợ hoa Tết chở bằng ghe trên kênh Tàu Hủ",
+    "address": "Bến Bình Đông và đường Nguyễn Văn Của (ven kênh Tàu Hủ), Quận 8",
+    "lat": 10.745154,
+    "lng": 106.655526,
+    "coordSource": "https://www.openstreetmap.org/way/797369913",
+    "price": "Vào cửa miễn phí",
+    "hours": "Chỉ dịp Tết, khoảng 15–29 tháng Chạp (Tết 2025: 14–28/1/2025); đông nhất buổi tối",
+    "mustTry": "Mai, cúc vàng, vạn thọ chở bằng ghe từ miền Tây; đờn ca tài tử trên ghe bầu dọc kênh; cầu đi bộ số 7 lên đèn, đèn hoa sen thả kênh; phố Ông Đồ cho chữ; đặc sản, sản phẩm OCOP các tỉnh",
+    "desc_vi": "Chợ hoa Tết tổ chức hằng năm dọc kênh Tàu Hủ, tái hiện cảnh nhà vườn miền Tây chở hoa bằng ghe về bến Bình Đông bán Tết như xưa. Mùa Tết 2025 có 689 điểm kinh doanh (634 gian hoa kiểng, 55 gian trái cây rau củ), kèm sân khấu nghệ thuật hằng đêm và nhiều tiểu cảnh chụp ảnh.",
+    "review_vi": "Chưa có điểm đánh giá trực tuyến. Theo báo chí – Khen: không khí chợ nổi miền Tây giữa phố, hoa đẹp, nhiều tiểu cảnh chụp ảnh, buổi tối có đèn và văn nghệ. Chê: chỉ họp khoảng hai tuần trước Tết, buổi tối và cuối tuần rất đông.",
+    "rating": null,
+    "trending": false,
+    "tags": [
+      "Hợp với trẻ em"
+    ],
+    "tips_vi": "Mẹo: ghim trên bản đồ là điểm đại diện trên tuyến chợ hoa (đường Nguyễn Văn Của), chợ trải dài ven kênh; đi chiều muộn để vừa chụp ảnh vừa xem đèn; tránh 2–3 ngày sát Tết vì rất đông; theo dõi báo TP.HCM khoảng tháng 12 để biết lịch mùa mới.",
+    "images": [],
+    "wiki": null,
+    "website": null,
+    "sources": [
+      "https://www.openstreetmap.org/way/797369913",
+      "https://tuoitre.vn/plo/cho-hoa-tren-ben-duoi-thuyen-tet-2025-le-hoi-song-nuoc-doc-dao-post822845.html",
+      "https://baovanhoa.vn/du-lich/dac-trung-van-hoa-mien-song-nuoc-tphcm-119464.html",
+      "https://www.tinnhanhchungkhoan.vn/tphcm-hon-689-nha-vuon-quy-tu-tai-cho-hoa-xuan-tren-ben-duoi-thuyen-post362417.html"
+    ],
+    "status": "open"
+  },
+  {
+    "id": "hcmc-parc-mall-khu-vui-choi",
+    "name": "Khu vui chơi Parc Mall (Timezone, tiNiWorld, Kidzoona)",
+    "cat": "kids",
+    "subtitle": "Timezone lớn nhất TP.HCM cùng hai khu chơi trong nhà cho bé",
+    "address": "Tầng 4, Parc Mall, 547–549 Tạ Quang Bửu, Phường 4, Quận 8",
+    "lat": 10.74107,
+    "lng": 106.679957,
+    "coordSource": "https://www.openstreetmap.org/node/12922496998",
+    "price": "Giá theo bảng tại quầy (chưa xác minh); tiNiWorld dành cho trẻ 0–12 tuổi",
+    "hours": "Thứ Hai–Thứ Sáu 10:00–22:00; cuối tuần 9:00–22:00",
+    "mustTry": "Timezone khoảng 1.300 m² với hơn 100 trò, có bowling mini, Hologate VR, VR Space Ride; khu chơi vận động trong nhà tiNiWorld và Kidzoona cho bé nhỏ",
+    "desc_vi": "Timezone Parc Mall mở ngày 4/9/2024, rộng khoảng 1.272 m² với 118 trò chơi – điểm lớn nhất của chuỗi tại TP.HCM. Cùng trung tâm còn có tiNiWorld và Kidzoona, nên gia đình có thể cho trẻ lớn chơi game, trẻ nhỏ chơi vận động, kết hợp đi siêu thị AEON trong một chuyến.",
+    "review_vi": "Chưa đọc được điểm đánh giá đáng tin cho riêng khu vui chơi. Theo các bài giới thiệu – Khen: mới, rộng, nhiều trò hiện đại (VR, bowling) và có khu riêng cho trẻ nhỏ. Chê: cuối tuần, ngày lễ trung tâm rất đông.",
+    "rating": null,
+    "trending": true,
+    "tags": [
+      "Hợp với trẻ em"
+    ],
+    "tips_vi": "Mẹo: đi sáng cuối tuần ngay giờ mở cửa hoặc chiều ngày thường; đặt ngân sách chơi trước cho bé; xe máy gửi tầng hầm.",
+    "images": [],
+    "wiki": null,
+    "website": "https://www.timezonegames.com/en-vn/venues/hcmc/parc-mall/",
+    "sources": [
+      "https://www.timezonegames.com/en-vn/venues/hcmc/parc-mall/",
+      "https://www.teeg.com/news/new-venues/timezone-expands-footprint-in-vietnam-bringing-unforgettable-fun-to-families",
+      "https://mia.vn/cam-nang-du-lich/trung-tam-thuong-mai-parc-mall-quan-8-16703",
+      "https://www.mykingdom.com.vn/en/blogs/hom-nay-con-choi-gi/top-4-khu-vui-choi-tre-em-trong-nha-da-dang-tro-choi-cho-be-tai-tp-hcm",
+      "https://www.openstreetmap.org/node/12922496998",
+      "https://www.openstreetmap.org/node/12922496997"
+    ],
+    "status": "open"
+  },
+  {
+    "id": "hcmc-beehive-kids-cafe",
+    "name": "Beehive Premium Kids Cafe",
+    "cat": "kids",
+    "subtitle": "Cà phê kết hợp khu chơi trong nhà cho bé ở Quận 5",
+    "address": "122-124-126 An Dương Vương, Phường 9, Quận 5",
+    "lat": 10.756707,
+    "lng": 106.668774,
+    "coordSource": "https://www.openstreetmap.org/node/13359804793",
+    "price": "Vé bé 139.000đ (Thứ Hai–Thứ Sáu), 179.000đ (cuối tuần), chưa gồm đồ uống",
+    "hours": "Thứ Hai 14:00–21:30; Thứ Ba–Thứ Sáu 9:30–21:30; cuối tuần 8:30–21:30",
+    "mustTry": "Nhà bóng lớn, khu vận động liên hoàn, cầu trượt, trò ném bóng tương tác màn hình; góc nhập vai Bee Makeup, Bee Doctor, Bee Kitchen; trang phục hóa trang và góc chụp ảnh; khu cà phê cho bố mẹ",
+    "desc_vi": "Mô hình cà phê kết hợp khu vui chơi trong nhà: bố mẹ ngồi uống nước, thư giãn trong khi bé chơi vận động và nhập vai nghề nghiệp. Quán nằm trên đường An Dương Vương, gần Công viên Văn Lang và Chợ An Đông.",
+    "review_vi": "Khen (theo bài giới thiệu 2025): nhiều khu vận động, nhà bóng và góc nhập vai cho bé, bố mẹ có khu cà phê ngồi trông con; điểm Google được trích dẫn rất cao (4,8/5). Chê: chưa đọc được phản hồi tiêu cực cụ thể; vé 139.000–179.000đ chưa gồm nước, giờ và giá có thể thay đổi.",
+    "rating": {
+      "value": 4.8,
+      "count": 189,
+      "source": "Google (theo bài Xanh SM 03/2025)",
+      "url": "https://www.greensm.com/vn-vi/news/khu-vui-choi-tre-em-quan-5",
+      "seen": "2026-10"
+    },
+    "trending": false,
+    "tags": [
+      "Hợp với trẻ em",
+      "Ít người biết"
+    ],
+    "tips_vi": "Mẹo: đi ngày thường để rẻ hơn 40.000đ/vé; mang vớ cho bé; gọi trước hỏi độ tuổi phù hợp và giờ mở cửa mới nhất.",
+    "images": [],
+    "wiki": null,
+    "website": null,
+    "sources": [
+      "https://www.greensm.com/vn-vi/news/khu-vui-choi-tre-em-quan-5",
+      "https://www.openstreetmap.org/node/13359804793"
+    ],
+    "status": "open"
+  },
+  {
+    "id": "hcmc-ho-boi-lam-son",
+    "name": "Hồ bơi Lam Sơn",
+    "cat": "kids",
+    "subtitle": "Hồ bơi công cộng 50 m có hồ nhỏ cho trẻ em",
+    "address": "242 Trần Bình Trọng, Quận 5",
+    "lat": 10.76203,
+    "lng": 106.680679,
+    "coordSource": "https://wanderlog.com/place/details/9187865",
+    "price": "Khoảng 20.000đ/lượt, đã gồm tủ đồ (giá tham khảo cũ, nên hỏi lại)",
+    "hours": "6:00–11:30 và 13:30–18:30; nghỉ Thứ Hai",
+    "mustTry": "Hồ 50 m có chia làn cho người lớn; hai hồ nhỏ cho trẻ em và người bơi thư giãn",
+    "desc_vi": "Hồ bơi công cộng lâu năm của Quận 5 với hồ chuẩn 50 m, hồ 25 m và khu hồ nhỏ cho trẻ em. Giá vé bình dân, là nơi nhiều gia đình trong khu vực cho con học bơi.",
+    "review_vi": "Khen: hồ 50 m rộng, buổi sáng ít người; có hồ nhỏ cho bé; nước nhìn chung ổn; vé rẻ, có tủ khóa. Chê: phòng thay đồ chưa sạch, vòi sen đơn sơ chỉ để tráng; giờ cao điểm và lúc học sinh đến rất đông.",
+    "rating": {
+      "value": 3.9,
+      "count": 1091,
+      "source": "Google (qua Wanderlog)",
+      "url": "https://wanderlog.com/place/details/9187865",
+      "seen": "2026-10"
+    },
+    "trending": false,
+    "tags": [
+      "Hợp với trẻ em"
+    ],
+    "tips_vi": "Mẹo: đi buổi sáng ngày thường; mua vé ở quầy thứ nhất rồi sang quầy thứ hai nhận chìa khóa tủ; mang theo dầu gội, sữa tắm; nghỉ Thứ Hai.",
+    "images": [],
+    "wiki": null,
+    "website": null,
+    "sources": [
+      "https://wanderlog.com/place/details/9187865",
+      "https://wanderlog.com/list/geoCategory/1823399/best-pool-spots-in-ho-chi-minh-city",
+      "https://lepetitjournal.com/ho-chi-minh/a-voir-a-faire/il-fait-chaud-nos-piscines-preferees-saigon-80985",
+      "https://saigoneer.com/saigon-culture/2027-5-of-saigon-s-best-public-swimming-pools",
+      "https://www.openstreetmap.org/way/140703177"
+    ],
+    "status": "unverified"
+  },
+  {
+    "id": "hcmc-cong-vien-van-lang",
+    "name": "Công viên Văn Lang & Thư quán",
+    "cat": "kids",
+    "subtitle": "Công viên xanh có thư quán đọc sách cho cả nhà",
+    "address": "238 An Dương Vương, Phường 9, Quận 5",
+    "lat": 10.756593,
+    "lng": 106.667543,
+    "coordSource": "https://www.openstreetmap.org/way/165398107",
+    "price": "Miễn phí (dịp lễ hội có thể bán vé 10.000–100.000đ); gửi xe máy 5.000–10.000đ",
+    "hours": "4:00–23:00 hằng ngày",
+    "mustTry": "Thư quán Văn Lang – góc đọc sách, cà phê sách, giao lưu tác giả; phòng triển lãm có máy lạnh, wifi, nước uống miễn phí; nhạc nước kết hợp đèn LED buổi tối; dã ngoại dưới bóng cây",
+    "desc_vi": "Công viên rộng khoảng 7.700 m² giữa Quận 5, được chỉnh trang với nền đá granite, đèn màu và không gian xanh cho chạy bộ, yoga. Thư quán trong công viên là nơi gia đình cùng đọc sách, thường có hội sách, workshop vẽ và trò chơi cho thiếu nhi vào các dịp lễ.",
+    "review_vi": "Khen: không gian xanh mát giữa phố đông; thư quán giúp trẻ đọc sách thay vì xem màn hình, nhiều hoạt động văn hóa. Chê: các nguồn không nhắc tới sân chơi có cầu trượt riêng cho trẻ; nên giữ đồ cẩn thận và hỏi giá trước khi mua đồ ăn ở hàng rong quanh công viên.",
+    "rating": null,
+    "trending": false,
+    "tags": [
+      "Hợp với trẻ em"
+    ],
+    "tips_vi": "Mẹo: đi sáng sớm hoặc chiều mát; theo dõi trang của phường để biết lịch hội sách, Trung thu; ghép với Beehive Kids Cafe và Chợ An Đông ngay gần.",
+    "images": [],
+    "wiki": null,
+    "website": null,
+    "sources": [
+      "https://www.openstreetmap.org/way/165398107",
+      "https://www.greensm.com/vn-vi/news/cong-vien-van-lang-tphcm",
+      "https://mia.vn/cam-nang-du-lich/ghe-tham-cong-vien-van-lang-14982",
+      "https://voh.com.vn/van-hoa/thu-quan-cong-vien-van-lang-them-khong-gian-van-hoa-doc-cho-nguoi-dan-tphcm-430503.html",
+      "https://www.sggp.org.vn/hoi-sach-xuyen-viet-ve-cong-vien-van-lang-quan-5-voi-nhieu-uu-dai-hap-dan-post658524.html",
+      "https://www.openstreetmap.org/way/1456717240"
+    ],
+    "status": "open"
+  },
+  {
+    "id": "hcmc-pho-di-bo-ky-dai-quang-trung",
+    "name": "Phố đi bộ đêm Kỳ Đài Quang Trung",
+    "cat": "kids",
+    "subtitle": "Phố đi bộ ăn vặt, trò chơi, không bán rượu bia",
+    "address": "Vòng xoay Kỳ Đài Quang Trung, đường Nguyễn Lâm, Phường 6, Quận 10",
+    "lat": 10.764293,
+    "lng": 106.662999,
+    "coordSource": "https://www.openstreetmap.org/way/879519246",
+    "price": "Miễn phí vào; đồ ăn vặt bình dân",
+    "hours": "Buổi tối, khoảng 18:00–22:00/23:00 (trước đây nghỉ Thứ Hai)",
+    "mustTry": "Hàng ăn vặt (bánh tráng trộn, gỏi xoài, xiên que, trà sữa, kem bơ…); trò chơi gian hàng có thưởng; trượt patin, đi dạo; ca nhạc tối Thứ Bảy",
+    "desc_vi": "Phố đi bộ thứ ba của TP.HCM, khai trương tháng 12/2020 quanh Kỳ Đài Quang Trung (Quận 10), cạnh chợ Nguyễn Tri Phương. Phố có vài chục gian ăn uống, quần áo, trò chơi, cấm bán đồ uống có cồn nên hợp với gia đình có trẻ nhỏ.",
+    "review_vi": "Khen (theo báo chí): không khí vui, nhiều gian hàng ăn vặt rẻ, có góc chụp ảnh và trò chơi cho trẻ. Chê: có thời điểm vắng khách, từng tạm ngưng vì dịch rồi mới hoạt động lại; chưa có nguồn 2025–2026 xác nhận lịch hiện tại.",
+    "rating": null,
+    "trending": false,
+    "tags": [
+      "Hợp với trẻ em"
+    ],
+    "tips_vi": "Mẹo: kiểm tra lại lịch hoạt động trước khi đi; ghé buổi tối cuối tuần, kết hợp ăn vặt trên đường Nguyễn Tri Phương.",
+    "images": [],
+    "wiki": null,
+    "website": null,
+    "sources": [
+      "https://www.openstreetmap.org/way/879519246",
+      "https://vietnamnews.vn/life-style/872951/ki-dai-quang-trung-street-a-new-hotspot-for-foodies.html",
+      "https://mia.vn/cam-nang-du-lich/quan-10-co-gi-choi-15200",
+      "https://www.sggp.org.vn/dua-vao-hoat-dong-lai-pho-di-bo-dem-quan-10-post674035.html",
+      "https://www.sggp.org.vn/di-tim-chat-pho-bai-2-co-loi-ma-chua-co-chat-post681135.html",
+      "https://en.wikipedia.org/wiki/Di%C3%AAn_H%E1%BB%93ng,_Ho_Chi_Minh_City"
+    ],
+    "status": "unverified"
+  }
+]

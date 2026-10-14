@@ -645,7 +645,8 @@ function startPick() {
   map.getContainer().classList.add('picking');
   const b = L.DomUtil.create('div', 'pick-banner', map.getContainer());
   b.innerHTML = '🏠 Bấm vào bản đồ tại nơi bạn ở <button>Hủy</button>';
-  const stop = () => { picking = false; map.getContainer().classList.remove('picking'); b.remove(); map.off('click', onPick); };
+  map.removeLayer(cluster);   // place pins would catch the click in a dense area, so they step aside while picking
+  const stop = () => { picking = false; map.getContainer().classList.remove('picking'); b.remove(); map.off('click', onPick); map.addLayer(cluster); };
   const onPick = e => { stop(); saveHome([+e.latlng.lat.toFixed(5), +e.latlng.lng.toFixed(5)]); toast('Đã đặt Nhà của tôi — danh sách hiện khoảng cách 🏠'); };
   b.querySelector('button').onclick = e => { L.DomEvent.stop(e); stop(); };
   L.DomEvent.disableClickPropagation(b);

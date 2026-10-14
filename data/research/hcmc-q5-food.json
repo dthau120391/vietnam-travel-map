@@ -1,0 +1,1649 @@
+[
+ {
+  "id": "hcmc-tien-phat-dimsum",
+  "name": "Tiến Phát – Điểm tâm Hồng Kông",
+  "cat": "food",
+  "subtitle": "Dimsum Hồng Kông lâu đời của Chợ Lớn",
+  "address": "18 Ký Hòa, Phường 11, Quận 5",
+  "lat": 10.754478,
+  "lng": 106.662294,
+  "coordSource": "https://wanderlog.com/place/details/480632",
+  "price": "50.000–110.000đ/món",
+  "hours": "06:00–12:30 hằng ngày",
+  "mustTry": "Há cảo tôm, xíu mại trứng cua, bánh bao kim sa, bánh cuốn tôm, chân gà, bột chiên",
+  "desc_vi": "Tiệm điểm tâm kiểu Hồng Kông trên đường Ký Hòa, ngay lõi khu Chợ Lớn, được nhiều trang ẩm thực gọi là địa chỉ dimsum lâu đời và nổi tiếng nhất Sài Gòn. Quán chỉ bán từ sáng sớm đến trưa với vài chục món hấp, chiên làm khi khách gọi; nhà ba tầng nên đi nhóm đông vẫn có chỗ.",
+  "review_vi": "Khen: dimsum nóng, nhân đầy đặn, phần lớn hơn mặt bằng chung; phục vụ nhanh, có trà nóng miễn phí; không khí tiệm Hoa truyền thống. Chê: vài món như cuốn tôm, sườn hấp bị cho là hơi đắt; giờ cao điểm 8–11h rất đông, đến trễ dễ hết món.",
+  "rating": {
+   "value": 4.4,
+   "count": 1944,
+   "source": "Google (qua Wanderlog)",
+   "url": "https://wanderlog.com/place/details/480632",
+   "seen": "2026-10"
+  },
+  "trending": false,
+  "tags": [
+   "Chợ Lớn",
+   "Dimsum",
+   "Ẩm thực người Hoa",
+   "Quán lâu đời"
+  ],
+  "tips_vi": "Mẹo: đi trước 8h, nhất là cuối tuần, để khỏi chờ và còn đủ món; quán đóng cửa khoảng 12h30 nên không ăn tối được.",
+  "images": [
+   {
+    "commons": "File:Ha Gow (Cantonese Shrimp Dumplings).jpeg",
+    "kind": "dish"
+   }
+  ],
+  "wiki": null,
+  "website": null,
+  "sources": [
+   "https://wanderlog.com/place/details/480632",
+   "https://muaban.net/blog/quan-an-nguoi-hoa-ngon-tai-phuong-cho-lon-600611/",
+   "https://vinwonders.com/vi/wonderpedia/news/pho-am-thuc-nguoi-hoa-quan-5/",
+   "https://www.foody.vn/ho-chi-minh/dia-diem?q=ti%E1%BA%BFn%20ph%C3%A1t"
+  ],
+  "status": "open"
+ },
+ {
+  "id": "hcmc-pho-hung-nguyen-trai",
+  "name": "Phở Hùng (Nguyễn Trãi)",
+  "cat": "food",
+  "subtitle": "Phở bò mở đến khuya · Michelin Selected 2026",
+  "address": "241–243 Nguyễn Trãi, Phường Nguyễn Cư Trinh, Quận 1",
+  "lat": 10.7650032,
+  "lng": 106.6876257,
+  "coordSource": "https://guide.michelin.com/vn/en/ho-chi-minh/ho-chi-minh_2978179/restaurant/pho-hung",
+  "price": "Bình dân (Michelin xếp mức ₫)",
+  "hours": "06:00–01:00 hằng ngày",
+  "mustTry": "Phở đặc biệt (đủ loại thịt), phở tái, bò viên, cà phê sữa đá",
+  "desc_vi": "Tiệm phở bò lâu năm trên đường Nguyễn Trãi, đoạn giáp Quận 1 – Quận 5, mở từ sáng sớm đến 1 giờ khuya. Michelin Guide đưa quán vào danh sách Selected năm 2026, khen tô phở nhiều thịt, bò viên dai giòn và giá phải chăng; khách có thể gọi thêm thịt.",
+  "review_vi": "Khen: nước dùng đậm, thơm; tô đặc biệt đầy thịt; bò viên dai; không khí đúng chất quán phở Sài Gòn, có cà phê sữa đá ăn kèm. Chê: không gian đơn giản, ồn và đông giờ cao điểm.",
+  "rating": {
+   "value": 4.3,
+   "count": 4333,
+   "source": "Google (qua Wanderlog)",
+   "url": "https://wanderlog.com/place/details/1082480",
+   "seen": "2026-10"
+  },
+  "trending": false,
+  "tags": [
+   "Michelin Selected 2026",
+   "Phở",
+   "Ăn khuya"
+  ],
+  "tips_vi": "Mẹo: quán mở đến 1h sáng, hợp để ăn khuya sau khi dạo phố Tây Bùi Viện hoặc Chợ Lớn.",
+  "images": [
+   {
+    "commons": "File:Pho and Eggs in Ho Chi Minh city.jpg",
+    "kind": "dish"
+   }
+  ],
+  "wiki": null,
+  "website": "https://www.phohung.vn/",
+  "sources": [
+   "https://guide.michelin.com/vn/en/ho-chi-minh/ho-chi-minh_2978179/restaurant/pho-hung",
+   "https://wanderlog.com/place/details/1082480",
+   "https://www.foody.vn/ho-chi-minh/dia-diem?q=ph%E1%BB%9F%20h%C3%B9ng"
+  ],
+  "status": "open"
+ },
+ {
+  "id": "hcmc-oc-dao-nguyen-trai",
+  "name": "Ốc Đào (Nguyễn Trãi)",
+  "cat": "food",
+  "subtitle": "Quán ốc được Michelin chọn (Michelin Selected 2026)",
+  "address": "212B/D48 Nguyễn Trãi, Phường Nguyễn Cư Trinh, Quận 1",
+  "lat": 10.76523,
+  "lng": 106.68463,
+  "coordSource": "https://guide.michelin.com/vn/en/ho-chi-minh/ho-chi-minh_2978179/restaurant/oc-%C4%91ao",
+  "price": "Bình dân (Michelin xếp mức ₫); hải sản trong bể tính theo thời giá",
+  "hours": "11:00–22:15 hằng ngày",
+  "mustTry": "Ốc xào bơ tỏi, các món nướng muối ớt, nghêu sò điệp",
+  "desc_vi": "Quán ốc ba tầng trong hẻm đường Nguyễn Trãi, khu giáp ranh Quận 1 – Quận 5, chuyên các loại nghêu, sò, ốc tươi. Michelin Guide giữ quán trong danh sách Selected năm 2026, khen cách nấu đơn giản mà giữ được vị tươi, nhất là món xào bơ tỏi và nướng muối ớt. Phần lớn món có giá in sẵn trên thực đơn.",
+  "review_vi": "Khen (theo thanh tra Michelin): quán sạch, sắp xếp gọn, lầu hai có máy lạnh; hải sản tươi, món xào bơ tỏi và nướng muối ớt làm nổi vị tự nhiên. Chê: chỉ nhận tiền mặt; hải sản cao cấp trong bể tính theo thời giá nên dễ đội hóa đơn.",
+  "rating": null,
+  "trending": false,
+  "tags": [
+   "Michelin Selected 2026",
+   "Ốc",
+   "Hải sản"
+  ],
+  "tips_vi": "Mẹo: mang tiền mặt; lên lầu hai nếu muốn ngồi máy lạnh; hỏi giá trước với hải sản tính theo ký.",
+  "images": [
+   {
+    "commons": "File:Ăn món ốc móng tay ở quán Sài Gòn năm 2013 (20130518 212422).jpg",
+    "kind": "dish"
+   }
+  ],
+  "wiki": null,
+  "website": null,
+  "sources": [
+   "https://guide.michelin.com/vn/en/ho-chi-minh/ho-chi-minh_2978179/restaurant/oc-%C4%91ao",
+   "https://guide.michelin.com/vn/en/ho-chi-minh/ho-chi-minh_2978179/restaurants"
+  ],
+  "status": "open"
+ },
+ {
+  "id": "hcmc-che-ha-ky",
+  "name": "Chè Hà Ký",
+  "cat": "food",
+  "subtitle": "Chè Quảng Đông hơn 30 năm trên Châu Văn Liêm",
+  "address": "138 Châu Văn Liêm, Phường 11, Quận 5",
+  "lat": 10.754096,
+  "lng": 106.658622,
+  "coordSource": "https://wanderlog.com/place/details/2565828",
+  "price": "25.000–40.000đ/chén",
+  "hours": "10:00–22:30 hằng ngày",
+  "mustTry": "Hột gà trà (trứng hầm trà), chè mè đen, đậu hũ hạnh nhân, chè bạch quả, chè trôi nước, quy linh cao",
+  "desc_vi": "Quán chè người Hoa khởi đầu từ một xe đẩy hơn 30 năm trước, nay do con gái người sáng lập điều hành và là điểm hẹn quen thuộc của khu Chợ Lớn. Thực đơn khoảng 40 món chè nóng – lạnh kiểu Quảng Đông như chè mè đen, hột gà trà, đậu hũ hạnh nhân, chè bạch quả, kèm vài món mặn như bánh tằm bì.",
+  "review_vi": "Khen: chè ngọt vừa phải, vị thảo mộc sâu; hột gà trà và mochi đậu xanh được nhắc nhiều; phục vụ nhanh, có trà miễn phí. Chê: giá nhỉnh hơn quán chè bình dân; nhân viên ít niềm nở; quy linh cao lúc đầu khá đắng với người chưa quen.",
+  "rating": {
+   "value": 4.1,
+   "count": 1577,
+   "source": "Google (qua Wanderlog)",
+   "url": "https://wanderlog.com/place/details/2565828",
+   "seen": "2026-10"
+  },
+  "trending": false,
+  "tags": [
+   "Chợ Lớn",
+   "Chè người Hoa",
+   "Quán lâu đời"
+  ],
+  "tips_vi": "Mẹo: sau 20h quán đông nhất, đi sớm hơn để có bàn; gọi một món nóng (chè mè đen, hột gà trà) và một món lạnh để so sánh.",
+  "images": [
+   {
+    "commons": "File:Chinese tongsui - Sesame paste.jpg",
+    "kind": "dish"
+   }
+  ],
+  "wiki": null,
+  "website": null,
+  "sources": [
+   "https://wanderlog.com/place/details/2565828",
+   "https://www.willflyforfood.net/top-5-hidden-eateries-in-saigons-chinatown/",
+   "https://vinwonders.com/vi/wonderpedia/news/pho-am-thuc-nguoi-hoa-quan-5/",
+   "https://thesmartlocal.com/vietnam/cho-lon-foods/"
+  ],
+  "status": "open"
+ },
+ {
+  "id": "hcmc-com-ga-dong-nguyen",
+  "name": "Cơm Gà Đông Nguyên",
+  "cat": "food",
+  "subtitle": "Cơm gà kiểu Quảng Đông lâu đời ở Chợ Lớn",
+  "address": "801 Nguyễn Trãi, Quận 5",
+  "lat": 10.752915,
+  "lng": 106.658402,
+  "coordSource": "https://wanderlog.com/place/details/4351115",
+  "price": null,
+  "hours": "09:00–20:30 hằng ngày",
+  "mustTry": "Cơm gà luộc chấm xì dầu, cơm cánh gà tiêu, cơm cà ri gà, trứng chưng thịt cua, cơm xá xíu",
+  "desc_vi": "Một trong những tiệm cơm gà lâu đời của khu Chợ Lớn, nằm trên đường Nguyễn Trãi gần đại lộ Châu Văn Liêm. Món chính là gà luộc chặt chấm xì dầu theo kiểu Quảng Đông, bên cạnh cánh gà tiêu, cà ri gà, xá xíu, cá hấp và tôm rang me; quán có quầy nước chấm để khách tự pha.",
+  "review_vi": "Khen: gà luộc mềm, chấm xì dầu đậm; trứng chưng thịt cua và các món canh được khen; quầy nước chấm miễn phí rất tiện. Chê: một số khách gặp nhân viên thiếu thân thiện hoặc phục vụ vội vào giờ cao điểm.",
+  "rating": {
+   "value": 4.5,
+   "count": 4991,
+   "source": "Google (qua Wanderlog)",
+   "url": "https://wanderlog.com/place/details/4351115",
+   "seen": "2026-10"
+  },
+  "trending": false,
+  "tags": [
+   "Chợ Lớn",
+   "Cơm gà",
+   "Ẩm thực người Hoa",
+   "Quán lâu đời"
+  ],
+  "tips_vi": "Mẹo: tự pha nước chấm ở quầy cho hợp khẩu vị; quán đóng cửa khoảng 20h30.",
+  "images": [
+   {
+    "commons": "File:Hainanese chicken rice.jpg",
+    "kind": "dish"
+   }
+  ],
+  "wiki": null,
+  "website": "https://comgadongnguyen.vn/",
+  "sources": [
+   "https://wanderlog.com/place/details/4351115",
+   "https://vinwonders.com/vi/wonderpedia/news/pho-am-thuc-nguoi-hoa-quan-5/"
+  ],
+  "status": "open"
+ },
+ {
+  "id": "hcmc-baoz-dimsum-nguyen-tri-phuong",
+  "name": "Baoz Dimsum (Nguyễn Tri Phương)",
+  "cat": "food",
+  "subtitle": "Dimsum Hồng Kông đông khách nhất Chợ Lớn",
+  "address": "82–88 Nguyễn Tri Phương, Phường 7, Quận 5",
+  "lat": 10.753101,
+  "lng": 106.669655,
+  "coordSource": "https://wanderlog.com/place/details/2226564",
+  "price": null,
+  "hours": "06:30–22:30 hằng ngày",
+  "mustTry": "Bánh bao kim sa (trứng muối chảy), há cảo, xíu mại, bánh củ cải chiên trứng sò điệp tôm, mì cua, súp cua sò điệp",
+  "desc_vi": "Nhà hàng dimsum kiểu Hồng Kông chiếm trọn bốn căn mặt tiền Nguyễn Tri Phương, là một trong những quán dimsum được nhắc nhiều nhất Sài Gòn với gần 10.000 đánh giá trên Google. Quán mở từ sáng sớm đến tối muộn, thực đơn rộng từ dimsum, bánh bao đến vịt quay, mì và các món hầm; khách gọi món qua mã QR tại bàn.",
+  "review_vi": "Khen: món ngon, giá hợp lý so với các quận trung tâm, ra món nhanh; gọi món bằng mã QR tiện lợi; mì cua và súp cua sò điệp được khen nổi bật. Chê: thỉnh thoảng sót món hoặc nhân bánh chưa tươi; có khách phản ánh nhân viên cư xử thiếu lịch sự lúc đông.",
+  "rating": {
+   "value": 4.4,
+   "count": 9641,
+   "source": "Google (qua Wanderlog)",
+   "url": "https://wanderlog.com/place/details/2226564",
+   "seen": "2026-10"
+  },
+  "trending": false,
+  "tags": [
+   "Chợ Lớn",
+   "Dimsum",
+   "Ẩm thực người Hoa",
+   "Ăn sáng"
+  ],
+  "tips_vi": "Mẹo: mở cửa từ 6h30 nên hợp ăn sáng sớm; giờ trưa cuối tuần rất đông, nên đến trước 9h. Baoz còn chi nhánh ở Lê Đại Hành (Quận 11) nếu cơ sở này kín chỗ.",
+  "images": [
+   {
+    "commons": "File:03 Har Gau Shrimp Dumplings - East Harbor Seafood Palace.jpg",
+    "kind": "dish"
+   }
+  ],
+  "wiki": null,
+  "website": "https://baozdimsum.com/",
+  "sources": [
+   "https://wanderlog.com/place/details/2226564",
+   "https://vinwonders.com/vi/wonderpedia/news/pho-am-thuc-nguoi-hoa-quan-5/",
+   "https://thesmartlocal.com/vietnam/cho-lon-foods/"
+  ],
+  "status": "open"
+ },
+ {
+  "id": "hcmc-hai-ky-mi-gia",
+  "name": "Hải Ký Mì Gia",
+  "cat": "food",
+  "subtitle": "Mì vịt tiềm gia truyền từ năm 1976",
+  "address": "349–351 Nguyễn Trãi, Phường 7, Quận 5",
+  "lat": 10.7557921,
+  "lng": 106.6749216,
+  "coordSource": "https://www.foody.vn/ho-chi-minh/hai-ky-mi-gia-nguyen-trai",
+  "price": "8.000–125.000đ/món",
+  "hours": "11:00–24:00 hằng ngày",
+  "mustTry": "Mì vịt tiềm (món bán chạy nhất), mì vịt chiên, mì xá xíu",
+  "desc_vi": "Tiệm mì gia đình người Hoa mở từ năm 1976 trên đường Nguyễn Trãi, được xem là một trong những địa chỉ mì vịt tiềm nổi tiếng nhất Quận 5. Đùi vịt hầm thuốc bắc mềm rục ăn cùng sợi mì trứng làm theo công thức gia truyền; quán đông nhất khoảng 19–20h.",
+  "review_vi": "Khen: hương vị đậm chất Hoa, giữ vị xưa; nhiều khách ăn lâu năm vẫn quay lại; phục vụ thân thiện. Chê: giá khá cao so với quán mì bình dân; một số đơn giao hàng bị phản ánh ít thịt, vịt chiên bị khét, mì khô tính thêm tiền.",
+  "rating": {
+   "value": 4.1,
+   "count": null,
+   "source": "Google (qua Mytour)",
+   "url": "https://mytour.vn/vi/blog/bai-viet/danh-sach-5-dia-diem-mi-vit-tiem-noi-tieng-o-quan-5.html",
+   "seen": "2026-10"
+  },
+  "trending": false,
+  "tags": [
+   "Chợ Lớn",
+   "Mì vịt tiềm",
+   "Ẩm thực người Hoa",
+   "Quán lâu đời"
+  ],
+  "tips_vi": "Mẹo: ăn tại quán ngon hơn mua mang về; tránh khung 19–20h nếu không muốn chờ.",
+  "images": [
+   {
+    "commons": "File:Mì vịt tiềm.jpg",
+    "kind": "dish"
+   }
+  ],
+  "wiki": null,
+  "website": null,
+  "sources": [
+   "https://mytour.vn/vi/blog/bai-viet/danh-sach-5-dia-diem-mi-vit-tiem-noi-tieng-o-quan-5.html",
+   "https://vinwonders.com/vi/wonderpedia/news/pho-am-thuc-nguoi-hoa-quan-5/",
+   "https://www.foody.vn/ho-chi-minh/hai-ky-mi-gia-nguyen-trai",
+   "https://thesmartlocal.com/vietnam/cho-lon-foods/"
+  ],
+  "status": "open"
+ },
+ {
+  "id": "hcmc-nguyen-sinh-1942",
+  "name": "Nguyên Sinh Bistro – est. 1942",
+  "cat": "food",
+  "subtitle": "'Cơm Tây' pate, thịt nguội, bít tết hơn 80 năm",
+  "address": "141 Trần Đình Xu, Phường Nguyễn Cư Trinh, Quận 1",
+  "lat": 10.76306,
+  "lng": 106.687298,
+  "coordSource": "https://wanderlog.com/place/details/4645103",
+  "price": "Trung bình – cao so với quán bình dân",
+  "hours": "06:00–21:00 hằng ngày",
+  "mustTry": "Đĩa pate & thịt nguội (khoảng 7 loại, bơ mặn, dưa góp), bò bít tết áp chảo, bồ câu quay, súp bí đỏ tôm, cua farci",
+  "desc_vi": "Thương hiệu khởi nghiệp năm 1942 tại Hà Nội từ xe cà phê, bánh Tây của cụ Nguyễn Văn Miêu – người từng làm ở hãng thịt nguội Michaux của Pháp – và lấy tên con trai cả Nguyễn Sinh. Năm 1979 gia đình vào Sài Gòn; nay đời thứ ba vẫn giữ công thức pate gan, giò chả, thịt nguội và bít tết kiểu 'cơm Tây' xưa trong một tiệm nhỏ trên Trần Đình Xu.",
+  "review_vi": "Khen: pate gan béo thơm, đĩa thịt nguội nhiều loại; bít tết, súp bí đỏ được khen; món ra nóng, phục vụ nhanh; không khí hoài cổ. Chê: quán nhỏ, trưa tối đông, nên đặt bàn; giá cao hơn quán bình dân; nhân viên không quá niềm nở; vài món Âu như mì Ý chưa nổi bật; có người thấy bánh mì hơi cứng.",
+  "rating": {
+   "value": 4.8,
+   "count": 2935,
+   "source": "Google (qua Wanderlog)",
+   "url": "https://wanderlog.com/place/details/4645103",
+   "seen": "2026-10"
+  },
+  "trending": false,
+  "tags": [
+   "Quán lâu đời",
+   "Cơm Tây",
+   "Pate",
+   "Bít tết"
+  ],
+  "tips_vi": "Mẹo: đặt bàn trước buổi tối; có bán pate, bơ, giò chả đóng hộp để mua làm quà.",
+  "images": [],
+  "wiki": null,
+  "website": null,
+  "sources": [
+   "https://mia.vn/cam-nang-du-lich/nguyen-sinh-bistro-est-1942-21317",
+   "https://wanderlog.com/place/details/4645103",
+   "https://www.foody.vn/ho-chi-minh/dia-diem?q=nguy%C3%AAn%20sinh"
+  ],
+  "status": "open"
+ },
+ {
+  "id": "hcmc-banh-mi-ba-huynh",
+  "name": "Bánh mì Bà Huynh (Madam Win)",
+  "cat": "food",
+  "subtitle": "Bánh mì 'khủng' tách ra từ Huỳnh Hoa",
+  "address": "197A Nguyễn Trãi, Quận 1 (cơ sở khác: 185K–185L Cống Quỳnh)",
+  "lat": 10.766309,
+  "lng": 106.688249,
+  "coordSource": "https://wanderlog.com/place/details/8078064",
+  "price": "65.000–85.000đ/ổ",
+  "hours": "06:00–22:00 hằng ngày",
+  "mustTry": "Bánh mì đặc biệt (size L hoặc XL để chia đôi), bánh mì nem nướng, bánh bao trứng muối",
+  "desc_vi": "Thương hiệu bánh mì ra đời cuối năm 2021 sau khi hai chủ của Bánh mì Huỳnh Hoa tách ra. Ổ bánh nhồi khoảng nửa ký thịt gồm chả lụa, thịt khìa, xá xíu, dăm bông, da bao, chà bông cùng pate gan và bơ trứng đánh tay; tiệm sạch sẽ, quầy kín, đóng gói gọn.",
+  "review_vi": "Khen: nhân đầy ắp, pate và bơ béo vừa, bánh giòn, đồ chua tươi giúp đỡ ngấy; một ổ đủ cho hai người. Chê: giá cao so với bánh mì thường; xếp hàng 20–30 phút lúc cao điểm; có người thấy hơi ngọt và nặng thịt, pate nhẹ vị hơn Huỳnh Hoa.",
+  "rating": {
+   "value": 4.6,
+   "count": 3461,
+   "source": "Google (qua Wanderlog)",
+   "url": "https://wanderlog.com/place/details/8078064",
+   "seen": "2026-10"
+  },
+  "trending": false,
+  "tags": [
+   "Bánh mì",
+   "Đông khách"
+  ],
+  "tips_vi": "Mẹo: thứ Ba có chương trình 'Winday' mua 1 tặng 2 nên rất đông; mua size L/XL chia đôi; đặt qua app giao hàng thường có giảm giá.",
+  "images": [
+   {
+    "commons": "File:2023-12-10 Coffee and bánh mì in Saigon.jpg",
+    "kind": "dish"
+   }
+  ],
+  "wiki": null,
+  "website": "https://banhmibahuynh.vn/",
+  "sources": [
+   "https://mia.vn/cam-nang-du-lich/banh-mi-ba-huynh-co-gi-20300",
+   "https://wanderlog.com/place/details/8078064",
+   "https://www.foody.vn/ho-chi-minh/dia-diem?q=b%C3%A0%20huynh"
+  ],
+  "status": "open"
+ },
+ {
+  "id": "hcmc-sui-cao-thien-thien",
+  "name": "Sủi cảo Thiên Thiên",
+  "cat": "food",
+  "subtitle": "Quán sủi cảo nổi tiếng nhất phố Hà Tôn Quyền",
+  "address": "195 Hà Tôn Quyền, Phường 4, Quận 11",
+  "lat": 10.758158,
+  "lng": 106.652623,
+  "coordSource": "https://wanderlog.com/place/details/5361328",
+  "price": null,
+  "hours": "12:30–01:00 hằng ngày",
+  "mustTry": "Sủi cảo nước, sủi cảo chiên, mì khô sủi cảo; thêm topping mực, cá viên, da heo",
+  "desc_vi": "Quán đông khách nhất trên 'phố sủi cảo' Hà Tôn Quyền với gần 4.000 đánh giá Google. Sủi cảo tôm thịt gói tay, ăn nước hoặc chiên, khách tự chọn thêm mực, cá viên, bò viên, da heo; quán bán từ trưa đến 1 giờ sáng.",
+  "review_vi": "Khen: sủi cảo ngon đều tay, nước dùng đậm; nhiều lựa chọn topping; giá hợp lý; mở muộn. Chê: một số khách thấy phần ăn nhỏ hơn trước; các quán trên phố vị khá giống nhau.",
+  "rating": {
+   "value": 4.2,
+   "count": 3986,
+   "source": "Google (qua Wanderlog)",
+   "url": "https://wanderlog.com/place/details/5361328",
+   "seen": "2026-10"
+  },
+  "trending": false,
+  "tags": [
+   "Sủi cảo",
+   "Ăn khuya",
+   "Phố sủi cảo Hà Tôn Quyền"
+  ],
+  "tips_vi": "Mẹo: gọi một phần nước và một phần chiên để so sánh; buổi tối đông, nên đi trước 18h hoặc sau 21h.",
+  "images": [
+   {
+    "commons": "File:Jiaozi-close-look.jpg",
+    "kind": "dish"
+   }
+  ],
+  "wiki": null,
+  "website": null,
+  "sources": [
+   "https://wanderlog.com/place/details/5361328",
+   "https://thesmartlocal.com/vietnam/cho-lon-foods/",
+   "https://www.foody.vn/ho-chi-minh/dia-diem?q=thi%C3%AAn%20thi%C3%AAn%20s%E1%BB%A7i%20c%E1%BA%A3o"
+  ],
+  "status": "open"
+ },
+ {
+  "id": "hcmc-cuu-long-quan-kowloon-bingsutt",
+  "name": "Cửu Long Quán (Kowloon Bingsutt)",
+  "cat": "food",
+  "subtitle": "Quán Hồng Kông hoài cổ kiểu phim TVB",
+  "address": "74–76 Bùi Hữu Nghĩa, Phường 7, Quận 5",
+  "lat": 10.753994,
+  "lng": 106.67476,
+  "coordSource": "https://wanderlog.com/place/details/3897437",
+  "price": "Khoảng 39.000–138.000đ/món",
+  "hours": "07:00–14:00 và 17:00–22:00 hằng ngày",
+  "mustTry": "Há cảo tôm tươi, sủi cảo Tứ Xuyên, xíu mại gạch cua, bánh cuốn tôm xá xíu, bánh bao xá xíu nướng, mochi sầu riêng, trà sữa Hồng Kông",
+  "desc_vi": "Quán ăn kiểu 'băng thất' Hồng Kông mở từ năm 2005, trang trí biển chữ Hoa, đèn lồng đỏ, tường gạch thô, gợi không khí phim Hồng Kông thập niên 90 – 2000. Thực đơn gồm dimsum, cơm, mì và món Quảng Đông; quán có nhiều tầng, bàn tròn cho nhóm đông và một cơ sở khác ở 2–4 Trần Xuân Hòa gần đó.",
+  "review_vi": "Khen: há cảo tôm tươi, mochi sầu riêng được khen nhiều; giá hợp lý so với mặt bằng Sài Gòn; nhân viên chu đáo, ra món nhanh; không gian hoài cổ rất ăn ảnh. Chê: quán khá chật so với lượng khách, đông nhất khoảng 19h; khẩu phần và phục vụ đôi khi không đều.",
+  "rating": {
+   "value": 4.3,
+   "count": 1884,
+   "source": "Google (qua Wanderlog)",
+   "url": "https://wanderlog.com/place/details/3897437",
+   "seen": "2026-10"
+  },
+  "trending": false,
+  "tags": [
+   "Chợ Lớn",
+   "Dimsum",
+   "Phong cách Hồng Kông",
+   "Check-in"
+  ],
+  "tips_vi": "Mẹo: đặt bàn trước vào cuối tuần hoặc buổi tối; quán nghỉ giữa ca 14h–17h.",
+  "images": [],
+  "wiki": null,
+  "website": "https://m.facebook.com/Kowloon-Bingsutt-%E4%B9%9D%E9%BE%8D%E5%86%B0%E5%AE%A4-445555132634054/",
+  "sources": [
+   "https://wanderlog.com/place/details/3897437",
+   "https://mia.vn/cam-nang-du-lich/cuu-long-quan-12604",
+   "https://wanderlog.com/place/details/4124364",
+   "https://vinwonders.com/vi/wonderpedia/news/pho-am-thuc-nguoi-hoa-quan-5/",
+   "https://www.foody.vn/ho-chi-minh/kowloon-bingsutt-nha-hang-mon-hoa"
+  ],
+  "status": "open"
+ },
+ {
+  "id": "hcmc-pha-lau-tam-ky",
+  "name": "Phá lấu Tâm Ký",
+  "cat": "food",
+  "subtitle": "Xe phá lấu người Tiều gia truyền",
+  "address": "823 Nguyễn Trãi, Phường 14, Quận 5",
+  "lat": 10.752814,
+  "lng": 106.657838,
+  "coordSource": "https://www.foody.vn/ho-chi-minh/pha-lau-tam-ky-nguyen-trai",
+  "price": "15.000–50.000đ/phần",
+  "hours": "Khoảng 15:00–22:00 (có nguồn ghi mở từ 10:00)",
+  "mustTry": "Bánh mì phá lấu, phá lấu thập cẩm (bao tử, lỗ tai heo, lòng, chân gà) kèm cải chua",
+  "desc_vi": "Xe phá lấu nhỏ treo đầy lòng, tai, bao tử heo trên đường Nguyễn Trãi gần đại lộ Châu Văn Liêm, nấu theo công thức gia truyền kiểu người Tiều (Triều Châu). Nhiều trang ẩm thực xem đây là phá lấu ngon nhất khu Chợ Lớn; khách thường ăn với bánh mì hoặc mua thập cẩm mang về.",
+  "review_vi": "Khen: gia vị đặc trưng, khác hẳn phá lấu bò kiểu Sài Gòn; lòng dai giòn; bánh mì phá lấu rẻ mà no; cải chua ngon. Chê: có người thấy nước phá lấu hơi nhạt; xe nhỏ, chiều tối đông nên phải chờ.",
+  "rating": {
+   "value": 7.1,
+   "count": 10,
+   "source": "Foody.vn (thang điểm 10)",
+   "url": "https://www.foody.vn/ho-chi-minh/pha-lau-tam-ky-nguyen-trai",
+   "seen": "2026-10"
+  },
+  "trending": false,
+  "tags": [
+   "Chợ Lớn",
+   "Phá lấu",
+   "Ăn vặt",
+   "Ẩm thực người Hoa"
+  ],
+  "tips_vi": "Mẹo: gọi bánh mì phá lấu ăn tại chỗ rồi mua thêm một phần thập cẩm mang về; đi sau 15h khi xe đã dọn hàng.",
+  "images": [],
+  "wiki": null,
+  "website": null,
+  "sources": [
+   "https://muaban.net/blog/quan-an-nguoi-hoa-ngon-tai-phuong-cho-lon-600611/",
+   "https://vinwonders.com/vi/wonderpedia/news/pho-am-thuc-nguoi-hoa-quan-5/",
+   "https://www.foody.vn/ho-chi-minh/pha-lau-tam-ky-nguyen-trai"
+  ],
+  "status": "open"
+ },
+ {
+  "id": "hcmc-sui-cao-mi-vit-tiem-sam-ky",
+  "name": "Sủi cảo – Mì vịt tiềm Sâm Ký (Quán Sâm)",
+  "cat": "food",
+  "subtitle": "Sủi cảo, mì vịt tiềm trong hẻm 409 Nguyễn Trãi",
+  "address": "Hẻm 409/12 Nguyễn Trãi (gần Phở Lệ), Phường 7, Quận 5",
+  "lat": 10.754978,
+  "lng": 106.673648,
+  "coordSource": "https://www.foody.vn/ho-chi-minh/sui-cao-nguyen-trai",
+  "price": "26.000–70.000đ/món",
+  "hours": "Khoảng 13:00–22:00 (các nguồn ghi từ 13h hoặc 15h đến 22–23h)",
+  "mustTry": "Sủi cảo tôm thịt với ba kiểu nước (trong, đỏ, tiềm thuốc bắc), mì vịt tiềm, mì sủi cảo xá xíu",
+  "desc_vi": "Quán bình dân hơn 20 năm trong con hẻm cạnh Phở Lệ, do ông Sâm lập ra và nay gia đình tiếp quản. Sủi cảo nhân tôm thịt kiểu Triều Châu gói tươi mỗi ngày, khách chọn nước dùng trong, nước đỏ hay nước tiềm thuốc bắc; ngồi ghế nhựa thấp ngay trong hẻm.",
+  "review_vi": "Khen: vịt mềm, sủi cảo tươi; giá rẻ hơn nhiều quán quanh đó; phục vụ nhanh dù đông; nhiều khách gợi ý chọn nước tiềm cho đậm. Chê: chỗ ngồi chật, buổi tối phải đứng chờ; nước uống mua của hàng bên cạnh trả riêng; đơn mang về đôi khi không đúng yêu cầu.",
+  "rating": {
+   "value": 4.7,
+   "count": null,
+   "source": "Google (qua Mytour)",
+   "url": "https://mytour.vn/vi/blog/bai-viet/danh-sach-5-dia-diem-mi-vit-tiem-noi-tieng-o-quan-5.html",
+   "seen": "2026-10"
+  },
+  "trending": false,
+  "tags": [
+   "Ít người biết",
+   "Chợ Lớn",
+   "Sủi cảo",
+   "Mì vịt tiềm",
+   "Quán hẻm"
+  ],
+  "tips_vi": "Mẹo: chọn nước tiềm thuốc bắc để đậm vị; đi trước 18h để có chỗ ngồi; có chỗ gửi xe miễn phí theo Mytour.",
+  "images": [
+   {
+    "commons": "File:Jiaozi-close-look.jpg",
+    "kind": "dish"
+   }
+  ],
+  "wiki": null,
+  "website": null,
+  "sources": [
+   "https://www.willflyforfood.net/top-5-hidden-eateries-in-saigons-chinatown/",
+   "https://mytour.vn/vi/blog/bai-viet/danh-sach-5-dia-diem-mi-vit-tiem-noi-tieng-o-quan-5.html",
+   "https://vinwonders.com/vi/wonderpedia/news/pho-am-thuc-nguoi-hoa-quan-5/",
+   "https://www.foody.vn/ho-chi-minh/sui-cao-nguyen-trai"
+  ],
+  "status": "open"
+ },
+ {
+  "id": "hcmc-tiem-mi-dong-hy",
+  "name": "Tiệm mì Đông Hỷ",
+  "cat": "food",
+  "subtitle": "Tiệm mì người Hoa hơn nửa thế kỷ",
+  "address": "87 Châu Văn Liêm, Phường 14, Quận 5",
+  "lat": 10.7528,
+  "lng": 106.6584,
+  "coordSource": "https://www.foody.vn/ho-chi-minh/tiem-mi-dong-hy-chau-van-liem",
+  "price": "49.000–109.000đ/món",
+  "hours": "06:00–11:00 và 16:30–22:00",
+  "mustTry": "Mì Đông Hỷ, mì Ba Đời, mì Kim Bảo",
+  "desc_vi": "Tiệm mì trứng người Hoa trên đại lộ Châu Văn Liêm với hơn nửa thế kỷ hoạt động, được xếp đầu danh sách quán người Hoa nên thử ở Chợ Lớn trong các bài tổng hợp năm 2025. Sợi mì vẫn làm theo lối cũ, kết hợp máy móc ở vài công đoạn để giữ chất lượng đồng đều; quán bán ca sáng và ca chiều tối.",
+  "review_vi": "Khen: không gian thoáng, trang trí kiểu tiệm Hoa truyền thống; tô mì đậm vị, sợi mì dai. Chê: giá nhỉnh hơn quán mì bình dân; giờ cao điểm phải chờ lâu. (Nguồn đánh giá còn ít, chủ yếu từ một bài tổng hợp năm 2025.)",
+  "rating": null,
+  "trending": false,
+  "tags": [
+   "Chợ Lớn",
+   "Mì người Hoa",
+   "Quán lâu đời"
+  ],
+  "tips_vi": "Mẹo: quán nghỉ giữa ca 11h–16h30; kết hợp ăn mì rồi đi bộ sang chè Hà Ký cùng đường Châu Văn Liêm.",
+  "images": [],
+  "wiki": null,
+  "website": null,
+  "sources": [
+   "https://muaban.net/blog/quan-an-nguoi-hoa-ngon-tai-phuong-cho-lon-600611/",
+   "https://www.foody.vn/ho-chi-minh/tiem-mi-dong-hy-chau-van-liem"
+  ],
+  "status": "open"
+ },
+ {
+  "id": "hcmc-che-cot-dien",
+  "name": "Chè Cột Điện (Châu Giang)",
+  "cat": "food",
+  "subtitle": "Quán chè người Hoa từ năm 1938",
+  "address": "476–478 Trần Hưng Đạo, Phường 14, Quận 5",
+  "lat": 10.7520716,
+  "lng": 106.6581085,
+  "coordSource": "https://www.foody.vn/ho-chi-minh/che-cot-dien-che-nguoi-hoa-khu-den-nam-ngon",
+  "price": "20.000–30.000đ/chén",
+  "hours": "Khoảng 15:00–22:30 (các nguồn ghi giờ mở cửa khác nhau)",
+  "mustTry": "Chè bột củ năng hột gà, hột gà trà, sâm bổ lượng, quy linh cao, chè đậu xanh",
+  "desc_vi": "Quán chè Châu Giang do bà Phùng Hạnh Phan – người chạy loạn từ Quảng Đông sang – bắt đầu bán chè đậu xanh năm 1938, nay đã qua bốn đời chủ. Quán quen gọi là 'chè cột điện' vì nằm ngay dưới cột điện cạnh vòng xoay Đèn Năm Ngọn, còn gọi 'chè ma' vì xưa bán đến nửa đêm; thực đơn khoảng 20 món chè Quảng Đông.",
+  "review_vi": "Khen: vị chè cổ điển, ngọt thanh, giữ nguyên qua nhiều năm; chè củ năng mềm, quy linh cao ngon; chủ quán nhiệt tình tư vấn khách lần đầu. Chê: nhiều người thấy vài món quá ngọt, phần ăn nhỏ; quán vỉa hè, ít chỗ ngồi.",
+  "rating": {
+   "value": 4.2,
+   "count": 924,
+   "source": "Google (qua Greensm, số liệu 03/2025)",
+   "url": "https://www.greensm.com/vn-vi/news/che-quan-5",
+   "seen": "2026-10"
+  },
+  "trending": false,
+  "tags": [
+   "Chợ Lớn",
+   "Chè người Hoa",
+   "Quán lâu đời"
+  ],
+  "tips_vi": "Mẹo: dặn bớt ngọt nếu không hảo ngọt; ngay cạnh (số 486) là chè Lâm Thạnh nếu muốn thử thêm.",
+  "images": [],
+  "wiki": null,
+  "website": null,
+  "sources": [
+   "https://lifestyle.zingnews.vn/quan-che-cot-dien-o-tphcm-hon-80-nam-van-tap-nap-nguoi-toi-an-post1325477.html",
+   "https://www.greensm.com/vn-vi/news/che-quan-5",
+   "https://thesmartlocal.com/vietnam/cho-lon-foods/",
+   "https://www.foody.vn/ho-chi-minh/che-cot-dien-che-nguoi-hoa-khu-den-nam-ngon"
+  ],
+  "status": "open"
+ },
+ {
+  "id": "hcmc-vit-quay-vinh-phong",
+  "name": "Vịt quay Vĩnh Phong",
+  "cat": "food",
+  "subtitle": "Tiệm vịt quay, heo quay người Hoa đông nhất phố",
+  "address": "523–527 Phan Văn Trị, Phường 7, Quận 5",
+  "lat": 10.754601,
+  "lng": 106.674424,
+  "coordSource": "https://www.foody.vn/ho-chi-minh/vit-quay-vinh-phong",
+  "price": "Cao hơn các tiệm quanh đó khoảng 5–10% (bán theo ký)",
+  "hours": "Từ sáng sớm (khoảng 05:30) đến tối",
+  "mustTry": "Vịt quay kèm nước chấm, heo quay, xá xíu, phá lấu",
+  "desc_vi": "Tiệm quay gia truyền ở góc Phan Văn Trị – Bùi Hữu Nghĩa, nơi tập trung các tiệm vịt quay người Hoa của Chợ Lớn. Vịt ướp theo công thức riêng, quay da giòn, nổi tiếng với chén nước chấm; ngoài vịt còn có heo quay, xá xíu, phá lấu. Phần lớn khách mua mang về cho bữa cơm gia đình.",
+  "review_vi": "Khen: thịt tươi, nhiều nạc, da giòn; nước chấm vịt ngon; luôn đông, nhiều người mua lâu năm. Chê: vài khách phản ánh chất lượng giảm lúc quá đông – vịt khô, chặt ẩu, heo quay nhiều mỡ, nửa con nhiều xương; giá nhỉnh hơn tiệm bên cạnh.",
+  "rating": {
+   "value": 6.2,
+   "count": 93,
+   "source": "Foody.vn (thang điểm 10)",
+   "url": "https://www.foody.vn/ho-chi-minh/vit-quay-vinh-phong",
+   "seen": "2026-10"
+  },
+  "trending": false,
+  "tags": [
+   "Chợ Lớn",
+   "Vịt quay",
+   "Ẩm thực người Hoa",
+   "Mua mang về"
+  ],
+  "tips_vi": "Mẹo: đi sớm để chọn được con vịt đẹp; dặn rõ phần nạc/mỡ khi mua heo quay; tiệm Phát Thành ngay góc đường là lựa chọn thay thế.",
+  "images": [],
+  "wiki": null,
+  "website": null,
+  "sources": [
+   "https://vinwonders.com/vi/wonderpedia/news/pho-am-thuc-nguoi-hoa-quan-5/",
+   "https://vnexpress.net/giu-lua-tinh-hoa-am-thuc-cho-lon-4045152.html",
+   "https://thesmartlocal.com/vietnam/cho-lon-foods/",
+   "https://www.foody.vn/ho-chi-minh/vit-quay-vinh-phong"
+  ],
+  "status": "open"
+ },
+ {
+  "id": "hcmc-a-tung-banh-mi-bo-nuong-bo",
+  "name": "A Tùng – Bánh mì bò nướng bơ Campuchia",
+  "cat": "food",
+  "subtitle": "Bò nướng bơ kiểu Campuchia, ăn vặt buổi tối",
+  "address": "171 Cống Quỳnh, Quận 1",
+  "lat": 10.766338,
+  "lng": 106.688727,
+  "coordSource": "https://wanderlog.com/place/details/2279825",
+  "price": null,
+  "hours": "15:30–22:30 hằng ngày",
+  "mustTry": "Bánh mì bò nướng bơ, xiên bò nướng ăn kèm bánh mì pate, bánh tráng nướng cuốn",
+  "desc_vi": "Quán ăn vặt nổi tiếng trên đường Cống Quỳnh chuyên bò nướng bơ kiểu Campuchia: những xiên bò ướp đậm nướng than, quét bơ thơm rồi kẹp bánh mì hoặc ăn kèm pate, đồ chua. Quán chỉ bán từ chiều tối và luôn đông khách trẻ.",
+  "review_vi": "Khen: xiên nướng đậm vị, bánh mì phết bơ thơm; nhiều món lạ như bánh tráng nướng cuốn; giá hợp lý; nhân viên thân thiện. Chê: vị khá ngọt và nặng; đông, chỗ ngồi chật; không có thực đơn tiếng Anh.",
+  "rating": {
+   "value": 4.2,
+   "count": 3694,
+   "source": "Google (qua Wanderlog)",
+   "url": "https://wanderlog.com/place/details/2279825",
+   "seen": "2026-10"
+  },
+  "trending": false,
+  "tags": [
+   "Ăn vặt",
+   "Đồ nướng",
+   "Món Campuchia"
+  ],
+  "tips_vi": "Mẹo: tự kẹp xiên bò vào bánh mì pate; đi sau 17h để than đã nóng và đủ món.",
+  "images": [],
+  "wiki": null,
+  "website": null,
+  "sources": [
+   "https://wanderlog.com/place/details/2279825",
+   "https://www.foody.vn/ho-chi-minh/a-tung-banh-mi-bo-nuong-bo-cambodia-cong-quynh"
+  ],
+  "status": "open"
+ },
+ {
+  "id": "hcmc-pho-tau-bay",
+  "name": "Phở Tàu Bay",
+  "cat": "food",
+  "subtitle": "Phở Bắc lâu đời bậc nhất Sài Gòn",
+  "address": "435 Lý Thái Tổ, Phường 9, Quận 10",
+  "lat": 10.767797,
+  "lng": 106.668718,
+  "coordSource": "https://wanderlog.com/place/details/1082745",
+  "price": "40.000–70.000đ/tô",
+  "hours": "06:00–12:30 (chỉ bán buổi sáng)",
+  "mustTry": "Phở bò tái, nạm, gầu kiểu Bắc nước trong",
+  "desc_vi": "Một trong những tiệm phở lâu đời nhất Sài Gòn, gắn với dòng phở Bắc vào Nam khoảng năm 1954; tên 'Tàu Bay' bắt nguồn từ việc ông chủ hay đội mũ phi công. Nước dùng trong, ngọt từ xương và thịt, nêm nhẹ, không thêm nhiều gia vị.",
+  "review_vi": "Khen: nước dùng trong, thơm, phở nóng; khu chế biến sạch sẽ; giá vừa phải so với tiếng tăm. Chê: điểm Google chỉ 3,8/5 – thấp hơn nhiều quán phở nổi tiếng khác; phải trả phí gửi xe; chỉ bán đến trưa.",
+  "rating": {
+   "value": 3.8,
+   "count": 1378,
+   "source": "Google (qua Wanderlog)",
+   "url": "https://wanderlog.com/place/details/1082745",
+   "seen": "2026-10"
+  },
+  "trending": false,
+  "tags": [
+   "Phở",
+   "Quán lâu đời",
+   "Ăn sáng"
+  ],
+  "tips_vi": "Mẹo: đi trước 8h để tránh giờ đông nhất; quán dọn hàng khoảng 12h30.",
+  "images": [
+   {
+    "commons": "File:Guests adjust the spice before enjoying phở 15-07-2018.jpg",
+    "kind": "dish"
+   }
+  ],
+  "wiki": null,
+  "website": null,
+  "sources": [
+   "https://wanderlog.com/place/details/1082745",
+   "https://mytour.vn/vi/blog/bai-viet/top-5-quan-pho-lau-doi-va-ngon-nhat-o-quan-10.html"
+  ],
+  "status": "open"
+ },
+ {
+  "id": "hcmc-hu-tieu-sa-te-to-ky",
+  "name": "Hủ tiếu sa tế Tô Ký",
+  "cat": "food",
+  "subtitle": "Hủ tiếu sa tế người Tiều từ thập niên 1940",
+  "address": "36 Gò Công, Phường 13, Quận 5",
+  "lat": 10.7482797,
+  "lng": 106.655401,
+  "coordSource": "https://www.foody.vn/ho-chi-minh/to-ky-hu-tiu-sa-te",
+  "price": "75.000–100.000đ/tô",
+  "hours": "06:00–22:30 hằng ngày",
+  "mustTry": "Hủ tiếu sa tế thập cẩm, hủ tiếu sa tế nai (thịt nai tái), hủ tiếu nai kho",
+  "desc_vi": "Một trong số ít quán còn giữ hủ tiếu sa tế kiểu Triều Châu nguyên bản, do cùng một gia đình người Tiều đứng bếp từ thập niên 1940. Nước dùng nấu với nước cốt dừa, đậu phộng và sa tế nên sánh, béo; ăn kèm giấm Tiều. Quán nhỏ trên con đường yên tĩnh gần đại lộ Võ Văn Kiệt.",
+  "review_vi": "Khen: nước dùng sánh, thơm mùi đậu phộng, cay vừa phải chứ không gắt; quầy bếp sạch sẽ; khu phố vắng nên không phải chen. Chê: quán nhỏ, có chỗ ngồi vỉa hè; vài khách quen thấy chất lượng nước lèo và phục vụ không còn như xưa; người chưa quen có thể thấy nước dùng đặc và lạ miệng.",
+  "rating": {
+   "value": 6.7,
+   "count": 37,
+   "source": "Foody.vn (thang điểm 10)",
+   "url": "https://www.foody.vn/ho-chi-minh/to-ky-hu-tiu-sa-te",
+   "seen": "2026-10"
+  },
+  "trending": false,
+  "tags": [
+   "Ít người biết",
+   "Chợ Lớn",
+   "Hủ tiếu",
+   "Ẩm thực người Hoa",
+   "Quán lâu đời"
+  ],
+  "tips_vi": "Mẹo: chấm thịt với giấm Tiều trên bàn; nếu không ăn được cay, dặn bớt sa tế.",
+  "images": [
+   {
+    "commons": "File:Hủ tiếu.jpg",
+    "kind": "dish"
+   }
+  ],
+  "wiki": null,
+  "website": null,
+  "sources": [
+   "https://www.willflyforfood.net/top-5-hidden-eateries-in-saigons-chinatown/",
+   "https://muaban.net/blog/quan-an-nguoi-hoa-ngon-tai-phuong-cho-lon-600611/",
+   "https://thesmartlocal.com/vietnam/cho-lon-foods/",
+   "https://www.foody.vn/ho-chi-minh/to-ky-hu-tiu-sa-te"
+  ],
+  "status": "open"
+ },
+ {
+  "id": "hcmc-chao-tieu-47-ta-uyen",
+  "name": "Cháo Tiều 47 Tạ Uyên",
+  "cat": "food",
+  "subtitle": "Cháo hải sản kiểu Triều Châu ăn tối – khuya",
+  "address": "47 Tạ Uyên, Phường 12, Quận 5",
+  "lat": 10.7547265,
+  "lng": 106.65355,
+  "coordSource": "https://www.foody.vn/ho-chi-minh/chao-thap-cam",
+  "price": "50.000–90.000đ/tô",
+  "hours": "Khoảng 16:30–23:30",
+  "mustTry": "Cháo hải sản (tôm, mực, cá), cháo thập cẩm (cật, bao tử, phèo, thịt viên), ăn kèm tần ô và nước chấm gừng",
+  "desc_vi": "Quán cháo vỉa hè kiểu người Tiều (Triều Châu) bán từ thập niên 1990, nổi tiếng với tô cháo loãng, nhừ nấu ngọt từ tôm cá, nhiều tôm tươi, mực, cá và đồ lòng. Khách ăn kèm rau tần ô và nước chấm gừng chua ngọt; quán bán từ chiều tối đến gần nửa đêm.",
+  "review_vi": "Khen: tôm to, mực và cá tươi, cật dai giòn; phần ăn đầy đặn; nhiều khách là mối ruột hơn chục năm; phục vụ nhanh. Chê: giá cao hơn các xe cháo vỉa hè khác; có người thấy cháo hơi loãng, nêm chưa đặc sắc; đông nhất 19–21h.",
+  "rating": {
+   "value": 7.0,
+   "count": 24,
+   "source": "Foody.vn (thang điểm 10)",
+   "url": "https://www.foody.vn/ho-chi-minh/chao-thap-cam",
+   "seen": "2026-10"
+  },
+  "trending": false,
+  "tags": [
+   "Ít người biết",
+   "Chợ Lớn",
+   "Cháo",
+   "Ăn khuya",
+   "Ẩm thực người Hoa"
+  ],
+  "tips_vi": "Mẹo: đến trước 19h hoặc sau 21h để khỏi chờ; hỏi giá tô thập cẩm trước vì giá theo thời điểm.",
+  "images": [],
+  "wiki": null,
+  "website": null,
+  "sources": [
+   "https://www.willflyforfood.net/top-5-hidden-eateries-in-saigons-chinatown/",
+   "https://www.foody.vn/ho-chi-minh/chao-thap-cam"
+  ],
+  "status": "open"
+ },
+ {
+  "id": "hcmc-dim-tu-tac-topaz-city",
+  "name": "Dim Tu Tac (Topaz City)",
+  "cat": "food",
+  "subtitle": "Nhà hàng dimsum – Quảng Đông cao cấp",
+  "address": "Tòa B2, Topaz City, 39 Cao Lỗ, Phường 4, Quận 8",
+  "lat": 10.737809,
+  "lng": 106.679442,
+  "coordSource": "https://wanderlog.com/place/details/2613706",
+  "price": null,
+  "hours": "T2–T6: 08:00–14:30 và 17:00–22:00; T7, CN: 08:00–22:00",
+  "mustTry": "Há cảo, tiểu long bao vỏ mỏng, vịt quay, heo sữa quay da giòn, cuốn tàu hũ ky",
+  "desc_vi": "Chi nhánh của chuỗi nhà hàng Quảng Đông Dim Tu Tac, nổi tiếng với dimsum làm thủ công trong không gian sang trọng (ghế nhung, tranh chim, vách cổ). Thực đơn hơn 200 món từ dimsum, vịt quay, heo sữa đến món hầm; chuỗi còn cơ sở ở Hùng Vương Plaza (Quận 5).",
+  "review_vi": "Khen: dimsum tươi, ngon; thực đơn rất phong phú; phục vụ chu đáo; chỗ ngồi thoải mái cho cả nhóm nhỏ lẫn tiệc lớn. Chê: giá cao hơn các tiệm dimsum bình dân Chợ Lớn.",
+  "rating": {
+   "value": 4.3,
+   "count": 2773,
+   "source": "Google (qua Wanderlog)",
+   "url": "https://wanderlog.com/place/details/2613706",
+   "seen": "2026-10"
+  },
+  "trending": false,
+  "tags": [
+   "Dimsum",
+   "Nhà hàng sang",
+   "Đi nhóm"
+  ],
+  "tips_vi": "Mẹo: cuối tuần mở cả ngày từ 8h, hợp đi ăn sáng muộn kiểu 'yum cha'; nếu ở gần Chợ Lớn có thể chọn cơ sở Hùng Vương Plaza.",
+  "images": [
+   {
+    "commons": "File:HK TKO 寶琳 Po Lam MCP 新都城中心 Metro City Plaza mall One shop 海港酒家 Victoria Harbour Seafood Restaurant 點心 dim sum white Shrimp dumpling 蝦餃 Har gow January 2024 R12S 01.jpg",
+    "kind": "dish"
+   }
+  ],
+  "wiki": null,
+  "website": "https://dimtutac.com/home",
+  "sources": [
+   "https://wanderlog.com/place/details/2613706",
+   "https://dimtutac.com/home"
+  ],
+  "status": "open"
+ },
+ {
+  "id": "hcmc-bep-xanh-an-duyen",
+  "name": "Bếp Xanh An Duyên",
+  "cat": "food",
+  "subtitle": "Nhà hàng chay kiểu Hoa ở Chợ Lớn",
+  "address": "10 Nguyễn Tri Phương, Phường 6, Quận 5",
+  "lat": 10.751289,
+  "lng": 106.669555,
+  "coordSource": "https://wanderlog.com/place/details/803256",
+  "price": null,
+  "hours": "09:30–14:30 và 16:30–21:30 hằng ngày",
+  "mustTry": "Lẩu Thái chay, đậu hũ trứng chiên, nấm đùi gà sốt miso, bánh xèo chay, cơm hạt sen, lẩu thập bảo",
+  "desc_vi": "Chi nhánh chay của An Duyên Chợ Lớn, trang trí kiểu Hoa cổ với đèn lồng và bàn ghế gỗ, nằm ngay đầu đường Nguyễn Tri Phương. Thực đơn hàng chục món chay tái hiện món Việt và món Hoa như phở, bánh xèo, gỏi cuốn, hủ tiếu xào nấm, khoai môn hấp kiểu Khách Gia.",
+  "review_vi": "Khen: món chay sáng tạo, đậm vị, nhiều lựa chọn; không gian ấm cúng kiểu Hoa; nhân viên thân thiện. Chê: bàn ghế khá sát nhau; lúc đông phục vụ chậm.",
+  "rating": {
+   "value": 4.5,
+   "count": 1077,
+   "source": "Google (qua Wanderlog)",
+   "url": "https://wanderlog.com/place/details/803256",
+   "seen": "2026-10"
+  },
+  "trending": false,
+  "tags": [
+   "Món chay",
+   "Chợ Lớn",
+   "Ẩm thực người Hoa"
+  ],
+  "tips_vi": "Mẹo: ngày rằm và mùng Một âm lịch quán thường mở cả ngày và rất đông, nên đặt bàn.",
+  "images": [
+   {
+    "commons": "File:Gỏi Cuốn Chay Vietnamese Fresh Vegetarian Spring Roll 2019-1599.jpg",
+    "kind": "dish"
+   }
+  ],
+  "wiki": null,
+  "website": "https://bepxanhanduyen.com/",
+  "sources": [
+   "https://wanderlog.com/place/details/803256",
+   "https://thesmartlocal.com/vietnam/an-duyen/"
+  ],
+  "status": "open"
+ },
+ {
+  "id": "hcmc-nha-hang-hoang-tam",
+  "name": "Nhà hàng Hoàng Tâm",
+  "cat": "food",
+  "subtitle": "Món Nam Bộ – miền Tây trong hẻm Cầu Kho",
+  "address": "TK22/1 Nguyễn Cảnh Chân, Phường Cầu Kho, Quận 1",
+  "lat": 10.75738,
+  "lng": 106.689138,
+  "coordSource": "https://wanderlog.com/place/details/5881990",
+  "price": null,
+  "hours": "10:00–22:00 hằng ngày",
+  "mustTry": "Bánh xèo nước cốt dừa, bò lá lốt nướng than, cá bớp kho tộ, rau sống chấm mắm nêm",
+  "desc_vi": "Nhà hàng món Nam Bộ – miền Tây nằm trong hẻm TK Nguyễn Cảnh Chân, khu Cầu Kho yên tĩnh, không gian kiểu nhà xưa Sài Gòn. Nổi bật là bánh xèo đổ nước cốt dừa ăn với hơn chục loại rau, bò lá lốt nướng than và cá kho tộ.",
+  "review_vi": "Khen: món làm kỹ, đậm vị Nam Bộ; bánh xèo nước cốt dừa và bò lá lốt thơm mùi than; rau tươi, mắm nêm ngon; phần ăn đầy đặn, ra món nhanh. Chê: nằm sâu trong hẻm, lần đầu khó tìm; giá cao hơn quán bình dân.",
+  "rating": {
+   "value": 4.5,
+   "count": 2377,
+   "source": "Google (qua Wanderlog)",
+   "url": "https://wanderlog.com/place/details/5881990",
+   "seen": "2026-10"
+  },
+  "trending": false,
+  "tags": [
+   "Ít người biết",
+   "Món miền Tây",
+   "Bánh xèo"
+  ],
+  "tips_vi": "Mẹo: quán nằm sâu trong hẻm TK22 Nguyễn Cảnh Chân, nên mở bản đồ dẫn đường; đi nhóm để gọi nhiều món chia nhau.",
+  "images": [
+   {
+    "commons": "File:BanhXeoatSaigon.jpg",
+    "kind": "dish"
+   }
+  ],
+  "wiki": null,
+  "website": "http://www.nhahanghoangtam.com/",
+  "sources": [
+   "https://wanderlog.com/place/details/5881990"
+  ],
+  "status": "open"
+ },
+ {
+  "id": "hcmc-an-duyen-cho-lon",
+  "name": "Tiệm cơm nước An Duyên Chợ Lớn",
+  "cat": "food",
+  "subtitle": "Món Hoa trong nhà phố cổ, decor Chợ Lớn xưa",
+  "address": "15 Trần Điện, Phường 10, Quận 5",
+  "lat": 10.751664,
+  "lng": 106.662368,
+  "coordSource": "https://www.foody.vn/ho-chi-minh/an-duyen-cho-lon-am-thuc-trung-hoa",
+  "price": null,
+  "hours": "07:00–14:00 và 17:00–21:30",
+  "mustTry": "Đậu hũ sốt XO, đậu hũ rang muối, cá chẽm rang muối, mực chua ngọt; buổi sáng có bánh mì kaya (cadé), cà phê Hải Nam",
+  "desc_vi": "Tiệm cơm người Hoa trong một căn nhà phố hai tầng cổ ở Chợ Lớn, do anh Đặng Quốc Trường – người Tiều lớn lên ở Quận 6 – mở. Không gian tái hiện Chợ Lớn và Hồng Kông thập niên 60: bảng hiệu vẽ tay song ngữ, gác lửng màu đỏ, đèn lồng, đồ cổ người Hoa. Thực đơn hơn 100 món pha trộn khẩu vị Khách Gia, Triều Châu, Hải Nam.",
+  "review_vi": "Khen: món đậu hũ và mực chua ngọt rất ngon; decor có chủ đích nhưng hợp không gian; chủ và nhân viên thân thiện; giá phải chăng. Chê: lúc đông có thể chờ món rất lâu; vài món và trà sữa bị chê quá ngọt; quán chưa thật sạch sẽ, gọn gàng.",
+  "rating": {
+   "value": 8.6,
+   "count": 42,
+   "source": "Foody.vn (thang điểm 10)",
+   "url": "https://www.foody.vn/ho-chi-minh/an-duyen-cho-lon-am-thuc-trung-hoa",
+   "seen": "2026-10"
+  },
+  "trending": false,
+  "tags": [
+   "Ít người biết",
+   "Chợ Lớn",
+   "Ẩm thực người Hoa",
+   "Nhà phố cổ"
+  ],
+  "tips_vi": "Mẹo: bánh mì kaya chỉ bán buổi sáng; quán nghỉ giữa ca 14h–17h. Chưa tìm thấy nguồn 2025–2026 xác nhận quán còn mở – nên kiểm tra trước khi đến.",
+  "images": [],
+  "wiki": null,
+  "website": null,
+  "sources": [
+   "https://www.saigoneer.com/saigon-street-food-restaurants/26075-hẻm-gems-from-a-historic-d5-shophouse,-an-duyên-serves-up-tasty-chợ-lớn-classics",
+   "https://thesmartlocal.com/vietnam/an-duyen/",
+   "https://www.foody.vn/ho-chi-minh/an-duyen-cho-lon-am-thuc-trung-hoa"
+  ],
+  "status": "unverified"
+ },
+ {
+  "id": "hcmc-ca-phe-vot-ba-lu",
+  "name": "Cà phê vợt Ba Lù",
+  "cat": "cafe",
+  "subtitle": "Cà phê vợt người Hoa từ năm 1953 trong chợ Phùng Hưng",
+  "address": "193 Phùng Hưng (trong chợ Phùng Hưng), Phường 14, Quận 5",
+  "lat": 10.753564,
+  "lng": 106.657333,
+  "coordSource": "https://www.foody.vn/ho-chi-minh/ca-phe-vot-ba-lu-193-phung-hung",
+  "price": "Bình dân",
+  "hours": "Khoảng 02:00–17:00",
+  "mustTry": "Cà phê vợt đen nóng/đá, cà phê sữa; mua bộ vợt pha và cà phê rang về làm quà",
+  "desc_vi": "Sạp cà phê vợt nhỏ trong chợ Phùng Hưng, mở từ năm 1953 và là một trong những quán cà phê vợt lâu đời nhất Chợ Lớn. Hạt cà phê rang thủ công trong lồng sắt trên lửa lớn, trộn bơ và chút muối theo công thức người Hoa, rồi pha qua vợt vải trong nồi giữ nóng – ly cà phê có màu nâu đỏ, mở từ lúc chợ còn tối.",
+  "review_vi": "Khen: hương vị cà phê rang củi đặc trưng, đậm mà không gắt; được xem như một mảnh di sản sống của người Hoa Chợ Lớn; giá rẻ; có thể xem tận mắt cách pha. Chê: chỗ ngồi chật, nằm lẫn trong chợ nên khó gửi xe; chỉ bán cà phê đen và sữa.",
+  "rating": null,
+  "trending": false,
+  "tags": [
+   "Ít người biết",
+   "Cà phê vợt",
+   "Chợ Lớn",
+   "Quán lâu đời"
+  ],
+  "tips_vi": "Mẹo: đi buổi sáng sớm khi chợ Phùng Hưng nhộn nhịp nhất; gửi xe ngoài rồi đi bộ vào chợ. Nguồn mới nhất tìm được là năm 2024 – nên kiểm tra trước khi đến.",
+  "images": [],
+  "wiki": null,
+  "website": null,
+  "sources": [
+   "https://thesmartlocal.com/vietnam/ba-lu-cafe/",
+   "https://mia.vn/cam-nang-du-lich/ca-phe-vot-12377",
+   "https://www.foody.vn/ho-chi-minh/ca-phe-vot-ba-lu-193-phung-hung"
+  ],
+  "status": "unverified"
+ },
+ {
+  "id": "hcmc-tiem-com-truyen-ky",
+  "name": "Tiệm cơm Truyền Ký",
+  "cat": "food",
+  "subtitle": "Cơm gia đình người Hoa trong hẻm Lý Thường Kiệt",
+  "address": "39/20 Lý Thường Kiệt, Quận 11",
+  "lat": 10.759184,
+  "lng": 106.661111,
+  "coordSource": "https://wanderlog.com/place/details/6374071",
+  "price": null,
+  "hours": "11:00–14:00 và 16:30–20:00 hằng ngày",
+  "mustTry": "Gà hấp muối, cơm chiên cá mặn, các món kho, hầm kiểu Hoa",
+  "desc_vi": "Tiệm cơm gia đình người Hoa nằm trên lầu một căn nhà phố trong hẻm Lý Thường Kiệt, theo Wanderlog đã có từ thập niên 1950. Món ăn kiểu Khách Gia – Triều Châu thiên về hấp, kho, hầm, ít dầu mỡ và ít cay; không gian giản dị như bữa cơm nhà.",
+  "review_vi": "Khen: món nấu kỹ, đúng vị Hoa gia đình; gà hấp muối và cơm chiên cá mặn được khen; giá hợp lý. Chê: không gian cũ, không trang trí; hẻm nhỏ khó tìm lần đầu.",
+  "rating": {
+   "value": 4.3,
+   "count": 1017,
+   "source": "Google (qua Wanderlog)",
+   "url": "https://wanderlog.com/place/details/6374071",
+   "seen": "2026-10"
+  },
+  "trending": false,
+  "tags": [
+   "Ít người biết",
+   "Ẩm thực người Hoa",
+   "Cơm gia đình",
+   "Quán lâu đời"
+  ],
+  "tips_vi": "Mẹo: chỉ bán theo hai ca trưa và chiều tối; đi nhóm để gọi được nhiều món chia nhau. Cơ sở 2 ở 257A Trần Phú, Quận 5.",
+  "images": [],
+  "wiki": null,
+  "website": null,
+  "sources": [
+   "https://wanderlog.com/place/details/6374071",
+   "https://www.foody.vn/ho-chi-minh/dia-diem?q=truy%E1%BB%81n%20k%C3%BD"
+  ],
+  "status": "open"
+ },
+ {
+  "id": "hcmc-sup-cua-co-lan",
+  "name": "Súp cua bong bóng cá Cô Lan",
+  "cat": "food",
+  "subtitle": "Súp cua kiểu người Hoa trên phố lồng đèn",
+  "address": "239 Lương Nhữ Học, Phường 12, Quận 5",
+  "lat": 10.755739,
+  "lng": 106.66013,
+  "coordSource": "https://www.foody.vn/ho-chi-minh/co-lan-sup-cua-bong-bong-ca",
+  "price": "45.000–98.000đ/chén",
+  "hours": "Khoảng 10:30–19:30",
+  "mustTry": "Súp cua bong bóng cá thập cẩm (thịt cua, càng cua, bong bóng cá, trứng), mì trộn khô",
+  "desc_vi": "Quán súp cua người Hoa trên con phố lồng đèn Lương Nhữ Học, khởi đầu là gánh bán lề đường hơn mười năm trước rồi mới có mặt bằng. Chén súp sánh, nhiều thịt cua, có bong bóng cá, càng cua và trứng; bản đặc biệt thêm óc heo.",
+  "review_vi": "Khen: thịt cua đầy, vị súp kiểu Hoa đậm đà, nhiều khách ăn hơn chục năm vẫn thấy giữ chất lượng; mì trộn khô cũng ngon. Chê: có khách bị tính tiền cao hơn giá niêm yết vì gọi nhầm tên món; từng có phản ánh về vệ sinh.",
+  "rating": {
+   "value": 6.7,
+   "count": 35,
+   "source": "Foody.vn (thang điểm 10)",
+   "url": "https://www.foody.vn/ho-chi-minh/co-lan-sup-cua-bong-bong-ca",
+   "seen": "2026-10"
+  },
+  "trending": false,
+  "tags": [
+   "Chợ Lớn",
+   "Súp cua",
+   "Ăn vặt"
+  ],
+  "tips_vi": "Mẹo: hỏi rõ giá từng loại (thường/thập cẩm/đặc biệt) trước khi gọi; mùa Trung thu kết hợp dạo phố lồng đèn Lương Nhữ Học.",
+  "images": [],
+  "wiki": null,
+  "website": null,
+  "sources": [
+   "https://muaban.net/blog/quan-an-nguoi-hoa-ngon-tai-phuong-cho-lon-600611/",
+   "https://znews.vn/dia-chi-an-vat-noi-tieng-quan-5-post1155776.html",
+   "https://www.foody.vn/ho-chi-minh/co-lan-sup-cua-bong-bong-ca"
+  ],
+  "status": "open"
+ },
+ {
+  "id": "hcmc-dimsum-hoc-lac",
+  "name": "Dimsum Học Lạc",
+  "cat": "food",
+  "subtitle": "Dimsum gia đình, há cảo cỡ lớn",
+  "address": "38B Học Lạc, Phường 14, Quận 5",
+  "lat": 10.752513,
+  "lng": 106.654463,
+  "coordSource": "https://www.foody.vn/ho-chi-minh/dimsum-hoc-lac",
+  "price": "15.000–70.000đ/món (khoảng 50.000–90.000đ/người)",
+  "hours": "06:00–12:00 và 15:00–21:00 (ca chiều có lúc bán ở số 25F Học Lạc)",
+  "mustTry": "Há cảo sò điệp, các món cuốn rong biển (thanh cua, tôm tươi), bánh bao xá xíu, sữa đậu nành nhà làm",
+  "desc_vi": "Tiệm dimsum nhỏ do gia đình người Hoa làm trên con đường Học Lạc, với khoảng 22 loại dimsum hấp trong những nồi hấp to đặt ngay trước cửa. Viên há cảo thuộc loại to nhất Sài Gòn, nhân đầy; đây là quán khách quen trong khu chứ ít khách du lịch.",
+  "review_vi": "Khen: dimsum to, nhân ú ụ, các món cuốn rong biển nổi bật; sữa đậu nành tự làm ngon; giá mềm. Chê: trong quán khá nóng; một số món nhiều dầu, nhanh ngấy; chân gà nêm ngọt; chỉ nhận tiền mặt.",
+  "rating": {
+   "value": 7.9,
+   "count": 24,
+   "source": "Foody.vn (thang điểm 10)",
+   "url": "https://www.foody.vn/ho-chi-minh/dimsum-hoc-lac",
+   "seen": "2026-10"
+  },
+  "trending": false,
+  "tags": [
+   "Ít người biết",
+   "Chợ Lớn",
+   "Dimsum"
+  ],
+  "tips_vi": "Mẹo: mang tiền mặt; đừng gọi quá nhiều vì mỗi viên rất to; đi buổi sáng để có đủ món.",
+  "images": [
+   {
+    "commons": "File:Steamed Har gow 水晶蝦餃 hau kau dumplings Chinese New Year 農曆新年 food 29 January 2025 蛇 Philippines8.jpg",
+    "kind": "dish"
+   }
+  ],
+  "wiki": null,
+  "website": null,
+  "sources": [
+   "https://muaban.net/blog/quan-an-nguoi-hoa-ngon-tai-phuong-cho-lon-600611/",
+   "https://saigoneer.com/saigon-culture/26102-what-to-see,-taste,-and-do-if-you-have-3-hours-to-kill-in-chợ-lớn",
+   "https://www.foody.vn/ho-chi-minh/dimsum-hoc-lac"
+  ],
+  "status": "open"
+ },
+ {
+  "id": "hcmc-laikee-mi-gia",
+  "name": "Laikee Mì Gia",
+  "cat": "food",
+  "subtitle": "Mì hoành thánh, mì lòng bò kiểu Hồng Kông",
+  "address": "69 Ngô Quyền, Phường 11, Quận 5",
+  "lat": 10.7531314,
+  "lng": 106.6666714,
+  "coordSource": "https://www.foody.vn/ho-chi-minh/laikee-mi-gia-mi-hong-kong-tru-danh",
+  "price": "30.000–168.000đ/món",
+  "hours": "07:00–22:00 hằng ngày",
+  "mustTry": "Mì lòng bò Hồng Kông, mì hoành thánh, mì sủi cảo thập cẩm, chân gà sốt XO, cà ri bò, trà sữa Hồng Kông",
+  "desc_vi": "Tiệm mì nhỏ chuyên món Hồng Kông trên đường Ngô Quyền, giới thiệu sợi mì và hoành thánh làm thủ công theo công thức Hồng Kông. Ngoài mì hoành thánh còn có mì lòng bò, cà ri bò kiểu Cảng và trà sữa pha kiểu Hồng Kông.",
+  "review_vi": "Khen: hương vị đặc trưng Hồng Kông, hoành thánh đậm đà, nước dùng mì lòng bò thơm, lòng không hôi, cà ri bò lạ miệng. Chê: giá không rẻ cho quán nhỏ; có khách thấy lòng bò chưa tươi; vài phản ánh về thái độ phục vụ.",
+  "rating": {
+   "value": 8.1,
+   "count": 41,
+   "source": "Foody.vn (thang điểm 10)",
+   "url": "https://www.foody.vn/ho-chi-minh/laikee-mi-gia-mi-hong-kong-tru-danh",
+   "seen": "2026-10"
+  },
+  "trending": false,
+  "tags": [
+   "Chợ Lớn",
+   "Mì người Hoa",
+   "Phong cách Hồng Kông"
+  ],
+  "tips_vi": "Mẹo: gọi mì khô kèm chén nước súp riêng để giữ sợi mì dai.",
+  "images": [],
+  "wiki": null,
+  "website": null,
+  "sources": [
+   "https://muaban.net/blog/quan-an-nguoi-hoa-ngon-tai-phuong-cho-lon-600611/",
+   "https://thesmartlocal.com/vietnam/cho-lon-foods/",
+   "https://www.foody.vn/ho-chi-minh/laikee-mi-gia-mi-hong-kong-tru-danh"
+  ],
+  "status": "open"
+ },
+ {
+  "id": "hcmc-xoi-cade-tran-phu",
+  "name": "Xôi Cadé Chính Gốc (Trần Phú)",
+  "cat": "food",
+  "subtitle": "Xôi lá dứa sốt cadé hơn 40 năm",
+  "address": "451 Trần Phú, Phường 7, Quận 5",
+  "lat": 10.753388,
+  "lng": 106.669814,
+  "coordSource": "https://wanderlog.com/place/details/1082917",
+  "price": null,
+  "hours": "18:00–23:00 hằng ngày",
+  "mustTry": "Xôi lá dứa rưới sốt cadé (nước cốt dừa, lòng đỏ trứng, sầu riêng), rắc muối mè và cơm dừa",
+  "desc_vi": "Hàng xôi cadé của một gia đình người Hoa bán hơn 40 năm trên đường Trần Phú. Xôi nếp hấp lá dứa xanh thơm, rưới lớp sốt cadé béo làm từ nước cốt dừa, lòng đỏ trứng và sầu riêng – món ăn vặt buổi tối quen thuộc của Chợ Lớn.",
+  "review_vi": "Khen: vị cadé đúng kiểu xưa, thơm sầu riêng, giá phải chăng; chủ người Hoa thân thiện. Chê: phần xôi khá nhỏ so với giá; mặt tiền đơn sơ, dễ đi lướt qua.",
+  "rating": {
+   "value": 4.3,
+   "count": 89,
+   "source": "Google (qua Wanderlog)",
+   "url": "https://wanderlog.com/place/details/1082917",
+   "seen": "2026-10"
+  },
+  "trending": false,
+  "tags": [
+   "Ít người biết",
+   "Chợ Lớn",
+   "Ăn vặt",
+   "Quán lâu đời"
+  ],
+  "tips_vi": "Mẹo: chỉ bán buổi tối; gần đó ở 28 Phan Phú Tiên còn một hàng cũng tự nhận 'chính gốc' nếu muốn so sánh.",
+  "images": [],
+  "wiki": null,
+  "website": null,
+  "sources": [
+   "https://wanderlog.com/place/details/1082917",
+   "https://thesmartlocal.com/vietnam/cho-lon-foods/",
+   "https://www.foody.vn/ho-chi-minh/dia-diem?q=x%C3%B4i%20cad%C3%A9"
+  ],
+  "status": "open"
+ },
+ {
+  "id": "hcmc-banh-xeo-ngoc-son",
+  "name": "Bánh xèo Ngọc Sơn",
+  "cat": "food",
+  "subtitle": "Bánh xèo miền Tây giữa Chợ Lớn",
+  "address": "103 Ngô Quyền, Phường 11, Quận 5",
+  "lat": 10.754453,
+  "lng": 106.666338,
+  "coordSource": "https://wanderlog.com/place/details/480628",
+  "price": null,
+  "hours": "09:00–21:00 hằng ngày",
+  "mustTry": "Bánh xèo tôm thịt, bánh khọt, bánh cống, chả giò, gỏi cuốn, bì cuốn; có bánh xèo chay",
+  "desc_vi": "Quán bánh xèo rộng rãi, thân thiện với gia đình ngay khu Chợ Lớn, chuyên bánh xèo vỏ mỏng giòn ăn với rổ rau rừng đầy và nước mắm chua ngọt. Thực đơn có thêm các món bánh miền Tây như bánh khọt, bánh cống và có bếp riêng làm bánh xèo chay.",
+  "review_vi": "Khen: bánh giòn nhẹ, phần lớn, rau thơm nhiều loại; ra món nhanh; lầu trên thoáng mát; có lựa chọn chay. Chê: đông giờ cơm; quán bình dân, không gian đơn giản.",
+  "rating": {
+   "value": 4.2,
+   "count": 1492,
+   "source": "Google (qua Wanderlog)",
+   "url": "https://wanderlog.com/place/details/480628",
+   "seen": "2026-10"
+  },
+  "trending": false,
+  "tags": [
+   "Bánh xèo",
+   "Món miền Tây",
+   "Chợ Lớn"
+  ],
+  "tips_vi": "Mẹo: ngồi lầu trên cho mát; gọi một bánh xèo và một phần bánh khọt để chia nhóm.",
+  "images": [
+   {
+    "commons": "File:BanhXeoatSaigon.jpg",
+    "kind": "dish"
+   }
+  ],
+  "wiki": null,
+  "website": null,
+  "sources": [
+   "https://wanderlog.com/place/details/480628",
+   "https://www.foody.vn/ho-chi-minh/dia-diem?q=b%C3%A1nh%20x%C3%A8o%20ng%E1%BB%8Dc%20s%C6%A1n"
+  ],
+  "status": "open"
+ },
+ {
+  "id": "hcmc-che-thanh-tam-bui-huu-nghia",
+  "name": "Chè Thanh Tâm",
+  "cat": "food",
+  "subtitle": "Chè Quảng Đông lâu năm trên Bùi Hữu Nghĩa",
+  "address": "98 Bùi Hữu Nghĩa, Phường 7, Quận 5",
+  "lat": 10.754487,
+  "lng": 106.674691,
+  "coordSource": "https://wanderlog.com/place/details/1082915",
+  "price": "Bình dân, giá ổn định qua nhiều năm",
+  "hours": "10:00–23:00 hằng ngày",
+  "mustTry": "Hột gà trà, tuyết nhĩ táo đỏ, sâm bổ lượng, đu đủ tiềm, bo bo hạnh nhân, thạch dừa sữa",
+  "desc_vi": "Tiệm chè người Hoa lâu năm ở khu Bùi Hữu Nghĩa – Phan Văn Trị, phố vịt quay của Chợ Lớn. Quán có cả chè nóng lẫn chè lạnh kiểu Quảng Đông, nhiều món hầm như đu đủ tiềm, tuyết nhĩ táo đỏ, cùng các món chè sữa.",
+  "review_vi": "Khen: chè không quá ngọt; hột gà trà lạ miệng; cảm giác hoài niệm như chè thời bé; có trà miễn phí. Chê: vài món vẫn bị cho là ngọt; quán nhỏ, giờ tối đông.",
+  "rating": {
+   "value": 4.2,
+   "count": 580,
+   "source": "Google (qua Wanderlog)",
+   "url": "https://wanderlog.com/place/details/1082915",
+   "seen": "2026-10"
+  },
+  "trending": false,
+  "tags": [
+   "Chợ Lớn",
+   "Chè người Hoa",
+   "Quán lâu đời"
+  ],
+  "tips_vi": "Mẹo: ăn xong đi bộ sang Cửu Long Quán hoặc phố vịt quay Phan Văn Trị ngay cạnh.",
+  "images": [
+   {
+    "commons": "File:Chè Thạch Trắng Đậu Xanh Nhãn Nhục.JPG",
+    "kind": "dish"
+   }
+  ],
+  "wiki": null,
+  "website": null,
+  "sources": [
+   "https://wanderlog.com/place/details/1082915",
+   "https://www.greensm.com/vn-vi/news/che-quan-5"
+  ],
+  "status": "open"
+ },
+ {
+  "id": "hcmc-khanh-vy-che-mam",
+  "name": "Khánh Vy – Chè mâm",
+  "cat": "food",
+  "subtitle": "Chè mâm vỉa hè ba đời ở chung cư Ngô Gia Tự",
+  "address": "032 Lô H, chung cư Ngô Gia Tự, Phường 2, Quận 10",
+  "lat": 10.761676,
+  "lng": 106.673094,
+  "coordSource": "https://wanderlog.com/place/details/422882",
+  "price": null,
+  "hours": "15:00–22:30 hằng ngày",
+  "mustTry": "Chè chuối nước cốt dừa, chè đậu đen, chè mè đen, chè khoai môn – khoai mì – khoai lang, flan cà phê",
+  "desc_vi": "Sạp chè mâm truyền qua ba thế hệ dưới chân chung cư Ngô Gia Tự, bày hàng chục nồi chè nóng và chè lạnh kiểu Sài Gòn. Khách ngồi ghế đẩu ven đường ăn từng chén nhỏ – một nét sinh hoạt chiều tối rất 'đời' của khu Quận 10.",
+  "review_vi": "Khen: chè truyền thống ngon, nhiều lựa chọn nóng; mè đen và chè khoai được khen; phục vụ nhanh dù đông. Chê: chén nhỏ; ngồi ghế thấp vỉa hè, khá chen chúc giờ cao điểm.",
+  "rating": {
+   "value": 4.3,
+   "count": 1461,
+   "source": "Google (qua Wanderlog)",
+   "url": "https://wanderlog.com/place/details/422882",
+   "seen": "2026-10"
+  },
+  "trending": false,
+  "tags": [
+   "Chè",
+   "Vỉa hè",
+   "Quán lâu đời"
+  ],
+  "tips_vi": "Mẹo: gọi nhiều chén nhỏ để thử nhiều loại; gần đó (cùng lô H) có Bò Kho Gánh nếu muốn ăn mặn trước.",
+  "images": [
+   {
+    "commons": "File:Chè Thạch Trắng Đậu Xanh Nhãn Nhục.JPG",
+    "kind": "dish"
+   }
+  ],
+  "wiki": null,
+  "website": null,
+  "sources": [
+   "https://wanderlog.com/place/details/422882",
+   "https://www.foody.vn/ho-chi-minh/dia-diem?q=kh%C3%A1nh%20vy"
+  ],
+  "status": "open"
+ },
+ {
+  "id": "hcmc-papa-lees-noodle-kitchen",
+  "name": "Papa Lee's Noodle Kitchen",
+  "cat": "food",
+  "subtitle": "Mì hoành thánh, vịt quay kiểu Hồng Kông",
+  "address": "271 Trần Phú, Phường 8, Quận 5",
+  "lat": 10.756901,
+  "lng": 106.673966,
+  "coordSource": "https://wanderlog.com/place/details/4569180",
+  "price": null,
+  "hours": "07:00–21:30 hằng ngày",
+  "mustTry": "Mì hoành thánh tôm thịt (khô hoặc nước), mì vịt quay",
+  "desc_vi": "Tiệm mì nhỏ, sạch sẽ trên đường Trần Phú chuyên mì hoành thánh kiểu Hồng Kông (云吞面). Hoành thánh tôm thịt căng tròn ăn với nước sốt riêng, sợi mì trứng ăn khô hoặc nước; vịt quay được nhiều khách nhớ nhất.",
+  "review_vi": "Khen: hoành thánh mềm, nhân đầy, nước sốt ngon; nước súp đậm; vịt quay ngon; nhân viên thân thiện, giá hợp lý, có chỗ để xe. Chê: sợi mì chỉ ở mức bình thường; quán nhỏ, ít bàn.",
+  "rating": {
+   "value": 4.5,
+   "count": 595,
+   "source": "Google (qua Wanderlog)",
+   "url": "https://wanderlog.com/place/details/4569180",
+   "seen": "2026-10"
+  },
+  "trending": false,
+  "tags": [
+   "Mì người Hoa",
+   "Hoành thánh",
+   "Phong cách Hồng Kông"
+  ],
+  "tips_vi": "Mẹo: gọi thêm một đĩa vịt quay ăn kèm mì khô.",
+  "images": [],
+  "wiki": null,
+  "website": "http://papaleesnoodlekitchen.com/",
+  "sources": [
+   "https://wanderlog.com/place/details/4569180",
+   "https://www.foody.vn/ho-chi-minh/dia-diem?q=papa%20lee%27s"
+  ],
+  "status": "open"
+ },
+ {
+  "id": "hcmc-hu-tieu-nam-vang-nhan-nghia",
+  "name": "Hủ tiếu Nam Vang Nhân Nghĩa",
+  "cat": "food",
+  "subtitle": "Hủ tiếu Nam Vang gia đình, tôm tươi",
+  "address": "385/1A Nguyễn Trãi, Phường Nguyễn Cư Trinh, Quận 1",
+  "lat": 10.759358,
+  "lng": 106.684789,
+  "coordSource": "https://wanderlog.com/place/details/12471756",
+  "price": null,
+  "hours": "06:00–20:30 hằng ngày",
+  "mustTry": "Hủ tiếu Nam Vang đặc biệt (nước hoặc khô), trà đá",
+  "desc_vi": "Quán hủ tiếu Nam Vang nhỏ do hai ông bà chủ lớn tuổi đứng bán, nằm trong hẻm đường Nguyễn Trãi đoạn giáp Quận 5. Nước dùng ngọt từ xương, tôm, thịt; tôm được làm sạch kỹ tới cả chỉ lưng – điều khách hay nhắc tới.",
+  "review_vi": "Khen: nguyên liệu rất tươi, đặc biệt là tôm; nước dùng đậm mà thanh; quán sạch; ông bà chủ thân thiện; cả bản nước lẫn khô đều ngon. Chê: quán nhỏ trong hẻm, ít chỗ ngồi.",
+  "rating": {
+   "value": 4.9,
+   "count": 98,
+   "source": "Google (qua Wanderlog)",
+   "url": "https://wanderlog.com/place/details/12471756",
+   "seen": "2026-10"
+  },
+  "trending": false,
+  "tags": [
+   "Ít người biết",
+   "Hủ tiếu",
+   "Quán hẻm"
+  ],
+  "tips_vi": "Mẹo: đi buổi sáng khi nước dùng mới; gọi thêm ly trà đá như khách quen.",
+  "images": [
+   {
+    "commons": "File:Hủ tiếu Nam Vang Sài Gòn.jpg",
+    "kind": "dish"
+   }
+  ],
+  "wiki": null,
+  "website": null,
+  "sources": [
+   "https://wanderlog.com/place/details/12471756",
+   "https://www.foody.vn/ho-chi-minh/dia-diem?q=h%E1%BB%A7%20ti%E1%BA%BFu%20nam%20vang%20nh%C3%A2n%20ngh%C4%A9a"
+  ],
+  "status": "open"
+ },
+ {
+  "id": "hcmc-koo-kui-desserts",
+  "name": "Koo Kui Desserts – Cổ Cư Chè Quán",
+  "cat": "food",
+  "subtitle": "Tiệm chè Hoa decor kiểu phim TVB",
+  "address": "949 Nguyễn Trãi, Phường 14, Quận 5",
+  "lat": 10.752773,
+  "lng": 106.654858,
+  "coordSource": "https://www.foody.vn/ho-chi-minh/koo-kui-desserts-co-cu-che-quan",
+  "price": null,
+  "hours": "11:00–22:00",
+  "mustTry": "Thạch tiên thảo đậu đỏ, sago sữa dừa xoài, thạch ngọc băng, cá viên cà ri",
+  "desc_vi": "Tiệm chè nhỏ ở cuối đường Nguyễn Trãi, khu người Hoa, trang trí theo kiểu cổ trang như bối cảnh phim TVB. Thực đơn chè Quảng Đông – Hồng Kông nhiều topping, kèm vài món mặn như mì, bánh cuốn, cá viên cà ri; bên trong máy lạnh mát.",
+  "review_vi": "Khen: không gian cổ trang đẹp, mát; chè nhiều topping, không quá ngọt; cá viên cà ri thơm; nhân viên nhiệt tình. Chê: phần cá viên hơi ít; giờ mở cửa từng ghi không thống nhất giữa các trang.",
+  "rating": {
+   "value": 4.5,
+   "count": 256,
+   "source": "Google (qua Greensm, số liệu 03/2025)",
+   "url": "https://www.greensm.com/vn-vi/news/che-quan-5",
+   "seen": "2026-10"
+  },
+  "trending": false,
+  "tags": [
+   "Ít người biết",
+   "Chợ Lớn",
+   "Chè người Hoa",
+   "Check-in"
+  ],
+  "tips_vi": "Mẹo: đoạn Nguyễn Trãi này là đường một chiều, đi xe máy nên tính hướng trước.",
+  "images": [],
+  "wiki": null,
+  "website": null,
+  "sources": [
+   "https://www.greensm.com/vn-vi/news/che-quan-5",
+   "https://www.foody.vn/ho-chi-minh/koo-kui-desserts-co-cu-che-quan"
+  ],
+  "status": "open"
+ },
+ {
+  "id": "hcmc-cam-cam-kafe",
+  "name": "Cam Cam Kafe",
+  "cat": "cafe",
+  "subtitle": "Cà phê chung cư cũ nhìn xuống mái Hà Chương Hội Quán",
+  "address": "Tầng 2, 806/5E Nguyễn Trãi, Phường 14, Quận 5",
+  "lat": 10.7533902,
+  "lng": 106.6577696,
+  "coordSource": "https://www.foody.vn/ho-chi-minh/cam-cam-kafe",
+  "price": null,
+  "hours": "09:00–22:00 (theo Saigoneer 2018)",
+  "mustTry": "Cà phê sữa đá, cà phê pha rượu rum/Baileys, trà đào",
+  "desc_vi": "Quán cà phê nhỏ nằm ở góc lầu hai một chung cư cũ trên Nguyễn Trãi, có ô kính nhìn thẳng xuống mái ngói cong kiểu Phúc Kiến của Hà Chương Hội Quán (xây năm 1809). Bên trong bày đồ cũ, sách xưa, đèn dây, mở nhạc cũ và nhạc Hoa.",
+  "review_vi": "Khen: view mái hội quán độc đáo; không gian cổ kính, ấm cúng, nhiều góc chụp; đồ uống ổn, giá mềm; nhân viên hiếu khách. Chê: lối cầu thang chung cư cũ có mùi khó chịu; quán rất nhỏ; khó tìm và chỗ gửi xe chật.",
+  "rating": {
+   "value": 8.3,
+   "count": 31,
+   "source": "Foody.vn (thang điểm 10)",
+   "url": "https://www.foody.vn/ho-chi-minh/cam-cam-kafe",
+   "seen": "2026-10"
+  },
+  "trending": false,
+  "tags": [
+   "Ít người biết",
+   "Cà phê chung cư",
+   "Chợ Lớn"
+  ],
+  "tips_vi": "Mẹo: đi ít người vì quán nhỏ; kết hợp tham quan Hà Chương Hội Quán ngay bên dưới. Các đánh giá tìm được đều từ 2018–2020 – hãy kiểm tra quán còn mở trước khi đi.",
+  "images": [],
+  "wiki": null,
+  "website": null,
+  "sources": [
+   "https://www.saigoneer.com/saigon-street-food-restaurants/14552-hẻm-gems-cam-cam-kafe-and-the-fujian-pagoda-that-inspired-its-name",
+   "https://www.foody.vn/ho-chi-minh/cam-cam-kafe"
+  ],
+  "status": "unverified"
+ },
+ {
+  "id": "hcmc-com-ga-hai-nam-nguyen-tri-phuong",
+  "name": "Cơm gà Hải Nam (Nguyễn Tri Phương)",
+  "cat": "food",
+  "subtitle": "Cơm gà Hải Nam lâu năm trên Nguyễn Tri Phương",
+  "address": "379 Nguyễn Tri Phương, Quận 10",
+  "lat": 10.76305,
+  "lng": 106.667975,
+  "coordSource": "https://wanderlog.com/place/details/6700835",
+  "price": null,
+  "hours": "10:00–21:30 hằng ngày",
+  "mustTry": "Cơm gà Hải Nam (gà luộc, cơm nấu nước gà), gà quay, gà hấp muối, canh cải xoong",
+  "desc_vi": "Quán cơm gà Hải Nam quen thuộc trên trục Nguyễn Tri Phương, thực đơn nhiều kiểu gà – luộc kiểu Hải Nam, quay, hấp muối, kiểu Đài Loan – ăn với cơm nấu nước gà thơm, kèm rau xào và canh.",
+  "review_vi": "Khen: gà mềm, cơm thơm; thực đơn đa dạng; giá hợp lý; nhân viên thân thiện. Chê: chất lượng không đều – có khách gặp ức gà nhạt, cơm khô cứng, phục vụ chậm hoặc thiếu canh kèm.",
+  "rating": {
+   "value": 4.0,
+   "count": 2357,
+   "source": "Google (qua Wanderlog)",
+   "url": "https://wanderlog.com/place/details/6700835",
+   "seen": "2026-10"
+  },
+  "trending": false,
+  "tags": [
+   "Cơm gà",
+   "Ẩm thực người Hoa"
+  ],
+  "tips_vi": "Mẹo: gọi phần đùi thay vì ức nếu thích gà mềm, đậm vị.",
+  "images": [
+   {
+    "commons": "File:Hainanese chicken rice (in Macau).jpg",
+    "kind": "dish"
+   }
+  ],
+  "wiki": null,
+  "website": null,
+  "sources": [
+   "https://wanderlog.com/place/details/6700835"
+  ],
+  "status": "open"
+ },
+ {
+  "id": "hcmc-dimsum-mr-hao",
+  "name": "Dimsum Mr. Hào",
+  "cat": "food",
+  "subtitle": "Dimsum vỉa hè buổi tối, giá mềm",
+  "address": "175 Trần Tuấn Khải, Quận 5",
+  "lat": 10.752647,
+  "lng": 106.673557,
+  "coordSource": "https://wanderlog.com/place/details/8900341",
+  "price": null,
+  "hours": "16:30–22:00 hằng ngày",
+  "mustTry": "Há cảo, sủi cảo nước, chân gà, râu mực sốt bơ, tương ớt nhà làm",
+  "desc_vi": "Hàng dimsum bình dân chỉ bán chiều tối trên đường Trần Tuấn Khải, kiểu ăn nhanh ngồi ghế nhựa. Món ra nhanh, giá rẻ, và nhiều khách quay lại chỉ vì chén tương ớt nhà làm.",
+  "review_vi": "Khen: giá rất mềm, ra món nhanh; sủi cảo nước, chân gà, râu mực bơ được khen; tương ớt xuất sắc. Chê: có người thấy dimsum chưa có vị riêng, ít món; hay hết hàng sớm.",
+  "rating": {
+   "value": 4.3,
+   "count": 513,
+   "source": "Google (qua Wanderlog)",
+   "url": "https://wanderlog.com/place/details/8900341",
+   "seen": "2026-10"
+  },
+  "trending": false,
+  "tags": [
+   "Ít người biết",
+   "Dimsum",
+   "Vỉa hè",
+   "Chợ Lớn"
+  ],
+  "tips_vi": "Mẹo: đến sớm khoảng 17h vì món bán chạy hết nhanh.",
+  "images": [],
+  "wiki": null,
+  "website": null,
+  "sources": [
+   "https://wanderlog.com/place/details/8900341"
+  ],
+  "status": "open"
+ },
+ {
+  "id": "hcmc-nhat-nguyet-garden-cafe",
+  "name": "Nhật Nguyệt Garden Cafe",
+  "cat": "cafe",
+  "subtitle": "Cà phê sân vườn rộng, phong cách Sài Gòn xưa",
+  "address": "905 Trần Hưng Đạo, Phường 1, Quận 5",
+  "lat": 10.7545449,
+  "lng": 106.6791488,
+  "coordSource": "https://www.foody.vn/ho-chi-minh/nhat-nguyet-garden-cafe",
+  "price": null,
+  "hours": "06:30–23:00 hằng ngày",
+  "mustTry": "Cà phê phin, cà phê máy, trà trái cây, kem dừa",
+  "desc_vi": "Quán cà phê sân vườn rộng trên đường Trần Hưng Đạo, đoạn Quận 5 giáp Quận 1, phong cách hoài cổ với bàn ghế gỗ, đèn vàng và quạt phun sương. Đây là chỗ hẹn cà phê sáng và tối cuối tuần quen thuộc của người dân quanh khu.",
+  "review_vi": "Khen: không gian rộng, nhiều cây, mát; phục vụ nhanh; kem dừa được khen. Chê: cuối tuần đông, nhạc to và ồn; vài phản ánh về vệ sinh dụng cụ và thái độ phục vụ; có thời điểm không nhận thanh toán thẻ.",
+  "rating": {
+   "value": 4.1,
+   "count": null,
+   "source": "Google (qua Greensm, số liệu 03/2025)",
+   "url": "https://www.greensm.com/vn-vi/news/ca-phe-quan-5",
+   "seen": "2026-10"
+  },
+  "trending": false,
+  "tags": [
+   "Cà phê sân vườn",
+   "Hoài cổ"
+  ],
+  "tips_vi": "Mẹo: đi buổi sáng ngày thường để yên tĩnh; mang theo tiền mặt.",
+  "images": [],
+  "wiki": null,
+  "website": null,
+  "sources": [
+   "https://www.greensm.com/vn-vi/news/ca-phe-quan-5",
+   "https://www.foody.vn/ho-chi-minh/nhat-nguyet-garden-cafe"
+  ],
+  "status": "open"
+ },
+ {
+  "id": "hcmc-rosie-posie-coffee",
+  "name": "Rosie Posie Coffee",
+  "cat": "cafe",
+  "subtitle": "Cà phê phong cách Hàn trong hẻm Trần Hưng Đạo",
+  "address": "60/17 Trần Hưng Đạo, Phường 7, Quận 5",
+  "lat": 10.7534018,
+  "lng": 106.6704904,
+  "coordSource": "https://www.foody.vn/ho-chi-minh/rosie-posie-coffee",
+  "price": null,
+  "hours": "09:30–22:00 hằng ngày",
+  "mustTry": "Matcha espresso, matcha macchiato, purple macchiato, bánh ngọt",
+  "desc_vi": "Quán cà phê nhỏ trong hẻm, trang trí tông trắng – gỗ kiểu Hàn Quốc, lấy cảm hứng từ Rosé (Blackpink), có bức tranh lớn và tường ảnh vintage. Quán mở nhạc jazz, R&B nhẹ, hợp ngồi đọc sách hoặc làm việc.",
+  "review_vi": "Khen: nhiều góc chụp ảnh xinh; đồ uống không bị ngọt, các món matcha được khen; nhân viên tư vấn nhiệt tình. Chê: quán nhỏ, nằm trong hẻm; số lượng đánh giá trên Foody còn ít.",
+  "rating": {
+   "value": 4.7,
+   "count": null,
+   "source": "Google (qua Greensm, số liệu 03/2025)",
+   "url": "https://www.greensm.com/vn-vi/news/ca-phe-quan-5",
+   "seen": "2026-10"
+  },
+  "trending": false,
+  "tags": [
+   "Ít người biết",
+   "Cà phê đẹp",
+   "Check-in"
+  ],
+  "tips_vi": "Mẹo: quán nằm trong hẻm 60 Trần Hưng Đạo, gần Baoz Dimsum và xôi cadé Trần Phú – tiện ghé sau bữa ăn.",
+  "images": [],
+  "wiki": null,
+  "website": null,
+  "sources": [
+   "https://www.greensm.com/vn-vi/news/ca-phe-quan-5",
+   "https://www.foody.vn/ho-chi-minh/rosie-posie-coffee"
+  ],
+  "status": "open"
+ }
+]
