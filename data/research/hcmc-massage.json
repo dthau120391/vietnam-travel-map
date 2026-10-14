@@ -1,0 +1,1077 @@
+[
+ {
+  "id": "hcmc-temple-leaf-spa",
+  "name": "Temple Leaf Spa",
+  "cat": "wellness",
+  "subtitle": "Massage body · massage chân · đá nóng",
+  "address": "74/1A Hai Bà Trưng, Phường Sài Gòn, Quận 1",
+  "lat": 10.778073,
+  "lng": 106.703599,
+  "coordSource": "https://wanderlog.com/place/details/856913",
+  "price": "Body 60 phút 520.000đ; 90 phút 680.000đ; 120 phút (kèm tắm) 850.000đ; massage chân 60 phút 450.000đ (bảng giá trên website)",
+  "hours": "10:00–23:30",
+  "mustTry": "Liệu trình nên chọn: Temple Body Massage 90 phút hoặc massage chân 60 phút; website không ghi lực mạnh (deep tissue) — muốn ấn sâu thì dặn kỹ thuật viên trước",
+  "desc_vi": "Một trong những spa độc lập lâu năm và nổi tiếng nhất khu Hai Bà Trưng – Đồng Khởi, nằm lùi trong hẻm nên khá yên tĩnh. Không gian bày đồ cổ, đèn vàng ấm và nhạc thiền; thực đơn gọn gồm massage body, massage chân, tẩy tế bào chết và đá nóng.",
+  "review_vi": "Khen: kỹ thuật viên làm kỹ, không gian đẹp và thư giãn, massage đá nóng được nhắc nhiều. Chê: một số phòng ở tầng trên đã cũ; chỉ nhận tiền mặt; khoảng 6% đánh giá 1–2 sao.",
+  "rating": {
+   "value": 4.6,
+   "count": 2079,
+   "source": "Google (qua Wanderlog)",
+   "url": "https://wanderlog.com/place/details/856913",
+   "seen": "2026-10"
+  },
+  "trending": false,
+  "tags": [
+   "Massage chân",
+   "Đặt lịch trước",
+   "Mở khuya"
+  ],
+  "tips_vi": "Mẹo: mang tiền mặt; đặt qua nút Booking trên website hoặc gọi 028 6291 3656; báo lực mạnh/nhẹ ngay khi bắt đầu.",
+  "images": [],
+  "wiki": null,
+  "website": "https://templeleafspa.com/",
+  "sources": [
+   "https://wanderlog.com/place/details/856913",
+   "https://templeleafspa.com/",
+   "https://www.hoakieu.vn/massage-quan-1"
+  ],
+  "status": "open"
+ },
+ {
+  "id": "hcmc-saigon-heritage-spa",
+  "name": "Saigon Heritage Spa & Massage Club",
+  "cat": "wellness",
+  "subtitle": "Massage body · massage chân · gói trị liệu dài",
+  "address": "69 Hai Bà Trưng, Phường Sài Gòn, Quận 1",
+  "lat": 10.776872,
+  "lng": 106.704562,
+  "coordSource": "https://wanderlog.com/place/details/1082564",
+  "price": "Body 60 phút 520.000đ; 90 phút 680.000đ; 120 phút 850.000đ; massage chân 60 phút 450.000đ; gói Oriental Calm 2,5 giờ 1.300.000đ (bảng giá trên website)",
+  "hours": "10:00–23:30",
+  "mustTry": "Liệu trình nên chọn: Diamond Body Massage 90 phút hoặc combo body 90 phút + chân 30 phút (800.000đ); không ghi lực mạnh nhưng nhiều khách khen bấm đúng huyệt — muốn mạnh thì dặn trước",
+  "desc_vi": "Spa mang không khí Việt cổ điển ngay mặt tiền Hai Bà Trưng, cách phố đi bộ Nguyễn Huệ vài phút đi bộ. Được biết đến nhiều nhất nhờ massage chân và các gói Gold/Diamond, khách được mời trà trước và sau liệu trình.",
+  "review_vi": "Khen: massage chân rất được khen, kỹ thuật viên chú ý các điểm huyệt, phòng sạch, đèn ấm, nhạc êm. Chê: giờ cao điểm dễ kín chỗ nếu không đặt trước; khoảng 5% đánh giá 1–2 sao.",
+  "rating": {
+   "value": 4.6,
+   "count": 2739,
+   "source": "Google (qua Wanderlog)",
+   "url": "https://wanderlog.com/place/details/1082564",
+   "seen": "2026-10"
+  },
+  "trending": false,
+  "tags": [
+   "Massage chân",
+   "Đặt lịch trước",
+   "Mở khuya"
+  ],
+  "tips_vi": "Mẹo: gọi 028 6684 6546 hoặc 0931 348 604 để giữ chỗ buổi tối; có thể xin lại kỹ thuật viên mình thích ở lần sau.",
+  "images": [],
+  "wiki": null,
+  "website": null,
+  "sources": [
+   "https://wanderlog.com/place/details/1082564",
+   "https://saigonheritage.com/",
+   "https://vinwonders.com/en/wonderpedia/news/massage-in-ho-chi-minh-city/"
+  ],
+  "status": "open"
+ },
+ {
+  "id": "hcmc-massage-co-phong-q3",
+  "name": "Massage Cổ Phong (chi nhánh Quận 3)",
+  "cat": "wellness",
+  "subtitle": "Gội đầu dưỡng sinh · massage bấm huyệt kiểu Trung Hoa",
+  "address": "408 Nguyễn Thị Minh Khai, Phường Bàn Cờ, Quận 3",
+  "lat": 10.771394,
+  "lng": 106.687101,
+  "coordSource": "https://wanderlog.com/place/details/4760900",
+  "price": "Gội đầu dưỡng sinh 60 phút 349.000đ; body 60 phút 690.000đ, 90 phút 890.000đ, 120 phút 1.090.000đ (đã gồm tip, xông hơi, tráng miệng); combo body + gội + xông hơi từ 950.000đ (giá niêm yết trên website)",
+  "hours": "10:00–22:00",
+  "mustTry": "Liệu trình nên chọn: combo body + gội đầu dưỡng sinh + xông hơi đá muối; kỹ thuật bấm huyệt kiểu Trung Hoa, có giác hơi, lực thường đậm hơn massage Việt — ai thích nhẹ nên dặn trước",
+  "desc_vi": "Chuỗi massage – gội đầu dưỡng sinh theo phong cách cổ trang Trung Hoa, khách được đón bằng tiếng đàn tranh biểu diễn trực tiếp. Liệu trình kết hợp bấm huyệt, đá nóng, giác hơi, phòng xông đá muối Himalaya và gội đầu thảo dược. Đây là một trong những spa có nhiều đánh giá Google nhất Sài Gòn (hơn 12.000).",
+  "review_vi": "Khen: không gian đẹp và lạ, nhạc đàn tranh, kỹ thuật viên được đào tạo tốt, gói VIP nhiều bước. Chê: vài khách thấy gói dài làm hơi vội, có lúc nhầm lẫn khi chọn gói; người quen massage kiểu Việt có thể thấy kiểu Trung Hoa hơi mạnh tay.",
+  "rating": {
+   "value": 4.9,
+   "count": 12184,
+   "source": "Google (qua Wanderlog)",
+   "url": "https://wanderlog.com/place/details/4760900",
+   "seen": "2026-10"
+  },
+  "trending": true,
+  "tags": [
+   "Gội đầu dưỡng sinh",
+   "Xông hơi",
+   "Đặt lịch trước"
+  ],
+  "tips_vi": "Mẹo: đặt qua Zalo/hotline 098 971 74 94; có thêm chi nhánh 106–108 Lê Thị Riêng (Quận 1); hỏi rõ giá gói trước khi làm vì giá khách kể và giá niêm yết đôi khi khác nhau.",
+  "images": [],
+  "wiki": null,
+  "website": "https://massagecophong.com/",
+  "sources": [
+   "https://wanderlog.com/place/details/4760900",
+   "https://massagecophong.com/",
+   "https://massagecophong.com/bang-gia-massage-quan-1-sai-gon-moi-nhat/",
+   "https://www.hoakieu.vn/massage-quan-1"
+  ],
+  "status": "open"
+ },
+ {
+  "id": "hcmc-ans-spa",
+  "name": "AN's Spa – Massage trị liệu (Nguyễn Thị Minh Khai)",
+  "cat": "wellness",
+  "subtitle": "Massage bấm huyệt kiểu Việt · đá nóng · gội đầu",
+  "address": "Hẻm 18Bis/13 Nguyễn Thị Minh Khai, Phường Sài Gòn, Quận 1",
+  "lat": 10.785558,
+  "lng": 106.699821,
+  "coordSource": "https://wanderlog.com/place/details/4402187",
+  "price": "AN's Signature Body Massage 60 phút 500.000đ; 90 phút 720.000đ (chưa gồm 8% phí dịch vụ)",
+  "hours": "10:00–22:00",
+  "mustTry": "Liệu trình nên chọn: AN's Signature Body Massage (bấm huyệt cổ vai gáy, đá nóng, túi muối Himalaya, gối thảo dược) hoặc gói AN1 body + chăm sóc tóc; kỹ thuật viên hỏi mức lực trước nên có thể xin lực mạnh",
+  "desc_vi": "Spa nhỏ, yên tĩnh trong hẻm Nguyễn Thị Minh Khai, chuyên massage trị liệu theo lối bấm huyệt truyền thống Việt Nam. Khách được mời nước, trái cây, sữa chua và chọn vùng đau, mức lực trước khi vào phòng. Hệ thống có 3 cơ sở ở Quận 1 và 1 ở Thảo Điền.",
+  "review_vi": "Khen: 4,9 điểm trên hơn 5.200 đánh giá, kỹ thuật viên chuyên nghiệp, chỉnh lực theo ý khách, sạch sẽ, giá hợp lý so với trung tâm, có mèo cưng làm 'lễ tân'. Chê: rất ít — chỉ khoảng 1,5% đánh giá 1–2 sao.",
+  "rating": {
+   "value": 4.9,
+   "count": 5206,
+   "source": "Google (qua Wanderlog)",
+   "url": "https://wanderlog.com/place/details/4402187",
+   "seen": "2026-10"
+  },
+  "trending": false,
+  "tags": [
+   "Gội đầu dưỡng sinh",
+   "Đặt lịch trước"
+  ],
+  "tips_vi": "Mẹo: đặt qua trang Booking trên website hoặc gọi 0902 323 470; nếu kín chỗ có thể sang cơ sở 12 Đặng Trần Côn hoặc 30/11 Mạc Đĩnh Chi.",
+  "images": [],
+  "wiki": null,
+  "website": "https://an-spa.vn/",
+  "sources": [
+   "https://wanderlog.com/place/details/4402187",
+   "https://an-spa.vn/en",
+   "https://an-spa.vn/en/branch",
+   "https://an-spa.vn/en/services/ans-signature-body-massage",
+   "https://vinwonders.com/en/wonderpedia/news/massage-in-ho-chi-minh-city/"
+  ],
+  "status": "open"
+ },
+ {
+  "id": "hcmc-quynh-nhu-137",
+  "name": "Quỳnh Như 137 Foot Massage",
+  "cat": "wellness",
+  "subtitle": "Massage chân · body · đá nóng",
+  "address": "147–149 Hàm Nghi, Phường Bến Thành, Quận 1",
+  "lat": 10.77075,
+  "lng": 106.699927,
+  "coordSource": "https://wanderlog.com/place/details/4225908",
+  "price": "Khoảng 350.000–700.000đ tùy dịch vụ (theo VinWonders 12/2025); website ghi 'Liên hệ', chưa gồm tip",
+  "hours": "10:00–23:00",
+  "mustTry": "Liệu trình nên chọn: Foot and Body Massage 90 phút hoặc Combo Quỳnh Như's Signature 100 phút; có bấm huyệt, đạp lưng giãn cơ và chà đá nóng — hợp người thích lực mạnh",
+  "desc_vi": "Tiệm massage chân lâu đời và đông khách bậc nhất trung tâm Sài Gòn, gần chợ Bến Thành, với hơn 14.000 đánh giá Google. Gói kinh điển kết hợp massage chân, tay, lưng, đá nóng và đắp mặt nạ trong một buổi; cuối buổi khách được mời trà gừng nóng.",
+  "review_vi": "Khen: tay nghề đều và chắc, phòng sạch, nhân viên thân thiện, chủ tiệm hiếu khách, cuối buổi có trà gừng nóng. Chê: rất đông khách du lịch nên giờ cao điểm phải chờ nếu không đặt trước.",
+  "rating": {
+   "value": 4.8,
+   "count": 14594,
+   "source": "Google (qua Wanderlog)",
+   "url": "https://wanderlog.com/place/details/4225908",
+   "seen": "2026-10"
+  },
+  "trending": false,
+  "tags": [
+   "Massage chân",
+   "Lực mạnh",
+   "Đặt lịch trước",
+   "Mở khuya"
+  ],
+  "tips_vi": "Mẹo: đặt lịch qua form trên website hoặc gọi 028 3821 7362 (chọn được giới tính kỹ thuật viên); kiểm tra đúng số 147–149 Hàm Nghi; có thêm cơ sở 85 Trần Quốc Hoàn (Tân Bình).",
+  "images": [],
+  "wiki": null,
+  "website": "https://quynhnhu137.com/",
+  "sources": [
+   "https://wanderlog.com/place/details/4225908",
+   "https://quynhnhu137.com/",
+   "https://vinwonders.com/en/wonderpedia/news/massage-in-ho-chi-minh-city/"
+  ],
+  "status": "open"
+ },
+ {
+  "id": "hcmc-temple-leaf-sauna-spa",
+  "name": "Temple Leaf Sauna & Spa",
+  "cat": "wellness",
+  "subtitle": "Xông hơi kiểu Hàn (jjimjilbang) · massage body · đá nóng",
+  "address": "32 Thái Văn Lung, Phường Sài Gòn, Quận 1",
+  "lat": 10.780263,
+  "lng": 106.703712,
+  "coordSource": "https://wanderlog.com/place/details/1210296",
+  "price": "Body 60 phút 520.000đ, 90 phút 680.000đ; gói body kèm xông hơi 60 phút 610.000đ, 90 phút 730.000đ; massage chân 60 phút 450.000đ (bảng giá trên website)",
+  "hours": "10:00–23:30",
+  "mustTry": "Liệu trình nên chọn: gói Temple Body 90 phút kèm xông hơi hoặc massage đá nóng; website không ghi lực mạnh — dặn kỹ thuật viên nếu muốn ấn sâu",
+  "desc_vi": "Cơ sở 'em' của Temple Leaf trên phố Nhật Thái Văn Lung, kết hợp massage với khu xông hơi kiểu Hàn Quốc. Có nhiều phòng xông và phòng massage riêng, phù hợp ghé thư giãn vài tiếng giữa trung tâm Quận 1.",
+  "review_vi": "Khen: kỹ thuật viên tay nghề tốt, massage đá nóng được thích, nhân viên chu đáo, sạch sẽ. Chê: một số khách thấy phòng xông giữ nhiệt kém và bồn nước lạnh chưa đủ lạnh; khách vãng lai có thể bị từ chối khi kín chỗ.",
+  "rating": {
+   "value": 4.5,
+   "count": 1846,
+   "source": "Google (qua Wanderlog)",
+   "url": "https://wanderlog.com/place/details/1210296",
+   "seen": "2026-10"
+  },
+  "trending": false,
+  "tags": [
+   "Xông hơi",
+   "Đặt lịch trước",
+   "Mở khuya"
+  ],
+  "tips_vi": "Mẹo: đặt qua form Booking trên website hoặc gọi 028 2220 0507 / 078 984 1431; ngày thường vắng hơn cuối tuần.",
+  "images": [],
+  "wiki": null,
+  "website": "https://www.templeleafsauna.com/",
+  "sources": [
+   "https://wanderlog.com/place/details/1210296",
+   "https://www.templeleafsauna.com/",
+   "https://vinwonders.com/en/wonderpedia/news/massage-in-ho-chi-minh-city/"
+  ],
+  "status": "open"
+ },
+ {
+  "id": "hcmc-golden-lotus-thai-van-lung",
+  "name": "Golden Lotus Spa & Massage Club (Thái Văn Lung)",
+  "cat": "wellness",
+  "subtitle": "Xông hơi kiểu Hàn · massage chân · massage body",
+  "address": "15 Thái Văn Lung, Phường Sài Gòn, Quận 1",
+  "lat": 10.779154,
+  "lng": 106.704484,
+  "coordSource": "https://wanderlog.com/place/details/1210319",
+  "price": "Vé xông hơi (nam, giờ vàng ngày thường) 176.000đ sau giảm 20%; massage body 60–90 phút khoảng 375.000–550.000đ (theo hoakieu.vn 2025); giá có thể chưa gồm VAT",
+  "hours": "09:00–23:00",
+  "mustTry": "Liệu trình nên chọn: massage chân + vai gáy (Golden Lotus Balance Support) hoặc vé xông hơi kèm massage; nhiều khách khen deep tissue, nhưng massage dầu nên nói rõ mức lực mong muốn",
+  "desc_vi": "Thương hiệu spa phong cách Hàn Quốc có từ năm 2006, cơ sở trên phố Nhật Thái Văn Lung gồm massage, chăm sóc da, tẩy tế bào chết và khu xông hơi kiểu jjimjilbang. Nổi tiếng nhất với massage chân kỹ, giá dễ chịu so với khu trung tâm; khách được mời trà và trái cây sau buổi làm.",
+  "review_vi": "Khen: massage chân kỹ và đáng tiền, kỹ thuật viên chuyên nghiệp, sạch sẽ, có trà và trái cây miễn phí. Chê: chất lượng massage dầu không đều giữa các kỹ thuật viên; vài khách bất ngờ vì giá niêm yết chưa gồm VAT.",
+  "rating": {
+   "value": 4.5,
+   "count": 3018,
+   "source": "Google (qua Wanderlog)",
+   "url": "https://wanderlog.com/place/details/1210319",
+   "seen": "2026-10"
+  },
+  "trending": false,
+  "tags": [
+   "Xông hơi",
+   "Massage chân",
+   "Đặt lịch trước"
+  ],
+  "tips_vi": "Mẹo: đặt qua form trên website trước ít nhất 24 giờ, đặt trong ngày thì gọi (028) 3822 1515; đến sớm 15 phút vì trễ 5–10 phút có thể bị hủy lịch; tận dụng khung giờ vàng (sáng ngày thường) để được giảm giá.",
+  "images": [],
+  "wiki": null,
+  "website": "https://saigonwellness.vn/",
+  "sources": [
+   "https://wanderlog.com/place/details/1210319",
+   "https://saigonwellness.vn/",
+   "https://vinwonders.com/en/wonderpedia/news/massage-in-ho-chi-minh-city/",
+   "https://www.hoakieu.vn/massage-quan-1"
+  ],
+  "status": "open"
+ },
+ {
+  "id": "hcmc-golden-lotus-healing-world",
+  "name": "Golden Lotus Healing World (Jjim Jil Bang Thảo Điền)",
+  "cat": "wellness",
+  "subtitle": "Jjimjilbang kiểu Hàn · xông hơi · bể ngâm",
+  "address": "16A Đường Số 10, Phường An Khánh (Thảo Điền), Quận 2",
+  "lat": 10.804646,
+  "lng": 106.745921,
+  "coordSource": "https://wanderlog.com/place/details/1727594",
+  "price": "Combo xông hơi + massage mặt 420.000đ (banner trên website); giá vé vào cửa xem trang 'Bảng giá Menu' của website",
+  "hours": "09:00–24:00",
+  "mustTry": "Liệu trình nên chọn: vé jjimjilbang ở lại vài tiếng (hang hồng ngoại, phòng nóng, bể ngâm chân nóng/lạnh) rồi thêm massage đá nóng hoặc ủ mật ong toàn thân",
+  "desc_vi": "Khu tắm xông hơi kiểu Hàn Quốc (jjimjilbang) lớn nhất nhì Sài Gòn, nhiều tầng: khu tắm và bể ngâm, hang hồng ngoại, phòng nóng, sảnh nằm nghỉ sàn ấm, phòng ion màu, gym, rạp phim và khu trò chơi. Có nhà hàng, quán ăn vặt và khu cà phê làm việc nên có thể ở lại cả buổi.",
+  "review_vi": "Khen: rộng, sạch, nhiều phòng xông theo chủ đề, nhân viên thân thiện, hợp đi nhóm hoặc gia đình. Chê: cuối tuần đông; khu tắm chung yêu cầu cởi đồ theo kiểu Hàn nên cần chuẩn bị tâm lý; một số tiện ích cũ đã được thay thế khi dời cơ sở.",
+  "rating": {
+   "value": 4.7,
+   "count": 6196,
+   "source": "Google (qua Wanderlog)",
+   "url": "https://wanderlog.com/place/details/1727594",
+   "seen": "2026-10"
+  },
+  "trending": false,
+  "tags": [
+   "Xông hơi",
+   "Mở khuya"
+  ],
+  "tips_vi": "Mẹo: đi ngày thường để vắng; mang tiền mặt dự phòng; nhóm từ 10 người phải đặt trước 5 ngày; hotline (028) 3823 9000 hoặc Zalo/Messenger trên website.",
+  "images": [],
+  "wiki": null,
+  "website": "https://goldenlotus.world/",
+  "sources": [
+   "https://wanderlog.com/place/details/1727594",
+   "https://goldenlotus.world/"
+  ],
+  "status": "open"
+ },
+ {
+  "id": "hcmc-miu-miu-spa-2",
+  "name": "Miu Miu Spa 2",
+  "cat": "wellness",
+  "subtitle": "Massage Thái · shiatsu · đá nóng · massage gừng",
+  "address": "2B Chu Mạnh Trinh, Phường Sài Gòn, Quận 1",
+  "lat": 10.78179,
+  "lng": 106.704944,
+  "coordSource": "https://wanderlog.com/place/details/1727589",
+  "price": "Massage Thái 60 phút 550.000đ, 90 phút 700.000đ, 120 phút 900.000đ; Miu Miu's Signature Aroma từ 550.000đ (theo website)",
+  "hours": "09:30–23:00 (Chủ nhật đến 22:30; nghỉ thứ Tư)",
+  "mustTry": "Liệu trình nên chọn: Miu Miu's Signature Aroma (website ghi dùng lực ấn chắc, tác động lớp cơ sâu) hoặc massage Thái kéo giãn; có massage bốn tay, gừng tươi, thảo dược",
+  "desc_vi": "Chuỗi spa nổi tiếng với khách du lịch ở Quận 1, cơ sở 2 nằm cạnh cơ sở 1 trên con đường nhỏ Chu Mạnh Trinh. Thực đơn rộng: Thái, shiatsu, đá nóng, gừng, thảo dược, bốn tay; có tủ khóa điện tử, phòng xông và món tráng miệng sau buổi làm.",
+  "review_vi": "Khen: kỹ thuật viên tay nghề ổn định, không gian sạch và yên tĩnh, phòng xông tốt, có tráng miệng miễn phí. Chê: rất đông khách nên khó đặt giờ đẹp; vài khách chưa hài lòng với massage chân.",
+  "rating": {
+   "value": 4.5,
+   "count": 1976,
+   "source": "Google (qua Wanderlog)",
+   "url": "https://wanderlog.com/place/details/1727589",
+   "seen": "2026-10"
+  },
+  "trending": false,
+  "tags": [
+   "Lực mạnh",
+   "Đặt lịch trước",
+   "Xông hơi"
+  ],
+  "tips_vi": "Mẹo: đặt qua WhatsApp hoặc trang Booking trên website; cơ sở 2 nghỉ thứ Tư — hôm đó sang Miu Miu 1 (04 Chu Mạnh Trinh); nhận khách lần cuối 60 phút trước giờ đóng cửa.",
+  "images": [],
+  "wiki": null,
+  "website": "https://www.miumiuspa.com/",
+  "sources": [
+   "https://wanderlog.com/place/details/1727589",
+   "https://www.miumiuspa.com/",
+   "https://www.miumiuspa.com/feature-3/massage-thai",
+   "https://www.miumiuspa.com/feature-10/massage-toan-than-miumius-signature",
+   "https://www.hoakieu.vn/massage-quan-1"
+  ],
+  "status": "open"
+ },
+ {
+  "id": "hcmc-noir-spa",
+  "name": "Noir. Spa",
+  "cat": "wellness",
+  "subtitle": "Massage bởi kỹ thuật viên khiếm thị · đá nóng · tắm lá thuốc Dao Đỏ",
+  "address": "178B Hai Bà Trưng, Phường Tân Định, Quận 1",
+  "lat": 10.78628,
+  "lng": 106.694654,
+  "coordSource": "https://wanderlog.com/place/details/785930",
+  "price": "Khoảng 400.000–900.000đ tùy liệu trình (theo Vietcetera); hỏi giá hiện hành qua hotline",
+  "hours": "10:00–21:00",
+  "mustTry": "Liệu trình nên chọn: Noir Signature (massage body với đá nóng và thảo dược kèm tắm lá thuốc người Dao Đỏ); kỹ thuật viên khiếm thị bấm huyệt rất chuẩn — có thể xin lực mạnh nhưng lực thay đổi theo người làm",
+  "desc_vi": "Spa 'anh em' của nhà hàng Noir. Dining in the Dark, thuộc nhóm doanh nghiệp xã hội tạo việc làm cho người khiếm thị: các kỹ thuật viên massage đều là người khiếm thị. Phòng trị liệu gần như không có ánh sáng để khách tập trung vào xúc giác, mùi hương và âm thanh; có bồn tắm thảo dược riêng nhìn ra phố.",
+  "review_vi": "Khen: trải nghiệm khác lạ và ý nghĩa, kỹ thuật viên bấm đúng huyệt, không gian thơm và sạch, có trà và tráng miệng sau buổi làm. Chê: lực massage không đều giữa các kỹ thuật viên; vài khách nhắc phòng có mùi.",
+  "rating": {
+   "value": 4.6,
+   "count": 295,
+   "source": "Google (qua Wanderlog)",
+   "url": "https://wanderlog.com/place/details/785930",
+   "seen": "2026-10"
+  },
+  "trending": false,
+  "tags": [
+   "Doanh nghiệp xã hội",
+   "Đặt lịch trước"
+  ],
+  "tips_vi": "Mẹo: đặt trước qua điện thoại 0702 507 725 hoặc Instagram @noirspasaigon; một bài viết năm 2024 ghi nghỉ thứ Hai — gọi xác nhận nếu đi đầu tuần; lối vào chung hẻm với nhà hàng Noir (178–180D Hai Bà Trưng).",
+  "images": [],
+  "wiki": null,
+  "website": "https://noirdininginthedark.com/",
+  "sources": [
+   "https://wanderlog.com/place/details/785930",
+   "https://vietcetera.com/vn/4-spa-de-ban-vo-ve-ban-than-dip-cuoi-nam",
+   "https://mia.vn/cam-nang-du-lich/tan-huong-noir-spa-sai-gon-15490",
+   "https://noirdininginthedark.com/",
+   "https://www.hoakieu.vn/massage-quan-1",
+   "https://www.instagram.com/noirspasaigon"
+  ],
+  "status": "open"
+ },
+ {
+  "id": "hcmc-sunyata-retreat-hill-spa",
+  "name": "Sunyata Retreat Hill Spa",
+  "cat": "wellness",
+  "subtitle": "Massage body · gội đầu dưỡng sinh · mở đến 1 giờ sáng",
+  "address": "12A Bùi Viện, Phường Bến Thành, Quận 1",
+  "lat": 10.76797,
+  "lng": 106.695085,
+  "coordSource": "https://wanderlog.com/place/details/5042655",
+  "price": "Chưa thấy bảng giá VND công khai — hỏi qua hotline 0917 757 509",
+  "hours": "10:00–01:00",
+  "mustTry": "Liệu trình nên chọn: massage body toàn thân hoặc gội đầu thảo dược kèm massage đầu, cổ vai gáy; nói rõ vùng đau để kỹ thuật viên tập trung",
+  "desc_vi": "Spa nhỏ ở đầu phố Tây Bùi Viện với không gian gỗ và cây xanh, tách khỏi tiếng ồn bên ngoài. Nổi tiếng nhờ dịch vụ chu đáo, các gói detox, gội đầu thảo dược và mở cửa rất khuya; có thêm cơ sở ở 122 Yersin.",
+  "review_vi": "Khen: 4,9 điểm trên hơn 3.500 đánh giá, tiếp đón ấm áp, kỹ thuật viên chuyên nghiệp, chăm chút chi tiết nhỏ, massage được điều chỉnh theo yêu cầu. Chê: rất ít — chỉ khoảng 2% đánh giá 1–2 sao; chưa có bảng giá VND công khai.",
+  "rating": {
+   "value": 4.9,
+   "count": 3574,
+   "source": "Google (qua Wanderlog)",
+   "url": "https://wanderlog.com/place/details/5042655",
+   "seen": "2026-10"
+  },
+  "trending": false,
+  "tags": [
+   "Gội đầu dưỡng sinh",
+   "Mở khuya",
+   "Đặt lịch trước"
+  ],
+  "tips_vi": "Mẹo: gọi 0917 757 509 (Bùi Viện) hoặc 0918 480 033 (Yersin) để giữ chỗ; hợp ghé sau khi dạo phố Tây buổi tối vì mở đến 1 giờ sáng.",
+  "images": [],
+  "wiki": null,
+  "website": null,
+  "sources": [
+   "https://wanderlog.com/place/details/5042655",
+   "https://vinwonders.com/en/wonderpedia/news/massage-in-ho-chi-minh-city/"
+  ],
+  "status": "open"
+ },
+ {
+  "id": "hcmc-enjoy-massage-therapy",
+  "name": "Enjoy Massage Therapy",
+  "cat": "wellness",
+  "subtitle": "Massage trị liệu · deep tissue · massage chân",
+  "address": "15B3 Lê Thánh Tôn, Phường Sài Gòn, Quận 1",
+  "lat": 10.780581,
+  "lng": 106.704766,
+  "coordSource": "https://wanderlog.com/place/details/4755385",
+  "price": "Bảng giá đăng dạng ảnh trên website — hỏi qua Zalo/WhatsApp 085 264 4331; chương trình mua 10 buổi tặng 1",
+  "hours": "10:00–23:00",
+  "mustTry": "Liệu trình nên chọn: Full Body trị liệu chuyên sâu (deep tissue) hoặc massage chân; đây là chỗ được khách nhắc đến khi cần lực mạnh thật sự",
+  "desc_vi": "Tiệm massage trị liệu khiêm tốn trong cụm hẻm Lê Thánh Tôn (khu phố Nhật), ít quảng cáo nhưng được khách quen tìm đến vì làm deep tissue đúng nghĩa. Phòng chung ngăn bằng rèm, giá theo đúng thực đơn.",
+  "review_vi": "Khen: deep tissue thật sự, kỹ thuật viên tận tâm, sạch sẽ, giá hợp lý và đúng như niêm yết. Chê: phòng ngăn rèm nên không riêng tư bằng spa sang; giờ đông khách có thể phải chờ.",
+  "rating": {
+   "value": 4.4,
+   "count": 492,
+   "source": "Google (qua Wanderlog)",
+   "url": "https://wanderlog.com/place/details/4755385",
+   "seen": "2026-10"
+  },
+  "trending": false,
+  "tags": [
+   "Lực mạnh",
+   "Massage chân",
+   "Mở khuya"
+  ],
+  "tips_vi": "Mẹo: nhắn Zalo/WhatsApp 085 264 4331 hoặc gọi 0908 461 972 trước khi đến; báo rõ muốn lực mạnh (deep tissue) ngay từ đầu.",
+  "images": [],
+  "wiki": null,
+  "website": "https://massageenjoy.com/",
+  "sources": [
+   "https://wanderlog.com/place/details/4755385",
+   "https://massageenjoy.com/",
+   "https://massageenjoy.com/bang-gia-dich-vu/"
+  ],
+  "status": "open"
+ },
+ {
+  "id": "hcmc-an-mien-spa-q1",
+  "name": "An Miên Spa – Gội đầu thảo dược & Massage (Nguyễn Thái Bình)",
+  "cat": "wellness",
+  "subtitle": "Gội đầu dưỡng sinh thảo dược · massage body · massage chân",
+  "address": "94 Nguyễn Thái Bình, Phường Bến Thành, Quận 1",
+  "lat": 10.768632,
+  "lng": 106.698833,
+  "coordSource": "https://wanderlog.com/place/details/4951817",
+  "price": "Bảng giá chi nhánh Premium đăng dạng ảnh trên website — hỏi qua hotline 0865 677 699; thứ Ba hằng tuần giảm đến 30%",
+  "hours": "09:00–02:00 (theo Google/website; nên gọi xác nhận nếu đi khuya)",
+  "mustTry": "Liệu trình nên chọn: gói gội đầu dưỡng sinh thảo dược (bồ kết, bồ hòn, vỏ bưởi, sả, hà thủ ô) kèm massage cổ vai gáy; có massage foot bấm huyệt",
+  "desc_vi": "Chuỗi gội đầu dưỡng sinh lớn với hơn chục chi nhánh ở TP.HCM và các tỉnh; cơ sở Premium Nguyễn Thái Bình cách chợ Bến Thành khoảng 500 m. Nước gội nấu từ bồ kết và thảo mộc, kết hợp massage đầu, cổ vai gáy để giảm căng thẳng.",
+  "review_vi": "Khen: 4,8 điểm trên gần 1.000 đánh giá, nước gội thảo mộc thơm, massage vai gáy đỡ mỏi rõ, nhân viên nhiệt tình. Chê: chưa có bảng giá dạng chữ nên khó so sánh trước; giờ mở cửa khuya trên mạng chưa thống nhất giữa các nguồn.",
+  "rating": {
+   "value": 4.8,
+   "count": 981,
+   "source": "Google (qua Wanderlog)",
+   "url": "https://wanderlog.com/place/details/4951817",
+   "seen": "2026-10"
+  },
+  "trending": true,
+  "tags": [
+   "Gội đầu dưỡng sinh",
+   "Massage chân",
+   "Mở khuya"
+  ],
+  "tips_vi": "Mẹo: đặt lịch qua form trên website hoặc nhắn tin fanpage; đi thứ Ba để được giảm giá; chuỗi còn có cơ sở 15/3 Nguyễn Thị Minh Khai và 16/22B Đinh Tiên Hoàng (Quận 1).",
+  "images": [],
+  "wiki": null,
+  "website": "https://anmienspa.vn/",
+  "sources": [
+   "https://wanderlog.com/place/details/4951817",
+   "https://anmienspa.vn/",
+   "https://anmienspa.vn/bang-gia-dich-vu-tai-an-mien-spa-premium/"
+  ],
+  "status": "open"
+ },
+ {
+  "id": "hcmc-zen-body-foot-massage-q5",
+  "name": "Zen – Body & Foot Massage (Trần Hưng Đạo, Quận 5)",
+  "cat": "wellness",
+  "subtitle": "Massage chân · body · Thái · trị liệu cổ vai gáy",
+  "address": "930 Trần Hưng Đạo, Phường An Đông, Quận 5",
+  "lat": 10.7534114,
+  "lng": 106.6734202,
+  "coordSource": "https://zenspa930.vn/",
+  "price": "Massage chân, body, Thái từ 380.000đ; trị liệu cổ vai gáy hoặc thắt lưng 680.000đ; đả thông toàn thân 1.200.000đ; gội đầu thư giãn từ 250.000đ; xông hơi 200.000đ (đã gồm VAT, theo website)",
+  "hours": "10:00–22:30",
+  "mustTry": "Liệu trình nên chọn: Đả Thông Toàn Thân hoặc trị liệu cổ vai gáy cho ai mỏi cơ nặng; massage Thái nếu thích kéo giãn — website không ghi mức lực, nên dặn trước",
+  "desc_vi": "Spa massage quy mô lớn ngay trục Trần Hưng Đạo của Chợ Lớn, gần các điểm ăn uống Quận 5. Thực đơn từ massage chân, body, Thái đến các gói trị liệu cổ vai gáy, thắt lưng và gội đầu thư giãn; thành viên được dùng buffet nhẹ và xông hơi miễn phí.",
+  "review_vi": "Chưa đọc được điểm và đánh giá Google của cơ sở này. VinWonders (12/2025) đưa Zen vào danh sách spa nên thử ở TP.HCM; website có bảng giá rõ ràng và cập nhật năm 2026. Lưu ý: các bài 'top spa quận 5' nhắc đến Zen phần lớn mang tính quảng bá.",
+  "rating": null,
+  "trending": false,
+  "tags": [
+   "Massage chân",
+   "Xông hơi",
+   "Đặt lịch trước"
+  ],
+  "tips_vi": "Mẹo: gọi 093 5555 930 để đặt giờ; kết hợp đi ăn tối ở Chợ Lớn rồi massage chân thư giãn.",
+  "images": [],
+  "wiki": null,
+  "website": "https://zenspa930.vn/",
+  "sources": [
+   "https://zenspa930.vn/",
+   "https://vinwonders.com/en/wonderpedia/news/massage-in-ho-chi-minh-city/"
+  ],
+  "status": "open"
+ },
+ {
+  "id": "hcmc-la-maison-lapothiquaire-q3",
+  "name": "La Maison de L'Apothiquaire (Quận 3)",
+  "cat": "wellness",
+  "subtitle": "Day spa biệt thự Pháp · hồ bơi · jacuzzi",
+  "address": "64A Trương Định, Phường Xuân Hòa, Quận 3",
+  "lat": 10.782152,
+  "lng": 106.684395,
+  "coordSource": "https://wanderlog.com/place/details/3935403",
+  "price": "Website không công bố giá dạng chữ; thuộc nhóm spa cao cấp (đắt hơn mặt bằng chung) — xem menu trên trang đặt lịch",
+  "hours": "09:00–21:00",
+  "mustTry": "Liệu trình nên chọn: gói Haute Couture (massage body, chăm sóc da mặt Valmont, làm móng và bữa trưa Việt bên hồ bơi); không ghi lực mạnh — thiên về thư giãn",
+  "desc_vi": "Spa cao cấp lâu đời của Sài Gòn trong một biệt thự kiến trúc Pháp yên tĩnh ở Quận 3, có vườn, hồ bơi và phòng jacuzzi VIP. Khách làm liệu trình từ 60 phút trở lên được dùng miễn phí hồ bơi và tiện ích; có cả lớp aqua fit và bữa ăn phục vụ bên hồ.",
+  "review_vi": "Khen: không gian cổ điển rất thư thái, sạch sẽ, nhân viên chuyên nghiệp, các gói nửa ngày đáng trải nghiệm. Chê: giá cao hơn spa xung quanh; cuối tuần đông và phải chờ.",
+  "rating": {
+   "value": 4.8,
+   "count": 325,
+   "source": "Google (qua Wanderlog)",
+   "url": "https://wanderlog.com/place/details/3935403",
+   "seen": "2026-10"
+  },
+  "trending": false,
+  "tags": [
+   "Đặt lịch trước"
+  ],
+  "tips_vi": "Mẹo: đặt qua trang Appointment trên website hoặc gọi (028) 3932 5181; đi ngày thường và chọn gói từ 60 phút để dùng hồ bơi; cùng hệ thống có Le Boudoir (41 Đồng Khởi) và Le Spa des Artistes (khách sạn Hôtel des Arts).",
+  "images": [],
+  "wiki": null,
+  "website": "https://spa-lapothiquaire.vn/",
+  "sources": [
+   "https://wanderlog.com/place/details/3935403",
+   "https://spa-lapothiquaire.vn/"
+  ],
+  "status": "open"
+ },
+ {
+  "id": "hcmc-ha-spa-tan-binh",
+  "name": "Hạ Spa – Massage & Gội đầu dưỡng sinh (Tân Bình)",
+  "cat": "wellness",
+  "subtitle": "Gội đầu dưỡng sinh Đông y · massage body · đá nóng",
+  "address": "334 Nguyễn Trọng Tuyển, Phường Tân Sơn Hòa, Quận Tân Bình",
+  "lat": 10.798718,
+  "lng": 106.664486,
+  "coordSource": "https://wanderlog.com/place/details/7746452",
+  "price": "Gội đầu dưỡng sinh 30 phút 138.000đ, 60 phút 299.000đ, 90 phút 478.000đ, gói Đông y 100 phút 593.000đ; massage body 60 phút 300.000–500.000đ, đá nóng 400.000–600.000đ, trị liệu đau nhức 450.000–600.000đ (theo website)",
+  "hours": "08:30–22:00 (website ghi nhận khách lần cuối đến 21:00)",
+  "mustTry": "Liệu trình nên chọn: Dưỡng sinh Đông y tiêu chuẩn Nhà Hạ 100 phút (gội thảo dược + massage đầu, cổ vai gáy, chườm nóng) hoặc massage trị liệu đau nhức; lực điều chỉnh theo yêu cầu",
+  "desc_vi": "Spa gội đầu dưỡng sinh và massage được chấm điểm rất cao ở khu Tân Bình – Phú Nhuận, gần sân bay. Không gian sạch, yên tĩnh, có phòng gội riêng, xông hơi và chườm túi nóng nhiều vùng; khách được mời tráng miệng sau buổi làm. Có thêm cơ sở 49 Phạm Viết Chánh (Quận 1).",
+  "review_vi": "Khen: 4,9 điểm trên hơn 2.700 đánh giá, nhân viên chu đáo, kỹ thuật massage đầu và chườm nóng được khen nhiều, sạch và thư giãn; khách nước ngoài cũng đánh giá cao. Chê: bảng giá trên web để dạng khoảng giá nên cần hỏi giá chính xác trước.",
+  "rating": {
+   "value": 4.9,
+   "count": 2751,
+   "source": "Google (qua Wanderlog)",
+   "url": "https://wanderlog.com/place/details/7746452",
+   "seen": "2026-10"
+  },
+  "trending": true,
+  "tags": [
+   "Gội đầu dưỡng sinh",
+   "Xông hơi",
+   "Đặt lịch trước"
+  ],
+  "tips_vi": "Mẹo: đặt qua hotline/Zalo/WhatsApp 0908 661 683; hợp ghé trước hoặc sau chuyến bay vì gần sân bay Tân Sơn Nhất; ngày thường vắng hơn.",
+  "images": [],
+  "wiki": null,
+  "website": "https://haspamassage.vn/",
+  "sources": [
+   "https://wanderlog.com/place/details/7746452",
+   "https://haspamassage.vn/",
+   "https://haspamassage.vn/bang-gia-massage-body/",
+   "https://haspamassage.vn/bang-gia-goi-dau-duong-sinh/"
+  ],
+  "status": "open"
+ },
+ {
+  "id": "hcmc-moc-huong-wellness-thao-dien",
+  "name": "Mộc Hương Wellness Thảo Điền",
+  "cat": "wellness",
+  "subtitle": "Day spa · massage body kết hợp kéo giãn · xông hơi",
+  "address": "61 Xuân Thủy, Phường An Khánh (Thảo Điền), Quận 2",
+  "lat": 10.803622,
+  "lng": 106.733066,
+  "coordSource": "https://wanderlog.com/place/details/4402186",
+  "price": "Website không công bố giá dạng chữ — xem trang Booking; tháng 10/2026 tặng gội dưỡng 35 phút",
+  "hours": "09:00–22:00",
+  "mustTry": "Liệu trình nên chọn: Ultimate Foot Massage hoặc massage body có kết hợp kéo giãn kiểu vật lý trị liệu; được dùng xông hơi khô và xông ướt kèm theo",
+  "desc_vi": "Một trong những chuỗi spa được dân Thảo Điền và khách nước ngoài tin dùng, với quy trình massage được 'biên đạo' riêng kết hợp kéo giãn. Cơ sở Xuân Thủy có phòng tắm tiện nghi, tủ khóa thẻ từ, xông hơi khô và ướt, trà, nước ép và trái cây sấy sau liệu trình.",
+  "review_vi": "Khen: sạch sẽ, tiện nghi tốt, massage khác biệt nhờ phần kéo giãn, Ultimate Foot Massage rất kỹ, nhân viên thân thiện. Chê: tay nghề không đều giữa các kỹ thuật viên; phòng xông hơi nam khá nóng.",
+  "rating": {
+   "value": 4.6,
+   "count": 1110,
+   "source": "Google (qua Wanderlog)",
+   "url": "https://wanderlog.com/place/details/4402186",
+   "seen": "2026-10"
+  },
+  "trending": false,
+  "tags": [
+   "Xông hơi",
+   "Massage chân",
+   "Đặt lịch trước"
+  ],
+  "tips_vi": "Mẹo: đặt qua trang Booking, Zalo hoặc WhatsApp +84 909 755 877; có thêm cơ sở 03 Đặng Hữu Phổ và Saigon Pearl (Bình Thạnh); thường có lịch Sound Bath & Reiki theo tháng.",
+  "images": [],
+  "wiki": null,
+  "website": "https://mochuongwellness.vn/",
+  "sources": [
+   "https://wanderlog.com/place/details/4402186",
+   "https://mochuongwellness.vn/"
+  ],
+  "status": "open"
+ },
+ {
+  "id": "hcmc-phaya-thai-spa-yen-the",
+  "name": "Phaya Thai Spa (Yên Thế)",
+  "cat": "wellness",
+  "subtitle": "Massage Thái truyền thống · bấm huyệt sâu · gội đầu",
+  "address": "98 Yên Thế, Phường Tân Sơn Hòa, Quận Tân Bình",
+  "lat": 10.812875,
+  "lng": 106.668671,
+  "coordSource": "https://wanderlog.com/place/details/10562743",
+  "price": "Thái truyền thống 90 phút 799.000đ; body 60 phút 399.000đ, 90 phút 599.000đ; Phaya Deep Body Work 120 phút 799.000đ; foot 60 phút 379.000đ; gội đầu dưỡng sinh 60 phút 299.000đ (chưa gồm VAT, theo website)",
+  "hours": "09:30–22:00",
+  "mustTry": "Liệu trình nên chọn: Phaya Deep Body Work 120 phút (bấm huyệt sâu toàn thân + yoga Thái kéo giãn) — hợp người thích lực mạnh; ai thích nhẹ chọn Body 75 phút",
+  "desc_vi": "Chuỗi spa massage kiểu Thái với khoảng 10 cơ sở ở TP.HCM, cơ sở Yên Thế nằm trong khu yên tĩnh gần sân bay. Massage Thái truyền thống ít dầu, tập trung bấm huyệt và kéo giãn; ngoài ra có body dầu, massage chân và gội đầu thảo mộc.",
+  "review_vi": "Khen: 4,9 điểm, kỹ thuật viên nhiều kinh nghiệm, không gian trang trí đẹp, sạch và thoải mái. Chê: giá chưa gồm VAT; nên đặt trước để khỏi chờ.",
+  "rating": {
+   "value": 4.9,
+   "count": 448,
+   "source": "Google (qua Wanderlog)",
+   "url": "https://wanderlog.com/place/details/10562743",
+   "seen": "2026-10"
+  },
+  "trending": false,
+  "tags": [
+   "Lực mạnh",
+   "Gội đầu dưỡng sinh",
+   "Đặt lịch trước"
+  ],
+  "tips_vi": "Mẹo: đặt qua trang Đặt chỗ, ứng dụng Phaya Thai Spa hoặc Zalo; ở trung tâm có cơ sở 10B Sương Nguyệt Ánh và 44 Đặng Dung (Quận 1), cùng Phaya Foot 1A Sương Nguyệt Ánh.",
+  "images": [],
+  "wiki": null,
+  "website": "https://phayathaispa.vn/",
+  "sources": [
+   "https://wanderlog.com/place/details/10562743",
+   "https://phayathaispa.vn/",
+   "https://phayathaispa.vn/danh-sach-cua-hang",
+   "https://www.hoakieu.vn/massage-quan-1"
+  ],
+  "status": "open"
+ },
+ {
+  "id": "hcmc-aveda-herbal-wellness",
+  "name": "Aveda Herbal & Wellness (Ayurveda)",
+  "cat": "wellness",
+  "subtitle": "Massage Ayurveda Ấn Độ · Shirodhara · Abhyanga",
+  "address": "29 Thái Lý, Phường An Khánh (Thảo Điền), Quận 2",
+  "lat": 10.80576,
+  "lng": 106.730079,
+  "coordSource": "https://wanderlog.com/place/details/2517371",
+  "price": "Website không công bố giá dạng chữ (giá chưa gồm 10% VAT) — đặt qua trang Booking",
+  "hours": "09:00–20:00 (nhận khách lần cuối trước 19:00)",
+  "mustTry": "Liệu trình nên chọn: Shirodhara (chảy dầu ấm lên trán), Abhyanga bốn tay hoặc Marma Chikitsa; có chương trình detox Ayurveda nhiều ngày",
+  "desc_vi": "Trung tâm Ayurveda (y học cổ truyền Ấn Độ) hiếm hoi ở Sài Gòn, do đội ngũ người Ấn dẫn dắt. Các liệu trình dùng dầu thảo dược ấm theo thể trạng (dosha), không khí rất tĩnh, hợp ai muốn trải nghiệm khác hẳn massage Việt hay Thái.",
+  "review_vi": "Khen: Ayurveda chính thống, Shirodhara và Abhyanga bốn tay giúp thư giãn sâu, đội ngũ chuyên nghiệp và tư vấn ăn uống khi detox. Chê: số đánh giá còn ít (khoảng 175); không có bảng giá công khai.",
+  "rating": {
+   "value": 4.8,
+   "count": 175,
+   "source": "Google (qua Wanderlog)",
+   "url": "https://wanderlog.com/place/details/2517371",
+   "seen": "2026-10"
+  },
+  "trending": false,
+  "tags": [
+   "Đặt lịch trước"
+  ],
+  "tips_vi": "Mẹo: đặt qua avedaherbal.com/booking hoặc gọi/nhắn +84 97 34 777 03; cơ sở Quận 7 đang tạm đóng nên chỉ đến cơ sở Thái Lý.",
+  "images": [],
+  "wiki": null,
+  "website": "https://www.avedaherbal.com/",
+  "sources": [
+   "https://wanderlog.com/place/details/2517371",
+   "https://www.avedaherbal.com/"
+  ],
+  "status": "open"
+ },
+ {
+  "id": "hcmc-sen-spa-le-thanh-ton",
+  "name": "Sen Spa",
+  "cat": "wellness",
+  "subtitle": "Day spa từ 2004 · massage body · phòng VIP",
+  "address": "10B1 Lê Thánh Tôn, Phường Sài Gòn, Quận 1",
+  "lat": 10.781783,
+  "lng": 106.705475,
+  "coordSource": "https://wanderlog.com/place/details/4858544",
+  "price": "Website không ghi giá dạng chữ; bảng giá chưa gồm 10% VAT và 5% phí dịch vụ; phòng VIP phụ thu 50%; đặt trước online giảm 10%",
+  "hours": "09:30–22:00 (nhận khách lần cuối 21:00)",
+  "mustTry": "Liệu trình nên chọn: gói trọn gói massage body + tẩy tế bào chết, hoặc liệu trình 'sáu tay' đặc biệt; phòng VIP đôi cho cặp đôi",
+  "desc_vi": "Một trong những day spa lâu đời của Quận 1, thành lập năm 2004, nằm trong khu phố Nhật Lê Thánh Tôn. Phục vụ đủ từ massage body, ủ, tẩy tế bào chết đến làm móng; có phòng VIP riêng cho cặp đôi.",
+  "review_vi": "Khen: nhân viên tử tế, không gian sạch và chuyên nghiệp, phòng VIP riêng tư, liệu trình nhiều tay ấn tượng. Chê: số đánh giá ít hơn các spa nổi tiếng khác; giá cộng thêm VAT và phí dịch vụ nên tổng hóa đơn cao hơn niêm yết.",
+  "rating": {
+   "value": 4.4,
+   "count": 208,
+   "source": "Google (qua Wanderlog)",
+   "url": "https://wanderlog.com/place/details/4858544",
+   "seen": "2026-10"
+  },
+  "trending": false,
+  "tags": [
+   "Đặt lịch trước"
+  ],
+  "tips_vi": "Mẹo: đặt qua form trên website hoặc fanpage để được giảm 10%; hotline +84 907 95 93 95; đi ngày thường để dễ có phòng.",
+  "images": [],
+  "wiki": null,
+  "website": "https://www.senspa.com.vn/",
+  "sources": [
+   "https://wanderlog.com/place/details/4858544",
+   "https://www.senspa.com.vn/"
+  ],
+  "status": "open"
+ },
+ {
+  "id": "hcmc-cici-international-spa",
+  "name": "CiCi International Spa",
+  "cat": "wellness",
+  "subtitle": "Massage body · massage chân · chăm sóc tóc",
+  "address": "154 Lý Tự Trọng, Phường Bến Thành, Quận 1",
+  "lat": 10.773473,
+  "lng": 106.696091,
+  "coordSource": "https://www.fresha.com/a/cici-international-spa-thanh-pho-ho-chi-minh-ben-thanh-district-1-ho-chi-minh-city-154-ly-tu-trong-i4eli742",
+  "price": "Body massage 1–2 giờ từ 420.000đ; massage chân từ 350.000đ; chăm sóc tóc từ 250.000đ; combo 90 phút 490.000đ; Signature 2 dịch vụ (2 giờ) 750.000đ (theo Fresha)",
+  "hours": "10:00–23:00",
+  "mustTry": "Liệu trình nên chọn: gói Signature 2 giờ (body + chân hoặc chăm sóc tóc); có massage bốn tay; khách nhận xét lực vừa đến chắc — muốn mạnh hơn thì dặn trước",
+  "desc_vi": "Spa nhỏ gọn cách chợ Bến Thành vài phút đi bộ, được khách du lịch đặt nhiều qua ứng dụng nhờ giá rõ ràng và gói combo hợp lý. Thực đơn gồm massage body, chân, chăm sóc tóc, chăm sóc da mặt và massage bốn tay.",
+  "review_vi": "Khen: 4,9 điểm trên Fresha với hơn 500 lượt chấm, nhân viên thân thiện, lực massage dễ chịu, giá minh bạch, đặt online tiện. Chê: không gian nhỏ, không sang bằng các day spa lớn.",
+  "rating": {
+   "value": 4.9,
+   "count": 509,
+   "source": "Fresha",
+   "url": "https://www.fresha.com/a/cici-international-spa-thanh-pho-ho-chi-minh-ben-thanh-district-1-ho-chi-minh-city-154-ly-tu-trong-i4eli742",
+   "seen": "2026-10"
+  },
+  "trending": false,
+  "tags": [
+   "Massage chân",
+   "Đặt lịch trước",
+   "Mở khuya"
+  ],
+  "tips_vi": "Mẹo: đặt và chọn giờ trực tiếp trên Fresha để thấy giá trước; tiện ghé sau khi đi chợ Bến Thành.",
+  "images": [],
+  "wiki": null,
+  "website": "https://www.fresha.com/a/cici-international-spa-thanh-pho-ho-chi-minh-ben-thanh-district-1-ho-chi-minh-city-154-ly-tu-trong-i4eli742",
+  "sources": [
+   "https://www.fresha.com/a/cici-international-spa-thanh-pho-ho-chi-minh-ben-thanh-district-1-ho-chi-minh-city-154-ly-tu-trong-i4eli742",
+   "https://vinwonders.com/en/wonderpedia/news/massage-in-ho-chi-minh-city/"
+  ],
+  "status": "open"
+ },
+ {
+  "id": "hcmc-glow-spa-saigon",
+  "name": "Glow Spa Saigon",
+  "cat": "wellness",
+  "subtitle": "Head spa (gội đầu dưỡng sinh) · massage Swedish · chăm sóc da",
+  "address": "129 Nguyễn Huệ, Phường Sài Gòn, Quận 1",
+  "lat": 10.774472,
+  "lng": 106.70282,
+  "coordSource": "https://www.fresha.com/a/glow-spa-saigon-thanh-pho-ho-chi-minh-129-duong-nguyen-hue-vlkf5yjf",
+  "price": "Gói 3 giờ (3 dịch vụ) từ 1.830.000đ/người (gói cặp đôi) đến 2.430.000đ (gói làm đẹp); giá lẻ head spa, massage xem trên trang đặt lịch Fresha",
+  "hours": "10:00–20:00",
+  "mustTry": "Liệu trình nên chọn: Head Spa kèm massage chân, hoặc Swedish Relax 90 phút; có Asian Energize 60 phút — không ghi lực mạnh, thiên về thư giãn",
+  "desc_vi": "Spa nhỏ, yên tĩnh nằm khuất ngay trên phố đi bộ Nguyễn Huệ, nổi bật với head spa kiểu châu Á (gội, massage da đầu) kết hợp massage body và chăm sóc da. Khách được mời trà trước và sau buổi làm.",
+  "review_vi": "Khen: điểm tuyệt đối 5,0 trên Fresha (hơn 130 lượt), yên tĩnh dù nằm giữa phố đông, kỹ thuật viên giỏi, trà mời rất tinh tế. Chê: giá cao hơn mặt bằng; đóng cửa sớm (20:00).",
+  "rating": {
+   "value": 5.0,
+   "count": 133,
+   "source": "Fresha",
+   "url": "https://www.fresha.com/a/glow-spa-saigon-thanh-pho-ho-chi-minh-129-duong-nguyen-hue-vlkf5yjf",
+   "seen": "2026-10"
+  },
+  "trending": true,
+  "tags": [
+   "Gội đầu dưỡng sinh",
+   "Đặt lịch trước"
+  ],
+  "tips_vi": "Mẹo: đặt trước trên Fresha vì spa nhỏ, ít giường; đi buổi chiều rồi dạo phố đi bộ Nguyễn Huệ buổi tối.",
+  "images": [],
+  "wiki": null,
+  "website": "https://www.fresha.com/a/glow-spa-saigon-thanh-pho-ho-chi-minh-129-duong-nguyen-hue-vlkf5yjf",
+  "sources": [
+   "https://www.fresha.com/a/glow-spa-saigon-thanh-pho-ho-chi-minh-129-duong-nguyen-hue-vlkf5yjf"
+  ],
+  "status": "open"
+ },
+ {
+  "id": "hcmc-massage-khiem-thi-trung-duong",
+  "name": "Massage Khiếm Thị Trùng Dương",
+  "cat": "wellness",
+  "subtitle": "Massage bấm huyệt do người khiếm thị thực hiện",
+  "address": "341/4 Nhật Tảo, Phường 6, Quận 10",
+  "lat": 10.7633313,
+  "lng": 106.663957,
+  "coordSource": "https://hcm.inhat.vn/dia-chi-massage-khiem-thi-o-sai-gon/",
+  "price": "Body 60 phút 110.000đ; bấm huyệt 90 phút 220.000đ; ngâm chân thảo dược 60 phút 120.000đ (theo inhat.vn, cập nhật 06/2025)",
+  "hours": "09:00–20:00",
+  "mustTry": "Liệu trình nên chọn: bấm huyệt 90 phút — kỹ thuật viên khiếm thị bấm huyệt chắc tay, hợp người thích lực mạnh",
+  "desc_vi": "Cơ sở massage nhỏ trong hẻm Nhật Tảo (Quận 10), nơi các bạn trẻ khiếm thị được đào tạo nghề xoa bóp bấm huyệt và có thu nhập ổn định. Không gian bình dân, giá rẻ hơn nhiều so với spa thương mại.",
+  "review_vi": "Chưa đọc được đánh giá Google; các trang tổng hợp nhận xét kỹ thuật viên được đào tạo theo quy trình chuẩn và giá rất mềm. Lưu ý: tiện nghi đơn giản, không phải spa sang trọng.",
+  "rating": null,
+  "trending": false,
+  "tags": [
+   "Doanh nghiệp xã hội",
+   "Lực mạnh"
+  ],
+  "tips_vi": "Mẹo: gọi trước 0903 155 657 hoặc 0987 110 688 để xác nhận còn hoạt động và giờ làm; nên boa trực tiếp cho kỹ thuật viên.",
+  "images": [],
+  "wiki": null,
+  "website": null,
+  "sources": [
+   "https://hcm.inhat.vn/dia-chi-massage-khiem-thi-o-sai-gon/",
+   "https://haspamassage.vn/dia-chi-massage-khiem-thi-tphcm/",
+   "https://news.tuoitre.vn/blind-massage-in-vietnam-not-just-a-massage-service-but-a-spirit-of-community-10369379.htm"
+  ],
+  "status": "unverified"
+ },
+ {
+  "id": "hcmc-massage-khiem-thi-minh-thien",
+  "name": "Massage Khiếm Thị Minh Thiện",
+  "cat": "wellness",
+  "subtitle": "Massage body · bấm huyệt cổ vai gáy do người khiếm thị thực hiện",
+  "address": "27 Nguyễn Chí Thanh, Phường 16, Quận 11",
+  "lat": 10.756155,
+  "lng": 106.650251,
+  "coordSource": "https://hcm.inhat.vn/dia-chi-massage-khiem-thi-o-sai-gon/",
+  "price": "Body 120.000–170.000đ; body dầu hoặc đá nóng 150.000–200.000đ; body + xông hơi 170.000–220.000đ; cổ vai gáy 120.000đ (theo inhat.vn, cập nhật 06/2025)",
+  "hours": "Chưa rõ — gọi hỏi trước",
+  "mustTry": "Liệu trình nên chọn: body + xông hơi hoặc bấm huyệt cổ vai gáy; nói rõ muốn lực mạnh hay nhẹ",
+  "desc_vi": "Cơ sở massage khiếm thị gần khu Chợ Lớn (giáp Quận 5), có phòng riêng và xông hơi. Giá bình dân, phù hợp ai muốn vừa thư giãn vừa ủng hộ việc làm cho người khiếm thị.",
+  "review_vi": "Chưa đọc được đánh giá Google; các trang tổng hợp khen đội ngũ được đào tạo bài bản. Lưu ý: thông tin giá và giờ từ trang tổng hợp, có thể đã thay đổi.",
+  "rating": null,
+  "trending": false,
+  "tags": [
+   "Doanh nghiệp xã hội",
+   "Xông hơi"
+  ],
+  "tips_vi": "Mẹo: gọi 0919 964 879 trước khi đến để xác nhận giờ mở cửa; có thể kết hợp đi ăn ở Chợ Lớn.",
+  "images": [],
+  "wiki": null,
+  "website": null,
+  "sources": [
+   "https://hcm.inhat.vn/dia-chi-massage-khiem-thi-o-sai-gon/",
+   "https://haspamassage.vn/dia-chi-massage-khiem-thi-tphcm/"
+  ],
+  "status": "unverified"
+ },
+ {
+  "id": "hcmc-mido-luxury-spa",
+  "name": "Mido Luxury Spa",
+  "cat": "wellness",
+  "subtitle": "Massage body · đá nóng · phòng gia đình có khu trẻ em",
+  "address": "160 Lê Thánh Tôn, Phường Bến Thành, Quận 1",
+  "lat": null,
+  "lng": null,
+  "coordSource": null,
+  "price": "Chưa thấy bảng giá chính thức — hỏi qua 0961 969 554",
+  "hours": "09:00–23:30",
+  "mustTry": "Liệu trình nên chọn: Mido Special Massage hoặc massage đá nóng/aroma; kỹ thuật viên điều chỉnh theo nhu cầu — muốn lực mạnh thì dặn trước",
+  "desc_vi": "Spa đông khách gần chợ Bến Thành dành cho cả cá nhân, cặp đôi và gia đình, nổi bật nhờ khu vui chơi miễn phí cho trẻ em và massage giá mềm cho trẻ. Thực đơn đa dạng (aroma, đá nóng…); khách được mời nước khi đến và đồ ăn nhẹ sau liệu trình.",
+  "review_vi": "Khen: kỹ thuật viên điều chỉnh theo nhu cầu từng người, không gian ấm cúng và sạch, có nước chào và đồ ăn nhẹ sau buổi làm, giá hợp lý. Chê: tỷ lệ đánh giá 1 sao khá cao (khoảng 9%); cuối tuần đông.",
+  "rating": {
+   "value": 4.6,
+   "count": 2266,
+   "source": "Google (qua Wanderlog)",
+   "url": "https://wanderlog.com/place/details/1210294",
+   "seen": "2026-10"
+  },
+  "trending": false,
+  "tags": [
+   "Đặt lịch trước",
+   "Mở khuya"
+  ],
+  "tips_vi": "Mẹo: spa đã chuyển về 160 Lê Thánh Tôn theo VinWonders (12/2025), trong khi một số trang cũ còn ghi 122 Yersin — kiểm tra địa chỉ trước khi đi; đặt trước, ngày thường vắng hơn.",
+  "images": [],
+  "wiki": null,
+  "website": null,
+  "sources": [
+   "https://wanderlog.com/place/details/1210294",
+   "https://vinwonders.com/en/wonderpedia/news/massage-in-ho-chi-minh-city/"
+  ],
+  "status": "open"
+ },
+ {
+  "id": "hcmc-golden-lotus-healing-land-q7",
+  "name": "Golden Lotus Healing Land (Jjim Jil Bang Phú Mỹ Hưng)",
+  "cat": "wellness",
+  "subtitle": "Jjimjilbang kiểu Hàn · phòng muối, hang hồng ngoại, phòng tuyết",
+  "address": "139 Tôn Dật Tiên, Phường Tân Phong, Quận 7",
+  "lat": 10.7234559,
+  "lng": 106.7159648,
+  "coordSource": "https://goldenlotusland.vn/",
+  "price": "Vé 250.000đ (mọi khung giờ); giờ vàng sáng 08:00–11:00 thứ Hai–Sáu 190.000đ; giờ vàng tối 19:00–24:00 150.000đ (theo website)",
+  "hours": "07:00–24:00",
+  "mustTry": "Liệu trình nên chọn: vé tối giờ vàng rồi đi vòng phòng nóng (hang hồng ngoại, phòng muối Himalaya, đá núi lửa, bùn khoáng) xen kẽ phòng tuyết Igloo và bể ngâm nóng–lạnh; thêm massage chân hoặc toàn thân nếu muốn",
+  "desc_vi": "Khu xông hơi kiểu Hàn Quốc của hệ thống Golden Lotus ở Phú Mỹ Hưng, với hàng loạt phòng nóng theo chủ đề, phòng gỗ bách Hinoki, phòng tuyết, xông khô, xông ướt và bể khoáng nóng–lạnh. Khu thay đồ nam nữ riêng, có máy tập, quầy ăn vặt và nhà hàng BBQ Hàn dưới tầng trệt.",
+  "review_vi": "Chưa đọc được đánh giá Google cho cơ sở này; website cập nhật đều đặn năm 2026 (bảng giá giờ vàng tháng 8/2026). Lưu ý: khu tắm chung theo kiểu Hàn, nên chọn giờ vàng buổi tối để rẻ hơn.",
+  "rating": null,
+  "trending": false,
+  "tags": [
+   "Xông hơi",
+   "Mở khuya"
+  ],
+  "tips_vi": "Mẹo: đi buổi tối sau 19:00 để mua vé giờ vàng 150.000đ; nhóm từ 10 người nên đặt trước 5–7 ngày qua hotline 028 5410 7171; ăn BBQ Hàn ngay tầng dưới.",
+  "images": [],
+  "wiki": null,
+  "website": "https://goldenlotusland.vn/",
+  "sources": [
+   "https://goldenlotusland.vn/",
+   "https://goldenlotusland.vn/tong-quan-jjim-jil-bang-phu-my-hung-quan-7/"
+  ],
+  "status": "open"
+ },
+ {
+  "id": "hcmc-ha-spa-q1-pham-viet-chanh",
+  "name": "Hạ Spa – Massage trị liệu & Gội đầu dưỡng sinh (Quận 1)",
+  "cat": "wellness",
+  "subtitle": "Gội đầu dưỡng sinh · massage trị liệu · gần Quận 5",
+  "address": "49 Phạm Viết Chánh, Phường Nguyễn Cư Trinh, Quận 1",
+  "lat": 10.7661504,
+  "lng": 106.6829034,
+  "coordSource": "https://haspamassage.vn/dia-chi-massage-khiem-thi-tphcm/",
+  "price": "Gội đầu dưỡng sinh 30 phút 138.000đ, 60 phút 299.000đ, 90 phút 478.000đ; massage body 60 phút 300.000–500.000đ; trị liệu đau nhức 450.000–600.000đ (bảng giá chung trên website)",
+  "hours": "09:00–21:00 (nhận khách lần cuối)",
+  "mustTry": "Liệu trình nên chọn: gội đầu dưỡng sinh Đông y kèm ngâm chân, ấn huyệt; hoặc massage trị liệu đau nhức nếu mỏi cổ vai gáy",
+  "desc_vi": "Chi nhánh Quận 1 của Hạ Spa, nằm ở rìa Quận 1 giáp Quận 5 nên tiện cho ai ở khu Chợ Lớn – Nguyễn Trãi. Cùng quy trình gội đầu thảo dược, chườm nóng và massage trị liệu như cơ sở Tân Bình vốn được chấm 4,9 điểm.",
+  "review_vi": "Chưa đọc riêng được điểm Google của chi nhánh này; thương hiệu Hạ Spa được khen về kỹ thuật massage đầu, chườm nóng và sự chu đáo (theo đánh giá cơ sở Tân Bình). Lưu ý: giá trên web ghi theo khoảng, nên hỏi giá cụ thể.",
+  "rating": null,
+  "trending": true,
+  "tags": [
+   "Gội đầu dưỡng sinh",
+   "Đặt lịch trước"
+  ],
+  "tips_vi": "Mẹo: đặt qua hotline/Zalo/WhatsApp 0908 661 683; kết hợp đi ăn tối khu Chợ Lớn hoặc Nguyễn Trãi rồi ghé gội đầu.",
+  "images": [],
+  "wiki": null,
+  "website": "https://haspamassage.vn/",
+  "sources": [
+   "https://haspamassage.vn/",
+   "https://haspamassage.vn/dia-chi-massage-khiem-thi-tphcm/",
+   "https://haspamassage.vn/bang-gia-goi-dau-duong-sinh/",
+   "https://haspamassage.vn/bang-gia-massage-body/"
+  ],
+  "status": "open"
+ },
+ {
+  "id": "hcmc-22spa-de-tham",
+  "name": "22Spa",
+  "cat": "wellness",
+  "subtitle": "Massage body · massage chân · khu phố Tây",
+  "address": "100 Đề Thám, Phường Cầu Ông Lãnh, Quận 1",
+  "lat": null,
+  "lng": null,
+  "coordSource": null,
+  "price": "Chưa đọc được bảng giá trực tiếp; theo tóm tắt kết quả tìm kiếm, gói Special Massage 90 phút khoảng 660.000đ đã gồm tip — hỏi lại giá tại quầy",
+  "hours": "10:00–23:30",
+  "mustTry": "Liệu trình nên chọn: Special Massage 90 phút (body kết hợp chân); chưa rõ có làm lực mạnh — dặn trước nếu muốn ấn sâu",
+  "desc_vi": "Tiệm massage ở khu phố Tây Đề Thám, được VinWonders (12/2025) đưa vào danh sách spa nên thử ở TP.HCM. Gần chợ Bến Thành nên tiện ghé giữa lịch trình.",
+  "review_vi": "Chưa đọc trực tiếp được trang đánh giá; theo tóm tắt kết quả tìm kiếm, một bài review năm 2026 khen nhân viên chuyên nghiệp, sạch sẽ và nhắc quán rất đông. Lưu ý: chưa có điểm Google.",
+  "rating": null,
+  "trending": false,
+  "tags": [
+   "Massage chân",
+   "Mở khuya"
+  ],
+  "tips_vi": "Mẹo: gọi trước 035 566 6722 vì buổi tối có thể kín chỗ.",
+  "images": [],
+  "wiki": null,
+  "website": null,
+  "sources": [
+   "https://vinwonders.com/en/wonderpedia/news/massage-in-ho-chi-minh-city/"
+  ],
+  "status": "open"
+ },
+ {
+  "id": "hcmc-coco-care-spa",
+  "name": "Coco Care Spa",
+  "cat": "wellness",
+  "subtitle": "Massage body · tẩy tế bào chết · chăm sóc da mặt",
+  "address": "98G Bis Lê Lai, Phường Bến Thành, Quận 1",
+  "lat": 10.769796,
+  "lng": 106.693018,
+  "coordSource": "https://wanderlog.com/place/details/6119412",
+  "price": "Chưa thấy bảng giá dạng chữ — hỏi qua WhatsApp/Zalo +84 906 364 798",
+  "hours": "10:00–22:30",
+  "mustTry": "Liệu trình nên chọn: combo số 2 (massage body + tẩy tế bào chết + chăm sóc da mặt); kỹ thuật viên được khen bấm đúng điểm",
+  "desc_vi": "Spa nhỏ giá mềm gần công viên 23/9 và phố Tây, phục vụ massage body, tẩy tế bào chết, chăm sóc da mặt và làm móng gel. Được khách du lịch chấm điểm rất cao nhờ tay nghề và sự thân thiện.",
+  "review_vi": "Khen: 4,9 điểm trên gần 900 đánh giá, kỹ thuật viên bấm huyệt chuẩn, nhân viên thân thiện, sạch sẽ, đáng tiền. Chê: không có phòng tắm riêng và đồ spa cho khách.",
+  "rating": {
+   "value": 4.9,
+   "count": 893,
+   "source": "Google (qua Wanderlog)",
+   "url": "https://wanderlog.com/place/details/6119412",
+   "seen": "2026-10"
+  },
+  "trending": false,
+  "tags": [
+   "Đặt lịch trước"
+  ],
+  "tips_vi": "Mẹo: đặt qua WhatsApp, LINE, Zalo hoặc Messenger (các liên kết trên trang linktr.ee); mang theo đồ thay nếu cần.",
+  "images": [],
+  "wiki": null,
+  "website": "https://linktr.ee/cococarevn",
+  "sources": [
+   "https://wanderlog.com/place/details/6119412",
+   "https://linktr.ee/cococarevn"
+  ],
+  "status": "unverified"
+ },
+ {
+  "id": "hcmc-spa-khiem-thi-anh-duong",
+  "name": "Spa Khiếm Thị Ánh Dương",
+  "cat": "wellness",
+  "subtitle": "Massage body · xông hơi · đá nóng do người khiếm thị thực hiện",
+  "address": "355/27 Sư Vạn Hạnh, Phường 12, Quận 10",
+  "lat": 10.7701345,
+  "lng": 106.669995,
+  "coordSource": "https://hcm.inhat.vn/dia-chi-massage-khiem-thi-o-sai-gon/",
+  "price": "Body 120.000–180.000đ; body + xông hơi 160.000–220.000đ; body + đá nóng 150.000–210.000đ; massage kiểu Nhật/Thụy Điển/Thái 180.000đ (theo inhat.vn, cập nhật 06/2025)",
+  "hours": "Chưa rõ — gọi hỏi trước",
+  "mustTry": "Liệu trình nên chọn: body + xông hơi hoặc massage kiểu Thái; nói rõ muốn lực mạnh hay nhẹ",
+  "desc_vi": "Cơ sở massage của người khiếm thị trong hẻm Sư Vạn Hạnh, gần Vạn Hạnh Mall (Quận 10). Giá rất bình dân, có xông hơi và đá nóng; khách thường đến vì vừa được thư giãn vừa hỗ trợ việc làm cho người khiếm thị.",
+  "review_vi": "Chưa đọc được đánh giá Google; trang tổng hợp khen tay nghề cao và phục vụ chu đáo. Lưu ý: các trang ghi địa chỉ khác nhau (Sư Vạn Hạnh, Vĩnh Viễn, Nguyễn Tri Phương) — gọi trước để chắc chắn.",
+  "rating": null,
+  "trending": false,
+  "tags": [
+   "Doanh nghiệp xã hội",
+   "Xông hơi"
+  ],
+  "tips_vi": "Mẹo: gọi 0938 611 139 để xác nhận địa chỉ và giờ trước khi đi; nên boa trực tiếp cho kỹ thuật viên.",
+  "images": [],
+  "wiki": null,
+  "website": null,
+  "sources": [
+   "https://hcm.inhat.vn/dia-chi-massage-khiem-thi-o-sai-gon/",
+   "https://haspamassage.vn/dia-chi-massage-khiem-thi-tphcm/"
+  ],
+  "status": "unverified"
+ }
+]

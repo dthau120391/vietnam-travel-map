@@ -118,5 +118,12 @@
   "lng": 106.6952695,
   "source": "https://usac.vn/lien-he-voi-usac (Google Maps embed centre)",
   "why": "The researcher shifted the clinic's own Google Maps embed centre by a guessed 'embed offset' (+0.00218° lng, ~240 m); the centre of a place embed is the place itself, so the raw centre is used."
+ },
+ "hcmc/Saigon Physio Sport (SPS)": {
+  "lat": 10.80348,
+  "lng": 106.73754,
+  "approx": true,
+  "source": "OpenStreetMap: Xuân Thủy, Thảo Điền (highway)",
+  "why": "The address line starts with the floor ('Lầu 5'), which no geocoder reads; the pin is the clinic's street, Xuân Thủy in Thảo Điền, and directions search by name."
  }
 }
