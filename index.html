@@ -261,7 +261,8 @@ function toast(msg) {
 // ── state ────────────────────────────────────────────
 const state = { city:'hcmc', cats:new Set(Object.keys(CATS)), q:'', hot:false, mich:false, kid:false, mark:null, sort:'featured', me:null, sel:null };
 const marks = store.get();   // { placeId: { s:'want'|'been'|'skip', note:'…', t:epochMs } }
-const markOf = id => (marks[id] && marks[id].s) || null;
+const isMark = s => typeof s === 'string' && Object.hasOwn(MARKS, s);
+const markOf = id => (marks[id] && isMark(marks[id].s)) ? marks[id].s : null;   // never trust stored or shared text in markup
 
 // ── map ──────────────────────────────────────────────
 const map = L.map('map', { zoomControl:true });
@@ -545,8 +546,9 @@ async function checkImport(hash) {
   if (!m) return;
   let data;
   try { data = await unpack(m[1]); } catch { toast('Link chia sẻ bị lỗi, không đọc được.'); return; }
+  if (!data || typeof data !== 'object' || Array.isArray(data)) { toast('Link chia sẻ bị lỗi, không đọc được.'); return; }
   const entries = Object.entries(data).filter(([id]) => BY_ID.has(id));
-  const cnt = k => entries.filter(([, v]) => v[0] === k).length;
+  const cnt = k => entries.filter(([, v]) => Array.isArray(v) && v[0] === k).length;
   const bar = $('#importbar');
   bar.innerHTML = `<span>📥 Link chia sẻ có <b>${entries.length}</b> địa điểm đã đánh dấu (✅ ${cnt('been')} · 🎯 ${cnt('want')} · 🚫 ${cnt('skip')}).</span>
     <button class="primary" id="impMerge">Gộp vào danh sách của tôi</button><button id="impNo">Không, cảm ơn</button>`;
@@ -555,10 +557,12 @@ async function checkImport(hash) {
   $('#impNo').onclick = done;
   $('#impMerge').onclick = () => {
     let added = 0;
-    for (const [id, [s, note]] of entries) {
+    for (const [id, v] of entries) {
+      const s = Array.isArray(v) && isMark(v[0]) ? v[0] : null;          // a share link is untrusted input
+      const note = Array.isArray(v) && typeof v[1] === 'string' ? v[1].slice(0, 500) : '';
       const cur = marks[id] || {};
       const next = { ...cur };
-      if (s && !cur.s) { next.s = s; added++; }
+      if (s && !markOf(id)) { next.s = s; added++; }
       if (note && !cur.note) next.note = note;
       next.t = Date.now(); marks[id] = next;
     }
