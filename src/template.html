@@ -174,14 +174,51 @@ dialog p, dialog li { font-size:13.5px; line-height:1.55; margin-bottom:6px; }
 dialog ul { padding-left:18px; }
 dialog .close { float:right; border:0; background:#f0f2f5; border-radius:8px; padding:4px 10px; }
 
+.viewtoggle, .peek { display:none; }
+/* Phones: one full-screen pane at a time — the map or the list — switched by a floating toggle;
+   a tapped pin opens a small card; a place's details open full-screen. */
 @media (max-width: 820px) {
-  .top { padding:8px 10px; gap:8px; }
-  .brand h1 { font-size:15px; }
+  html, body { height:100%; height:100dvh; overflow:hidden; }
+  .top { flex-direction:column; align-items:stretch; flex-wrap:nowrap; gap:6px; padding:6px 10px 8px; }
+  .brand h1 { font-size:15px; white-space:nowrap; overflow:hidden; text-overflow:ellipsis; }
+  .brand small { display:none; }
+  .tabs { flex-wrap:nowrap; overflow-x:auto; scrollbar-width:none; }
+  .tabs::-webkit-scrollbar, .filters::-webkit-scrollbar { display:none; }
+  .tabs button { flex:none; min-height:40px; }
   .tools { margin-left:0; width:100%; }
-  .tools input { flex:1; width:auto; max-width:none; }
-  .wrap { flex-direction:column; }
-  #map { flex:none; height:44vh; order:-1; }
-  .side { width:100%; border-right:0; flex:1; min-height:50vh; }
+  .tools input { flex:1; width:auto; max-width:none; min-height:40px; font-size:16px; }   /* 16px: iOS does not zoom on focus */
+  .tools .ibtn { flex:none; width:40px; height:40px; }
+  .filters { padding:6px 10px; scrollbar-width:none; }
+  .chip { min-height:40px; padding:6px 12px; }
+  .wrap { position:relative; }
+  #map { position:absolute; inset:0; min-height:0; z-index:0; isolation:isolate; }   /* keeps Leaflet's own z-indexes (up to 1000) under the list and details */
+  body.view-list #map { visibility:hidden; }
+  .side { position:absolute; inset:0; width:100%; border-right:0; z-index:500; }
+  body.view-map .side { background:transparent; pointer-events:none; }
+  body.view-map .side > :not(.detail) { display:none !important; }
+  .list { padding-bottom:84px; }
+  .card { padding:12px; }
+  .detail { position:fixed; inset:0; z-index:2000; pointer-events:auto; padding-bottom:20px; }
+  .d-top { padding:8px; }
+  .d-top button { min-height:44px; padding:8px 14px; font-size:15px; }
+  .marks button, .actions a, .actions button { min-height:44px; }
+  .homebar button, .progress .mk, .progress button { min-height:36px; }
+  .leaflet-touch .leaflet-bar a { width:40px; height:40px; line-height:40px; }
+  .viewtoggle { display:flex; position:fixed; left:50%; transform:translateX(-50%); bottom:calc(14px + env(safe-area-inset-bottom)); z-index:1200;
+    background:#1d2733; border-radius:26px; padding:4px; box-shadow:0 6px 20px rgba(0,0,0,.35); }
+  .viewtoggle button { border:0; background:transparent; color:#fff; border-radius:22px; padding:10px 18px; font-weight:600; font-size:14px; min-height:44px; white-space:nowrap; }
+  .viewtoggle button.on { background:#fff; color:#1d2733; }
+  .peek { display:flex; position:fixed; left:10px; right:10px; bottom:calc(76px + env(safe-area-inset-bottom)); z-index:1100; background:#fff;
+    border-radius:14px; box-shadow:0 8px 24px rgba(0,0,0,.3); padding:10px; gap:10px; align-items:center; }
+  .peek[hidden] { display:none; }
+  .peek .thumb { width:56px; height:56px; font-size:24px; }
+  .peek .body { flex:1; min-width:0; }
+  .peek h3 { font-size:15px; color:var(--brand); line-height:1.25; display:-webkit-box; -webkit-line-clamp:2; -webkit-box-orient:vertical; overflow:hidden; }
+  .peek .row { font-size:12.5px; color:#344054; display:flex; gap:8px; margin-top:2px; white-space:nowrap; overflow:hidden; text-overflow:ellipsis; }
+  .peek .go { border:0; background:var(--brand); color:#fff; border-radius:10px; padding:8px 10px; font-weight:600; font-size:13px; min-height:44px; flex:none; }
+  body.detail-open .viewtoggle, body.detail-open .peek { display:none; }
+  .peek .x { border:0; background:#f0f2f5; border-radius:50%; width:36px; height:36px; flex:none; }
+  .toast { bottom:calc(140px + env(safe-area-inset-bottom)); }
 }
 </style>
 </head>
@@ -212,6 +249,11 @@ dialog .close { float:right; border:0; background:#f0f2f5; border-radius:8px; pa
   </aside>
   <div id="map" role="application" aria-label="Bản đồ"></div>
 </main>
+
+<div class="viewtoggle" id="viewtoggle" role="tablist" aria-label="Chế độ xem">
+  <button data-v="map" class="on" role="tab">🗺️ Bản đồ</button><button data-v="list" role="tab">📋 Danh sách <span id="vtCount"></span></button>
+</div>
+<div class="peek" id="peek" hidden></div>
 
 <dialog id="info">
   <button class="close" id="infoClose">Đóng ✕</button>
@@ -340,7 +382,7 @@ for (const p of PLACES) {
   const m = L.marker([p.lat, p.lng], { icon:pinIcon(p, false), title:p.name, riseOnHover:true });
   m.bindTooltip(esc(p.name), {   // Leaflet writes a string tooltip as HTML
   direction:'top', offset:[0, -30], className:'tt' });
-  m.on('click', () => select(p.id, false));
+  m.on('click', () => tapPin(p.id));
   markers.set(p.id, m);
 }
 
@@ -415,6 +457,7 @@ function ratingInline(p) {
 function renderList() {
   const items = sorted(visible());
   $('#count').textContent = `${items.length} địa điểm`;
+  $('#vtCount').textContent = `(${items.length})`;
   const el = $('#list');
   if (!items.length) { el.innerHTML = '<div class="empty">Không có địa điểm khớp bộ lọc.<br>Thử bỏ bớt bộ lọc hoặc từ khóa.</div>'; }
   else el.innerHTML = items.map((p, i) => {
@@ -500,11 +543,12 @@ function renderDetail(p) {
       ${p.approx ? '<p class="note">Ghim viền nét đứt = vị trí gần đúng (theo tên đường). Nút “Chỉ đường” tìm theo tên + địa chỉ nên vẫn dẫn đúng chỗ.</p>' : ''}
     </div>`;
   $('#detail').hidden = false;
+  document.body.classList.add('detail-open');
   $('#detail').scrollTop = 0;
   $('#back').onclick = closeDetail;
   $('#zoomTo').onclick = () => {
+    if (phone()) { $('#detail').hidden = true; document.body.classList.remove('detail-open'); setView('map'); showPeek(p); }   // phones: back to the map, card up
     flyTo(p, 17);
-    if (innerWidth <= 820) $('#map').scrollIntoView({ behavior:'smooth' });   // phones: the map sits above the list
   };
   document.querySelectorAll('.marks button').forEach(b => b.onclick = () => setMark(p.id, b.dataset.m));
   $('#myNote').onchange = e => setNote(p.id, e.target.value);
@@ -651,6 +695,8 @@ function drawHome() {
   ]).addTo(map);
 }
 function startPick() {
+  if (phone()) setView('map');
+  hidePeek();
   picking = true;
   map.getContainer().classList.add('picking');
   const b = L.DomUtil.create('div', 'pick-banner', map.getContainer());
@@ -682,6 +728,33 @@ function renderSort() {
   $('#sort').innerHTML = opts.map(([v, l]) => `<option value="${v}"${v === state.sort ? ' selected' : ''}>${l}</option>`).join('');
 }
 
+// ── phones: map or list, a peek card for a tapped pin ─
+const phone = () => matchMedia('(max-width: 820px)').matches;
+let view = 'map';
+function setView(v) {
+  view = v;
+  document.body.classList.toggle('view-map', v === 'map');
+  document.body.classList.toggle('view-list', v === 'list');
+  document.querySelectorAll('#viewtoggle button').forEach(b => b.classList.toggle('on', b.dataset.v === v));
+  if (v === 'list') hidePeek();
+  setTimeout(() => map.invalidateSize(), 50);   // the map's box changed size
+}
+function showPeek(p) {
+  const c = CATS[p.cat];
+  const dist = homeHere() && p.lat != null ? `<span class="home">🏠 ${fmtKm(dHome(p))}</span>` : '';
+  $('#peek').innerHTML = `${thumbHtml(p)}<div class="body"><h3>${esc(p.name)}</h3><div class="row">${ratingInline(p)}${dist}</div>
+    <div class="row">${c.emoji} ${esc(p.sub || c.label)}</div></div><button class="go">Chi tiết</button><button class="x" aria-label="Đóng">✕</button>`;
+  $('#peek').hidden = false;
+  $('#peek .go').onclick = () => select(p.id, false);
+  $('#peek .x').onclick = () => { hidePeek(); highlight(null); };
+}
+function hidePeek() { $('#peek').hidden = true; }
+function tapPin(id) {          // a pin on a phone map opens the small card; elsewhere it opens the details
+  const p = BY_ID.get(id);
+  if (phone() && view === 'map') { state.sel = id; highlight(id); showPeek(p); }
+  else select(id, false);
+}
+
 // ── selection & navigation ───────────────────────────
 let selMarker = null;
 function highlight(id) {
@@ -704,11 +777,13 @@ function select(id, fly) {
   renderDetail(p);
   highlight(id);
   document.querySelectorAll('.card').forEach(c => c.classList.toggle('sel', c.dataset.id === id));
-  if (fly !== false) flyTo(p, 16);
+  hidePeek();
+  if (fly !== false && !phone()) flyTo(p, 16);   // on a phone the details cover the map, so the map waits
   history.replaceState(null, '', `#${p.city}/${p.id}`);
 }
 function closeDetail() {
   $('#detail').hidden = true;
+  document.body.classList.remove('detail-open');
   state.sel = null;
   highlight(null);
   history.replaceState(null, '', `#${state.city}`);
@@ -724,6 +799,7 @@ function setCity(city, fit) {
   if (state.grp !== 'all' && !PLACES.some(p => p.city === city && p.grp === state.grp)) state.grp = 'all';
   state.sel = null;
   $('#detail').hidden = true;
+  document.body.classList.remove('detail-open');
   highlight(null);
   renderTabs(); renderFilters(); renderSort(); renderList();
   if (fit !== false) fitCity(false);
@@ -767,6 +843,8 @@ $('#sort').addEventListener('change', e => {
   renderList();
 });
 $('#infoBtn').onclick = () => $('#info').showModal();
+document.querySelectorAll('#viewtoggle button').forEach(b => b.onclick = () => setView(b.dataset.v));
+map.on('click', () => { if (!picking && !$('#peek').hidden) { hidePeek(); highlight(null); } });
 $('#infoClose').onclick = () => $('#info').close();
 $('#info').addEventListener('click', e => { if (e.target === $('#info')) $('#info').close(); });
 document.addEventListener('keydown', e => { if (e.key === 'Escape' && !$('#detail').hidden && !$('#info').open) closeDetail(); });
@@ -782,6 +860,7 @@ $('#infoBody').innerHTML = DATA.infoHtml;
   const hm = hash0.match(/[&#]home=(-?\d+(?:\.\d+)?),(-?\d+(?:\.\d+)?)/);   // a private "set my home" link: stored here, then dropped from the URL
   if (hm && Math.abs(+hm[1]) <= 90 && Math.abs(+hm[2]) <= 180) { home = [+hm[1], +hm[2]]; try { localStorage.setItem(HOME_KEY, JSON.stringify(home)); } catch {} }
   drawHome();
+  setView('map');
   const [c, id] = decodeURIComponent(hash0.slice(1).split('&')[0]).split('/');
   setCity(CITIES[c] ? c : 'hcmc');
   if (id && BY_ID.has(id)) select(id, true);
