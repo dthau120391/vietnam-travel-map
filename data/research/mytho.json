@@ -1,0 +1,1867 @@
+[
+ {
+  "id": "mytho-hu-tieu-quan-ky",
+  "name": "Hủ tiếu Quần Ký",
+  "cat": "food",
+  "subtitle": "Quán hủ tiếu Mỹ Tho hơn nửa thế kỷ",
+  "address": "55 Ngô Quyền, Phường 1, Mỹ Tho",
+  "lat": 10.360112,
+  "lng": 106.367441,
+  "coordSource": "https://wanderlog.com/place/details/7707959/hủ-tiếu-quần-ký",
+  "price": "30.000–35.000đ/tô",
+  "hours": "06:30–11:00",
+  "mustTry": "Hủ tiếu Mỹ Tho nước hoặc khô với tôm, gan, thịt, tóp mỡ",
+  "desc_vi": "Một trong những quán hủ tiếu lâu đời nhất Mỹ Tho, hoạt động hơn 50 năm và còn giữ cách nấu nước lèo truyền thống. Tô hủ tiếu giản dị gồm tôm, gan, thịt, rắc tép khô và tóp mỡ giòn.",
+  "review_vi": "Khen: nước lèo ngọt thanh từ xương, không lạm dụng bột ngọt, giữ hương vị truyền thống hơn nửa thế kỷ; quán sạch sẽ. Chê: chỉ bán buổi sáng; thông tin hoạt động gần đây không rõ ràng.",
+  "rating": {
+   "value": 4.2,
+   "count": 230,
+   "source": "Google (qua Wanderlog)",
+   "url": "https://wanderlog.com/place/details/7707959/hủ-tiếu-quần-ký",
+   "seen": "2026-10"
+  },
+  "trending": false,
+  "tags": [
+   "hủ tiếu",
+   "ăn sáng",
+   "lâu đời"
+  ],
+  "tips_vi": "Mẹo: Google Maps đang ghi quán \"tạm đóng cửa\" và đánh giá mới nhất từ 2022 — gọi hỏi hoặc hỏi người địa phương trước khi đi; nếu đóng, Hủ tiếu Làng Việt hoặc Tuyết Ngân là lựa chọn thay thế.",
+  "images": [
+   {
+    "commons": "File:Hu tieu My Tho.jpg",
+    "kind": "dish"
+   }
+  ],
+  "wiki": null,
+  "website": null,
+  "sources": [
+   "https://mia.vn/cam-nang-du-lich/dung-bo-lo-top-5-quan-hu-tieu-ngon-nhat-my-tho-5305",
+   "https://tuoitre.vn/hu-tieu-my-tho---dac-san-moi-chau-a-601606.htm",
+   "https://www.foody.vn/tien-giang/hu-tieu-quan-ky-ngo-quyen",
+   "https://wanderlog.com/place/details/7707959/hủ-tiếu-quần-ký"
+  ],
+  "status": "unverified",
+  "existing": true
+ },
+ {
+  "id": "mytho-hu-tieu-sa-te-chin-hoang",
+  "name": "Hủ tiếu sa tế Chín Hoàng",
+  "cat": "food",
+  "subtitle": "Hủ tiếu sa tế cay nồng, nước lèo màu cam",
+  "address": "206A Nam Kỳ Khởi Nghĩa, Phường 1, Mỹ Tho",
+  "lat": 10.359301,
+  "lng": 106.361999,
+  "coordSource": "https://wanderlog.com/place/details/7545722/hủ-tiếu-sa-tế-mỹ-tho",
+  "price": "30.000–75.000đ/tô",
+  "hours": "06:30–23:00",
+  "mustTry": "Hủ tiếu sa tế, chả bò ăn kèm",
+  "desc_vi": "Quán chuyên hủ tiếu sa tế — biến tấu cay nồng của hủ tiếu Mỹ Tho với nước lèo màu cam, vị cay, béo bùi mùi đậu phộng. Mở cửa từ sáng tới tối nên tiện cho khách đến muộn.",
+  "review_vi": "Khen: nước lèo đậm đà, cay vừa, ít bột ngọt, trình bày đẹp; chả bò ăn kèm được khen nhiều; mở cửa tới khuya. Chê: giá cao hơn mặt bằng Mỹ Tho, có khách thấy phần thịt ít.",
+  "rating": {
+   "value": 3.7,
+   "count": 1451,
+   "source": "Google (qua Wanderlog)",
+   "url": "https://wanderlog.com/place/details/7545722/hủ-tiếu-sa-tế-mỹ-tho",
+   "seen": "2026-10"
+  },
+  "trending": false,
+  "tags": [
+   "hủ tiếu",
+   "sa tế",
+   "ăn tối"
+  ],
+  "tips_vi": "Mẹo: hỏi giá trước khi gọi tô đặc biệt; gọi thêm chả bò ăn kèm.",
+  "images": [
+   {
+    "commons": "File:Hu tieu My Tho.jpg",
+    "kind": "dish"
+   }
+  ],
+  "wiki": null,
+  "website": null,
+  "sources": [
+   "https://mia.vn/cam-nang-du-lich/dung-bo-lo-top-5-quan-hu-tieu-ngon-nhat-my-tho-5305",
+   "https://toplist.vn/top-list/quan-an-ngon-va-noi-tieng-nhat-tai-tien-giang-37717.htm",
+   "https://wanderlog.com/place/details/7545722/hủ-tiếu-sa-tế-mỹ-tho"
+  ],
+  "status": "open",
+  "existing": true
+ },
+ {
+  "id": "mytho-hu-tieu-43-ap-bac",
+  "name": "Hủ tiếu Mỹ Tho 43",
+  "cat": "food",
+  "subtitle": "Quán hủ tiếu sáng sớm gần ngã ba Trung Lương",
+  "address": "43 Ấp Bắc, Phường 10, Mỹ Tho",
+  "lat": 10.382077,
+  "lng": 106.340916,
+  "coordSource": "https://wanderlog.com/place/details/8184300/hủ-tiếu-mỹ-tho-43",
+  "price": "Bình dân",
+  "hours": "Mở từ 04:00 sáng",
+  "mustTry": "Hủ tiếu thập cẩm (xương, trứng cút, mực, lòng), hủ tiếu hải sản",
+  "desc_vi": "Quán hủ tiếu lâu năm trên đường Ấp Bắc, gần ngã ba Trung Lương và lối ra cao tốc, mở cửa từ 4 giờ sáng. Thực đơn có hủ tiếu heo, hải sản, gà, lòng, đuôi heo, thập cẩm, khách tự nêm thêm nước mắm, đường, muối trên bàn.",
+  "review_vi": "Khen: nước lèo cân bằng ngọt–chua, tôm mực nhiều, sợi hủ tiếu Gò Cát dai, tiện ghé khi đi cao tốc. Chê: quán nhỏ ít bàn, vỉa hè và sàn chưa sạch, giá nhích lên vì nổi tiếng.",
+  "rating": {
+   "value": 4.1,
+   "count": 1918,
+   "source": "Google (qua Wanderlog)",
+   "url": "https://wanderlog.com/place/details/8184300/hủ-tiếu-mỹ-tho-43",
+   "seen": "2026-10"
+  },
+  "trending": false,
+  "tags": [
+   "hủ tiếu",
+   "ăn sáng",
+   "gần cao tốc"
+  ],
+  "tips_vi": "Mẹo: điểm dừng ăn sáng tiện khi xuống cao tốc Trung Lương; đi sớm để có chỗ ngồi.",
+  "images": [
+   {
+    "commons": "File:Hu tieu My Tho.jpg",
+    "kind": "dish"
+   }
+  ],
+  "wiki": null,
+  "website": null,
+  "sources": [
+   "https://wanderlog.com/place/details/8184300/hủ-tiếu-mỹ-tho-43",
+   "https://toplist.vn/top-list/quan-an-sang-tai-tp-my-tho-tien-giang-ngon-va-chat-luong-nhat-63533.htm"
+  ],
+  "status": "open",
+  "existing": true
+ },
+ {
+  "id": "mytho-hu-tieu-tuyet-ngan",
+  "name": "Hủ tiếu Tuyết Ngân",
+  "cat": "food",
+  "subtitle": "Quán hủ tiếu đông khách nhất Ấp Bắc",
+  "address": "481 Ấp Bắc, Phường 5, Mỹ Tho",
+  "lat": 10.368011,
+  "lng": 106.353702,
+  "coordSource": "https://wanderlog.com/place/details/2816420/hủ-tiếu-tuyết-ngân",
+  "price": "Bình dân",
+  "hours": "05:30–22:00",
+  "mustTry": "Hủ tiếu Mỹ Tho thập cẩm, hủ tiếu hoành thánh, xương",
+  "desc_vi": "Quán hủ tiếu lớn trên trục Ấp Bắc với hàng nghìn lượt đánh giá, mở cửa cả ngày. Ngoài hủ tiếu còn có mì, bánh canh, nui; nước lèo ngọt thơm, sợi dai, rau sống và nước chấm chua ngọt.",
+  "review_vi": "Khen: nước lèo đậm vị, topping đầy đặn, sợi dai, phục vụ nhanh, mở cửa liên tục. Chê: có khách thấy sợi hơi cứng, vệ sinh chưa thật chỉn chu.",
+  "rating": {
+   "value": 4.1,
+   "count": 3716,
+   "source": "Google (qua Wanderlog)",
+   "url": "https://wanderlog.com/place/details/2816420/hủ-tiếu-tuyết-ngân",
+   "seen": "2026-10"
+  },
+  "trending": false,
+  "tags": [
+   "hủ tiếu",
+   "mở cả ngày"
+  ],
+  "tips_vi": "Mẹo: tiện ghé trên đường từ cao tốc vào trung tâm; đông nhất buổi sáng cuối tuần.",
+  "images": [
+   {
+    "commons": "File:Hu tieu My Tho.jpg",
+    "kind": "dish"
+   }
+  ],
+  "wiki": null,
+  "website": "http://facebook.com/hutiutuyetngan",
+  "sources": [
+   "https://wanderlog.com/place/details/2816420/hủ-tiếu-tuyết-ngân",
+   "https://toplist.vn/top-list/quan-an-ngon-va-noi-tieng-nhat-tai-tien-giang-37717.htm"
+  ],
+  "status": "open",
+  "existing": false
+ },
+ {
+  "id": "mytho-chua-vinh-trang",
+  "name": "Chùa Vĩnh Tràng",
+  "cat": "sight",
+  "subtitle": "Ngôi chùa cổ kiến trúc Á–Âu",
+  "address": "Đường Nguyễn Trung Trực, ấp Mỹ An, xã Mỹ Phong, Mỹ Tho",
+  "lat": 10.36287,
+  "lng": 106.37354,
+  "coordSource": "https://en.wikipedia.org/wiki/V%C4%A9nh_Tr%C3%A0ng_Temple",
+  "price": "Miễn phí",
+  "hours": "06:30–19:00",
+  "mustTry": "Mặt tiền pha trộn Á–Âu, ba tượng Phật lớn ngoài trời, vườn cây kiểng",
+  "desc_vi": "Ngôi chùa cổ lớn nhất Mỹ Tho, xây từ đầu thế kỷ 19, nổi bật với mặt tiền kết hợp kiến trúc Á–Âu và các tượng Phật lớn trong khuôn viên. Chùa được công nhận di tích kiến trúc nghệ thuật cấp quốc gia năm 1984.",
+  "review_vi": "Khen: kiến trúc giao thoa Việt–Hoa–Khmer–Pháp độc đáo, khuôn viên rộng nhiều cây xanh và hồ sen, tượng Phật Di Lặc, Phật nằm rất lớn, không khí yên tĩnh. Chê: một số hàng quán trước cổng nài bán, giá đắt hơn chỗ khác.",
+  "rating": {
+   "value": 4.6,
+   "count": 9788,
+   "source": "Google (qua Wanderlog)",
+   "url": "https://wanderlog.com/place/details/18034/vĩnh-tràng-pagoda",
+   "seen": "2026-10"
+  },
+  "trending": false,
+  "tags": [
+   "chùa",
+   "di tích quốc gia",
+   "kiến trúc"
+  ],
+  "tips_vi": "Mẹo: ăn mặc kín đáo vì là chùa đang sinh hoạt; mua nhang, nước ở các tiệm cạnh chùa thay vì sạp chèo kéo trước cổng; Bồ Đề Quán (chay) nằm ngay đối diện.",
+  "images": [
+   {
+    "commons": "File:Vinh Trang Pagoda.JPG",
+    "kind": "place"
+   },
+   {
+    "commons": "File:Cổng chùa Vĩnh Tràng.jpg",
+    "kind": "place"
+   },
+   {
+    "commons": "File:Kiến trúc Chùa Vĩnh Tràng, Mỹ Tho 1.jpg",
+    "kind": "place"
+   }
+  ],
+  "wiki": "https://vi.wikipedia.org/wiki/Ch%C3%B9a_V%C4%A9nh_Tr%C3%A0ng",
+  "website": "https://www.facebook.com/chuavinhtrangofficial",
+  "sources": [
+   "https://vi.wikipedia.org/wiki/Ch%C3%B9a_V%C4%A9nh_Tr%C3%A0ng",
+   "https://en.wikipedia.org/wiki/V%C4%A9nh_Tr%C3%A0ng_Temple",
+   "https://wanderlog.com/place/details/18034/vĩnh-tràng-pagoda",
+   "https://mia.vn/cam-nang-du-lich/chua-vinh-trang-tien-giang-va-net-dep-kien-truc-cuc-ky-dac-biet-5144"
+  ],
+  "status": "open",
+  "existing": true
+ },
+ {
+  "id": "mytho-cau-rach-mieu",
+  "name": "Cầu Rạch Miễu",
+  "cat": "sight",
+  "subtitle": "Cây cầu dây văng nối Mỹ Tho với Bến Tre",
+  "address": "Quốc lộ 60, qua cồn Thới Sơn (Mỹ Tho – Bến Tre)",
+  "lat": 10.337,
+  "lng": 106.344,
+  "coordSource": "https://en.wikipedia.org/wiki/R%E1%BA%A1ch_Mi%E1%BB%85u_Bridge",
+  "price": null,
+  "hours": "Cả ngày",
+  "mustTry": "Ngắm cầu từ bờ sông Tiền hoặc từ thuyền khi đi cồn",
+  "desc_vi": "Cầu dây văng bắc qua sông Tiền trên Quốc lộ 60, nối Mỹ Tho với Bến Tre, khánh thành năm 2009 và chấm dứt cảnh qua phà Rạch Miễu. Cầu đi ngang cù lao Thới Sơn, là cây cầu dây văng đầu tiên do kỹ sư Việt Nam tự thiết kế và thi công; nhịp chính 270 m, tĩnh không 37,5 m.",
+  "review_vi": null,
+  "rating": null,
+  "trending": false,
+  "tags": [
+   "cầu",
+   "ngắm cảnh"
+  ],
+  "tips_vi": "Mẹo: đẹp nhất khi nhìn từ tàu du lịch lúc hoàng hôn; xe máy, ô tô được qua cầu.",
+  "images": [
+   {
+    "commons": "File:Rach Mieu Bridge pylon.jpg",
+    "kind": "place"
+   },
+   {
+    "commons": "File:Cầu Rạch Miễu.jpg",
+    "kind": "place"
+   }
+  ],
+  "wiki": "https://vi.wikipedia.org/wiki/C%E1%BA%A7u_R%E1%BA%A1ch_Mi%E1%BB%85u",
+  "website": null,
+  "sources": [
+   "https://vi.wikipedia.org/wiki/C%E1%BA%A7u_R%E1%BA%A1ch_Mi%E1%BB%85u",
+   "https://en.wikipedia.org/wiki/R%E1%BA%A1ch_Mi%E1%BB%85u_Bridge"
+  ],
+  "status": "open",
+  "existing": true
+ },
+ {
+  "id": "mytho-tour-song-nuoc-ben-tau",
+  "name": "Tour sông nước Mekong – Bến tàu du lịch Mỹ Tho",
+  "cat": "experience",
+  "subtitle": "Đi tàu qua tứ linh Long – Lân – Quy – Phụng",
+  "address": "8 đường 30 Tháng 4, Mỹ Tho",
+  "lat": 10.352326,
+  "lng": 106.363578,
+  "coordSource": "https://wanderlog.com/place/details/8906885/bến-tàu-du-lịch-mỹ-tho-hotline",
+  "price": "Tour ghép ~150.000–450.000đ/khách; tàu riêng ~1.000.000đ; chưa có thông tin công bố về độ tuổi/giá vé trẻ em",
+  "hours": "Ban ngày (hỏi lịch tàu tại bến)",
+  "mustTry": "Đi xuồng ba lá trong rạch dừa, uống trà mật ong, nghe đờn ca tài tử, xem làm kẹo dừa",
+  "desc_vi": "Điểm xuất phát các tour tàu trên sông Tiền ghé cồn Thới Sơn (Lân), cồn Phụng, cồn Quy và cồn Tân Long. Ngoài bến tàu du lịch trên đường 30/4 còn có Cảng du thuyền Mỹ Tho (đường Hoàng Sa) với nhà ga trắng hiện đại, cũng là nơi khởi hành tour đi cồn.",
+  "review_vi": "Khen: tiện, nhiều tàu nên ít phải chờ, trải nghiệm sông nước trọn trong nửa ngày, chèo xuồng trong rạch dừa thú vị. Chê: một số điểm dừng mang tính thương mại, bị mời mua mật ong, kẹo dừa khá nhiều; giá tour chênh lệch tùy nơi bán.",
+  "rating": {
+   "value": 4.3,
+   "count": 863,
+   "source": "Google (qua Wanderlog)",
+   "url": "https://wanderlog.com/place/details/8906885/bến-tàu-du-lịch-mỹ-tho-hotline",
+   "seen": "2026-10"
+  },
+  "trending": false,
+  "tags": [
+   "tour sông nước",
+   "đi cồn",
+   "tứ linh",
+   "Hợp với trẻ em"
+  ],
+  "tips_vi": "Mẹo: hỏi rõ lịch trình và giá trọn gói (gồm vé xuồng, trà mật ong, ăn trưa hay không) trước khi xuống tàu; đi buổi sáng để tránh nắng; mùa trái cây tháng 7–10.",
+  "images": [
+   {
+    "commons": "File:Tàu du lịch cặp bến cồn Phụng.jpg",
+    "kind": "place"
+   },
+   {
+    "commons": "File:Một góc TP.Mỹ Tho bên sông Tiền.jpg",
+    "kind": "place"
+   }
+  ],
+  "wiki": null,
+  "website": "http://www.dulichtiengiang.com.vn/",
+  "sources": [
+   "https://wanderlog.com/place/details/8906885/bến-tàu-du-lịch-mỹ-tho-hotline",
+   "https://vnexpress.net/cam-nang-du-lich-con-thoi-son-5103568.html",
+   "https://mia.vn/cam-nang-du-lich/cang-du-thuyen-my-tho-19857",
+   "https://www.vietnambooking.com/du-lich/blog-du-lich/du-lich-thoi-son.html"
+  ],
+  "status": "open",
+  "existing": true
+ },
+ {
+  "id": "mytho-con-thoi-son",
+  "name": "Cồn Thới Sơn (Cồn Lân)",
+  "cat": "nature",
+  "subtitle": "Cù lao lớn nhất giữa sông Tiền",
+  "address": "Xã Thới Sơn, Mỹ Tho",
+  "lat": 10.33236111,
+  "lng": 106.33013889,
+  "coordSource": "https://vi.wikipedia.org/wiki/C%C3%B9_lao_Th%E1%BB%9Bi_S%C6%A1n",
+  "price": "Gói tham quan ~150.000đ/người (tự túc); tour từ bến tàu 150.000–450.000đ; chưa có thông tin công bố về độ tuổi/giá vé trẻ em",
+  "hours": "Ban ngày",
+  "mustTry": "Chèo xuồng ba lá rạch Bà Ngoạn, trà mật ong hoa nhãn, đờn ca tài tử, vườn trái cây, đi xe ngựa đường làng, cầu khỉ, tát mương bắt cá, cá tai tượng chiên xù",
+  "desc_vi": "Cù lao lớn nhất trong bốn cồn Long – Lân – Quy – Phụng, rộng khoảng 1.200 ha với kênh rạch chằng chịt, vườn nhãn, chôm chôm, trại ong. Đây là điểm dừng chính của các tour sông nước từ Mỹ Tho, có thể đi tàu hoặc chạy xe qua cầu Rạch Miễu.",
+  "review_vi": "Khen: thiên nhiên xanh mát, vườn trái cây sum suê, chèo xuồng trong rạch dừa và nghe đờn ca tài tử rất đặc trưng miền Tây, người dân hiếu khách. Chê: một số điểm thương mại hóa, bị mời mua hàng nhiều; có khách phản ánh vấn đề vệ sinh ăn uống và rượu rắn.",
+  "rating": {
+   "value": 4.2,
+   "count": 764,
+   "source": "Google (qua Wanderlog)",
+   "url": "https://wanderlog.com/place/details/5670478/cù-lao-thới-sơn",
+   "seen": "2026-10"
+  },
+  "trending": false,
+  "tags": [
+   "cù lao",
+   "đờn ca tài tử",
+   "miệt vườn",
+   "Hợp với trẻ em"
+  ],
+  "tips_vi": "Mẹo: tháng 7–10 là mùa trái cây; tránh uống rượu rắn, chọn quán ăn đông khách; có thể chạy xe máy qua cầu Rạch Miễu rồi rẽ vào Huyện lộ 94C để đi tự túc.",
+  "images": [],
+  "wiki": "https://vi.wikipedia.org/wiki/C%C3%B9_lao_Th%E1%BB%9Bi_S%C6%A1n",
+  "website": null,
+  "sources": [
+   "https://vi.wikipedia.org/wiki/C%C3%B9_lao_Th%E1%BB%9Bi_S%C6%A1n",
+   "https://vnexpress.net/cam-nang-du-lich-con-thoi-son-5103568.html",
+   "https://wanderlog.com/place/details/5670478/cù-lao-thới-sơn",
+   "https://wanderlog.com/place/details/12988930/thoi-son-island"
+  ],
+  "status": "open",
+  "existing": false
+ },
+ {
+  "id": "mytho-con-phung",
+  "name": "Cồn Phụng (di tích Đạo Dừa)",
+  "cat": "sight",
+  "subtitle": "Cồn nhỏ gắn với ông Đạo Dừa",
+  "address": "Xã Tân Thạch, Châu Thành, Bến Tre (đối diện Mỹ Tho)",
+  "lat": 10.33330556,
+  "lng": 106.3565,
+  "coordSource": "https://vi.wikipedia.org/wiki/C%E1%BB%93n_Ph%E1%BB%A5ng",
+  "price": "Có vé tham quan/combo ăn chơi; thường đi trong tour",
+  "hours": "Ban ngày",
+  "mustTry": "Di tích sân Đạo Dừa với cửu long tháp, kẹo dừa, xuồng ba lá",
+  "desc_vi": "Cồn nhỏ nhất trong tứ linh trên sông Tiền, thuộc phía Bến Tre, nổi tiếng với khu di tích Đạo Dừa của ông Nguyễn Thành Nam (ông Đạo Dừa) với những cột rồng, tháp và nền sân lễ độc đáo. Thường kết hợp chung tour với cồn Thới Sơn.",
+  "review_vi": "Khen: cảnh sông nước đẹp, khu di tích Đạo Dừa lạ mắt, có combo ăn uống – giải trí. Chê: dịch vụ mang tính đại trà, có khách không thích cách nuôi nhốt động vật để phục vụ khách.",
+  "rating": {
+   "value": 4.0,
+   "count": 83,
+   "source": "Google (qua Wanderlog)",
+   "url": "https://wanderlog.com/place/details/4344791/cồn-phụng",
+   "seen": "2026-10"
+  },
+  "trending": false,
+  "tags": [
+   "cù lao",
+   "Đạo Dừa",
+   "Bến Tre"
+  ],
+  "tips_vi": "Mẹo: mua tour ghép từ bến tàu Mỹ Tho thường đã gồm ghé cồn Phụng; xem kỹ giá combo trước khi trả tiền.",
+  "images": [
+   {
+    "commons": "File:Cồn Phụng.jpg",
+    "kind": "place"
+   },
+   {
+    "commons": "File:Tháp hành đạo của Đạo Dừa.jpg",
+    "kind": "place"
+   },
+   {
+    "commons": "File:Làm kẹo dừa trên cồn Phụng.jpg",
+    "kind": "place"
+   }
+  ],
+  "wiki": "https://vi.wikipedia.org/wiki/C%E1%BB%93n_Ph%E1%BB%A5ng",
+  "website": null,
+  "sources": [
+   "https://vi.wikipedia.org/wiki/C%E1%BB%93n_Ph%E1%BB%A5ng",
+   "https://vi.wikipedia.org/wiki/%C4%90%E1%BA%A1o_D%E1%BB%ABa",
+   "https://wanderlog.com/place/details/4344791/cồn-phụng"
+  ],
+  "status": "open",
+  "existing": false
+ },
+ {
+  "id": "mytho-cho-my-tho",
+  "name": "Chợ Mỹ Tho",
+  "cat": "market",
+  "subtitle": "Chợ trung tâm bên sông Bảo Định",
+  "address": "Đường Nguyễn Huệ, Phường 1, Mỹ Tho",
+  "lat": 10.357247,
+  "lng": 106.367737,
+  "coordSource": "https://wanderlog.com/place/details/4198650/mỹ-tho-market",
+  "price": "Miễn phí vào cửa",
+  "hours": "Từ sáng sớm; đông nhất trước 08:00",
+  "mustTry": "Cá, tôm sông tươi, khô cá, trái cây miệt vườn, đồ ăn vặt",
+  "desc_vi": "Chợ trung tâm lớn nhất thành phố, nằm cạnh sông Bảo Định, buôn bán đủ nông sản, trái cây, cá tôm và đồ khô của vùng. Người địa phương còn gọi khu chợ là chợ Hàng Bông hoặc chợ Ông Bầu.",
+  "review_vi": "Khen: không khí chợ quê nhộn nhịp, hàng hóa phong phú từ khô cá đến tôm sống, người bán thân thiện. Chê: lối đi chật, ẩm ướt; nên đi sớm vì trưa đã vãn.",
+  "rating": {
+   "value": 4.2,
+   "count": 1437,
+   "source": "Google (qua Wanderlog)",
+   "url": "https://wanderlog.com/place/details/4198650/mỹ-tho-market",
+   "seen": "2026-10"
+  },
+  "trending": false,
+  "tags": [
+   "chợ",
+   "trái cây",
+   "khô cá"
+  ],
+  "tips_vi": "Mẹo: đi trước 8h sáng để thấy chợ đông nhất; mua khô cá, mắm, trái cây làm quà.",
+  "images": [
+   {
+    "commons": "File:Cho My Tho,duong Nguyen hue,Phường 1, tp. Mỹ Tho, Tiền Giang, Việt Nam - panoramio.jpg",
+    "kind": "place"
+   }
+  ],
+  "wiki": null,
+  "website": "https://www.facebook.com/groups/chomythotiengiang/",
+  "sources": [
+   "https://wanderlog.com/place/details/4198650/mỹ-tho-market",
+   "https://localvietnam.com/mekong-delta/tien-giang/my-tho-market/",
+   "https://www.travelfish.org/sight_profile/vietnam/mekong_delta/tien_giang/my_tho/4031"
+  ],
+  "status": "open",
+  "existing": true
+ },
+ {
+  "id": "mytho-cho-noi-cai-be",
+  "name": "Chợ nổi Cái Bè",
+  "cat": "sight",
+  "subtitle": "Chợ nổi xưa nay đã mai một",
+  "address": "Sông Tiền, thị trấn Cái Bè (~37 km đường chim bay từ Mỹ Tho)",
+  "lat": 10.332404,
+  "lng": 106.035203,
+  "coordSource": "https://wanderlog.com/place/details/18043/cai-be-market",
+  "price": "Thuê xuồng 3–5 người ~150.000–200.000đ",
+  "hours": "Sáng sớm, ~05:30–08:00",
+  "mustTry": "Đi xuồng quanh khu chợ, ghé nhà cổ và lò cốm, bánh tráng Cái Bè",
+  "desc_vi": "Từng là một trong những chợ nổi sầm uất nhất miền Tây, nhưng ghe thương hồ đã thưa thớt vì hàng hóa chuyển sang đường bộ. Báo chí năm 2023 ghi nhận chỉ còn vài chiếc ghe; cẩm nang 2026 nhận định ghe buôn thật gần như biến mất, thay bằng thuyền nhà hàng và hàng lưu niệm. Google Maps hiện đánh dấu điểm chợ nổi là 'đóng cửa vĩnh viễn'.",
+  "review_vi": "Khen: cảnh sông nước Cái Bè, nhà cổ, lò cốm, bánh tráng quanh chợ vẫn đáng xem. Chê: nhiều khách thất vọng vì chợ vắng, không còn cảnh ghe xuồng tấp nập như hình ảnh quảng bá.",
+  "rating": null,
+  "trending": false,
+  "tags": [
+   "chợ nổi",
+   "đã mai một",
+   "Cái Bè"
+  ],
+  "tips_vi": "Mẹo: đừng kỳ vọng một chợ nổi đông đúc — nếu muốn thấy chợ nổi thật, nên đến Cái Răng (Cần Thơ); đến Cái Bè nên kết hợp nhà cổ Ông Kiệt, Ba Đức và vườn trái cây.",
+  "images": [
+   {
+    "commons": "File:Cai Be floating market (15886355696).jpg",
+    "kind": "place"
+   },
+   {
+    "commons": "File:Vietnam 08 - 121 - Cai Be floating market (3185902412).jpg",
+    "kind": "place"
+   }
+  ],
+  "wiki": "https://vi.wikipedia.org/wiki/Ch%E1%BB%A3_n%E1%BB%95i_C%C3%A1i_B%C3%A8",
+  "website": null,
+  "sources": [
+   "https://www.sggp.org.vn/mai-mot-cho-noi-cai-be-post695058.html",
+   "https://www.vietnamtourism.com/vi/cho-noi-nao-ep-nhat-viet-nam-so-sanh-nam-2026-e-chon-ung-cho",
+   "https://wanderlog.com/place/details/18043/cai-be-market",
+   "https://mia.vn/cam-nang-du-lich/doc-dao-cho-noi-cai-be-tien-giang-binh-di-va-dac-sac-5139"
+  ],
+  "status": "unverified",
+  "existing": false
+ },
+ {
+  "id": "mytho-hu-tieu-hanh",
+  "name": "Hủ tiếu Hạnh",
+  "cat": "food",
+  "subtitle": "Hủ tiếu xương ống, từng đoạt giải ẩm thực Nam Bộ",
+  "address": "Nguyễn An Ninh, Phường 8, Mỹ Tho",
+  "lat": 10.356341,
+  "lng": 106.374367,
+  "coordSource": "https://www.foody.vn/tien-giang/quan-hanh-hu-tieu-my-tho",
+  "price": "20.000–35.000đ (niêm yết); tô thập cẩm ~50.000–70.000đ",
+  "hours": "05:00–11:00",
+  "mustTry": "Hủ tiếu thập cẩm với xương ống lớn hầm mềm, hủ tiếu khô",
+  "desc_vi": "Quán hủ tiếu buổi sáng ở Phường 8 với nước lèo trong, ngọt thanh ninh từ thịt và xương, sợi mềm mà dai, phục vụ cả khô lẫn nước. Quán được giới thiệu là từng đoạt giải nhất một hội thi ẩm thực Nam Bộ năm 2012.",
+  "review_vi": "Khen: khúc xương ống to, thịt hầm mềm, topping tươi, quán đông khách mà chờ không lâu. Chê: giá cao hơn mặt bằng Mỹ Tho, nước lèo có lúc hơi mặn hoặc nhiều bột ngọt, ghế ngồi vỉa hè dễ bị nắng.",
+  "rating": {
+   "value": 7.4,
+   "count": 6,
+   "source": "Foody (thang điểm 10)",
+   "url": "https://www.foody.vn/tien-giang/quan-hanh-hu-tieu-my-tho",
+   "seen": "2026-10"
+  },
+  "trending": false,
+  "tags": [
+   "hủ tiếu",
+   "ăn sáng"
+  ],
+  "tips_vi": "Mẹo: Foody cảnh báo quán không có hoạt động mới hơn 3 tháng và đánh giá gần nhất từ 2021 — nên hỏi người địa phương hoặc gọi trước; đến sớm vì chỉ bán buổi sáng.",
+  "images": [
+   {
+    "commons": "File:Hu tieu My Tho.jpg",
+    "kind": "dish"
+   }
+  ],
+  "wiki": null,
+  "website": null,
+  "sources": [
+   "https://mia.vn/cam-nang-du-lich/dung-bo-lo-top-5-quan-hu-tieu-ngon-nhat-my-tho-5305",
+   "https://www.foody.vn/tien-giang/quan-hanh-hu-tieu-my-tho"
+  ],
+  "status": "unverified",
+  "existing": true
+ },
+ {
+  "id": "mytho-hu-tieu-lang-viet",
+  "name": "Hủ tiếu Mỹ Tho Làng Việt",
+  "cat": "food",
+  "subtitle": "Quán hủ tiếu được vinh danh năm 2024",
+  "address": "194D Ấp Bắc, Phường 5, Mỹ Tho",
+  "lat": 10.367054,
+  "lng": 106.355188,
+  "coordSource": "https://wanderlog.com/place/details/10718056",
+  "price": "Bình dân",
+  "hours": "06:00–21:00",
+  "mustTry": "Hủ tiếu Mỹ Tho nước/khô với topping đa dạng",
+  "desc_vi": "Quầy hủ tiếu của nhà hàng Làng Việt trên trục Ấp Bắc, là một trong năm quán được UBND TP Mỹ Tho trao danh hiệu \"Quán hủ tiếu Mỹ Tho uy tín, chất lượng năm 2024\" tại Lễ hội Hủ tiếu Mỹ Tho lần đầu. Không gian rộng, sạch, có chỗ đậu xe.",
+  "review_vi": "Khen: nước dùng đậm đà, topping phong phú, không gian đẹp và sạch, chỗ ngồi thoải mái, bãi xe rộng, nhân viên chu đáo, giá hợp lý. Chê: chưa thấy phàn nàn đáng kể trong các đánh giá đã đọc.",
+  "rating": {
+   "value": 4.9,
+   "count": 273,
+   "source": "Google (qua Wanderlog)",
+   "url": "https://wanderlog.com/place/details/10718056",
+   "seen": "2026-10"
+  },
+  "trending": false,
+  "tags": [
+   "hủ tiếu",
+   "vinh danh 2024",
+   "có chỗ đậu ô tô"
+  ],
+  "tips_vi": "Mẹo: tiện cho nhóm đi ô tô vì có bãi xe; nằm cùng trục Ấp Bắc với Tuyết Ngân nên dễ ghé khi vào/ra thành phố.",
+  "images": [
+   {
+    "commons": "File:Hu tieu My Tho.jpg",
+    "kind": "dish"
+   }
+  ],
+  "wiki": null,
+  "website": null,
+  "sources": [
+   "https://wanderlog.com/place/details/10718056",
+   "https://www.sggp.org.vn/vinh-danh-5-nha-hang-co-so-kinh-doanh-dat-quan-hu-tieu-my-tho-uy-tin-chat-luong-nam-2024-post775688.html",
+   "https://mia.vn/cam-nang-du-lich/nha-hang-lang-viet-dia-diem-ly-tuong-de-thuong-thuc-nhung-bua-an-ngon-5413"
+  ],
+  "status": "open",
+  "existing": false
+ },
+ {
+  "id": "mytho-hu-tieu-di-hanh",
+  "name": "Hủ tiếu Mỹ Tho Dì Hạnh",
+  "cat": "food",
+  "subtitle": "Quán nhỏ được khen hết lời gần đây",
+  "address": "124/4 Lê Thị Hồng Gấm, Phường 6, Mỹ Tho",
+  "lat": 10.351689,
+  "lng": 106.348541,
+  "coordSource": "https://wanderlog.com/place/details/13904286",
+  "price": "Bình dân",
+  "hours": null,
+  "mustTry": "Hủ tiếu Mỹ Tho nước và khô, sa tế nhà làm",
+  "desc_vi": "Quán hủ tiếu gia đình trong hẻm đường Lê Thị Hồng Gấm, nhận nhiều đánh giá 5 sao trong 2025–2026. Nước lèo trong, ngọt từ xương, sợi hủ tiếu dai mềm, phần khô được trộn sẵn vừa vị.",
+  "review_vi": "Khen: nước lèo trong và ngọt tự nhiên, sợi dai không nát, topping nhiều, chủ quán thân thiện, giá tốt. Chê: có khách thấy hơi ngọt, quán hơi tối.",
+  "rating": {
+   "value": 4.9,
+   "count": 97,
+   "source": "Google (qua Wanderlog)",
+   "url": "https://wanderlog.com/place/details/13904286",
+   "seen": "2026-10"
+  },
+  "trending": false,
+  "tags": [
+   "hủ tiếu",
+   "quán gia đình",
+   "Ít người biết"
+  ],
+  "tips_vi": "Mẹo: quán nằm trong hẻm 124 Lê Thị Hồng Gấm — dùng bản đồ để tìm; nên gọi trước để hỏi giờ bán.",
+  "images": [
+   {
+    "commons": "File:Hu tieu My Tho.jpg",
+    "kind": "dish"
+   }
+  ],
+  "wiki": null,
+  "website": null,
+  "sources": [
+   "https://wanderlog.com/place/details/13904286"
+  ],
+  "status": "open",
+  "existing": false
+ },
+ {
+  "id": "mytho-lau-mam-ut-cuong",
+  "name": "Lẩu mắm miền Tây Út Cường",
+  "cat": "food",
+  "subtitle": "Lẩu mắm đông khách gần công viên Giếng Nước",
+  "address": "70 Yersin, Phường 4, Mỹ Tho",
+  "lat": 10.358857,
+  "lng": 106.361325,
+  "coordSource": "https://wanderlog.com/place/details/10662883",
+  "price": "Trung bình",
+  "hours": "10:00–22:00",
+  "mustTry": "Lẩu mắm với rau đồng miền Tây",
+  "desc_vi": "Quán lẩu mắm bình dân nổi tiếng ở trung tâm Mỹ Tho, thường kín khách gia đình vào buổi tối. Nồi lẩu mắm đậm đà ăn kèm mâm rau đồng miền Tây phong phú.",
+  "review_vi": "Khen: nước lẩu ngon, rau địa phương tươi và nhiều loại, giá phải chăng, chất lượng ổn định. Chê: không gian bình dân, đông khách gia đình vào giờ cao điểm.",
+  "rating": {
+   "value": 4.4,
+   "count": 669,
+   "source": "Google (qua Wanderlog)",
+   "url": "https://wanderlog.com/place/details/10662883",
+   "seen": "2026-10"
+  },
+  "trending": false,
+  "tags": [
+   "lẩu mắm",
+   "ăn tối",
+   "gia đình"
+  ],
+  "tips_vi": "Mẹo: đi nhóm 3–4 người để gọi nồi lẩu là vừa; tối cuối tuần nên đến sớm.",
+  "images": [],
+  "wiki": null,
+  "website": null,
+  "sources": [
+   "https://wanderlog.com/place/details/10662883",
+   "https://www.foody.vn/tien-giang/lau-mam-ut-cuong-yersin"
+  ],
+  "status": "open",
+  "existing": false
+ },
+ {
+  "id": "mytho-bo-de-quan",
+  "name": "Ẩm thực chay Bồ Đề Quán",
+  "cat": "food",
+  "subtitle": "Quán chay đối diện chùa Vĩnh Tràng",
+  "address": "69A Nguyễn Trung Trực, Phường 3, Mỹ Tho",
+  "lat": 10.36106,
+  "lng": 106.373031,
+  "coordSource": "https://wanderlog.com/place/details/2816429",
+  "price": "Bình dân",
+  "hours": "07:30–20:00",
+  "mustTry": "Cơm, bún, lẩu chay; món rau củ theo mùa",
+  "desc_vi": "Nhà hàng chay nằm đối diện công viên chùa Vĩnh Tràng, tiện ghé ăn trưa sau khi tham quan chùa. Thực đơn nhiều món chay từ rau củ, trình bày gọn gàng.",
+  "review_vi": "Khen: món chay đa dạng và ngon, trang trí dễ chịu, phục vụ tốt, giá hợp lý, gần các chùa. Chê: món ăn thiên về nhẹ, ai thích vị đậm có thể thấy hơi lạt.",
+  "rating": {
+   "value": 4.0,
+   "count": 251,
+   "source": "Google (qua Wanderlog)",
+   "url": "https://wanderlog.com/place/details/2816429",
+   "seen": "2026-10"
+  },
+  "trending": false,
+  "tags": [
+   "chay",
+   "gần chùa Vĩnh Tràng"
+  ],
+  "tips_vi": "Mẹo: kết hợp tham quan chùa Vĩnh Tràng buổi sáng rồi ăn trưa tại đây.",
+  "images": [],
+  "wiki": null,
+  "website": "https://www.facebook.com/bo.e.quan.830925",
+  "sources": [
+   "https://wanderlog.com/place/details/2816429",
+   "https://www.foody.vn/tien-giang/am-thuc-chay-bo-de-quan-my-tho-doi-dien-cong-vien-chua-vinh-trang-69a-nguyen-trung-truc"
+  ],
+  "status": "open",
+  "existing": false
+ },
+ {
+  "id": "mytho-le-68-bistro",
+  "name": "Le 68 Bistro & Café",
+  "cat": "food",
+  "subtitle": "Bistro Pháp được đánh giá cao nhất Mỹ Tho",
+  "address": "Căn HG01, đường Hùng Vương (khu Vincom), Mỹ Tho",
+  "lat": 10.356623,
+  "lng": 106.363496,
+  "coordSource": "https://wanderlog.com/place/details/7783573",
+  "price": "Cao so với mặt bằng địa phương",
+  "hours": "06:30–21:00 (một số ngày mở từ 07:30)",
+  "mustTry": "Bò bít tết, cá hồi, carbonara, salad phô mai nhà làm, rượu vang",
+  "desc_vi": "Bistro – café kiểu Pháp trong khu phố thương mại Vincom, do đầu bếp người Pháp đứng bếp, phục vụ cả bữa sáng và cà phê. Là lựa chọn Âu hiếm hoi ở Mỹ Tho với điểm Google gần tuyệt đối.",
+  "review_vi": "Khen: bít tết mềm tan, carbonara và cá ngừ, cá hồi được khen hết lời, món trình bày đẹp, không khí ấm cúng, phục vụ thân thiện. Chê: giá cao hơn quán địa phương; có khách thấy cà phê chưa thật xuất sắc.",
+  "rating": {
+   "value": 4.9,
+   "count": 188,
+   "source": "Google (qua Wanderlog)",
+   "url": "https://wanderlog.com/place/details/7783573",
+   "seen": "2026-10"
+  },
+  "trending": false,
+  "tags": [
+   "món Âu",
+   "bít tết",
+   "hẹn hò"
+  ],
+  "tips_vi": "Mẹo: đặt bàn buổi tối cuối tuần; phù hợp khi muốn đổi vị sau nhiều bữa hủ tiếu.",
+  "images": [],
+  "wiki": null,
+  "website": "https://www.facebook.com/le68bistrocafe",
+  "sources": [
+   "https://wanderlog.com/place/details/7783573",
+   "https://wanderlog.com/list/geoCategory/207056/where-to-eat-best-restaurants-in-tien-giang-province"
+  ],
+  "status": "open",
+  "existing": false
+ },
+ {
+  "id": "mytho-mekong-taste",
+  "name": "Mekong Taste – cá tai tượng trên cồn Thới Sơn",
+  "cat": "food",
+  "subtitle": "Nhà chòi ven sông, cá tai tượng chiên xù",
+  "address": "Ấp Thới Thạnh, xã Thới Sơn, Mỹ Tho",
+  "lat": 10.341152,
+  "lng": 106.362939,
+  "coordSource": "https://wanderlog.com/place/details/2813866",
+  "price": "Cá tai tượng thường ~150.000–250.000đ/con tùy cỡ",
+  "hours": "10:00–15:00 (một số ngày mở tới 23:00)",
+  "mustTry": "Cá tai tượng chiên xù cuốn bánh tráng, chả giò",
+  "desc_vi": "Nhà hàng sân vườn trên cồn Thới Sơn với các nhà chòi gỗ sát sông Tiền, thường đón khách đi tour sông nước. Món đặc trưng là cá tai tượng chiên xù dựng đứng, cuốn bánh tráng với rau sống, bún và nước mắm chua ngọt.",
+  "review_vi": "Khen: vị trí ven sông đẹp, nhà chòi gỗ thoáng, phục vụ chu đáo, chả giò và cá tai tượng ăn kèm cơm, dứa được khen. Chê: một số món bị chê mặn, chất lượng không đều, giá kiểu nhà hàng du lịch.",
+  "rating": {
+   "value": 4.2,
+   "count": 302,
+   "source": "Google (qua Wanderlog)",
+   "url": "https://wanderlog.com/place/details/2813866",
+   "seen": "2026-10"
+  },
+  "trending": false,
+  "tags": [
+   "cá tai tượng",
+   "ven sông",
+   "cồn Thới Sơn"
+  ],
+  "tips_vi": "Mẹo: hỏi giá cá theo con/kg trước khi gọi; tiện ăn trưa khi đi tour cồn hoặc chạy xe qua cầu Rạch Miễu.",
+  "images": [
+   {
+    "commons": "File:Cá Tai Tượng chiên xù.jpg",
+    "kind": "dish"
+   }
+  ],
+  "wiki": null,
+  "website": "http://mekongtaste.com/",
+  "sources": [
+   "https://wanderlog.com/place/details/2813866",
+   "https://vnexpress.net/cam-nang-du-lich-con-thoi-son-5103568.html"
+  ],
+  "status": "open",
+  "existing": false
+ },
+ {
+  "id": "mytho-banh-xeo-sau-deo",
+  "name": "Bánh xèo Sáu Đèo",
+  "cat": "food",
+  "subtitle": "Bánh xèo miền Tây cỡ lớn, viền giòn",
+  "address": "62A Lê Văn Phẩm, Phường 5, Mỹ Tho",
+  "lat": 10.359533,
+  "lng": 106.35019,
+  "coordSource": "https://wanderlog.com/place/details/13904323",
+  "price": "Bình dân",
+  "hours": null,
+  "mustTry": "Bánh xèo tôm thịt, bánh xèo vịt, ăn kèm rau rừng",
+  "desc_vi": "Quán bánh xèo miền Tây bình dân trên đường Lê Văn Phẩm, nổi tiếng với chiếc bánh to, viền giòn rụm, nhân tôm thịt hoặc vịt đầy đặn, cuốn với nhiều loại rau.",
+  "review_vi": "Khen: bánh rất to, viền giòn, nhân tươi và nhiều, rổ rau đa dạng, đáng đồng tiền. Chê: quán bình dân, không gian đơn giản.",
+  "rating": {
+   "value": 4.0,
+   "count": 159,
+   "source": "Google (qua Wanderlog)",
+   "url": "https://wanderlog.com/place/details/13904323",
+   "seen": "2026-10"
+  },
+  "trending": false,
+  "tags": [
+   "bánh xèo",
+   "bình dân"
+  ],
+  "tips_vi": "Mẹo: một cái bánh đủ cho hai người ăn nhẹ; gọi thêm rau nếu thích cuốn nhiều.",
+  "images": [
+   {
+    "commons": "File:Bánh xèo 1.jpg",
+    "kind": "dish"
+   }
+  ],
+  "wiki": null,
+  "website": null,
+  "sources": [
+   "https://wanderlog.com/place/details/13904323"
+  ],
+  "status": "open",
+  "existing": false
+ },
+ {
+  "id": "mytho-banh-gia-co-muoi",
+  "name": "Bánh giá (bánh vá) Cô Mười",
+  "cat": "food",
+  "subtitle": "Đặc sản bánh giá Chợ Giồng – Gò Công",
+  "address": "Đường Nguyễn Văn Côn, xã Bình Nhì, Gò Công Tây (~24 km đường chim bay từ Mỹ Tho)",
+  "lat": 10.357134,
+  "lng": 106.575356,
+  "coordSource": "https://wanderlog.com/place/details/13502291",
+  "price": "15.000–20.000đ/cái",
+  "hours": "04:00–12:00",
+  "mustTry": "Bánh giá chiên giòn nhân tôm đất, giá, thịt, ăn với rau sống và nước mắm chua ngọt",
+  "desc_vi": "Bánh giá (còn gọi bánh vá) là đặc sản gắn với chợ Giồng, Gò Công: bột gạo, đậu xanh, giá, tôm đất, thịt chiên giòn trong khuôn. Quán Cô Mười bán từ sáng sớm đến trưa, phù hợp ghé khi đi Gò Công thăm Lăng Hoàng Gia.",
+  "review_vi": "Khen: bánh giòn, nhân tôm, đậu phộng, gan, thịt đầy đủ, giá rẻ, chỗ ngồi rộng. Chê: phục vụ có lúc chưa chu đáo, không có sẵn nước uống.",
+  "rating": {
+   "value": 4.2,
+   "count": 147,
+   "source": "Google (qua Wanderlog)",
+   "url": "https://wanderlog.com/place/details/13502291",
+   "seen": "2026-10"
+  },
+  "trending": false,
+  "tags": [
+   "bánh giá",
+   "Gò Công",
+   "ăn sáng"
+  ],
+  "tips_vi": "Mẹo: quán chỉ bán tới trưa; ăn lúc bánh còn nóng mới giòn. Lưu ý: món nổi tiếng là \"bánh giá Chợ Giồng\" (Gò Công Tây), không có trong nội thành Mỹ Tho.",
+  "images": [],
+  "wiki": null,
+  "website": null,
+  "sources": [
+   "https://wanderlog.com/place/details/13502291",
+   "https://vnexpress.net/banh-gia-cho-giong-2358165.html"
+  ],
+  "status": "open",
+  "existing": false
+ },
+ {
+  "id": "mytho-hoang-thanh-garden",
+  "name": "Nhà hàng sân vườn Hoàng Thành",
+  "cat": "food",
+  "subtitle": "Nhà hàng sân vườn ven sông, hải sản & món miền Tây",
+  "address": "88 Lê Việt Thắng, Phường 5, Mỹ Tho",
+  "lat": 10.370902,
+  "lng": 106.359019,
+  "coordSource": "https://wanderlog.com/place/details/2816570",
+  "price": "Trung bình – khá",
+  "hours": "08:00–23:00",
+  "mustTry": "Tôm càng hấp nước dừa, lẩu hải sản, cua rang me, heo sữa, gỏi ngó sen",
+  "desc_vi": "Nhà hàng sân vườn rộng, nhiều cây xanh, nhìn ra sông, chuyên hải sản và món miền Tây, hợp cho họp mặt gia đình và tiệc. Thực đơn nổi bật với tôm càng hấp nước dừa, lẩu hải sản, cua rang me.",
+  "review_vi": "Khen: sân vườn đẹp, thoáng, view sông, phục vụ nhanh và chu đáo, heo sữa, cơm chiên cua, gỏi ngó sen ngon. Chê: ý kiến trái chiều về chất lượng món và giá.",
+  "rating": {
+   "value": 4.1,
+   "count": 917,
+   "source": "Google (qua Wanderlog)",
+   "url": "https://wanderlog.com/place/details/2816570",
+   "seen": "2026-10"
+  },
+  "trending": false,
+  "tags": [
+   "sân vườn",
+   "hải sản",
+   "gia đình"
+  ],
+  "tips_vi": "Mẹo: Google Maps ghi địa chỉ 630 Ấp Bắc (địa chỉ đăng ký công ty) nhưng ghim bản đồ nằm cạnh sông; nhà hàng tự giới thiệu ở 88 Lê Việt Thắng — gọi trước để hỏi đường.",
+  "images": [],
+  "wiki": null,
+  "website": "https://www.facebook.com/nhahanghoangthanhsanvuon",
+  "sources": [
+   "https://toplist.vn/top-list/quan-an-ngon-va-noi-tieng-nhat-tai-tien-giang-37717.htm",
+   "https://wanderlog.com/place/details/2816570",
+   "https://www.foody.vn/tien-giang/hoang-thanh-quan-hai-san-san-vuon",
+   "https://infodoanhnghiep.com/thong-tin/CONG-TY-TRACH-NHIEM-HUU-HAN-MOT-THANH-VIEN-SAN-XUAT-THUONG-MAI-DICH-VU-AN-UONG-HOANG-THANH-70717.html"
+  ],
+  "status": "open",
+  "existing": true
+ },
+ {
+  "id": "mytho-lang-chai",
+  "name": "Làng Chài Mỹ Tho",
+  "cat": "food",
+  "subtitle": "Nhà hàng hải sản tươi sống chọn tại hồ",
+  "address": "298 Phạm Thanh, Phường 5, Mỹ Tho",
+  "lat": 10.3617777,
+  "lng": 106.345002,
+  "coordSource": "https://langchaimytho.com/lien-he",
+  "price": "Theo thời giá hải sản",
+  "hours": "09:30–23:00",
+  "mustTry": "Tôm sú nướng phô mai, ghẹ, hàu nướng mỡ hành, tôm càng hấp bia",
+  "desc_vi": "Nhà hàng hải sản lớn ở Mỹ Tho, khách tự chọn tôm, cua, ghẹ, mực, ốc, sò còn sống trong hồ để bếp chế biến theo yêu cầu: luộc, hấp, xào, nướng. Có phòng tiệc, nhận tổ chức sinh nhật, liên hoan.",
+  "review_vi": "Khen: không gian rộng rãi, sạch sẽ, thoáng, có chỗ đậu xe; hải sản tươi, chọn tận hồ. Chê: không tìm thấy đánh giá công khai gần đây để kiểm chứng chất lượng hiện tại.",
+  "rating": null,
+  "trending": false,
+  "tags": [
+   "hải sản",
+   "tiệc"
+  ],
+  "tips_vi": "Mẹo: hỏi giá theo kg trước khi chọn hải sản; gọi hotline trên website để xác nhận còn hoạt động và đặt bàn.",
+  "images": [],
+  "wiki": null,
+  "website": "https://langchaimytho.com/",
+  "sources": [
+   "https://langchaimytho.com/",
+   "https://langchaimytho.com/lien-he",
+   "https://toplist.vn/top-list/quan-an-ngon-va-noi-tieng-nhat-tai-tien-giang-37717.htm",
+   "https://www.toplist.vn/top-list/quan-an-ngon-noi-tieng-o-tp-my-tho-tien-giang-9528.htm"
+  ],
+  "status": "unverified",
+  "existing": true
+ },
+ {
+  "id": "mytho-new-city-cafe",
+  "name": "New City Cafe",
+  "cat": "cafe",
+  "subtitle": "Cà phê sân vườn ven sông trên đường Ấp Bắc",
+  "address": "42 Ấp Bắc, Phường 5, Mỹ Tho",
+  "lat": 10.364802,
+  "lng": 106.357906,
+  "coordSource": "https://wanderlog.com/place/details/7799169",
+  "price": "Bình dân",
+  "hours": "06:00–22:00",
+  "mustTry": "Cà phê sữa đá, nước ép, ngồi tầng trên ngắm sông",
+  "desc_vi": "Quán cà phê rộng với chỗ ngồi trong nhà, ngoài sân và tầng trên nhìn ra sông, trang trí như một \"thành phố thu nhỏ\". Phù hợp cho gia đình và nhóm bạn.",
+  "review_vi": "Khen: không gian rộng, thoáng, nhiều góc ngồi, view sông đẹp, phục vụ nhanh, thân thiện với gia đình. Chê: thực đơn na ná các quán cà phê thông thường, có người hút thuốc, nhân viên đôi khi thiếu tinh ý.",
+  "rating": {
+   "value": 4.2,
+   "count": 640,
+   "source": "Google (qua Wanderlog)",
+   "url": "https://wanderlog.com/place/details/7799169",
+   "seen": "2026-10"
+  },
+  "trending": false,
+  "tags": [
+   "view sông",
+   "sân vườn"
+  ],
+  "tips_vi": "Mẹo: lên tầng trên để có view sông thoáng nhất; sáng sớm mát và vắng.",
+  "images": [],
+  "wiki": null,
+  "website": null,
+  "sources": [
+   "https://wanderlog.com/place/details/7799169",
+   "https://www.foody.vn/tien-giang/cafe"
+  ],
+  "status": "open",
+  "existing": false
+ },
+ {
+  "id": "mytho-hoa-vien-pho-xua",
+  "name": "Hoa Viên – Phố Xưa Coffee",
+  "cat": "cafe",
+  "subtitle": "Cà phê kiến trúc hoài cổ giữa trung tâm",
+  "address": "2 Thủ Khoa Huân, Mỹ Tho",
+  "lat": 10.355978,
+  "lng": 106.363114,
+  "coordSource": "https://wanderlog.com/place/details/16286197",
+  "price": "Bình dân",
+  "hours": "06:00–23:00",
+  "mustTry": "Cà phê sáng trong không gian phố xưa",
+  "desc_vi": "Quán cà phê mang phong cách kiến trúc cổ, nằm gần khu Vincom và chợ Mỹ Tho, sân trước rộng và nội thất chăm chút. Là chỗ ngồi yên tĩnh buổi sáng được nhiều cặp đôi chọn.",
+  "review_vi": "Khen: không gian hoài cổ đẹp, rộng, nhiều món uống, chỗ đậu xe tiện, nhân viên chu đáo, buổi sáng yên tĩnh. Chê: chưa thấy phàn nàn đáng kể trong các đánh giá đã đọc.",
+  "rating": {
+   "value": 4.5,
+   "count": 328,
+   "source": "Google (qua Wanderlog)",
+   "url": "https://wanderlog.com/place/details/16286197",
+   "seen": "2026-10"
+  },
+  "trending": false,
+  "tags": [
+   "phố xưa",
+   "check-in"
+  ],
+  "tips_vi": "Mẹo: tiện ghé trước hoặc sau khi dạo chợ Mỹ Tho; mở tới 23h nên ngồi buổi tối cũng được.",
+  "images": [],
+  "wiki": null,
+  "website": null,
+  "sources": [
+   "https://wanderlog.com/place/details/16286197"
+  ],
+  "status": "open",
+  "existing": false
+ },
+ {
+  "id": "mytho-cote-riviere",
+  "name": "Côté Rivière Cafe & Restaurant",
+  "cat": "cafe",
+  "subtitle": "Café – nhà hàng Âu bên bờ sông Tiền",
+  "address": "Đường Hoàng Sa, Phường 4, Mỹ Tho",
+  "lat": 10.351464,
+  "lng": 106.355995,
+  "coordSource": "https://wanderlog.com/place/details/16283189",
+  "price": "Khá",
+  "hours": "14:30–22:00",
+  "mustTry": "Ngắm hoàng hôn sông Tiền, bít tết Úc, mì Ý hải sản",
+  "desc_vi": "Quán café – nhà hàng trên tuyến đường Hoàng Sa ven sông Tiền, gần Cảng du thuyền Mỹ Tho, trang trí đẹp và có view sông. Mở từ chiều nên hợp để ngồi ngắm hoàng hôn rồi ăn tối.",
+  "review_vi": "Khen: view sông đẹp, trang trí sang, nhân viên lịch sự, bít tết Úc được khen nhiều lần. Chê: chất lượng món không đều; có khách bị từ chối phục vụ lúc khoảng 21h dù giờ mở cửa ghi tới 22h.",
+  "rating": {
+   "value": 4.6,
+   "count": 34,
+   "source": "Google (qua Wanderlog)",
+   "url": "https://wanderlog.com/place/details/16283189",
+   "seen": "2026-10"
+  },
+  "trending": false,
+  "tags": [
+   "view sông",
+   "hoàng hôn",
+   "món Âu"
+  ],
+  "tips_vi": "Mẹo: đến khoảng 17h để ngắm hoàng hôn; gọi món trước 21h.",
+  "images": [],
+  "wiki": null,
+  "website": "https://coteriviere.vn/",
+  "sources": [
+   "https://wanderlog.com/place/details/16283189"
+  ],
+  "status": "open",
+  "existing": false
+ },
+ {
+  "id": "mytho-chua-buu-lam",
+  "name": "Chùa Bửu Lâm",
+  "cat": "sight",
+  "subtitle": "Tổ đình hơn 200 năm, di tích quốc gia",
+  "address": "162B Nguyễn Văn Giác, Phường 3, Mỹ Tho",
+  "lat": 10.361321,
+  "lng": 106.37145,
+  "coordSource": "https://wanderlog.com/place/details/9962542",
+  "price": "Miễn phí",
+  "hours": "07:00–18:00",
+  "mustTry": "Chánh điện gỗ căm xe, 9 bao lam chạm khắc, vườn Lâm Tì Ni với phù điêu cuộc đời Đức Phật",
+  "desc_vi": "Ngôi chùa cổ đầu thế kỷ 19 (đổi tên Bửu Lâm năm 1803), được xếp hạng di tích quốc gia năm 1999 và từng là cơ sở cách mạng trong hai cuộc kháng chiến. Chùa yên tĩnh, ít khách hơn Vĩnh Tràng, nổi bật với chánh điện gỗ, bao lam chạm trổ và vườn Lâm Tì Ni.",
+  "review_vi": "Khen: không khí trang nghiêm, yên tĩnh vì ít khách du lịch hơn Vĩnh Tràng, cổ kính và linh thiêng. Chê: chưa thấy phàn nàn đáng kể trong các đánh giá đã đọc.",
+  "rating": {
+   "value": 4.6,
+   "count": 413,
+   "source": "Google (qua Wanderlog)",
+   "url": "https://wanderlog.com/place/details/9962542",
+   "seen": "2026-10"
+  },
+  "trending": false,
+  "tags": [
+   "chùa",
+   "di tích quốc gia",
+   "yên tĩnh",
+   "Ít người biết"
+  ],
+  "tips_vi": "Mẹo: cách chùa Vĩnh Tràng chỉ vài trăm mét — gộp cả hai trong một buổi sáng.",
+  "images": [
+   {
+    "commons": "File:Di Lặc Bồ Tát - chùa Bửu Lâm - Mỹ Tho - Tiền Giang - VN.jpg",
+    "kind": "place"
+   }
+  ],
+  "wiki": null,
+  "website": null,
+  "sources": [
+   "https://wanderlog.com/place/details/9962542",
+   "https://mia.vn/cam-nang-du-lich/chua-buu-lam-go-cong-200-nam-tuoi-voi-ve-dep-co-kinh-5198"
+  ],
+  "status": "open",
+  "existing": false
+ },
+ {
+  "id": "mytho-nha-tho-chanh-toa",
+  "name": "Nhà thờ Chánh tòa Mỹ Tho",
+  "cat": "sight",
+  "subtitle": "Nhà thờ chính tòa hơn 110 năm tuổi",
+  "address": "32 Hùng Vương, Phường 7, Mỹ Tho",
+  "lat": 10.36143973,
+  "lng": 106.36492568,
+  "coordSource": "https://www.wikidata.org/wiki/Q18460004",
+  "price": "Miễn phí",
+  "hours": null,
+  "mustTry": "Mặt tiền và mái vòm trang trí hoa văn, tượng Đức Mẹ trong khuôn viên",
+  "desc_vi": "Nhà thờ chính tòa của Giáo phận Mỹ Tho, khởi công năm 1906 và hoàn thành năm 1910 trên đại lộ Hùng Vương, giữ lối kiến trúc cột tròn, mái vòm trang trí tinh xảo. Do xây trên nền đất sình nên chiều cao chỉ 24 m.",
+  "review_vi": null,
+  "rating": null,
+  "trending": false,
+  "tags": [
+   "nhà thờ",
+   "kiến trúc Pháp"
+  ],
+  "tips_vi": "Mẹo: muốn vào bên trong nên đến gần giờ lễ; kết hợp dạo đường Hùng Vương và bờ sông Bảo Định.",
+  "images": [
+   {
+    "commons": "File:Cathedral My Tho.jpg",
+    "kind": "place"
+   },
+   {
+    "commons": "File:My Tho cathedral.JPG",
+    "kind": "place"
+   },
+   {
+    "commons": "File:Bên trong Nhà thờ chánh tòa Mỹ Tho năm 2015.jpg",
+    "kind": "place"
+   }
+  ],
+  "wiki": "https://vi.wikipedia.org/wiki/Nh%C3%A0_th%E1%BB%9D_ch%C3%ADnh_t%C3%B2a_M%E1%BB%B9_Tho",
+  "website": null,
+  "sources": [
+   "https://vi.wikipedia.org/wiki/Nh%C3%A0_th%E1%BB%9D_ch%C3%ADnh_t%C3%B2a_M%E1%BB%B9_Tho",
+   "https://www.wikidata.org/wiki/Q18460004",
+   "https://mia.vn/cam-nang-du-lich/nha-tho-chanh-toa-my-tho-co-tuoi-doi-tram-nam-voi-ve-dep-yen-binh-5298"
+  ],
+  "status": "open",
+  "existing": false
+ },
+ {
+  "id": "mytho-bao-tang-tien-giang",
+  "name": "Bảo tàng Tiền Giang",
+  "cat": "sight",
+  "subtitle": "Hiện vật Óc Eo và trận Rạch Gầm – Xoài Mút",
+  "address": "2A Trương Vĩnh Ký, Phường 7, Mỹ Tho",
+  "lat": 10.363239,
+  "lng": 106.365911,
+  "coordSource": "https://wanderlog.com/place/details/9972438",
+  "price": "Miễn phí",
+  "hours": "07:30–11:00, 13:30–16:00",
+  "mustTry": "Hiện vật văn hóa Óc Eo – Gò Thành, vũ khí Tây Sơn và súng thần công từ trận Rạch Gầm – Xoài Mút",
+  "desc_vi": "Bảo tàng tỉnh trong tòa nhà kiến trúc Pháp bên sông Bảo Định, mở cửa từ năm 2000 với hơn 20.000 hiện vật, hình ảnh. Sau sáp nhập tỉnh, Google Maps ghi tên là Bảo tàng Đồng Tháp – cơ sở 1.",
+  "review_vi": "Khen: miễn phí, nhiều hiện vật gốm, nhạc cụ, vũ khí; khuôn viên có vườn, chòi nghỉ, hồ cá; người giữ bảo tàng nhiệt tình. Chê: một phần trưng bày mang nặng tính tuyên truyền.",
+  "rating": {
+   "value": 4.0,
+   "count": 416,
+   "source": "Google (qua Wanderlog)",
+   "url": "https://wanderlog.com/place/details/9972438",
+   "seen": "2026-10"
+  },
+  "trending": false,
+  "tags": [
+   "bảo tàng",
+   "lịch sử",
+   "miễn phí"
+  ],
+  "tips_vi": "Mẹo: nghỉ trưa 11:00–13:30 — đi buổi sáng.",
+  "images": [],
+  "wiki": null,
+  "website": null,
+  "sources": [
+   "https://mia.vn/cam-nang-du-lich/bao-tang-tien-giang-noi-luu-giu-dang-gia-cua-lich-su-5488",
+   "https://wanderlog.com/place/details/9972438"
+  ],
+  "status": "open",
+  "existing": false
+ },
+ {
+  "id": "mytho-trai-ran-dong-tam",
+  "name": "Trại rắn Đồng Tâm",
+  "cat": "experience",
+  "subtitle": "Trại rắn lớn nhất miền Tây, xem lấy nọc rắn",
+  "address": "Ấp Tân Thuận B, xã Bình Đức, Châu Thành (cách Mỹ Tho <10 km)",
+  "lat": 10.351908,
+  "lng": 106.296725,
+  "coordSource": "https://wanderlog.com/place/details/357317",
+  "price": "Người lớn 70.000đ; trẻ em 40.000đ; trẻ dưới 1 m miễn phí (giá Tết 2025)",
+  "hours": "07:00–18:00",
+  "mustTry": "Xem lấy nọc rắn hổ chúa (10:00 và 15:00), bảo tàng rắn; cho bé chạm, cho ăn capybara, gấu mèo, ngựa pony, mèo Anh (dịch vụ từ Tết 2026)",
+  "desc_vi": "Trung tâm nghiên cứu, nuôi rắn và chữa rắn cắn của Quân khu 9, rộng 12 ha với hơn 1.000 con rắn, bảo tàng rắn gần 100 mẫu vật và vườn sinh thái. Từ Tết 2026 có thêm dịch vụ cho khách chạm, cho ăn capybara, gấu mèo, ngựa pony, mèo Anh.",
+  "review_vi": "Khen: màn lấy nọc rắn hổ mang ấn tượng, được tiếp xúc gần một số loài, ý nghĩa nghiên cứu và cứu chữa rắn cắn. Chê: có khách lo ngại điều kiện nuôi nhốt động vật.",
+  "rating": {
+   "value": 4.3,
+   "count": 5208,
+   "source": "Google (qua Wanderlog)",
+   "url": "https://wanderlog.com/place/details/357317",
+   "seen": "2026-10"
+  },
+  "trending": false,
+  "tags": [
+   "rắn",
+   "động vật",
+   "gia đình",
+   "Hợp với trẻ em"
+  ],
+  "tips_vi": "Mẹo: canh giờ 10:00 hoặc 15:00 để xem lấy nọc; mang nón vì khu vườn rộng và nắng.",
+  "images": [],
+  "wiki": null,
+  "website": "https://trairandongtam.vn/",
+  "sources": [
+   "https://vietnamnet.vn/trai-nghiem-thot-tim-dip-tet-at-ty-o-trai-ran-lon-nhat-mien-tay-2366335.html",
+   "https://tuoitre.vn/ngam-khoanh-khac-dang-yeu-cua-rai-ca-ran-ngua-meo-o-dong-tam-20260216180804764.htm",
+   "https://mia.vn/cam-nang-du-lich/mot-ngay-tai-trai-ran-dong-tam-tien-giang-lon-nhat-viet-nam-5242",
+   "https://wanderlog.com/place/details/357317"
+  ],
+  "status": "open",
+  "existing": false
+ },
+ {
+  "id": "mytho-rach-gam-xoai-mut",
+  "name": "Khu di tích chiến thắng Rạch Gầm – Xoài Mút",
+  "cat": "sight",
+  "subtitle": "Nơi Nguyễn Huệ đại phá quân Xiêm năm 1785",
+  "address": "Ấp Đông, xã Kim Sơn, Châu Thành (~13 km đường chim bay từ trung tâm Mỹ Tho)",
+  "lat": 10.325131,
+  "lng": 106.248141,
+  "coordSource": "https://wanderlog.com/place/details/4546244",
+  "price": "Miễn phí",
+  "hours": null,
+  "mustTry": "Tượng đài chiến thắng bên sông Tiền, nhà trưng bày hiện vật",
+  "desc_vi": "Khu tưởng niệm trận thủy chiến Rạch Gầm – Xoài Mút năm 1785, khi quân Tây Sơn do Nguyễn Huệ chỉ huy phục kích đánh tan quân Xiêm trên sông Tiền. Khu di tích có tượng đài lớn, nhà trưng bày và cảnh quan ven sông.",
+  "review_vi": "Khen: công trình đẹp, sạch, cảnh sông nước thoáng, đáng ghé để hiểu lịch sử. Chê: có khách đến vào ngày thường gặp cổng đóng, thông tin thuyết minh còn ít.",
+  "rating": {
+   "value": 4.4,
+   "count": 1043,
+   "source": "Google (qua Wanderlog)",
+   "url": "https://wanderlog.com/place/details/4546244",
+   "seen": "2026-10"
+  },
+  "trending": false,
+  "tags": [
+   "di tích",
+   "Tây Sơn",
+   "lịch sử"
+  ],
+  "tips_vi": "Mẹo: gọi trước hoặc đi cuối tuần vì có lúc đóng cửa ngày thường; nhờ hướng dẫn viên tại chỗ để nghe kể về trận đánh.",
+  "images": [
+   {
+    "commons": "File:Tượng đài Rạch Gầm-Xoài Mút.JPG",
+    "kind": "place"
+   },
+   {
+    "commons": "File:Khu di tích chiến thắng Gạch Gầm Xoài Mút.jpg",
+    "kind": "place"
+   }
+  ],
+  "wiki": "https://vi.wikipedia.org/wiki/Tr%E1%BA%ADn_R%E1%BA%A1ch_G%E1%BA%A7m_%E2%80%93_Xo%C3%A0i_M%C3%BAt",
+  "website": null,
+  "sources": [
+   "https://wanderlog.com/place/details/4546244",
+   "https://vi.wikipedia.org/wiki/Tr%E1%BA%ADn_R%E1%BA%A1ch_G%E1%BA%A7m_%E2%80%93_Xo%C3%A0i_M%C3%BAt",
+   "https://commons.wikimedia.org/wiki/File:Khu_di_t%C3%ADch_chi%E1%BA%BFn_th%E1%BA%AFng_G%E1%BA%A1ch_G%E1%BA%A7m_Xo%C3%A0i_M%C3%BAt.jpg"
+  ],
+  "status": "open",
+  "existing": false
+ },
+ {
+  "id": "mytho-ap-bac",
+  "name": "Khu di tích chiến thắng Ấp Bắc",
+  "cat": "sight",
+  "subtitle": "Di tích trận Ấp Bắc 2/1/1963",
+  "address": "Xã Tân Phú, Cai Lậy (cách Mỹ Tho ~21 km)",
+  "lat": 10.438131,
+  "lng": 106.195773,
+  "coordSource": "https://wanderlog.com/place/details/13738194",
+  "price": "Miễn phí",
+  "hours": null,
+  "mustTry": "Tượng đài ba chiến sĩ, nhà trưng bày, xe bọc thép và máy bay trưng bày ngoài trời",
+  "desc_vi": "Quần thể di tích gần 3 ha ghi dấu trận Ấp Bắc ngày 2/1/1963, gồm tượng đài \"ba chiến sĩ\", khu tái hiện thời kháng chiến và nhà trưng bày hình ảnh, hiện vật. Ngoài trời có xe bọc thép và máy bay bị bắn rơi.",
+  "review_vi": null,
+  "rating": {
+   "value": 4.5,
+   "count": 460,
+   "source": "Google (qua Wanderlog)",
+   "url": "https://wanderlog.com/place/details/13738194",
+   "seen": "2026-10"
+  },
+  "trending": false,
+  "tags": [
+   "di tích",
+   "chiến tranh"
+  ],
+  "tips_vi": "Mẹo: đi xe từ Mỹ Tho theo hướng Cai Lậy; kết hợp ghé Vĩnh Kim hoặc Rạch Gầm – Xoài Mút trên cùng tuyến.",
+  "images": [
+   {
+    "commons": "File:Ap Bac Victory Tien Giang.jpg",
+    "kind": "place"
+   }
+  ],
+  "wiki": "https://vi.wikipedia.org/wiki/Tr%E1%BA%ADn_%E1%BA%A4p_B%E1%BA%AFc",
+  "website": null,
+  "sources": [
+   "https://wanderlog.com/place/details/13738194",
+   "https://mia.vn/cam-nang-du-lich/khu-di-tich-ap-bac-noi-ghi-dau-chien-tich-lich-su-oanh-liet-5224",
+   "https://vi.wikipedia.org/wiki/Tr%E1%BA%ADn_%E1%BA%A4p_B%E1%BA%AFc"
+  ],
+  "status": "open",
+  "existing": false
+ },
+ {
+  "id": "mytho-lang-hoang-gia",
+  "name": "Lăng Hoàng Gia (Gò Công)",
+  "cat": "sight",
+  "subtitle": "Lăng mộ dòng họ Phạm Đăng – ngoại tộc vua Tự Đức",
+  "address": "Gò Rùa (giồng Sơn Quy), ấp Hoàng Gia, xã Long Hưng, TX Gò Công (cách Mỹ Tho ~40 km)",
+  "lat": null,
+  "lng": null,
+  "coordSource": null,
+  "price": "Miễn phí",
+  "hours": "07:00–18:00",
+  "mustTry": "Mộ Đức Quốc Công Phạm Đăng Hưng, từ đường gỗ ghép mộng không dùng đinh, giếng ngọc",
+  "desc_vi": "Khu lăng mộ và từ đường của dòng họ Phạm Đăng, gia đình bên ngoại vua Tự Đức (thân phụ Từ Dũ Thái hậu), khởi công năm 1826 trên gò hình mai rùa. Được công nhận di tích quốc gia năm 1992.",
+  "review_vi": null,
+  "rating": null,
+  "trending": false,
+  "tags": [
+   "lăng mộ",
+   "triều Nguyễn",
+   "Gò Công"
+  ],
+  "tips_vi": "Mẹo: có người từng đến gặp cổng đóng — nên gọi 0273 3872 223 trước; kết hợp ăn bánh giá Chợ Giồng trên đường đi.",
+  "images": [
+   {
+    "commons": "File:Đức Quốc Công Từ.jpg",
+    "kind": "place"
+   },
+   {
+    "commons": "File:Mộ Phạm Đăng Hưng.jpg",
+    "kind": "place"
+   }
+  ],
+  "wiki": "https://vi.wikipedia.org/wiki/L%C4%83ng_Ho%C3%A0ng_gia",
+  "website": null,
+  "sources": [
+   "https://vi.wikipedia.org/wiki/L%C4%83ng_Ho%C3%A0ng_gia",
+   "https://mia.vn/cam-nang-du-lich/kham-pha-di-tich-lang-mo-hoang-gia-mang-dam-dau-an-kien-truc-thoi-nguyen-5417"
+  ],
+  "status": "open",
+  "existing": false
+ },
+ {
+  "id": "mytho-nha-co-ong-kiet",
+  "name": "Nhà cổ Ông Kiệt (Cái Bè)",
+  "cat": "sight",
+  "subtitle": "Nhà cổ năm 1838 bên dòng Cái Bè",
+  "address": "Số 22 ấp Phú Hòa, xã Đông Hòa Hiệp, Cái Bè (~37 km đường chim bay từ Mỹ Tho)",
+  "lat": 10.337934,
+  "lng": 106.021879,
+  "coordSource": "https://wanderlog.com/place/details/2685888",
+  "price": "Có thu phí tham quan; nhà có phục vụ bữa ăn",
+  "hours": "08:00–17:00",
+  "mustTry": "Kiến trúc gỗ chạm trổ, bàn thờ tổ tiên, ăn trưa món quê trong nhà cổ",
+  "desc_vi": "Ngôi nhà gỗ cổ xây năm 1838 do gia đình ông Trần Tuấn Kiệt gìn giữ, nổi bật với hệ cột gỗ, chạm khắc tinh xảo và đồ cổ. Thường đi bằng xuồng từ bến Cái Bè, kết hợp tham quan khu chợ nổi và vườn trái cây.",
+  "review_vi": "Khen: nhà gỗ được bảo tồn tốt, chạm khắc tinh xảo, không gian xưa yên bình, có phục vụ bữa ăn. Chê: chưa thấy phàn nàn đáng kể trong các đánh giá đã đọc.",
+  "rating": {
+   "value": 4.5,
+   "count": 659,
+   "source": "Google (qua Wanderlog)",
+   "url": "https://wanderlog.com/place/details/2685888",
+   "seen": "2026-10"
+  },
+  "trending": false,
+  "tags": [
+   "nhà cổ",
+   "Cái Bè",
+   "kiến trúc"
+  ],
+  "tips_vi": "Mẹo: gần đó còn nhà cổ Ba Đức (155 ấp An Lợi) — có thể ghé cả hai trong một buổi.",
+  "images": [
+   {
+    "commons": "File:Nhà cổ Cái Bè.jpg",
+    "kind": "place"
+   },
+   {
+    "commons": "File:Vietnam - Ancestral altar, Mr. Kiet’s Ancient House.jpg",
+    "kind": "place"
+   }
+  ],
+  "wiki": null,
+  "website": "https://kiethouse.com/vi/trang-chu/",
+  "sources": [
+   "https://wanderlog.com/place/details/2685888",
+   "https://localvietnam.com/mekong-delta/tien-giang/ong-kiet-ancient-house/",
+   "https://mia.vn/cam-nang-du-lich/can-canh-loi-kien-truc-doc-quyen-nam-bo-tai-nha-co-ong-kiet-5266"
+  ],
+  "status": "open",
+  "existing": false
+ },
+ {
+  "id": "mytho-cho-trai-cay-vinh-kim",
+  "name": "Chợ trái cây Vĩnh Kim",
+  "cat": "market",
+  "subtitle": "Vựa trái cây miệt vườn, quê vú sữa Lò Rèn",
+  "address": "Ấp Vĩnh Thạnh, xã Vĩnh Kim, Châu Thành (~12 km đường chim bay từ Mỹ Tho)",
+  "lat": 10.353855,
+  "lng": 106.247554,
+  "coordSource": "https://wanderlog.com/place/details/10160901",
+  "price": "Miễn phí vào chợ",
+  "hours": "Từ sáng sớm",
+  "mustTry": "Vú sữa Lò Rèn và trái cây miệt vườn theo mùa",
+  "desc_vi": "Chợ đầu mối trái cây lớn của vùng miệt vườn Vĩnh Kim – nơi nổi tiếng với vú sữa Lò Rèn, bày bán trái cây tươi, rẻ ngay từ vườn. Là điểm dừng hợp lý trên tuyến Mỹ Tho – Rạch Gầm – Ấp Bắc.",
+  "review_vi": "Khen: trái cây phong phú, tươi và rẻ, không khí chợ miệt vườn đông vui. Chê: có người thấy chỉ như một chợ quê bình thường.",
+  "rating": {
+   "value": 4.4,
+   "count": 459,
+   "source": "Google (qua Wanderlog)",
+   "url": "https://wanderlog.com/place/details/10160901",
+   "seen": "2026-10"
+  },
+  "trending": false,
+  "tags": [
+   "trái cây",
+   "vú sữa Lò Rèn",
+   "miệt vườn"
+  ],
+  "tips_vi": "Mẹo: đi sáng sớm để thấy chợ đông nhất; hỏi người bán về mùa vú sữa Lò Rèn trước khi đi.",
+  "images": [
+   {
+    "commons": "File:Vĩnh Kim market, at Vĩnh Kim commune, Châu Thành district, Tiền Giang, Vietnam, at January-2022.jpg",
+    "kind": "place"
+   }
+  ],
+  "wiki": null,
+  "website": null,
+  "sources": [
+   "https://wanderlog.com/place/details/10160901",
+   "https://wanderlog.com/place/details/10693530",
+   "https://wanderlog.com/place/details/11465369"
+  ],
+  "status": "open",
+  "existing": false
+ },
+ {
+  "id": "mytho-go-my-tho",
+  "name": "GO! Mỹ Tho",
+  "cat": "shopping",
+  "subtitle": "Trung tâm thương mại có quầy nông sản Tiền Giang",
+  "address": "545 Lê Văn Phẩm, Phường 5, Mỹ Tho",
+  "lat": 10.3588031,
+  "lng": 106.3407815,
+  "coordSource": "https://www.foody.vn/tien-giang/phuc-long-go-my-tho",
+  "price": "Miễn phí vào cửa; khu vui chơi trẻ em tính phí; chưa có thông tin công bố về độ tuổi/giá vé trẻ em",
+  "hours": null,
+  "mustTry": "Quầy nông sản địa phương (xoài Hòa Lộc…), siêu thị, khu vui chơi trẻ em, CGV, nhà sách Fahasa",
+  "desc_vi": "Trung tâm thương mại của Central Group (trước là Big C), khai trương ngày 14/11/2018, gồm siêu thị, khu mua sắm, ăn uống, rạp CGV và nhà sách. Siêu thị có bán nông sản Tiền Giang nhờ hợp tác với các hợp tác xã như xoài Hòa Lộc.",
+  "review_vi": null,
+  "rating": null,
+  "trending": false,
+  "tags": [
+   "siêu thị",
+   "mua sắm",
+   "Hợp với trẻ em"
+  ],
+  "tips_vi": "Mẹo: chỗ mua quà đặc sản đóng gói, giá niêm yết rõ ràng; tọa độ lấy theo cửa hàng Phúc Long bên trong trung tâm.",
+  "images": [],
+  "wiki": null,
+  "website": null,
+  "sources": [
+   "https://bizhub.vietnamnews.vn/central-group-vietnam-launches-go-my-tho-mall-in-tien-giang-post300742.html",
+   "https://baoapbac.vn/english/photos/201811/go-my-tho-trade-services-center-officially-opens-824048",
+   "https://www.foody.vn/tien-giang/phuc-long-go-my-tho"
+  ],
+  "status": "open",
+  "existing": false
+ },
+ {
+  "id": "mytho-cho-dem-30-4",
+  "name": "Chợ đêm Mỹ Tho (đường 30/4)",
+  "cat": "nightlife",
+  "subtitle": "Chợ đêm ăn uống cạnh bến tàu du lịch",
+  "address": "8 đường 30 Tháng 4, Phường 1, Mỹ Tho",
+  "lat": 10.352737,
+  "lng": 106.363138,
+  "coordSource": "https://www.foody.vn/tien-giang/cho-dem-my-tho",
+  "price": "Bình dân",
+  "hours": "Buổi tối",
+  "mustTry": "Ăn vặt, sâm bổ lượng, hủ tiếu, đồ chiên",
+  "desc_vi": "Khu chợ đêm ăn uống trên đường 30/4 sát bến tàu du lịch, gần bờ sông Tiền, có các xe đồ ăn vặt, sâm bổ lượng và quầy quần áo. Ảnh chụp tháng 4/2024 cho thấy chợ ăn uống vẫn họp.",
+  "review_vi": "Khen: tiện đi dạo tối sau khi ăn, nhiều món ăn vặt bình dân. Chê: có ý kiến cho rằng chợ chủ yếu bán quần áo, ít món ăn.",
+  "rating": null,
+  "trending": false,
+  "tags": [
+   "chợ đêm",
+   "ăn vặt",
+   "bờ sông"
+  ],
+  "tips_vi": "Mẹo: kết hợp dạo bờ kè sông Tiền và khu Cảng du thuyền buổi tối.",
+  "images": [
+   {
+    "commons": "File:Chợ đêm ăn uống ở Phường 1, Thành phố Mỹ Tho.jpg",
+    "kind": "place"
+   }
+  ],
+  "wiki": null,
+  "website": null,
+  "sources": [
+   "https://www.foody.vn/tien-giang/cho-dem-my-tho",
+   "https://www.foody.vn/tien-giang/quan-ty-sam-bo-luong-cho-dem",
+   "https://commons.wikimedia.org/wiki/File:Ch%E1%BB%A3_%C4%91%C3%AAm_%C4%83n_u%E1%BB%91ng_%E1%BB%9F_Ph%C6%B0%E1%BB%9Dng_1,_Th%C3%A0nh_ph%E1%BB%91_M%E1%BB%B9_Tho.jpg"
+  ],
+  "status": "unverified",
+  "existing": false
+ },
+ {
+  "id": "mytho-cong-vien-tet-mau-than",
+  "name": "Công viên Tết Mậu Thân & phố đi bộ",
+  "cat": "nightlife",
+  "subtitle": "Công viên Giếng Nước – phố đi bộ mới",
+  "address": "Đường Tết Mậu Thân (giao Lý Thường Kiệt), Phường 4, Mỹ Tho",
+  "lat": null,
+  "lng": null,
+  "coordSource": null,
+  "price": "Miễn phí; không gian công cộng, bé đi cùng người lớn",
+  "hours": "Cả ngày; đông vào chiều tối",
+  "mustTry": "Dạo quanh hồ Giếng Nước, xem biểu diễn ở sân khấu, ăn vặt quanh công viên",
+  "desc_vi": "Công viên có hồ nước (người dân quen gọi công viên Giếng Nước) là nơi tập thể dục, dạo mát buổi chiều. Dự án phố đi bộ hơn 11 tỷ đồng với sân khấu, cảnh quan dọc đường Tết Mậu Thân và chiếu sáng nghệ thuật đã hoàn thành hơn 90% vào cuối năm 2025.",
+  "review_vi": null,
+  "rating": null,
+  "trending": true,
+  "tags": [
+   "phố đi bộ mới",
+   "công viên",
+   "buổi tối",
+   "Hợp với trẻ em"
+  ],
+  "tips_vi": "Mẹo: chưa tìm thấy thông báo khai trương chính thức phố đi bộ — kiểm tra lịch sự kiện cuối tuần trước khi đi; quán lẩu mắm Út Cường ở ngay gần.",
+  "images": [],
+  "wiki": null,
+  "website": null,
+  "sources": [
+   "https://doanhnghiephoinhap.vn/dong-thap-pho-di-bo-cong-vien-tet-mau-than-can-moc-90-huong-toi-khong-gian-nghe-thuat-cong-dong-122124.html",
+   "https://www.foody.vn/tien-giang/travel/khu-du-lich"
+  ],
+  "status": "open",
+  "existing": false
+ },
+ {
+  "id": "mytho-nha-co-ba-duc",
+  "name": "Nhà cổ Ba Đức (Cái Bè)",
+  "cat": "sight",
+  "subtitle": "Nhà cổ họ Phan, có homestay và vườn trái cây",
+  "address": "155 ấp An Lợi, xã Đông Hòa Hiệp, Cái Bè (~37 km đường chim bay từ Mỹ Tho)",
+  "lat": 10.346575,
+  "lng": 106.022366,
+  "coordSource": "https://wanderlog.com/place/details/6154779",
+  "price": "Có thu phí tham quan (tham khảo 50.000–300.000đ tùy gói)",
+  "hours": "06:00–19:00",
+  "mustTry": "Ba tủ thờ cẩn xà cừ, hộp gỗ chạm rồng đựng sắc phong, 9 bức tranh làng quê trên tường, vườn cây trái",
+  "desc_vi": "Ngôi nhà cổ của dòng họ Phan (tên gọi theo ông Phan Văn Đức, đời thứ sáu) ở làng cổ Đông Hòa Hiệp, pha trộn kiến trúc Việt – Pháp, nền tôn cao chống lũ, cột gỗ căm xe. Chủ nhà mở thêm phòng nghỉ kiểu homestay, khách có thể nấu món quê cùng gia đình, câu cá, hái trái.",
+  "review_vi": "Khen: nội thất cổ, đồ cẩn xà cừ đẹp, khu vườn rộng nhiều cây trái và rau thơm, có thể ăn uống trong nhà. Chê: có khách bất ngờ vì phải trả phí vào cửa và thấy chưa đáng tiền.",
+  "rating": {
+   "value": 4.2,
+   "count": 466,
+   "source": "Google (qua Wanderlog)",
+   "url": "https://wanderlog.com/place/details/6154779",
+   "seen": "2026-10"
+  },
+  "trending": false,
+  "tags": [
+   "Ít người biết",
+   "nhà cổ",
+   "homestay"
+  ],
+  "tips_vi": "Mẹo: hỏi giá vé/gói trước khi vào; nằm gần nhà cổ Ông Kiệt nên ghé cả hai trong một buổi. Nguồn ghi năm xây dựng không thống nhất.",
+  "images": [],
+  "wiki": null,
+  "website": "https://nhaco.vn/",
+  "sources": [
+   "https://wanderlog.com/place/details/6154779",
+   "https://mia.vn/cam-nang-du-lich/choang-ngop-truoc-loi-kien-truc-doc-dao-tai-nha-co-ba-duc-tien-giang-5251"
+  ],
+  "status": "open",
+  "existing": false
+ },
+ {
+  "id": "mytho-con-tan-long",
+  "name": "Cồn Tân Long (cồn Rồng)",
+  "cat": "nature",
+  "subtitle": "Cù lao làng chài, bè cá ngay trước mặt thành phố",
+  "address": "Cồn Tân Long, Mỹ Tho (đi đò từ bến đò Tân Long ở Phường 1, qua sông Bảo Định)",
+  "lat": 10.34416667,
+  "lng": 106.3772222,
+  "coordSource": "https://www.wikidata.org/wiki/Q10830590",
+  "price": "Vé đò/phà ngang sông",
+  "hours": "Ban ngày",
+  "mustTry": "Đi đò ngang, dạo đường làng bê tông qua vườn nhãn, dừa; ngắm bè cá và xưởng sửa ghe; nhìn lại thành phố Mỹ Tho từ cồn",
+  "desc_vi": "Cù lao rộng khoảng 273 ha nằm ngay trước mặt trung tâm Mỹ Tho, \"Long\" trong tứ linh Long – Lân – Quy – Phụng. Người dân sống bằng vườn nhãn, dừa, nuôi cá bè và sửa ghe tàu; xưa từng là trại phong nên còn gọi cồn Phong. Ít khách du lịch hơn cồn Thới Sơn, phù hợp đạp xe, đi bộ ngắm đời sống thường ngày.",
+  "review_vi": "Khen: yên bình, đẹp, đúng chất làng quê miền Tây, có người quay lại sau mấy chục năm vẫn xúc động. Chê: phần đi theo tour bị thương mại hóa.",
+  "rating": {
+   "value": 4.5,
+   "count": 84,
+   "source": "Google (qua Wanderlog)",
+   "url": "https://wanderlog.com/place/details/4659553",
+   "seen": "2026-10"
+  },
+  "trending": false,
+  "tags": [
+   "Ít người biết",
+   "cù lao",
+   "bè cá",
+   "đi đò"
+  ],
+  "tips_vi": "Mẹo: tự đi đò từ bến Tân Long thay vì mua tour để thấy đời sống thường ngày; đi bộ hoặc đạp xe theo đường làng bê tông.",
+  "images": [
+   {
+    "commons": "File:Bến đò Tân Long.jpg",
+    "kind": "place"
+   },
+   {
+    "commons": "File:Tân Long 2.jpg",
+    "kind": "place"
+   },
+   {
+    "commons": "File:Một góc thành phố Mỹ Tho nhìn từ cồn Tân Long.jpeg",
+    "kind": "place"
+   }
+  ],
+  "wiki": "https://vi.wikipedia.org/wiki/C%E1%BB%93n_T%C3%A2n_Long",
+  "website": null,
+  "sources": [
+   "https://vi.wikipedia.org/wiki/C%E1%BB%93n_T%C3%A2n_Long",
+   "https://www.wikidata.org/wiki/Q10830590",
+   "https://wanderlog.com/place/details/4659553",
+   "https://mia.vn/cam-nang-du-lich/kham-pha-con-long-con-rong-tien-giang-cung-voi-miavn-5278",
+   "https://commons.wikimedia.org/wiki/File:B%E1%BA%BFn_%C4%91%C3%B2_T%C3%A2n_Long.jpg"
+  ],
+  "status": "open",
+  "existing": false
+ },
+ {
+  "id": "mytho-banh-beo-cho-hang-bong",
+  "name": "Bánh bèo bì Chợ Hàng Bông",
+  "cat": "food",
+  "subtitle": "Gánh bánh bèo, bánh lọt gần 20 năm cạnh chợ",
+  "address": "23 Lê Thị Phỉ, Phường 1, Mỹ Tho",
+  "lat": 10.359032,
+  "lng": 106.367407,
+  "coordSource": "https://wanderlog.com/place/details/8833821",
+  "price": "~10.000–15.000đ/dĩa",
+  "hours": "Chiều tối tới khuya",
+  "mustTry": "Bánh bèo bì mặn – ngọt, bánh bột lọc, ít trần, bánh chuối, sâm lạnh",
+  "desc_vi": "Quán ăn vặt bình dân của dân địa phương ngay khu chợ Hàng Bông, bán bánh bèo mặn – ngọt, bánh bột lọc, ít trần, bánh chuối, bánh bò và sâm lạnh. Đã bán gần 20 năm mà giá vẫn mềm.",
+  "review_vi": "Khen: bánh không ngấy, nhiều loại, giá rẻ, mở tới khuya, bán lâu năm mà ít tăng giá. Chê: chưa thấy phàn nàn đáng kể trong các đánh giá đã đọc.",
+  "rating": {
+   "value": 4.2,
+   "count": 154,
+   "source": "Google (qua Wanderlog)",
+   "url": "https://wanderlog.com/place/details/8833821",
+   "seen": "2026-10"
+  },
+  "trending": false,
+  "tags": [
+   "Ít người biết",
+   "ăn vặt",
+   "bình dân"
+  ],
+  "tips_vi": "Mẹo: ghé sau khi dạo chợ Mỹ Tho buổi chiều hoặc làm bữa khuya.",
+  "images": [],
+  "wiki": null,
+  "website": null,
+  "sources": [
+   "https://wanderlog.com/place/details/8833821",
+   "https://www.foody.vn/tien-giang/banh-beo-cho-hang-bong",
+   "https://toplist.vn/top-list/quan-an-ngon-va-noi-tieng-nhat-tai-tien-giang-37717.htm",
+   "https://mia.vn/cam-nang-du-lich/review-top-10-quan-an-ngon-noi-tieng-o-my-tho-ma-gia-con-re-5427"
+  ],
+  "status": "open",
+  "existing": false
+ },
+ {
+  "id": "mytho-cafe-thuy-vien",
+  "name": "Cà phê Thủy Viên",
+  "cat": "cafe",
+  "subtitle": "Cà phê sân vườn yên tĩnh bên sông Tiền",
+  "address": "142 Phạm Thanh, Phường 5, Mỹ Tho",
+  "lat": 10.361658,
+  "lng": 106.345553,
+  "coordSource": "https://wanderlog.com/place/details/13264637",
+  "price": "Bình dân",
+  "hours": "06:00–18:00",
+  "mustTry": "Cà phê sáng bên hồ cá, nhìn ra sông",
+  "desc_vi": "Quán cà phê sân vườn trên đường Phạm Thanh ven sông Tiền, có hồ cá, cây xanh và gió sông, được chủ quán chăm chút từng chi tiết. Hợp để ngồi sáng sớm, tránh xa trung tâm ồn ào.",
+  "review_vi": "Khen: không gian rộng, gió trời tự nhiên, view sông và vườn, trang trí độc đáo, nhân viên thân thiện, chủ quán chu đáo. Chê: khách được hút thuốc.",
+  "rating": {
+   "value": 4.2,
+   "count": 629,
+   "source": "Google (qua Wanderlog)",
+   "url": "https://wanderlog.com/place/details/13264637",
+   "seen": "2026-10"
+  },
+  "trending": false,
+  "tags": [
+   "Ít người biết",
+   "view sông",
+   "sân vườn"
+  ],
+  "tips_vi": "Mẹo: quán đóng cửa lúc 18h — đi buổi sáng; cùng tuyến Phạm Thanh với nhà hàng Làng Chài.",
+  "images": [],
+  "wiki": null,
+  "website": null,
+  "sources": [
+   "https://wanderlog.com/place/details/13264637",
+   "https://wanderlog.com/list/geoCategory/207056/where-to-eat-best-restaurants-in-tien-giang-province"
+  ],
+  "status": "open",
+  "existing": false
+ },
+ {
+  "id": "mytho-cu-lao-tan-phong",
+  "name": "Cù lao Tân Phong",
+  "cat": "nature",
+  "subtitle": "Cù lao vườn trái cây giữa sông Tiền",
+  "address": "Xã Tân Phong, Cai Lậy (~34 km đường chim bay từ Mỹ Tho)",
+  "lat": 10.316667,
+  "lng": 106.05,
+  "coordSource": "https://wanderlog.com/place/details/5088404",
+  "price": "Miễn phí (tự túc); trái cây mua theo giá vườn",
+  "hours": "Ban ngày",
+  "mustTry": "Đạp xe qua vườn sầu riêng, chôm chôm, nhãn, vú sữa, mít; thăm nhà xưa trên cù lao",
+  "desc_vi": "Cù lao phù sa màu mỡ gồm 6 cồn giữa sông Tiền, đối diện khu chợ nổi Cái Bè, dân sống chủ yếu bằng vườn cây ăn trái. Ít khách, đường làng yên tĩnh, có thể thuê xe đạp chạy qua những vườn sầu riêng, chôm chôm, vú sữa.",
+  "review_vi": "Khen: phong cảnh miệt vườn yên bình, nhiều loại trái cây đặc sản, nhà xưa đẹp, đạp xe rất thích. Chê: dịch vụ du lịch chưa phát triển hoàn chỉnh.",
+  "rating": {
+   "value": 4.6,
+   "count": 39,
+   "source": "Google (qua Wanderlog)",
+   "url": "https://wanderlog.com/place/details/5088404",
+   "seen": "2026-10"
+  },
+  "trending": false,
+  "tags": [
+   "Ít người biết",
+   "miệt vườn",
+   "đạp xe"
+  ],
+  "tips_vi": "Mẹo: theo cẩm nang, mùa trái ở vườn Chính Thương (Tân Phong) khoảng tháng 6–8 — hỏi nhà vườn trước khi đi; mang tiền mặt.",
+  "images": [],
+  "wiki": "https://vi.wikipedia.org/wiki/C%C3%B9_lao_T%C3%A2n_Phong",
+  "website": null,
+  "sources": [
+   "https://vi.wikipedia.org/wiki/C%C3%B9_lao_T%C3%A2n_Phong",
+   "https://wanderlog.com/place/details/5088404",
+   "https://mia.vn/cam-nang-du-lich/ban-da-biet-duong-di-cu-lao-tan-phong-cuc-thu-vi-5325",
+   "https://mia.vn/cam-nang-du-lich/danh-sach-top-cac-vuon-trai-cay-tien-giang-dang-tham-quan-nhat-5350",
+   "https://mytour.vn/vi/blog/bai-viet/kham-pha-10-dia-diem-dep-thu-vi-de-check-in-tai-cai-lay.html"
+  ],
+  "status": "open",
+  "existing": false
+ },
+ {
+  "id": "mytho-vincom-plaza",
+  "name": "Vincom Plaza Mỹ Tho",
+  "cat": "kids",
+  "subtitle": "TTTM có bowling, game và khu vui chơi trẻ em",
+  "address": "1A Hùng Vương, Phường 1, Mỹ Tho",
+  "lat": 10.3569378,
+  "lng": 106.3633717,
+  "coordSource": "https://www.foody.vn/tien-giang/starbucks-coffee-vincom-my-tho",
+  "price": "Miễn phí vào cửa; bowling, game, khu vui chơi trẻ em tính phí; chưa có thông tin công bố về độ tuổi/giá vé trẻ em",
+  "hours": null,
+  "mustTry": "SpeedBowl (bowling, game, khu vui chơi trẻ em), Dalmatians Game World",
+  "desc_vi": "Trung tâm thương mại hơn 14.200 m² khai trương ngày 10/6/2022 trên trục đường trung tâm. Lúc khai trương có SpeedBowl – tổ hợp bowling, trò chơi điện tử và khu vui chơi trẻ em – cùng khu game Dalmatians, là chỗ trú nắng mưa cho gia đình có con nhỏ.",
+  "review_vi": null,
+  "rating": null,
+  "trending": false,
+  "tags": [
+   "Hợp với trẻ em",
+   "trung tâm thương mại",
+   "có máy lạnh"
+  ],
+  "tips_vi": "Mẹo: các khu vui chơi được ghi nhận từ lúc khai trương 2022 — hỏi quầy thông tin xem còn hoạt động không; ngay cạnh là Le 68 Bistro và nhiều quán cà phê.",
+  "images": [],
+  "wiki": null,
+  "website": null,
+  "sources": [
+   "https://doanhnghiephoinhap.vn/vincom-dong-loat-khai-truong-2-trung-tam-thuong-mai-moi-tai-tien-giang-va-bac-lieu-49894.html",
+   "https://www.foody.vn/tien-giang/starbucks-coffee-vincom-my-tho",
+   "https://cafeland.vn/du-an/to-hop-nha-pho-thuong-mai-vincom-shophouse-my-tho-2631.html"
+  ],
+  "status": "open",
+  "existing": false
+ },
+ {
+  "id": "mytho-quang-truong",
+  "name": "Quảng trường Mỹ Tho",
+  "cat": "kids",
+  "subtitle": "Quảng trường rộng, thả diều và chợ hoa Tết",
+  "address": "Khu trung tâm hành chính, đường Hùng Vương, xã Đạo Thạnh, Mỹ Tho",
+  "lat": 10.380094,
+  "lng": 106.368325,
+  "coordSource": "https://wanderlog.com/place/details/10019509",
+  "price": "Miễn phí; không gian công cộng, bé đi cùng người lớn",
+  "hours": "Cả ngày; đẹp nhất chiều tối",
+  "mustTry": "Thả diều mùa gió, dạo bộ buổi tối khi lên đèn, chợ hoa – đường hoa dịp Tết",
+  "desc_vi": "Khoảng quảng trường lớn ở khu trung tâm hành chính mới, chiều tối người dân ra hóng mát, tụ tập, chụp ảnh khi đèn lên. Mùa gió có nhiều người thả diều đủ màu; dịp Tết có chợ hoa, đường hoa trang trí công phu.",
+  "review_vi": "Khen: rộng rãi, thoáng mát, nhiều góc chụp ảnh, đèn buổi tối đẹp, thả diều vui mắt. Chê: ít dịch vụ ăn uống, giải trí ngay tại quảng trường.",
+  "rating": {
+   "value": 4.7,
+   "count": 287,
+   "source": "Google (qua Wanderlog)",
+   "url": "https://wanderlog.com/place/details/10019509",
+   "seen": "2026-10"
+  },
+  "trending": false,
+  "tags": [
+   "Hợp với trẻ em",
+   "thả diều",
+   "dạo tối"
+  ],
+  "tips_vi": "Mẹo: mang theo diều và nước uống; đi khoảng 16h30–18h cho mát.",
+  "images": [
+   {
+    "commons": "File:Quảng trường tỉnh Tiền Giang, xã Đạo Thạnh, Thành phố Mỹ Tho.jpg",
+    "kind": "place"
+   }
+  ],
+  "wiki": null,
+  "website": null,
+  "sources": [
+   "https://wanderlog.com/place/details/10019509",
+   "https://guland.vn/mua-ban-dat-tho-cu-duong-ap-bac-thanh-pho-my-tho-tien-giang",
+   "https://commons.wikimedia.org/wiki/File:Qu%E1%BA%A3ng_tr%C6%B0%E1%BB%9Dng_t%E1%BB%89nh_Ti%E1%BB%81n_Giang,_x%C3%A3_%C4%90%E1%BA%A1o_Th%E1%BA%A1nh,_Th%C3%A0nh_ph%E1%BB%91_M%E1%BB%B9_Tho.jpg"
+  ],
+  "status": "open",
+  "existing": false
+ },
+ {
+  "id": "mytho-happy-farm",
+  "name": "Happy Farm Tiền Giang Homestay",
+  "cat": "kids",
+  "subtitle": "Nông trại – homestay nhiều thú nuôi cho bé",
+  "address": "35 ap Bo Xe, xã Thạnh Phú, Châu Thành (~10 km từ trung tâm Mỹ Tho)",
+  "lat": 10.374084,
+  "lng": 106.299875,
+  "coordSource": "https://wanderlog.com/place/details/10160905",
+  "price": "Theo giá phòng homestay; chưa có thông tin công bố về độ tuổi/giá vé trẻ em",
+  "hours": null,
+  "mustTry": "Cho bé chơi ngoài trời, xem thú nuôi trong trại, bữa cơm nhà nấu từ nông sản trong vườn",
+  "desc_vi": "Homestay trong một nông trại gia đình với vườn rộng, ao, hoa, võng và nhiều con vật, cách trại rắn Đồng Tâm khoảng 30 phút đi bộ. Khách gia đình khen trẻ con được chạy chơi giữa thiên nhiên, chủ nhà thân thiện, bữa ăn dùng nguyên liệu tự trồng.",
+  "review_vi": "Khen: khung cảnh đẹp, rộng, yên tĩnh, phòng sạch, chủ nhà dễ thương, trẻ em mê thú nuôi, giá hợp lý. Chê: phòng chỉ có đèn trần, phòng tắm bố trí bên ngoài.",
+  "rating": {
+   "value": 4.3,
+   "count": 215,
+   "source": "Google (qua Wanderlog)",
+   "url": "https://wanderlog.com/place/details/10160905",
+   "seen": "2026-10"
+  },
+  "trending": false,
+  "tags": [
+   "Hợp với trẻ em",
+   "nông trại",
+   "homestay"
+  ],
+  "tips_vi": "Mẹo: đây là chỗ lưu trú — liên hệ trước (0909 991 218 theo Google) nếu chỉ muốn ghé chơi trong ngày; kết hợp trại rắn Đồng Tâm gần đó.",
+  "images": [],
+  "wiki": null,
+  "website": null,
+  "sources": [
+   "https://wanderlog.com/place/details/10160905"
+  ],
+  "status": "open",
+  "existing": false
+ }
+]

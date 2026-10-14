@@ -1,0 +1,65 @@
+{
+ "hcmc/Địa đạo Củ Chi": {
+  "accept": "agent",
+  "why": "The tunnels have two visitor sites 11 km apart; the pin is Bến Dược (the larger one), OpenStreetMap matched Bến Đình. Both are real."
+ },
+ "dalat/Nem nướng Bà Hùng": {
+  "accept": "agent",
+  "why": "The original shop is 328 Phan Đình Phùng, which the pin matches; OpenStreetMap's 'Nem Nuong Ba Hung' is another branch on Trần Phú."
+ },
+ "dalat/Mây Lang Thang": {
+  "drop": true,
+  "why": "A touring music show with no fixed venue (only an office address), so a pin would mislead."
+ },
+ "hcmc/Chợ ẩm thực Hồ Thị Kỷ": {
+  "lat": 10.76539,
+  "lng": 106.677005,
+  "approx": true,
+  "source": "data/research/hcmc-explore.json (Chợ hoa Hồ Thị Kỷ, Wanderlog)",
+  "why": "The food alley is hẻm 52 Hồ Thị Kỷ, the same lane as the flower market; no page gives the food stalls their own point."
+ },
+ "dalat/Dốc Sương Nguyệt Ánh": {
+  "lat": 11.94964,
+  "lng": 108.45462,
+  "approx": true,
+  "source": "OpenStreetMap: Sương Nguyệt Ánh (highway/secondary)",
+  "why": "A sloping street, not a venue; the pin is the street's OpenStreetMap point."
+ },
+ "mytho/Lăng Hoàng Gia (Gò Công)": {
+  "lat": 10.35907,
+  "lng": 106.67496,
+  "approx": true,
+  "source": "OpenStreetMap: Gò Công (place/city)",
+  "why": "Neither OpenStreetMap nor Wikipedia has the tomb's point; the pin is Gò Công town, where the tomb is. Directions search by name, so they still reach it."
+ },
+ "mytho/Công viên Tết Mậu Thân & phố đi bộ": {
+  "lat": 10.35827,
+  "lng": 106.36017,
+  "source": "OpenStreetMap: Công Viên Tết Mậu Thân (leisure/park)",
+  "why": "OpenStreetMap has the park itself; the research had no coordinates."
+ },
+ "nhatrang/Tắm bùn Trăm Trứng (100 Egg)": {
+  "accept": "agent",
+  "why": "The pin is Google's (via Wanderlog) on Nguyễn Tất Thành, Phước Đồng, matching the address; OpenStreetMap's 'Tram Trung 100 egg' on Ngô Tất Tố in town looks like a booking office."
+ },
+ "hcmc/Mặn Mòi (Thảo Điền)": {
+  "accept": "agent",
+  "why": "OpenStreetMap matched the other Mặn Mòi branch on Võ Văn Tần (Quận 3); this entry is the Thảo Điền branch."
+ },
+ "hcmc/O Phương – Món ngon sông Hương": {
+  "accept": "agent",
+  "why": "The shop is 162 Điện Biên Phủ at the Trương Quyền corner in Quận 3, which the pin matches; OpenStreetMap matched the other 162 Điện Biên Phủ in Bình Thạnh."
+ },
+ "hcmc/Rừng ngập mặn Cần Giờ": {
+  "accept": "agent",
+  "why": "Pin from Wikipedia; OpenStreetMap's point is the middle of the whole biosphere reserve."
+ },
+ "dalat/Vườn dâu Ichigo": {
+  "accept": "agent",
+  "why": "Google pin (via Wanderlog) for 100 Cam Ly; OpenStreetMap matched only the ward."
+ },
+ "nhatrang/Khu du lịch Ba Hồ": {
+  "drop": true,
+  "why": "Same waterfalls as the original research's 'Suối Ba Hồ'; the two pins sit at different points of one site."
+ }
+}

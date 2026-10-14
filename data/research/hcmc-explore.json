@@ -1,0 +1,3125 @@
+[
+  {
+    "id": "hcmc-bui-vien",
+    "name": "Phố Tây Bùi Viện",
+    "cat": "nightlife",
+    "subtitle": "Phố đi bộ về đêm sôi động nhất Sài Gòn",
+    "address": "Đường Bùi Viện, Phường Phạm Ngũ Lão, Quận 1",
+    "lat": 10.767421,
+    "lng": 106.693979,
+    "coordSource": "https://en.wikipedia.org/wiki/B%C3%B9i_Vi%E1%BB%87n_Street",
+    "price": "Miễn phí dạo phố; đồ uống tùy quán",
+    "hours": "Mở cả ngày; nhộn nhịp nhất từ chiều tối đến khuya",
+    "mustTry": "Dạo phố đi bộ buổi tối, bar nhạc sống, bia vỉa hè, xem người qua lại",
+    "desc_vi": "Khu phố Tây ba lô ở phường Phạm Ngũ Lão, Quận 1, nổi tiếng với dãy quán bar, pub, nhà hàng và nhà nghỉ bình dân. Về đêm con phố trở thành phố đi bộ ồn ào, đèn màu rực rỡ, nhạc xập xình và đông khách quốc tế lẫn người trẻ địa phương.",
+    "review_vi": "Khen: không khí náo nhiệt, nhiều ban nhạc sống, quán ăn và quán bar đa dạng, đúng chất 'phố không ngủ'. Chê: nhạc các quán chồng lấn rất ồn, một số cơ sở chèo kéo hoặc thiếu minh bạch; không hợp với ai thích yên tĩnh.",
+    "rating": {
+      "value": 4.3,
+      "count": 27493,
+      "source": "Google (qua Wanderlog)",
+      "url": "https://wanderlog.com/place/details/412755/",
+      "seen": "2026-10"
+    },
+    "trending": false,
+    "tags": [
+      "Phố đi bộ",
+      "Phố Tây",
+      "Về đêm"
+    ],
+    "tips_vi": "Mẹo: hỏi giá trước khi gọi đồ, giữ chặt điện thoại và ví trong đám đông; đi bộ từ phố đi bộ Nguyễn Huệ khoảng 15 phút.",
+    "images": [
+      {
+        "commons": "File:Bui Vien Walking Street 1.jpg",
+        "kind": "place"
+      },
+      {
+        "commons": "File:Bui Vien Street, Ho Chi Minh City, at night, 2023 (05).jpg",
+        "kind": "place"
+      }
+    ],
+    "wiki": "https://en.wikipedia.org/wiki/B%C3%B9i_Vi%E1%BB%87n_Street",
+    "website": null,
+    "sources": [
+      "https://en.wikipedia.org/wiki/B%C3%B9i_Vi%E1%BB%87n_Street",
+      "https://wanderlog.com/place/details/412755/"
+    ],
+    "status": "open",
+    "existing": true
+  },
+  {
+    "id": "hcmc-dinh-doc-lap",
+    "name": "Dinh Độc Lập",
+    "cat": "sight",
+    "subtitle": "Di tích quốc gia đặc biệt – nơi kết thúc chiến tranh 30/4/1975",
+    "address": "135 Nam Kỳ Khởi Nghĩa, Phường Bến Thành, Quận 1",
+    "lat": 10.777108,
+    "lng": 106.695441,
+    "coordSource": "https://vi.wikipedia.org/wiki/Dinh_%C4%90%E1%BB%99c_L%E1%BA%ADp",
+    "price": "80.000đ người lớn; 40.000đ sinh viên/người cao tuổi; 20.000đ trẻ 6–dưới 16 tuổi",
+    "hours": "Khuôn viên 07:00–18:00 hằng ngày, kể cả Lễ Tết; quầy vé thường ngừng bán khoảng 15:30, tòa nhà chính đón khách đến khoảng 16:30",
+    "mustTry": "Phòng Trình Quốc thư, phòng họp Nội các, tầng hầm chỉ huy, sân thượng có trực thăng, nhà trưng bày 'Từ Dinh Norodom đến Dinh Độc Lập'",
+    "desc_vi": "Dinh Độc Lập (Hội trường Thống Nhất) do kiến trúc sư Ngô Viết Thụ thiết kế, khánh thành năm 1966 trên nền Dinh Norodom thời Pháp. Đây là nơi xe tăng quân Giải phóng húc đổ cổng ngày 30/4/1975, khép lại chiến tranh. Nội thất thập niên 60 cùng hầm chỉ huy được giữ gần như nguyên vẹn.",
+    "review_vi": "Khen: tòa nhà được bảo quản tốt, đi qua từng phòng như quay ngược thời gian, khuôn viên rộng với vườn cây đẹp để chụp ảnh, có thuyết minh tiếng Anh dễ theo. Chê: bên trong nhiều khu không có điều hòa nên khá nóng, đông đoàn khách vào giờ cao điểm.",
+    "rating": {
+      "value": 4.5,
+      "count": 47221,
+      "source": "Google (qua Wanderlog)",
+      "url": "https://wanderlog.com/place/details/21655/",
+      "seen": "2026-10"
+    },
+    "trending": false,
+    "tags": [
+      "Di tích quốc gia đặc biệt",
+      "Lịch sử",
+      "Kiến trúc thập niên 60",
+      "Hợp với trẻ em"
+    ],
+    "tips_vi": "Mẹo: đến trước 15:30 để kịp mua vé; có thể mua vé trực tuyến trên trang chính thức; đi sáng sớm cho mát và vắng, nhớ xuống tầng hầm và lên sân thượng.",
+    "images": [
+      {
+        "commons": "File:20190923 Independence Palace-10.jpg",
+        "kind": "place"
+      },
+      {
+        "commons": "File:2023-12-10 Interiors of Independence Palace, Saigon 06.jpg",
+        "kind": "place"
+      }
+    ],
+    "wiki": "https://vi.wikipedia.org/wiki/Dinh_%C4%90%E1%BB%99c_L%E1%BA%ADp",
+    "website": "https://dinhdoclap.gov.vn/",
+    "sources": [
+      "https://vi.wikipedia.org/wiki/Dinh_%C4%90%E1%BB%99c_L%E1%BA%ADp",
+      "https://dinhdoclap.gov.vn/",
+      "https://wanderlog.com/place/details/21655/",
+      "https://thuviennhadat.vn/bat-dong-san/dinh-doc-lap-mo-cua-may-gio-gia-ve-tham-quan-dinh-doc-lap-13353.html",
+      "https://www.vietnamairlines.com/cn/vi/plan-book/travel/travel-guide/independence-palace-ho-chi-minh"
+    ],
+    "status": "open",
+    "existing": true
+  },
+  {
+    "id": "hcmc-bao-tang-chung-tich-chien-tranh",
+    "name": "Bảo tàng Chứng tích Chiến tranh",
+    "cat": "sight",
+    "subtitle": "Bảo tàng về hậu quả chiến tranh được khách quốc tế ghé nhiều nhất",
+    "address": "28 Võ Văn Tần, Phường Võ Thị Sáu, Quận 3",
+    "lat": 10.779475,
+    "lng": 106.692132,
+    "coordSource": "https://en.wikipedia.org/wiki/War_Remnants_Museum",
+    "price": "40.000đ/người; giảm 50% cho học sinh, sinh viên, trẻ 6–15 tuổi; miễn phí trẻ dưới 6 tuổi",
+    "hours": "07:30–17:30 hằng ngày, kể cả Lễ Tết (ngừng bán vé 17:00)",
+    "mustTry": "Sân trưng bày máy bay, xe tăng; chuyên đề chất độc da cam; khu tái hiện 'chuồng cọp'; ảnh phóng viên chiến trường",
+    "desc_vi": "Mở cửa từ năm 1975, bảo tàng trưng bày hình ảnh, hiện vật về tội ác và hậu quả của chiến tranh tại Việt Nam, đặc biệt là chất độc da cam. Ngoài sân là xe tăng, máy bay, pháo thu được sau chiến tranh. Đây là một trong những điểm tham quan được du khách quốc tế đến nhiều nhất TP.HCM.",
+    "review_vi": "Khen: nội dung mạnh mẽ, giàu tính giáo dục, bộ sưu tập ảnh và hiện vật gây xúc động sâu sắc. Chê: nhiều hình ảnh rất ám ảnh, không phù hợp trẻ nhỏ; cần dành 2–3 tiếng mới xem hết nên dễ mệt.",
+    "rating": {
+      "value": 4.5,
+      "count": 40705,
+      "source": "Google (qua Wanderlog)",
+      "url": "https://wanderlog.com/place/details/5279/",
+      "seen": "2026-10"
+    },
+    "trending": false,
+    "tags": [
+      "Bảo tàng",
+      "Lịch sử chiến tranh"
+    ],
+    "tips_vi": "Mẹo: có bán vé trực tuyến (nhận mã QR qua email); cân nhắc khi đi cùng trẻ em vì nhiều ảnh nhạy cảm.",
+    "images": [
+      {
+        "commons": "File:War Remnants Museum, HCMC, front.JPG",
+        "kind": "place"
+      },
+      {
+        "commons": "File:Ho Chi Minh City, Vietnam, War Remnants Museum.jpg",
+        "kind": "place"
+      }
+    ],
+    "wiki": "https://vi.wikipedia.org/wiki/B%E1%BA%A3o_t%C3%A0ng_Ch%E1%BB%A9ng_t%C3%ADch_chi%E1%BA%BFn_tranh",
+    "website": "https://baotangchungtichchientranh.vn/",
+    "sources": [
+      "https://en.wikipedia.org/wiki/War_Remnants_Museum",
+      "https://wanderlog.com/place/details/5279/",
+      "https://www.greensm.com/vn-vi/news/bao-tang-chung-tich-chien-tranh",
+      "https://www.vietjetair.com/vi/diem-den/thanh-pho-ho-chi-minh/bao-tang-chung-tich-chien-tranh",
+      "https://www.sggp.org.vn/bao-tang-chung-tich-chien-tranh-van-hanh-he-thong-ban-ve-truc-tuyen-post838106.html"
+    ],
+    "status": "open",
+    "existing": true
+  },
+  {
+    "id": "hcmc-bitexco-skydeck",
+    "name": "Saigon Skydeck – Bitexco Financial Tower",
+    "cat": "sight",
+    "subtitle": "Đài quan sát tầng 49 tòa Bitexco hình búp sen",
+    "address": "36 Hồ Tùng Mậu (Tòa Bitexco, 2 Hải Triều), Phường Bến Nghé, Quận 1",
+    "lat": 10.771845,
+    "lng": 106.704545,
+    "coordSource": "https://vi.wikipedia.org/wiki/Bitexco_Financial_Tower",
+    "price": "Tham khảo khoảng 200.000đ trở lên/người lớn (giá có thể đã thay đổi – nên kiểm tra trước)",
+    "hours": "09:30–21:30 hằng ngày",
+    "mustTry": "Ngắm 360° trung tâm và sông Sài Gòn, ống nhòm miễn phí, màn hình cảm ứng giới thiệu địa danh, khu trưng bày áo dài",
+    "desc_vi": "Saigon Skydeck nằm ở tầng 49 (khoảng 178 m) của Bitexco Financial Tower – tòa tháp hình búp sen khánh thành năm 2010, từng là biểu tượng đường chân trời Sài Gòn. Từ đây nhìn bao quát Quận 1, sông Sài Gòn và Thủ Thiêm; cùng tòa nhà còn có sân đỗ trực thăng nhô ra ở tầng 52.",
+    "review_vi": "Khen: tầm nhìn toàn cảnh đẹp, thang máy nhanh, có ống nhòm và bảng tương tác, giá dễ chịu hơn Landmark 81. Chê: thấp hơn Landmark 81 nên view kém 'choáng ngợp'; có dịch vụ chụp ảnh in sẵn và phí gửi xe khiến một số khách khó chịu.",
+    "rating": {
+      "value": 4.4,
+      "count": 12738,
+      "source": "Google (qua Wanderlog)",
+      "url": "https://wanderlog.com/place/details/5287/",
+      "seen": "2026-10"
+    },
+    "trending": false,
+    "tags": [
+      "Đài quan sát",
+      "Ngắm hoàng hôn",
+      "Hợp với trẻ em"
+    ],
+    "tips_vi": "Mẹo: lên vào cuối chiều để ngắm cả lúc trời sáng lẫn khi thành phố lên đèn; có thể đặt vé trước qua các nền tảng như Headout, Pelago.",
+    "images": [
+      {
+        "commons": "File:Bitexco Financial Tower, Ciudad Ho Chi Minh, Vietnam, 2013-08-14, DD 02.JPG",
+        "kind": "place"
+      },
+      {
+        "commons": "File:Ho Chi Minh City, Bitexco Financial Tower, 2020-01 CN-01.jpg",
+        "kind": "place"
+      },
+      {
+        "commons": "File:Vista de Ciudad Ho Chi Minh desde Bitexco Financial Tower, Vietnam, 2013-08-14, DD 13.JPG",
+        "kind": "place"
+      }
+    ],
+    "wiki": "https://vi.wikipedia.org/wiki/Bitexco_Financial_Tower",
+    "website": null,
+    "sources": [
+      "https://vi.wikipedia.org/wiki/Bitexco_Financial_Tower",
+      "https://wanderlog.com/place/details/5287/",
+      "https://www.foody.vn/ho-chi-minh/saigon-skydeck-bitexco-tower",
+      "https://www.headout.com/ko/saigon-skydeck-tickets/saigon-skydeck-in-bitexco-financial-tower-tickets-e-23076/"
+    ],
+    "status": "open",
+    "existing": true
+  },
+  {
+    "id": "hcmc-landmark-81",
+    "name": "Landmark 81 SkyView",
+    "cat": "sight",
+    "subtitle": "Đài quan sát cao nhất Việt Nam (tầng 79–81)",
+    "address": "720A Điện Biên Phủ, Vinhomes Central Park, Phường 22, Quận Bình Thạnh",
+    "lat": 10.795025,
+    "lng": 106.721909,
+    "coordSource": "https://vi.wikipedia.org/wiki/Landmark_81",
+    "price": "Tham khảo 2025: combo người lớn 420.000đ ngày thường, 500.000đ cuối tuần; trẻ em từ 220.000đ",
+    "hours": "09:00–22:00 hằng ngày",
+    "mustTry": "Sàn kính tầng 79–81, trải nghiệm Skytouch ngoài trời tầng 81, game VR, ngắm hoàng hôn trên sông Sài Gòn; dạo Vincom Center Landmark 81 dưới chân tháp",
+    "desc_vi": "Landmark 81 cao 461 m, là tòa nhà cao nhất Việt Nam, nằm trong khu Vinhomes Central Park bên sông Sài Gòn. Đài quan sát SkyView chiếm các tầng 79–81 với vách kính nhìn toàn thành phố, sàn kính và trải nghiệm Skytouch đứng ngoài trời ở đỉnh tháp.",
+    "review_vi": "Khen: tầm nhìn ngoạn mục ra sông Sài Gòn và toàn thành phố, nhiều trò trải nghiệm như VR, Skytouch; tòa nhà hiện đại. Chê: giá vé cao, cuối tuần đắt hơn và đông; nếu trời mù thì tầm nhìn bị hạn chế.",
+    "rating": {
+      "value": 4.6,
+      "count": 24082,
+      "source": "Google – listing tòa Landmark 81 (qua Wanderlog)",
+      "url": "https://wanderlog.com/place/details/2060975/",
+      "seen": "2026-10"
+    },
+    "trending": false,
+    "tags": [
+      "Đài quan sát",
+      "Tòa nhà cao nhất Việt Nam",
+      "Ngắm hoàng hôn",
+      "Hợp với trẻ em"
+    ],
+    "tips_vi": "Mẹo: đi ngày thường và trước giờ hoàng hôn để vừa rẻ hơn vừa ngắm được cả ngày lẫn đêm; quầy vé ở tầng B1.",
+    "images": [
+      {
+        "commons": "File:Landmark 81 in 2021.jpg",
+        "kind": "place"
+      },
+      {
+        "commons": "File:The Landmark 81 at night.jpg",
+        "kind": "place"
+      },
+      {
+        "commons": "File:Landmark 81 view from Saigon River.jpg",
+        "kind": "place"
+      }
+    ],
+    "wiki": "https://vi.wikipedia.org/wiki/Landmark_81",
+    "website": null,
+    "sources": [
+      "https://vi.wikipedia.org/wiki/Landmark_81",
+      "https://wanderlog.com/place/details/2060975/",
+      "https://mia.vn/cam-nang-du-lich/landmark-81-skyview-19792",
+      "https://www.greensm.com/vn-vi/news/landmark-81"
+    ],
+    "status": "open",
+    "existing": true
+  },
+  {
+    "id": "hcmc-nha-tho-duc-ba",
+    "name": "Nhà thờ Đức Bà Sài Gòn",
+    "cat": "sight",
+    "subtitle": "Vương cung thánh đường gạch đỏ biểu tượng Sài Gòn – đang đại trùng tu",
+    "address": "01 Công xã Paris, Phường Bến Nghé, Quận 1",
+    "lat": 10.779722,
+    "lng": 106.699167,
+    "coordSource": "https://vi.wikipedia.org/wiki/Nh%C3%A0_th%E1%BB%9D_ch%C3%ADnh_t%C3%B2a_%C4%90%E1%BB%A9c_B%C3%A0_S%C3%A0i_G%C3%B2n",
+    "price": "Miễn phí",
+    "hours": "Ngắm bên ngoài bất cứ lúc nào; giờ vào bên trong thay đổi trong thời gian trùng tu",
+    "mustTry": "Mặt tiền gạch đỏ Marseille, hai tháp chuông, tượng Đức Mẹ Hòa Bình ở quảng trường, kết hợp Bưu điện Thành phố ngay bên cạnh",
+    "desc_vi": "Nhà thờ chính tòa Đức Bà Sài Gòn được người Pháp xây dựng 1877–1880 với gạch đỏ và ngói chở từ Pháp sang, là một trong những công trình biểu tượng của thành phố. Công trình đang được đại trùng tu từ năm 2017; tháng 3/2026 hai thánh giá mạ vàng đã được đặt lại trên đỉnh tháp, dự kiến hoàn thành cuối năm 2027 nếu đủ kinh phí.",
+    "review_vi": "Khen: kiến trúc Gothic gạch đỏ đẹp và cổ kính, quảng trường phía trước rộng, đặc biệt lung linh dịp Giáng sinh. Chê: giàn giáo trùng tu còn che một phần công trình; vào bên trong có thể bị hạn chế, quảng trường đông và nhiều xe cộ.",
+    "rating": {
+      "value": 4.4,
+      "count": 27992,
+      "source": "Google (qua Wanderlog)",
+      "url": "https://wanderlog.com/place/details/21654/",
+      "seen": "2026-10"
+    },
+    "trending": false,
+    "tags": [
+      "Kiến trúc Pháp",
+      "Biểu tượng Sài Gòn",
+      "Đang trùng tu"
+    ],
+    "tips_vi": "Mẹo: đi sáng sớm cho vắng; ghé Bưu điện Thành phố và đường sách Nguyễn Văn Bình ngay cạnh. Dịp Giáng sinh rất đông người check-in.",
+    "images": [
+      {
+        "commons": "File:Basílica de Nuestra Señora, Ciudad Ho Chi Minh, Vietnam, 2013-08-14, DD 03.JPG",
+        "kind": "place"
+      },
+      {
+        "commons": "File:Saigon Notre-Dame Basilica 20190921-1.jpg",
+        "kind": "place"
+      },
+      {
+        "commons": "File:Ho Chi Minh City, Notre-Dame Basilica, 2020-01 CN-01.jpg",
+        "kind": "place"
+      }
+    ],
+    "wiki": "https://vi.wikipedia.org/wiki/Nh%C3%A0_th%E1%BB%9D_ch%C3%ADnh_t%C3%B2a_%C4%90%E1%BB%A9c_B%C3%A0_S%C3%A0i_G%C3%B2n",
+    "website": null,
+    "sources": [
+      "https://vi.wikipedia.org/wiki/Nh%C3%A0_th%E1%BB%9D_ch%C3%ADnh_t%C3%B2a_%C4%90%E1%BB%A9c_B%C3%A0_S%C3%A0i_G%C3%B2n",
+      "https://tuoitre.vn/trung-tu-nha-tho.html",
+      "https://nhadautu.vn/ngam-nha-tho-duc-ba-sai-gon-khoac-ao-moi-sang-ruc-ro-mua-giang-sinh-d91618.html",
+      "https://wanderlog.com/place/details/21654/"
+    ],
+    "status": "open",
+    "existing": true
+  },
+  {
+    "id": "hcmc-thao-cam-vien",
+    "name": "Thảo Cầm Viên Sài Gòn",
+    "cat": "nature",
+    "subtitle": "Vườn thú – vườn bách thảo lâu đời nhất Việt Nam (1864)",
+    "address": "2 Nguyễn Bỉnh Khiêm, Phường Bến Nghé, Quận 1",
+    "lat": 10.78805556,
+    "lng": 106.70472222,
+    "coordSource": "https://vi.wikipedia.org/wiki/Th%E1%BA%A3o_C%E1%BA%A7m_Vi%C3%AAn_S%C3%A0i_G%C3%B2n",
+    "price": "60.000đ (cao từ 1,3 m); 40.000đ (1–1,3 m); miễn phí dưới 1 m; tour đêm 200.000đ",
+    "hours": "07:00–17:00 hằng ngày; tour đêm tối thứ Bảy",
+    "mustTry": "Khu thú dữ giờ cho ăn (~15h), capybara, vườn lan – xương rồng, cây cổ thụ, Đền Hùng và Bảo tàng Lịch sử trong khuôn viên",
+    "desc_vi": "Thảo Cầm Viên được người Pháp lập năm 1864, là vườn thú lâu đời nhất Việt Nam, với hàng trăm cá thể động vật và hàng nghìn cây xanh, nhiều cây cổ thụ trăm tuổi. Năm 2025 vườn ra mắt đàn capybara và tour đêm 'Khi màn đêm buông xuống'.",
+    "review_vi": "Khen: khuôn viên rộng, nhiều cây xanh mát, phù hợp gia đình có trẻ nhỏ, có tàu điện và trò chơi. Chê: một số chuồng trại cũ, cần cải thiện; buổi trưa nóng và thú ít hoạt động.",
+    "rating": {
+      "value": 4.3,
+      "count": 36671,
+      "source": "Google (qua Wanderlog)",
+      "url": "https://wanderlog.com/place/details/523443/",
+      "seen": "2026-10"
+    },
+    "trending": false,
+    "tags": [
+      "Vườn thú",
+      "Gia đình",
+      "Cây xanh",
+      "Hợp với trẻ em"
+    ],
+    "tips_vi": "Mẹo: đi sáng sớm hoặc cuối chiều khi thú hoạt động nhiều; muốn chơi với capybara cần mua vé riêng (khoảng 50.000đ, giới hạn suất).",
+    "images": [
+      {
+        "commons": "File:Thao cam vien , Phuong Da kao, quan 1, tphcmvn - panoramio.jpg",
+        "kind": "place"
+      },
+      {
+        "commons": "File:Crowd in Saigon Zoo & Botanical Gardens.jpg",
+        "kind": "place"
+      }
+    ],
+    "wiki": "https://vi.wikipedia.org/wiki/Th%E1%BA%A3o_C%E1%BA%A7m_Vi%C3%AAn_S%C3%A0i_G%C3%B2n",
+    "website": "https://saigonzoo.vn/",
+    "sources": [
+      "https://vi.wikipedia.org/wiki/Th%E1%BA%A3o_C%E1%BA%A7m_Vi%C3%AAn_S%C3%A0i_G%C3%B2n",
+      "https://mia.vn/cam-nang-du-lich/thao-cam-vien-sai-gon-12439",
+      "https://wanderlog.com/place/details/523443/"
+    ],
+    "status": "open",
+    "existing": true
+  },
+  {
+    "id": "hcmc-cho-ben-thanh",
+    "name": "Chợ Bến Thành",
+    "cat": "market",
+    "subtitle": "Ngôi chợ biểu tượng hơn trăm năm của Sài Gòn",
+    "address": "Chợ Bến Thành, Phường Bến Thành, Quận 1",
+    "lat": 10.77252069,
+    "lng": 106.69801918,
+    "coordSource": "https://vi.wikipedia.org/wiki/Ch%E1%BB%A3_B%E1%BA%BFn_Th%C3%A0nh",
+    "price": "Vào cửa miễn phí",
+    "hours": "Chợ ngày 06:00–18:00; chợ đêm 18:00–22:00 hằng ngày",
+    "mustTry": "Tháp đồng hồ cửa Nam, khu ăn uống (bánh xèo, bún thịt nướng, kem bơ), áo dài, nón lá, cà phê, đồ thủ công",
+    "desc_vi": "Chợ Bến Thành hoàn thành năm 1914, với tháp đồng hồ cửa Nam là một biểu tượng của Sài Gòn. Bên trong có hàng nghìn sạp bán vải vóc, đồ lưu niệm, đặc sản và khu ăn uống; buổi tối các con đường bao quanh thành chợ đêm. Chợ vừa được chỉnh trang, sơn lại mặt ngoài trước Tết 2026.",
+    "review_vi": "Khen: không khí sầm uất, đủ loại hàng hóa và món ăn đường phố, trải nghiệm văn hóa chợ truyền thống. Chê: giá cho khách du lịch thường bị nói thách, một số tiểu thương chèo kéo; khu ăn uống giá cao hơn bên ngoài.",
+    "rating": {
+      "value": 4.0,
+      "count": 85411,
+      "source": "Google (qua Wanderlog)",
+      "url": "https://wanderlog.com/place/details/21653/",
+      "seen": "2026-10"
+    },
+    "trending": false,
+    "tags": [
+      "Chợ truyền thống",
+      "Biểu tượng Sài Gòn",
+      "Quà lưu niệm"
+    ],
+    "tips_vi": "Mẹo: mạnh dạn trả giá đồ lưu niệm, hỏi giá trước khi ăn; ga metro Bến Thành ngay trước chợ.",
+    "images": [
+      {
+        "commons": "File:Ben Thanh, Ciudad Ho Chi Minh, Vietnam, 2013-08-14, DD 01.JPG",
+        "kind": "place"
+      },
+      {
+        "commons": "File:Ben Thanh Market, 2023 (05).jpg",
+        "kind": "place"
+      }
+    ],
+    "wiki": "https://vi.wikipedia.org/wiki/Ch%E1%BB%A3_B%E1%BA%BFn_Th%C3%A0nh",
+    "website": null,
+    "sources": [
+      "https://vi.wikipedia.org/wiki/Ch%E1%BB%A3_B%E1%BA%BFn_Th%C3%A0nh",
+      "https://mia.vn/cam-nang-du-lich/kham-pha-cho-ben-thanh-12521",
+      "https://baomoi.com/Tag/Ch%E1%BB%A3-B%E1%BA%BFn-Th%C3%A0nh/trang12.epi",
+      "https://wanderlog.com/place/details/21653/"
+    ],
+    "status": "open",
+    "existing": true
+  },
+  {
+    "id": "hcmc-pho-di-bo-nguyen-hue",
+    "name": "Phố đi bộ Nguyễn Huệ",
+    "cat": "experience",
+    "subtitle": "Đại lộ đi bộ trung tâm, từ Trụ sở UBND thành phố ra sông Sài Gòn",
+    "address": "Đường Nguyễn Huệ, Phường Bến Nghé, Quận 1",
+    "lat": 10.774112,
+    "lng": 106.703619,
+    "coordSource": "https://en.wikipedia.org/wiki/Nguy%E1%BB%85n_Hu%E1%BB%87_Boulevard",
+    "price": "Miễn phí",
+    "hours": "Mở cả ngày; đông vui nhất buổi tối và cuối tuần",
+    "mustTry": "Tượng đài Bác Hồ trước Trụ sở UBND TP, nhạc nước, chung cư cà phê 42 Nguyễn Huệ, ngắm lễ hội – bắn pháo hoa dịp lễ",
+    "desc_vi": "Phố đi bộ Nguyễn Huệ khai trương năm 2015, trải dài khoảng 700 m từ Trụ sở UBND Thành phố ra bến Bạch Đằng. Đây là nơi tổ chức các sự kiện lớn, đường hoa Tết và đêm giao thừa, buổi tối có nghệ sĩ đường phố, nhảy múa và nhạc nước.",
+    "review_vi": "Khen: rộng, sạch, an toàn, đi dạo tối rất mát mẻ, nhiều quán cà phê và nhà hàng hai bên, không khí sôi động. Chê: ban ngày nắng gắt ít bóng mát; cuối tuần và dịp lễ rất đông.",
+    "rating": {
+      "value": 4.7,
+      "count": 1100,
+      "source": "Google (qua Wanderlog)",
+      "url": "https://wanderlog.com/place/details/5292/",
+      "seen": "2026-10"
+    },
+    "trending": false,
+    "tags": [
+      "Phố đi bộ",
+      "Miễn phí",
+      "Về đêm",
+      "Hợp với trẻ em"
+    ],
+    "tips_vi": "Mẹo: đến sau 18h khi trời dịu; dịp Tết có đường hoa Nguyễn Huệ rất đẹp.",
+    "images": [
+      {
+        "commons": "File:Nguyen Hue Street 2020.jpg",
+        "kind": "place"
+      },
+      {
+        "commons": "File:Ho Chi Minh City, Nguyen Hue Street, 2020-01 CN-01.jpg",
+        "kind": "place"
+      },
+      {
+        "commons": "File:Peoples' Committee building at the far end of Nguyen Hue walking street (32015783691).jpg",
+        "kind": "place"
+      }
+    ],
+    "wiki": "https://vi.wikipedia.org/wiki/%C4%90%C6%B0%E1%BB%9Dng_Nguy%E1%BB%85n_Hu%E1%BB%87,_Th%C3%A0nh_ph%E1%BB%91_H%E1%BB%93_Ch%C3%AD_Minh",
+    "website": null,
+    "sources": [
+      "https://en.wikipedia.org/wiki/Nguy%E1%BB%85n_Hu%E1%BB%87_Boulevard",
+      "https://wanderlog.com/place/details/5292/"
+    ],
+    "status": "open",
+    "existing": true
+  },
+  {
+    "id": "hcmc-dia-dao-cu-chi",
+    "name": "Địa đạo Củ Chi",
+    "cat": "sight",
+    "subtitle": "Hệ thống địa đạo dài khoảng 250 km – di tích quốc gia đặc biệt",
+    "address": "Khu Bến Dược: ấp Phú Hiệp, xã Phú Mỹ Hưng, huyện Củ Chi (khu Bến Đình: ấp Bến Đình, xã Nhuận Đức)",
+    "lat": 11.141591,
+    "lng": 106.461596,
+    "coordSource": "https://wanderlog.com/place/details/5278/",
+    "price": "Tham khảo: 35.000đ khách Việt Nam, 85.000đ khách nước ngoài; trẻ 7–16 tuổi, HS-SV giảm 50%; tour đêm 'Trăng chiến khu' 399.000đ",
+    "hours": "07:00–17:00 hằng ngày, kể cả Chủ nhật, Lễ Tết",
+    "mustTry": "Chui thử đoạn địa đạo, xem hầm chỉ huy, bếp Hoàng Cầm, bẫy chông, ăn khoai mì chấm muối mè",
+    "desc_vi": "Địa đạo Củ Chi là mạng lưới đường hầm nhiều tầng dài khoảng 250 km được đào trong thời kỳ kháng chiến, có hầm ở, bếp, kho, trạm phẫu thuật. Hai khu tham quan chính là Bến Dược (căn cứ Khu ủy Sài Gòn – Gia Định) và Bến Đình, cách trung tâm khoảng 50–70 km.",
+    "review_vi": "Khen: trải nghiệm sống động, hướng dẫn viên giải thích kỹ về cấu trúc hầm, bẫy và đời sống dưới lòng đất; được chui thử hầm rất ấn tượng. Chê: đường xa, mất gần nửa ngày; hầm chật, nóng, không hợp người sợ không gian kín; trường bắn ồn.",
+    "rating": {
+      "value": 4.6,
+      "count": 18100,
+      "source": "Google (qua Wanderlog)",
+      "url": "https://wanderlog.com/place/details/5278/",
+      "seen": "2026-10"
+    },
+    "trending": false,
+    "tags": [
+      "Di tích quốc gia đặc biệt",
+      "Lịch sử",
+      "Đi trong ngày"
+    ],
+    "tips_vi": "Mẹo: Bến Đình gần trung tâm hơn (khoảng 50 km), Bến Dược rộng và nguyên bản hơn; đi sáng sớm, mặc đồ thoải mái, mang nước và thuốc chống muỗi. Có thể đi tàu cao tốc trên sông Sài Gòn.",
+    "images": [
+      {
+        "commons": "File:Củ Chi tunnels entrance.JPG",
+        "kind": "place"
+      },
+      {
+        "commons": "File:Cu Chi Tunnels Vietnam war.jpg",
+        "kind": "place"
+      }
+    ],
+    "wiki": "https://vi.wikipedia.org/wiki/%C4%90%E1%BB%8Ba_%C4%91%E1%BA%A1o_C%E1%BB%A7_Chi",
+    "website": "http://diadaocuchi.com.vn/",
+    "sources": [
+      "https://en.wikipedia.org/wiki/C%E1%BB%A7_Chi_tunnels",
+      "https://mia.vn/cam-nang-du-lich/dia-dao-cu-chi-12466",
+      "https://www.greensm.com/vn-vi/news/dia-dao-cu-chi",
+      "https://wanderlog.com/place/details/5278/"
+    ],
+    "status": "open",
+    "existing": true
+  },
+  {
+    "id": "hcmc-suoi-tien",
+    "name": "Khu du lịch Văn hóa Suối Tiên",
+    "cat": "experience",
+    "subtitle": "Công viên chủ đề văn hóa – tâm linh lớn nhất TP.HCM",
+    "address": "120 Xa lộ Hà Nội, Phường Tân Phú, TP. Thủ Đức",
+    "lat": 10.861318,
+    "lng": 106.802985,
+    "coordSource": "https://vi.wikipedia.org/wiki/Khu_du_l%E1%BB%8Bch_V%C4%83n_h%C3%B3a_Su%E1%BB%91i_Ti%C3%AAn",
+    "price": "Tham khảo: vé cổng + xe lửa 180.000đ người lớn, 100.000đ trẻ em; vé cổng Biển Tiên Đồng 180.000đ/120.000đ",
+    "hours": "08:00–17:00 hằng ngày",
+    "mustTry": "Biển Tiên Đồng (biển nhân tạo), Thiên Đình, Long Phụng Hoàng Cung, Vương quốc cá sấu, Thủy cung, lễ hội trái cây Nam Bộ mùa hè",
+    "desc_vi": "Khu du lịch Văn hóa Suối Tiên rộng khoảng 105 ha bên Xa lộ Hà Nội, khởi đầu từ cuối thập niên 1980, kết hợp vui chơi giải trí với các công trình mang đậm truyền thuyết, tín ngưỡng Việt như Đền Hùng, tượng Phật, Lạc Long Quân – Âu Cơ. Nổi tiếng với biển nhân tạo Tiên Đồng, các nhà ma 'mười tám tầng địa ngục' và lễ hội trái cây Nam Bộ hằng năm.",
+    "review_vi": "Khen: độc đáo, đậm chất 'kitsch' Việt, nhiều công trình tượng to và trò chơi, phù hợp đi gia đình cả ngày. Chê: nhiều khu xuống cấp, cần bảo trì; mỗi trò tính tiền riêng nên dễ tốn kém; rộng, đi bộ nhiều.",
+    "rating": {
+      "value": 4.3,
+      "count": 22864,
+      "source": "Google (qua Wanderlog)",
+      "url": "https://wanderlog.com/place/details/1022284/",
+      "seen": "2026-10"
+    },
+    "trending": false,
+    "tags": [
+      "Công viên giải trí",
+      "Gia đình",
+      "Văn hóa – tâm linh",
+      "Hợp với trẻ em"
+    ],
+    "tips_vi": "Mẹo: đi metro số 1 đến ga Suối Tiên rồi đi bộ sang cổng, tránh kẹt xe Xa lộ Hà Nội; mua vé online trên trang chính thức thường có ưu đãi.",
+    "images": [
+      {
+        "commons": "File:SuoiTien1.JPG",
+        "kind": "place"
+      },
+      {
+        "commons": "File:July 2023 Suoi Tien Park 2.jpg",
+        "kind": "place"
+      }
+    ],
+    "wiki": "https://vi.wikipedia.org/wiki/Khu_du_l%E1%BB%8Bch_V%C4%83n_h%C3%B3a_Su%E1%BB%91i_Ti%C3%AAn",
+    "website": "https://suoitien.vn/",
+    "sources": [
+      "https://vi.wikipedia.org/wiki/Khu_du_l%E1%BB%8Bch_V%C4%83n_h%C3%B3a_Su%E1%BB%91i_Ti%C3%AAn",
+      "https://mia.vn/cam-nang-du-lich/cong-vien-van-hoa-suoi-tien-12467",
+      "https://vneconomy.vn/suoi-tien-tung-uu-dai-lon-khoi-dong-le-hoi-trai-cay-nam-bo-2026.htm",
+      "https://wanderlog.com/place/details/1022284/"
+    ],
+    "status": "open",
+    "existing": true
+  },
+  {
+    "id": "hcmc-dam-sen",
+    "name": "Công viên Văn hóa Đầm Sen",
+    "cat": "experience",
+    "subtitle": "Công viên giải trí lâu năm giữa lòng thành phố",
+    "address": "3 Hòa Bình, Phường 3, Quận 11",
+    "lat": 10.765879,
+    "lng": 106.638622,
+    "coordSource": "https://vi.wikipedia.org/wiki/C%C3%B4ng_vi%C3%AAn_V%C4%83n_h%C3%B3a_%C4%90%E1%BA%A7m_Sen",
+    "price": "Tham khảo: vé tham quan 160.000đ người lớn, 100.000đ trẻ em; vé trọn gói 300.000đ/220.000đ",
+    "hours": "Khoảng 07:30–18:00 ngày thường, đến 20:00 cuối tuần (giờ thay đổi theo mùa – kiểm tra trước)",
+    "mustTry": "Hồ Đầm Sen đạp vịt, tàu lượn, thủy cung, vườn chim, bánh xe Mặt Trời, Công viên nước Đầm Sen kế bên",
+    "desc_vi": "Công viên Văn hóa Đầm Sen ở Quận 11 bắt đầu đón khách từ năm 1983, rộng khoảng 50 ha với hồ nước và vườn cây chiếm phần lớn diện tích, là ký ức tuổi thơ của nhiều thế hệ người Sài Gòn. Bên trong có khoảng 30 khu vui chơi như monorail, múa rối nước, thủy cung, vườn hoa và các lễ hội theo mùa; ngay cạnh là Công viên nước Đầm Sen.",
+    "review_vi": "Khen: không gian xanh, hồ nước rộng, nhiều trò chơi cho gia đình, giá dễ chịu so với các khu vui chơi mới. Chê: một số trò chơi và công trình đã cũ; ngày lễ rất đông, xếp hàng lâu.",
+    "rating": null,
+    "trending": false,
+    "tags": [
+      "Công viên giải trí",
+      "Gia đình",
+      "Hợp với trẻ em"
+    ],
+    "tips_vi": "Mẹo: theo dõi fanpage để biết các dịp miễn phí vé cổng (ví dụ dịp lễ 2/9 năm 2026 miễn phí sau 18h); vé trọn gói không bao gồm xe điện.",
+    "images": [
+      {
+        "commons": "File:Hồ Đầm Sen.jpg",
+        "kind": "place"
+      },
+      {
+        "commons": "File:Dam Sen Park 20140816.jpg",
+        "kind": "place"
+      }
+    ],
+    "wiki": "https://vi.wikipedia.org/wiki/C%C3%B4ng_vi%C3%AAn_V%C4%83n_h%C3%B3a_%C4%90%E1%BA%A7m_Sen",
+    "website": null,
+    "sources": [
+      "https://vi.wikipedia.org/wiki/C%C3%B4ng_vi%C3%AAn_V%C4%83n_h%C3%B3a_%C4%90%E1%BA%A7m_Sen",
+      "https://mia.vn/cam-nang-du-lich/dam-sen-kho-13079",
+      "https://vinwonders.com/vi/wonderpedia/news/cong-vien-giai-tri-o-tphcm/",
+      "https://tienphong.vn/hang-nghin-nguoi-do-ve-dam-sen-vao-buoi-toi-post1872781.tpo",
+      "https://cafef.vn/cong-vien-van-hoa-dam-sen.html"
+    ],
+    "status": "open",
+    "existing": true
+  },
+  {
+    "trending": false,
+    "existing": false,
+    "status": "open",
+    "website": null,
+    "wiki": "https://vi.wikipedia.org/wiki/B%C6%B0u_%C4%91i%E1%BB%87n_S%C3%A0i_G%C3%B2n",
+    "images": [
+      {
+        "commons": "File:Saigon Central Post Office (52681461470).jpg",
+        "kind": "place"
+      },
+      {
+        "commons": "File:Interior of the Saigon Central Post Office 2014.jpg",
+        "kind": "place"
+      },
+      {
+        "commons": "File:20190923 Saigon Central Post Office interior-1.jpg",
+        "kind": "place"
+      }
+    ],
+    "tags": [
+      "Kiến trúc Pháp",
+      "Miễn phí",
+      "Check-in"
+    ],
+    "id": "hcmc-buu-dien-thanh-pho",
+    "name": "Bưu điện Thành phố (Bưu điện Sài Gòn)",
+    "cat": "sight",
+    "subtitle": "Bưu điện kiến trúc Pháp cuối thế kỷ 19 vẫn đang hoạt động",
+    "address": "02 Công xã Paris, Phường Bến Nghé, Quận 1",
+    "lat": 10.779884,
+    "lng": 106.699943,
+    "coordSource": "https://vi.wikipedia.org/wiki/B%C6%B0u_%C4%91i%E1%BB%87n_S%C3%A0i_G%C3%B2n",
+    "price": "Miễn phí",
+    "hours": "07:30–18:00 thứ Hai–thứ Bảy; 08:00–17:00 Chủ nhật",
+    "mustTry": "Mái vòm sắt cong sơn xanh, bản đồ Sài Gòn xưa vẽ tay trên tường, chân dung Bác Hồ, gửi bưu thiếp cho chính mình, quầy lưu niệm",
+    "desc_vi": "Bưu điện Sài Gòn được xây dựng cuối thế kỷ 19 theo thiết kế mang dấu ấn kiến trúc Pháp, nằm ngay cạnh Nhà thờ Đức Bà. Bên trong là sảnh lớn với mái vòm sắt, sàn gạch hoa và hai tấm bản đồ cổ vẽ tay, đến nay vẫn là bưu điện hoạt động bình thường.",
+    "review_vi": "Khen: kiến trúc thuộc địa đẹp như một bảo tàng, mái vòm và sàn gạch rất ăn ảnh, vào cửa miễn phí, gửi thư từ đây là trải nghiệm thú vị. Chê: rất đông khách đoàn, nhiều quầy hàng lưu niệm khiến không gian hơi thương mại.",
+    "rating": {
+      "value": 4.4,
+      "count": 5812,
+      "source": "Google (qua Wanderlog)",
+      "url": "https://wanderlog.com/place/details/2060540/",
+      "seen": "2026-10"
+    },
+    "tips_vi": "Mẹo: đi kết hợp Nhà thờ Đức Bà và đường sách Nguyễn Văn Bình (đều trong bán kính 100 m); đến sớm để chụp sảnh vắng người.",
+    "sources": [
+      "https://vi.wikipedia.org/wiki/B%C6%B0u_%C4%91i%E1%BB%87n_S%C3%A0i_G%C3%B2n",
+      "https://wanderlog.com/place/details/2060540/"
+    ]
+  },
+  {
+    "trending": false,
+    "existing": false,
+    "status": "open",
+    "website": null,
+    "wiki": "https://vi.wikipedia.org/wiki/Ch%C3%B9a_Ng%E1%BB%8Dc_Ho%C3%A0ng",
+    "images": [
+      {
+        "commons": "File:Jade Emperor Pagoda Saigon.jpg",
+        "kind": "place"
+      },
+      {
+        "commons": "File:Jade Emperor Pagoda - Altar.jpg",
+        "kind": "place"
+      },
+      {
+        "commons": "File:Jade Emperor Pagoda - Wood carving.jpg",
+        "kind": "place"
+      }
+    ],
+    "tags": [
+      "Tâm linh",
+      "Kiến trúc Hoa",
+      "Miễn phí"
+    ],
+    "id": "hcmc-chua-ngoc-hoang",
+    "name": "Chùa Ngọc Hoàng (Phước Hải Tự)",
+    "cat": "sight",
+    "subtitle": "Ngôi chùa – điện thờ Đạo giáo cổ kính đầu thế kỷ 20",
+    "address": "73 Mai Thị Lựu, Phường Đa Kao, Quận 1",
+    "lat": 10.79171111,
+    "lng": 106.69788889,
+    "coordSource": "https://en.wikipedia.org/wiki/Jade_Emperor_Pagoda",
+    "price": "Miễn phí (có thể công đức)",
+    "hours": "07:00–18:00 hằng ngày",
+    "mustTry": "Tượng Ngọc Hoàng, điện Kim Hoa Thánh Mẫu với các bà mụ, phù điêu gỗ chạm, hồ rùa phóng sinh trước sân",
+    "desc_vi": "Chùa Ngọc Hoàng do cộng đồng người Hoa xây dựng đầu thế kỷ 20, thờ Ngọc Hoàng Thượng Đế cùng nhiều vị thần Đạo giáo và Phật giáo. Không gian khói hương nghi ngút, tượng và hoành phi chạm khắc tinh xảo; ngôi chùa nổi tiếng thế giới sau chuyến thăm của Tổng thống Mỹ Barack Obama năm 2016.",
+    "review_vi": "Khen: không gian huyền bí, yên tĩnh giữa phố thị, tượng gỗ và phù điêu chạm khắc rất tinh xảo, vào cửa miễn phí. Chê: bên trong nhỏ, tối và nhiều khói nhang; ngày rằm, mùng một rất đông.",
+    "rating": {
+      "value": 4.7,
+      "count": 1996,
+      "source": "Google (qua Wanderlog)",
+      "url": "https://wanderlog.com/place/details/6583873/",
+      "seen": "2026-10"
+    },
+    "tips_vi": "Mẹo: ăn mặc kín đáo, giữ trật tự; tránh ngày rằm, mùng một nếu muốn tham quan thong thả.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Jade_Emperor_Pagoda",
+      "https://wanderlog.com/place/details/6583873/"
+    ]
+  },
+  {
+    "trending": false,
+    "existing": false,
+    "status": "open",
+    "website": null,
+    "wiki": null,
+    "images": [
+      {
+        "commons": "File:20190923 Thien Hau Temple front.jpg",
+        "kind": "place"
+      },
+      {
+        "commons": "File:Thien Hau Temple, Ho Chi Minh City PB309779.jpg",
+        "kind": "place"
+      },
+      {
+        "commons": "File:Incensories at Thien Hau Temple, Ho Chi Minh City, 2016.jpg",
+        "kind": "place"
+      }
+    ],
+    "tags": [
+      "Chợ Lớn",
+      "Văn hóa Hoa",
+      "Tâm linh"
+    ],
+    "id": "hcmc-chua-ba-thien-hau",
+    "name": "Chùa Bà Thiên Hậu (Hội quán Tuệ Thành)",
+    "cat": "sight",
+    "subtitle": "Miếu thờ Mazu cổ nhất Chợ Lớn",
+    "address": "710 Nguyễn Trãi, Phường 11, Quận 5",
+    "lat": 10.75325,
+    "lng": 106.661173,
+    "coordSource": "https://wanderlog.com/place/details/5288/",
+    "price": "Miễn phí",
+    "hours": "06:00–17:30 hằng ngày",
+    "mustTry": "Vòng nhang khoanh treo trên mái, tượng gốm Thạch Loan trên nóc, tượng Thiên Hậu Thánh Mẫu, lễ vía Bà rằm tháng Giêng",
+    "desc_vi": "Hội quán Tuệ Thành, thường gọi là Chùa Bà Thiên Hậu, do người Hoa gốc Quảng Đông xây dựng từ giữa thế kỷ 18 để thờ Thiên Hậu – nữ thần bảo hộ người đi biển. Đây là một trong những ngôi miếu cổ nhất Chợ Lớn, nổi bật với các vòng nhang khoanh khổng lồ và tượng gốm sặc sỡ trên mái.",
+    "review_vi": "Khen: kiến trúc Hoa cổ kính, chi tiết chạm khắc và tượng gốm trên mái rất đẹp, cho cái nhìn sâu về văn hóa người Hoa ở Chợ Lớn. Chê: đông người và khói nhang dày, không gian khá chật.",
+    "rating": {
+      "value": 4.6,
+      "count": 3543,
+      "source": "Google (qua Wanderlog)",
+      "url": "https://wanderlog.com/place/details/5288/",
+      "seen": "2026-10"
+    },
+    "tips_vi": "Mẹo: kết hợp dạo Chợ Lớn – Chợ Bình Tây và các hội quán trên đường Nguyễn Trãi, Lão Tử, Triệu Quang Phục trong nửa ngày.",
+    "sources": [
+      "https://wanderlog.com/place/details/5288/",
+      "https://commons.wikimedia.org/wiki/File:Thien_Hau_Temple,_Ho_Chi_Minh_City_PB309850.jpg"
+    ]
+  },
+  {
+    "trending": false,
+    "existing": false,
+    "status": "open",
+    "website": "http://baotangmythuattphcm.com.vn/",
+    "wiki": "https://vi.wikipedia.org/wiki/B%E1%BA%A3o_t%C3%A0ng_M%E1%BB%B9_thu%E1%BA%ADt_Th%C3%A0nh_ph%E1%BB%91_H%E1%BB%93_Ch%C3%AD_Minh",
+    "images": [
+      {
+        "commons": "File:Bảo tàng Mỹ thuật Tp (kiến trúc tổng thể) (2).jpg",
+        "kind": "place"
+      },
+      {
+        "commons": "File:Museum of Fine Arts, HCMC.jpg",
+        "kind": "place"
+      }
+    ],
+    "tags": [
+      "Bảo tàng",
+      "Kiến trúc Pháp – Hoa",
+      "Check-in"
+    ],
+    "id": "hcmc-bao-tang-my-thuat",
+    "name": "Bảo tàng Mỹ thuật TP.HCM",
+    "cat": "sight",
+    "subtitle": "Dinh thự của đại phú hộ Hui Bon Hoa (chú Hỏa) và kho tranh Việt",
+    "address": "97A Phó Đức Chính, Phường Nguyễn Thái Bình, Quận 1",
+    "lat": 10.770016,
+    "lng": 106.699186,
+    "coordSource": "https://wanderlog.com/place/details/14055244/",
+    "price": "30.000đ người lớn; 15.000đ học sinh, sinh viên; miễn phí trẻ dưới 6 tuổi",
+    "hours": "08:00–17:00 hằng ngày",
+    "mustTry": "Cầu thang xoắn, thang máy lồng sắt cổ, giếng trời kính màu, tranh sơn mài – lụa Việt Nam, điêu khắc Chăm – Óc Eo",
+    "desc_vi": "Bảo tàng nằm trong tòa dinh thự của đại phú hộ Hui Bon Hoa (chú Hỏa) xây đầu thế kỷ 20, kết hợp phong cách Pháp và Hoa với gạch men, kính màu và nhiều ô cửa. Bên trong trưng bày tranh sơn mài, sơn dầu, lụa của họa sĩ Việt cùng cổ vật điêu khắc; tòa nhà là điểm chụp ảnh được giới trẻ yêu thích.",
+    "review_vi": "Khen: kiến trúc thuộc địa vàng rực, cầu thang và gạch hoa cực kỳ ăn ảnh, bộ sưu tập tranh Việt đa dạng, giá vé rẻ. Chê: một số khu trưng bày bụi bặm, thiếu chú thích; nhiều người đến chủ yếu để chụp ảnh gây ồn.",
+    "rating": {
+      "value": 4.4,
+      "count": 843,
+      "source": "Google (qua Wanderlog)",
+      "url": "https://wanderlog.com/place/details/14055244/",
+      "seen": "2026-10"
+    },
+    "tips_vi": "Mẹo: cách chợ Bến Thành khoảng 5 phút đi bộ; đi buổi sáng ngày thường để chụp ảnh vắng người.",
+    "sources": [
+      "https://wanderlog.com/place/details/14055244/",
+      "https://mia.vn/cam-nang-du-lich/bao-tang-my-thuat-thanh-pho-ho-chi-minh-12419",
+      "https://www.greensm.com/vn-vi/news/bao-tang-my-thuat-tp-hcm"
+    ]
+  },
+  {
+    "trending": false,
+    "existing": false,
+    "status": "open",
+    "website": "https://luneproduction.com/",
+    "wiki": "https://vi.wikipedia.org/wiki/Nh%C3%A0_h%C3%A1t_Th%C3%A0nh_ph%E1%BB%91_H%E1%BB%93_Ch%C3%AD_Minh",
+    "images": [
+      {
+        "commons": "File:Saigon Opera House 2014.jpg",
+        "kind": "place"
+      },
+      {
+        "commons": "File:Ho Chi Minh City Opera House 07-11-2024.jpg",
+        "kind": "place"
+      }
+    ],
+    "tags": [
+      "Kiến trúc Pháp",
+      "Biểu diễn nghệ thuật"
+    ],
+    "id": "hcmc-nha-hat-thanh-pho",
+    "name": "Nhà hát Thành phố",
+    "cat": "sight",
+    "subtitle": "Nhà hát Opera kiểu Pháp năm 1900 – sân khấu À Ố Show",
+    "address": "07 Công trường Lam Sơn, Phường Bến Nghé, Quận 1",
+    "lat": 10.7767525,
+    "lng": 106.7032824,
+    "coordSource": "https://vi.wikipedia.org/wiki/Nh%C3%A0_h%C3%A1t_Th%C3%A0nh_ph%E1%BB%91_H%E1%BB%93_Ch%C3%AD_Minh",
+    "price": "Ngắm bên ngoài miễn phí; vé xem show tùy chương trình (À Ố Show tham khảo khoảng 630.000–1.470.000đ)",
+    "hours": "Theo lịch biểu diễn (các show thường diễn buổi tối khoảng 18:00)",
+    "mustTry": "Mặt tiền vòm cong và tượng trang trí, xem À Ố Show (xiếc tre đương đại) hoặc một đêm nhạc giao hưởng – ballet",
+    "desc_vi": "Nhà hát Thành phố (Nhà hát Lớn Sài Gòn) được người Pháp xây dựng và khánh thành năm 1900 theo phong cách kiến trúc Pháp cuối thế kỷ 19, nằm ở đầu đường Đồng Khởi. Hiện là nơi biểu diễn nhạc giao hưởng, ballet và các chương trình văn hóa như À Ố Show của Lune Production.",
+    "review_vi": "Khen: kiến trúc cổ điển tráng lệ, khán phòng nhung đỏ dát vàng sang trọng; À Ố Show được khen sáng tạo với đạo cụ tre và âm nhạc dân gian. Chê: chỉ vào được bên trong khi có vé xem biểu diễn; giá vé show khá cao.",
+    "rating": {
+      "value": 4.6,
+      "count": 18007,
+      "source": "Google (qua Wanderlog)",
+      "url": "https://wanderlog.com/place/details/5285/",
+      "seen": "2026-10"
+    },
+    "tips_vi": "Mẹo: đặt vé À Ố Show trước, nhất là cuối tuần; buổi tối mặt tiền lên đèn rất đẹp để chụp ảnh.",
+    "sources": [
+      "https://vi.wikipedia.org/wiki/Nh%C3%A0_h%C3%A1t_Th%C3%A0nh_ph%E1%BB%91_H%E1%BB%93_Ch%C3%AD_Minh",
+      "https://wanderlog.com/place/details/5285/",
+      "https://www.excursionmania.com/ttd/3579/a-o-show-lune-production-blg-3579",
+      "https://idctravel.com/blog/a-o-show.html"
+    ]
+  },
+  {
+    "trending": false,
+    "existing": false,
+    "status": "open",
+    "website": "http://www.giaoxutandinh.net/",
+    "wiki": "https://vi.wikipedia.org/wiki/Nh%C3%A0_th%E1%BB%9D_T%C3%A2n_%C4%90%E1%BB%8Bnh",
+    "images": [
+      {
+        "commons": "File:Tân Định Church 20190922.jpg",
+        "kind": "place"
+      },
+      {
+        "commons": "File:Tan Dinh Church 27 December 2020.jpg",
+        "kind": "place"
+      }
+    ],
+    "tags": [
+      "Check-in",
+      "Nhà thờ",
+      "Miễn phí"
+    ],
+    "id": "hcmc-nha-tho-tan-dinh",
+    "name": "Nhà thờ Tân Định (Nhà thờ hồng)",
+    "cat": "sight",
+    "subtitle": "Nhà thờ màu hồng nổi tiếng nhất Sài Gòn",
+    "address": "289 Hai Bà Trưng, Phường 8, Quận 3",
+    "lat": 10.78849952,
+    "lng": 106.69076148,
+    "coordSource": "https://vi.wikipedia.org/wiki/Nh%C3%A0_th%E1%BB%9D_T%C3%A2n_%C4%90%E1%BB%8Bnh",
+    "price": "Miễn phí",
+    "hours": "Khuôn viên mở khoảng 07:30–11:30 và 14:30–18:30 (thứ Ba–thứ Bảy); Chủ nhật theo giờ lễ",
+    "mustTry": "Chụp ảnh mặt tiền hồng phấn từ vỉa hè đối diện, tháp chuông cao, nội thất vòm sơn hồng – trắng",
+    "desc_vi": "Nhà thờ Tân Định (Thánh Tâm Chúa Giêsu) khánh thành năm 1876, là nhà thờ lớn thứ hai Sài Gòn sau Nhà thờ Đức Bà. Công trình pha trộn phong cách Roman, Gothic và Phục Hưng, nổi bật với màu hồng phấn toàn bộ, trở thành điểm check-in quen thuộc của du khách.",
+    "review_vi": "Khen: màu hồng độc đáo cực kỳ ăn ảnh, kiến trúc đẹp và nội thất trang nghiêm, vào cửa miễn phí. Chê: nằm trên đường Hai Bà Trưng đông xe nên khó chụp toàn cảnh; giờ mở cửa cho khách hạn chế, ngoài giờ lễ có thể chỉ ngắm bên ngoài.",
+    "rating": {
+      "value": 4.4,
+      "count": 9081,
+      "source": "Google (qua Wanderlog)",
+      "url": "https://wanderlog.com/place/details/5295/",
+      "seen": "2026-10"
+    },
+    "tips_vi": "Mẹo: chụp từ vỉa hè bên kia đường hoặc lầu các quán cà phê đối diện; ghé chợ Tân Định ngay cạnh.",
+    "sources": [
+      "https://vi.wikipedia.org/wiki/Nh%C3%A0_th%E1%BB%9D_T%C3%A2n_%C4%90%E1%BB%8Bnh",
+      "https://wanderlog.com/place/details/5295/",
+      "https://vinpearl.com/vi/lo-dien-nhung-dia-diem-dang-hot-o-sai-gon-duoc-check-in-nhieu-nhat"
+    ]
+  },
+  {
+    "trending": false,
+    "existing": false,
+    "status": "open",
+    "website": "https://hcmc-museum.edu.vn/",
+    "wiki": "https://vi.wikipedia.org/wiki/B%E1%BA%A3o_t%C3%A0ng_Th%C3%A0nh_ph%E1%BB%91_H%E1%BB%93_Ch%C3%AD_Minh",
+    "images": [
+      {
+        "commons": "File:Bảo tàng Thành phố Hồ Chí Minh 7.jpg",
+        "kind": "place"
+      }
+    ],
+    "tags": [
+      "Bảo tàng",
+      "Kiến trúc Pháp",
+      "Check-in"
+    ],
+    "id": "hcmc-bao-tang-thanh-pho",
+    "name": "Bảo tàng Thành phố Hồ Chí Minh (Dinh Gia Long)",
+    "cat": "sight",
+    "subtitle": "Dinh thự cổ – điểm chụp ảnh cưới kinh điển",
+    "address": "65 Lý Tự Trọng, Phường Bến Nghé, Quận 1",
+    "lat": 10.77611111,
+    "lng": 106.69972222,
+    "coordSource": "https://vi.wikipedia.org/wiki/B%E1%BA%A3o_t%C3%A0ng_Th%C3%A0nh_ph%E1%BB%91_H%E1%BB%93_Ch%C3%AD_Minh",
+    "price": "30.000đ/người; phí chụp ảnh 20.000đ/máy; học sinh giảm 50%",
+    "hours": "08:00–17:00 hằng ngày",
+    "mustTry": "Sảnh và cầu thang đá kiểu Pháp, các phòng trưng bày lịch sử – văn hóa Sài Gòn, khu xe tăng – máy bay trong sân",
+    "desc_vi": "Tòa nhà được người Pháp xây cuối thế kỷ 19 làm bảo tàng thương mại, sau đó từng là dinh Thống đốc Nam Kỳ và Dinh Gia Long. Hiện là Bảo tàng Thành phố với các trưng bày về lịch sử, văn hóa Sài Gòn; kiến trúc cổ điển khiến nơi đây là điểm chụp ảnh cưới nổi tiếng.",
+    "review_vi": "Khen: kiến trúc Pháp tuyệt đẹp, không gian yên tĩnh, hiện vật và ảnh tư liệu giúp hiểu thêm về thành phố. Chê: một số khu trưng bày cũ, thiếu đầu tư; ngày đẹp trời nhiều cặp đôi chụp ảnh cưới chiếm chỗ.",
+    "rating": {
+      "value": 4.2,
+      "count": 3202,
+      "source": "Google (qua Wanderlog)",
+      "url": "https://wanderlog.com/place/details/2126470/",
+      "seen": "2026-10"
+    },
+    "tips_vi": "Mẹo: cách Dinh Độc Lập và phố đi bộ Nguyễn Huệ chỉ vài phút đi bộ; mang theo phí chụp ảnh nếu dùng máy ảnh.",
+    "sources": [
+      "https://vi.wikipedia.org/wiki/B%E1%BA%A3o_t%C3%A0ng_Th%C3%A0nh_ph%E1%BB%91_H%E1%BB%93_Ch%C3%AD_Minh",
+      "https://wanderlog.com/place/details/2126470/",
+      "https://www.vietnamairlines.com/ca/vi/plan-book/travel/travel-guide/museum-in-ho-chi-minh"
+    ]
+  },
+  {
+    "trending": false,
+    "existing": false,
+    "status": "open",
+    "website": "https://baotangaodai.com.vn/",
+    "wiki": null,
+    "images": [],
+    "tags": [
+      "Bảo tàng",
+      "Áo dài",
+      "Ngoại ô",
+      "Hợp với trẻ em"
+    ],
+    "id": "hcmc-bao-tang-ao-dai",
+    "name": "Bảo tàng Áo dài",
+    "cat": "experience",
+    "subtitle": "Không gian vườn quê lưu giữ lịch sử chiếc áo dài",
+    "address": "206/19/30 Long Thuận, Phường Long Phước, Quận 9 (TP. Thủ Đức)",
+    "lat": 10.808792,
+    "lng": 106.853175,
+    "coordSource": "https://wanderlog.com/place/details/145437/",
+    "price": "Tham khảo: 50.000đ người lớn; 30.000đ học sinh, sinh viên, trẻ em",
+    "hours": "08:30–17:30 (một số nguồn ghi nghỉ thứ Hai – nên gọi trước)",
+    "mustTry": "Bộ sưu tập áo dài qua các thời kỳ, áo dài của các nhân vật nổi tiếng, mặc thử áo dài chụp ảnh giữa vườn và nhà cổ",
+    "desc_vi": "Bảo tàng Áo dài do nhà thiết kế Sĩ Hoàng sáng lập, nằm trong khu vườn xanh mát ở Long Phước với kiến trúc nhà gỗ truyền thống. Nơi đây trưng bày hàng trăm chiếc áo dài từ xưa đến nay, kể câu chuyện về trang phục biểu tượng của phụ nữ Việt.",
+    "review_vi": "Khen: không gian vườn quê yên bình, trưng bày công phu, được mặc thử áo dài chụp ảnh rất thích. Chê: xa trung tâm (khoảng 1 giờ di chuyển); một số khu cần bảo trì.",
+    "rating": {
+      "value": 4.4,
+      "count": 1436,
+      "source": "Google (qua Wanderlog)",
+      "url": "https://wanderlog.com/place/details/145437/",
+      "seen": "2026-10"
+    },
+    "tips_vi": "Mẹo: đến trước 16:30 để có đủ thời gian tham quan; nên đi xe công nghệ vì đường vào hẻm khá khó tìm.",
+    "sources": [
+      "https://wanderlog.com/place/details/145437/",
+      "https://mia.vn/cam-nang-du-lich/bao-tang-ao-dai-13081",
+      "https://vinwonders.com/vi/wonderpedia/news/bao-tang-ao-dai-tphcm/",
+      "https://www.greensm.com/vn-vi/news/bao-tang-ao-dai",
+      "https://thesaigontimes.vn/saigontimes/bao-tang-ao-dai-gin-giu-van-hoa-co-truyen-hoa-cung-dac-trung-song-nuoc/"
+    ]
+  },
+  {
+    "trending": false,
+    "existing": false,
+    "status": "open",
+    "website": null,
+    "wiki": null,
+    "images": [],
+    "tags": [
+      "Nghệ thuật dân gian",
+      "Biểu diễn",
+      "Gia đình",
+      "Hợp với trẻ em"
+    ],
+    "id": "hcmc-mua-roi-nuoc-rong-vang",
+    "name": "Nhà hát Múa rối nước Rồng Vàng",
+    "cat": "experience",
+    "subtitle": "Xem múa rối nước truyền thống giữa trung tâm Quận 1",
+    "address": "55B Nguyễn Thị Minh Khai, Phường Bến Thành, Quận 1",
+    "lat": 10.77626,
+    "lng": 106.692537,
+    "coordSource": "https://wanderlog.com/place/details/5290/",
+    "price": "Tham khảo 350.000đ/vé (theo nguồn cập nhật 30/9/2026; giá qua đại lý có thể khác)",
+    "hours": "Suất diễn 18:30 hằng ngày, khoảng 45–50 phút (kiểm tra lịch trước)",
+    "mustTry": "Các tích trò dân gian: múa rồng, đánh cá, Chú Tễu, rước kiệu, cùng dàn nhạc dân tộc và hát chèo trực tiếp",
+    "desc_vi": "Nhà hát Rồng Vàng trong khuôn viên Cung Văn hóa Lao động là nơi biểu diễn múa rối nước – loại hình nghệ thuật dân gian độc đáo của đồng bằng Bắc Bộ. Các con rối gỗ sơn son thếp vàng được nghệ nhân điều khiển dưới mặt nước, kể chuyện đời sống làng quê và truyền thuyết Việt.",
+    "review_vi": "Khen: nghệ thuật độc đáo, con rối tinh xảo, phần nhạc sống hay, hài hước dễ hiểu kể cả với khách nước ngoài. Chê: ghế ngồi khá chật, nội dung ngắn; ngồi xa sân khấu khó xem rõ.",
+    "rating": {
+      "value": 4.4,
+      "count": 2211,
+      "source": "Google (qua Wanderlog)",
+      "url": "https://wanderlog.com/place/details/5290/",
+      "seen": "2026-10"
+    },
+    "tips_vi": "Mẹo: đặt vé trước và đến sớm 15–20 phút để chọn ghế gần; nằm ngay cạnh Dinh Độc Lập nên có thể đi chung lịch trình.",
+    "sources": [
+      "https://wanderlog.com/place/details/5290/",
+      "https://www.vietjetair.com/vi/diem-den/thanh-pho-ho-chi-minh/nha-hat-mua-roi-nuoc-rong-vang",
+      "https://wanderon.in/international-trips/vietnam/water-puppet-show-in-ho-chi-minh",
+      "https://www.pelago.com/en-GB/activity/p3yq5-golden-dragon-water-puppet-show-ho-chi-minh-city/"
+    ]
+  },
+  {
+    "trending": false,
+    "existing": false,
+    "status": "open",
+    "website": "https://chobinhtay.gov.vn/",
+    "wiki": "https://vi.wikipedia.org/wiki/Ch%E1%BB%A3_B%C3%ACnh_T%C3%A2y",
+    "images": [
+      {
+        "commons": "File:Vn-hcm-cho-binh-tay-27-07-07.JPG",
+        "kind": "place"
+      },
+      {
+        "commons": "File:Binh Tay market 5.jpg",
+        "kind": "place"
+      }
+    ],
+    "tags": [
+      "Chợ Lớn",
+      "Chợ truyền thống",
+      "Kiến trúc Hoa"
+    ],
+    "rating": {
+      "value": 4.4,
+      "count": 6415,
+      "source": "Google (qua Wanderlog)",
+      "url": "https://wanderlog.com/place/details/555828/",
+      "seen": "2026-10"
+    },
+    "id": "hcmc-cho-binh-tay",
+    "name": "Chợ Bình Tây",
+    "cat": "market",
+    "subtitle": "Chợ đầu mối lớn nhất Chợ Lớn, kiến trúc Hoa – Pháp",
+    "address": "57A Tháp Mười, Phường 2, Quận 6",
+    "lat": 10.749375,
+    "lng": 106.651078,
+    "coordSource": "https://vi.wikipedia.org/wiki/Ch%E1%BB%A3_B%C3%ACnh_T%C3%A2y",
+    "price": "Vào cửa miễn phí",
+    "hours": "Khoảng 07:00–18:00 (nhiều sạp sỉ mở từ sáng sớm)",
+    "mustTry": "Sân giữa có tượng ông Quách Đàm, tháp đồng hồ và mái ngói kiểu Hoa, khu bánh mứt – đồ khô, gia vị, đồ gia dụng giá sỉ",
+    "desc_vi": "Chợ Bình Tây khai trương ngày 28/9/1928 bằng tiền của thương gia người Hoa Quách Đàm, là trái tim buôn bán của Chợ Lớn với khoảng 1.400 sạp, chủ yếu bán sỉ. Kiến trúc kết hợp mái ngói cong kiểu Hoa với kết cấu Pháp, có sân trong và tháp đồng hồ; chợ được trùng tu toàn diện và mở cửa lại tháng 11/2018.",
+    "review_vi": "Khen: đậm chất địa phương, ít 'du lịch hóa' hơn Bến Thành, giá rẻ, hàng hóa cực đa dạng và nhiều món ăn vặt ngon quanh chợ. Chê: lối đi chật, đông và nóng; nhiều sạp chỉ bán sỉ, không hợp mua lẻ ít.",
+    "tips_vi": "Mẹo: đi buổi sáng để thấy chợ nhộn nhịp nhất; kết hợp tham quan Chùa Bà Thiên Hậu và các hội quán Quận 5.",
+    "sources": [
+      "https://vi.wikipedia.org/wiki/Ch%E1%BB%A3_B%C3%ACnh_T%C3%A2y",
+      "https://wanderlog.com/place/details/555828/"
+    ]
+  },
+  {
+    "trending": false,
+    "existing": false,
+    "status": "open",
+    "website": null,
+    "wiki": "https://vi.wikipedia.org/wiki/Ch%E1%BB%A3_T%C3%A2n_%C4%90%E1%BB%8Bnh",
+    "images": [
+      {
+        "commons": "File:Cho Tan dinh , duong hai ba trung, quan 1, tphcmvn - panoramio.jpg",
+        "kind": "place"
+      },
+      {
+        "commons": "File:Cho Tan Dinh- xuan 2015 - panoramio.jpg",
+        "kind": "place"
+      }
+    ],
+    "tags": [
+      "Chợ truyền thống",
+      "Vải vóc"
+    ],
+    "rating": {
+      "value": 4.2,
+      "count": 10246,
+      "source": "Google (qua Wanderlog)",
+      "url": "https://wanderlog.com/place/details/145436/",
+      "seen": "2026-10"
+    },
+    "id": "hcmc-cho-tan-dinh",
+    "name": "Chợ Tân Định",
+    "cat": "market",
+    "subtitle": "Thiên đường vải vóc và đồ khô cạnh nhà thờ hồng",
+    "address": "314–336 Hai Bà Trưng, Phường Tân Định, Quận 1",
+    "lat": 10.789904,
+    "lng": 106.689996,
+    "coordSource": "https://vi.wikipedia.org/wiki/Ch%E1%BB%A3_T%C3%A2n_%C4%90%E1%BB%8Bnh",
+    "price": "Vào cửa miễn phí",
+    "hours": "Khoảng 06:00–18:00",
+    "mustTry": "Dãy sạp vải, lụa, gấm; đồ khô – hạt – trái cây sấy; quầy ăn uống trong chợ; chụp mặt tiền chợ thời Pháp",
+    "desc_vi": "Chợ Tân Định khánh thành năm 1927, với mặt tiền kiểu Pháp ba tháp chuông trên đường Hai Bà Trưng, nằm gần Nhà thờ Tân Định. Chợ nổi tiếng nhất với khu vải vóc (kể cả vải tồn giá rẻ), ngoài ra có thực phẩm tươi, đồ khô và khu ăn uống bình dân.",
+    "review_vi": "Khen: chợ địa phương đúng nghĩa, vải đẹp và đa dạng, đồ khô và hạt ngon, dễ đi lại, tiểu thương thân thiện. Chê: bên trong khá chật và nóng, giá vải cho khách lạ có thể bị nói thách.",
+    "tips_vi": "Mẹo: kết hợp chụp ảnh Nhà thờ Tân Định cách vài bước chân; muốn may áo dài có thể mua vải ở đây rồi đặt may tại các tiệm quanh chợ.",
+    "sources": [
+      "https://vi.wikipedia.org/wiki/Ch%E1%BB%A3_T%C3%A2n_%C4%90%E1%BB%8Bnh",
+      "https://wanderlog.com/place/details/145436/"
+    ]
+  },
+  {
+    "trending": false,
+    "existing": false,
+    "status": "open",
+    "website": "https://www.facebook.com/chohoahothikyquan10",
+    "wiki": null,
+    "images": [
+      {
+        "commons": "File:20180413 190400Saigon Hotpot Night Food Tour Ho Thi Ky Flower Market.jpg",
+        "kind": "place"
+      }
+    ],
+    "tags": [
+      "Chợ hoa",
+      "Check-in",
+      "Về đêm"
+    ],
+    "rating": {
+      "value": 4.4,
+      "count": 8416,
+      "source": "Google (qua Wanderlog)",
+      "url": "https://wanderlog.com/place/details/1000815/",
+      "seen": "2026-10"
+    },
+    "id": "hcmc-cho-hoa-ho-thi-ky",
+    "name": "Chợ hoa Hồ Thị Kỷ",
+    "cat": "market",
+    "subtitle": "Chợ hoa sỉ lớn nhất Sài Gòn, gần như mở suốt ngày đêm",
+    "address": "Hẻm 52 Hồ Thị Kỷ, Phường 1, Quận 10",
+    "lat": 10.76539,
+    "lng": 106.677005,
+    "coordSource": "https://wanderlog.com/place/details/1000815/",
+    "price": "Miễn phí vào cửa; hoa giá sỉ rất rẻ",
+    "hours": "Mở gần như 24/24; tấp nập nhất sáng sớm và buổi tối",
+    "mustTry": "Dạo con hẻm ngập hoa hồng, cúc, lan, hướng dương, hoa nhập khẩu; mua bó hoa giá sỉ; chụp ảnh giữa sắc hoa",
+    "desc_vi": "Chợ hoa Hồ Thị Kỷ nằm trong con hẻm nhỏ ở Quận 10, là đầu mối hoa tươi lớn của thành phố với hoa từ Đà Lạt, miền Tây và nhập khẩu. Con hẻm rực rỡ sắc màu cả ngày lẫn đêm, nằm sát khu ẩm thực Hồ Thị Kỷ nổi tiếng.",
+    "review_vi": "Khen: hoa tươi, đa dạng, giá rẻ hơn nhiều so với tiệm, không khí nhộn nhịp và rất ăn ảnh. Chê: hẻm hẹp, xe máy chạy vào nên khá chen chúc; mặt đất ẩm ướt.",
+    "tips_vi": "Mẹo: đi buổi tối để kết hợp ăn vặt ở phố ẩm thực Hồ Thị Kỷ ngay cạnh; trước các dịp lễ (14/2, 8/3, 20/10) chợ rất đông.",
+    "sources": [
+      "https://wanderlog.com/place/details/1000815/"
+    ]
+  },
+  {
+    "trending": false,
+    "existing": false,
+    "status": "open",
+    "website": "http://shopping.saigoncentre.com.vn/",
+    "wiki": "https://vi.wikipedia.org/wiki/Saigon_Centre",
+    "images": [
+      {
+        "commons": "File:Ho Chi Minh City, Saigon Centre, 2020-01 CN-01.jpg",
+        "kind": "place"
+      }
+    ],
+    "tags": [
+      "Trung tâm thương mại",
+      "Cao cấp",
+      "Quận 1"
+    ],
+    "rating": {
+      "value": 4.5,
+      "count": 19596,
+      "source": "Google (qua Wanderlog)",
+      "url": "https://wanderlog.com/place/details/145419/",
+      "seen": "2026-10"
+    },
+    "id": "hcmc-saigon-centre-takashimaya",
+    "name": "Saigon Centre – Takashimaya",
+    "cat": "shopping",
+    "subtitle": "Trung tâm thương mại cao cấp với bách hóa Nhật Takashimaya",
+    "address": "65 Lê Lợi, Phường Bến Nghé, Quận 1",
+    "lat": 10.773087,
+    "lng": 106.70079,
+    "coordSource": "https://vi.wikipedia.org/wiki/Saigon_Centre",
+    "price": "Miễn phí vào cửa",
+    "hours": "09:30–21:30 (cuối tuần đến 22:00)",
+    "mustTry": "Bách hóa Takashimaya, khu ẩm thực tầng hầm, thương hiệu thời trang quốc tế, nhà hàng Nhật – Hàn",
+    "desc_vi": "Saigon Centre là tổ hợp văn phòng – thương mại cao tầng trên đường Lê Lợi, nơi có bách hóa Takashimaya đầu tiên tại Việt Nam. Trung tâm tập trung nhiều thương hiệu từ bình dân đến cao cấp cùng khu ẩm thực đa dạng, chỉ cách chợ Bến Thành vài bước.",
+    "review_vi": "Khen: sạch sẽ, sang trọng, bố trí khoa học, nhiều lựa chọn từ phổ thông đến cao cấp; khu ẩm thực Nhật – Hàn ngon. Chê: giá cao; cuối tuần đông khách.",
+    "tips_vi": "Mẹo: ga metro Bến Thành và Nhà hát Thành phố đều gần; tầng hầm có lối ăn uống mát mẻ để nghỉ chân giữa buổi dạo Quận 1.",
+    "sources": [
+      "https://vi.wikipedia.org/wiki/Saigon_Centre",
+      "https://wanderlog.com/place/details/145419/",
+      "https://www.openstreetmap.org/node/4516349194"
+    ]
+  },
+  {
+    "trending": false,
+    "existing": false,
+    "status": "open",
+    "website": "https://vincom.com.vn/vincom-center-dong-khoi",
+    "wiki": null,
+    "images": [
+      {
+        "commons": "File:Ho Chi Minh City, Vincom Center, 2020-01 CN-01.jpg",
+        "kind": "place"
+      },
+      {
+        "commons": "File:Ho Chi Minh City, Vincom Center, 2020-01 CN-02.jpg",
+        "kind": "place"
+      }
+    ],
+    "tags": [
+      "Trung tâm thương mại",
+      "Quận 1",
+      "Hợp với trẻ em"
+    ],
+    "rating": {
+      "value": 4.5,
+      "count": 13240,
+      "source": "Google (qua Wanderlog)",
+      "url": "https://wanderlog.com/place/details/1760395/",
+      "seen": "2026-10"
+    },
+    "id": "hcmc-vincom-dong-khoi",
+    "name": "Vincom Center Đồng Khởi",
+    "cat": "shopping",
+    "subtitle": "Trung tâm thương mại sầm uất nhất phố Đồng Khởi",
+    "address": "72 Lê Thánh Tôn, Phường Bến Nghé, Quận 1",
+    "lat": 10.778343,
+    "lng": 106.701555,
+    "coordSource": "https://wanderlog.com/place/details/1760395/",
+    "price": "Miễn phí vào cửa",
+    "hours": "09:30–22:00 hằng ngày",
+    "mustTry": "Hơn 250 thương hiệu quốc tế, rạp chiếu phim, khu ẩm thực tầng hầm, sân trượt băng cho trẻ em",
+    "desc_vi": "Vincom Center Đồng Khởi nằm ở góc Lê Thánh Tôn – Đồng Khởi, giữa khu mua sắm sầm uất nhất Quận 1. Tòa nhà có nhiều tầng thương mại với thương hiệu thời trang quốc tế, rạp phim, khu vui chơi và ẩm thực.",
+    "review_vi": "Khen: vị trí trung tâm, rộng rãi, nhiều thương hiệu lớn, khu ẩm thực đa dạng, có chỗ chơi cho trẻ. Chê: giá cao, cuối tuần đông; nhiều thương hiệu trùng với các trung tâm khác.",
+    "tips_vi": "Mẹo: đi bộ dọc Đồng Khởi – Lê Thánh Tôn để kết hợp ngắm Nhà hát Thành phố, khách sạn Continental và các cửa hàng thời trang.",
+    "sources": [
+      "https://wanderlog.com/place/details/1760395/"
+    ]
+  },
+  {
+    "trending": false,
+    "existing": false,
+    "status": "open",
+    "website": "http://crescentmall.com.vn/",
+    "wiki": "https://vi.wikipedia.org/wiki/Crescent_Mall",
+    "images": [
+      {
+        "commons": "File:Crescent Mall 2.jpg",
+        "kind": "place"
+      },
+      {
+        "commons": "File:Crescent Mall, Tan phong, q7 tphcm. Phu my hung - panoramio.jpg",
+        "kind": "place"
+      }
+    ],
+    "tags": [
+      "Trung tâm thương mại",
+      "Phú Mỹ Hưng",
+      "Gia đình",
+      "Hợp với trẻ em"
+    ],
+    "rating": {
+      "value": 4.5,
+      "count": 18381,
+      "source": "Google (qua Wanderlog)",
+      "url": "https://wanderlog.com/place/details/145435/",
+      "seen": "2026-10"
+    },
+    "id": "hcmc-crescent-mall",
+    "name": "Crescent Mall",
+    "cat": "shopping",
+    "subtitle": "Trung tâm thương mại hình trăng khuyết bên hồ Phú Mỹ Hưng",
+    "address": "101 Tôn Dật Tiên, Phường Tân Phú, Quận 7",
+    "lat": 10.72872222,
+    "lng": 106.71685278,
+    "coordSource": "https://vi.wikipedia.org/wiki/Crescent_Mall",
+    "price": "Miễn phí vào cửa",
+    "hours": "10:00–22:00 hằng ngày",
+    "mustTry": "Thương hiệu tầm trung như MUJI, Nike; phòng leo núi trong nhà; nhà hàng Nhật; dạo hồ Bán Nguyệt và cầu Ánh Sao ngay cạnh",
+    "desc_vi": "Crescent Mall nằm trong khu đô thị Phú Mỹ Hưng, Quận 7 với thiết kế cong mềm mại hướng ra hồ Bán Nguyệt. Trung tâm có nhiều thương hiệu thời trang, siêu thị, rạp phim và ẩm thực, là điểm mua sắm – dạo chơi quen thuộc của người dân phía Nam thành phố.",
+    "review_vi": "Khen: thoáng đãng, sạch sẽ, nhiều nhà hàng và quán cà phê, cảnh hồ bên ngoài đẹp để đi dạo buổi tối. Chê: xa trung tâm Quận 1, thương hiệu không quá cao cấp.",
+    "tips_vi": "Mẹo: đi buổi chiều tối để kết hợp đi bộ qua cầu Ánh Sao và công viên hồ Bán Nguyệt lên đèn.",
+    "sources": [
+      "https://vi.wikipedia.org/wiki/Crescent_Mall",
+      "https://wanderlog.com/place/details/145435/"
+    ]
+  },
+  {
+    "trending": false,
+    "existing": false,
+    "status": "open",
+    "website": null,
+    "wiki": null,
+    "images": [],
+    "tags": [
+      "Mua sắm bình dân",
+      "Trả giá"
+    ],
+    "rating": {
+      "value": 4.1,
+      "count": 9266,
+      "source": "Google (qua Wanderlog)",
+      "url": "https://wanderlog.com/place/details/737129/",
+      "seen": "2026-10"
+    },
+    "id": "hcmc-saigon-square",
+    "name": "Saigon Square",
+    "cat": "shopping",
+    "subtitle": "Khu mua sắm bình dân giá mềm giữa Quận 1",
+    "address": "77–89 Nam Kỳ Khởi Nghĩa, Phường Bến Thành, Quận 1",
+    "lat": 10.772704,
+    "lng": 106.700209,
+    "coordSource": "https://wanderlog.com/place/details/737129/",
+    "price": "Miễn phí vào cửa; hàng bình dân, trả giá được",
+    "hours": "09:00–21:00 hằng ngày",
+    "mustTry": "Quần áo, giày dép, túi xách, đồng hồ, đồ du lịch giá rẻ; ba lô, vali",
+    "desc_vi": "Saigon Square là khu mua sắm nhiều kiot nhỏ bán quần áo, giày dép, phụ kiện giá bình dân, quen thuộc với khách du lịch và giới trẻ. Tháng 5/2025 lực lượng chức năng truy quét hàng giả nhãn hiệu tại đây khiến nhiều kiot từng đóng cửa; trung tâm vẫn hoạt động nhưng một phần sạp có thể không mở.",
+    "review_vi": "Khen: giá mềm, bố trí gọn hơn chợ, tiểu thương ít chèo kéo, có thể trả giá. Chê: nhiều hàng nhái thương hiệu, chất lượng không đồng đều; sau đợt truy quét nhiều kiot đóng cửa.",
+    "tips_vi": "Mẹo: mạnh dạn trả giá và kiểm tra kỹ chất lượng trước khi mua; tránh mua hàng giả nhãn hiệu.",
+    "sources": [
+      "https://wanderlog.com/place/details/737129/",
+      "https://nhadautu.vn/cao-diem-hang-gia-khong-nhan-ra-saigon-square-cho-ben-thanh-d96835.html",
+      "https://znews.vn/saigon-square-khac-la-post1568015.html"
+    ]
+  },
+  {
+    "trending": false,
+    "existing": false,
+    "status": "open",
+    "website": "https://vi-vn.facebook.com/Thenewplayground.vn",
+    "wiki": null,
+    "images": [],
+    "tags": [
+      "Local brand",
+      "Thời trang trẻ"
+    ],
+    "rating": {
+      "value": 4.3,
+      "count": 1675,
+      "source": "Google (qua Wanderlog)",
+      "url": "https://wanderlog.com/place/details/474726/",
+      "seen": "2026-10"
+    },
+    "id": "hcmc-the-new-playground",
+    "name": "The New Playground",
+    "cat": "shopping",
+    "subtitle": "Khu mua sắm ngầm của thời trang local brand",
+    "address": "Tầng hầm, 26 Lý Tự Trọng, Phường Bến Nghé, Quận 1",
+    "lat": 10.778219,
+    "lng": 106.701092,
+    "coordSource": "https://wanderlog.com/place/details/474726/",
+    "price": "Miễn phí vào cửa",
+    "hours": "10:00–22:00 hằng ngày",
+    "mustTry": "Streetwear và local brand Việt, phụ kiện, đồ gốm – đồ trang trí nhà cửa",
+    "desc_vi": "The New Playground là khu mua sắm dưới tầng hầm tòa nhà 26 Lý Tự Trọng, tập trung nhiều thương hiệu thời trang trẻ, streetwear và local brand Việt. Không gian hiện đại, là nơi giới trẻ Sài Gòn săn đồ độc, đồ theo xu hướng.",
+    "review_vi": "Khen: không gian trẻ trung, nhiều thương hiệu Việt độc đáo, phong cách đa dạng. Chê: chất lượng không đồng đều giữa các shop, giá local brand không rẻ; chủ yếu phù hợp người thích thời trang trẻ.",
+    "tips_vi": "Mẹo: đi kết hợp Vincom Đồng Khởi và phố Lê Thánh Tôn gần đó.",
+    "sources": [
+      "https://wanderlog.com/place/details/474726/"
+    ]
+  },
+  {
+    "trending": false,
+    "existing": false,
+    "status": "open",
+    "website": "https://duongsachtphcm.com/",
+    "wiki": null,
+    "images": [],
+    "tags": [
+      "Văn hóa đọc",
+      "Miễn phí",
+      "Check-in",
+      "Hợp với trẻ em"
+    ],
+    "rating": {
+      "value": 4.6,
+      "count": 11815,
+      "source": "Google (qua Wanderlog)",
+      "url": "https://wanderlog.com/place/details/5293/",
+      "seen": "2026-10"
+    },
+    "id": "hcmc-duong-sach-nguyen-van-binh",
+    "name": "Đường sách Nguyễn Văn Bình",
+    "cat": "shopping",
+    "subtitle": "Con đường sách rợp bóng cây cạnh Nhà thờ Đức Bà",
+    "address": "Đường Nguyễn Văn Bình, Phường Bến Nghé, Quận 1",
+    "lat": 10.780963,
+    "lng": 106.700073,
+    "coordSource": "https://wanderlog.com/place/details/5293/",
+    "price": "Miễn phí",
+    "hours": "08:00–21:00 hằng ngày",
+    "mustTry": "Các gian sách của nhà xuất bản, sách cũ – sách ngoại văn, bưu thiếp, cà phê sách giữa phố",
+    "desc_vi": "Đường sách TP.HCM khai trương năm 2016 trên con đường Nguyễn Văn Bình dài khoảng 100 m nối Nhà thờ Đức Bà với đường Lý Tự Trọng. Hai bên là khoảng 20 gian sách của các nhà xuất bản, công ty phát hành, xen lẫn quán cà phê dưới hàng cây.",
+    "review_vi": "Khen: không gian xanh mát, yên bình giữa trung tâm, sách đa dạng kể cả ngoại văn và sách cũ, nhiều góc chụp ảnh. Chê: khá ngắn, giá sách không rẻ hơn hiệu sách; cuối tuần đông.",
+    "tips_vi": "Mẹo: đi kết hợp Nhà thờ Đức Bà và Bưu điện Thành phố; cuối tuần thường có giao lưu tác giả, ra mắt sách.",
+    "sources": [
+      "https://wanderlog.com/place/details/5293/"
+    ]
+  },
+  {
+    "trending": false,
+    "existing": false,
+    "status": "open",
+    "website": null,
+    "wiki": null,
+    "images": [
+      {
+        "commons": "File:Aeon-mall-celadon-tan-phu.jpg",
+        "kind": "place"
+      }
+    ],
+    "tags": [
+      "Trung tâm thương mại",
+      "Gia đình",
+      "Nhật Bản",
+      "Hợp với trẻ em"
+    ],
+    "rating": {
+      "value": 4.5,
+      "count": 54142,
+      "source": "Google (qua Wanderlog)",
+      "url": "https://wanderlog.com/place/details/1760347/",
+      "seen": "2026-10"
+    },
+    "id": "hcmc-aeon-mall-tan-phu",
+    "name": "AEON Mall Tân Phú Celadon",
+    "cat": "shopping",
+    "subtitle": "Đại trung tâm thương mại Nhật cho cả gia đình",
+    "address": "30 Bờ Bao Tân Thắng, Phường Sơn Kỳ, Quận Tân Phú",
+    "lat": 10.801615,
+    "lng": 106.617374,
+    "coordSource": "https://wanderlog.com/place/details/1760347/",
+    "price": "Miễn phí vào cửa",
+    "hours": "Khoảng 09:00–22:00 hằng ngày",
+    "mustTry": "Siêu thị AEON, khu ẩm thực mỗi tầng, khu vui chơi trẻ em, sảnh trang trí theo mùa",
+    "desc_vi": "AEON Mall Tân Phú Celadon là trung tâm thương mại lớn đầu tiên của tập đoàn AEON (Nhật Bản) tại TP.HCM, nằm trong khu đô thị Celadon City. Nơi đây có siêu thị, hàng trăm cửa hàng, rạp phim và nhiều khu ăn uống, vui chơi cho gia đình.",
+    "review_vi": "Khen: rộng, sạch, phục vụ chu đáo kiểu Nhật, nhiều đồ ăn và hoạt động cho trẻ, sảnh trang trí theo chủ đề đổi liên tục. Chê: xa trung tâm, cuối tuần rất đông và khó tìm chỗ gửi xe.",
+    "tips_vi": "Mẹo: đi ngày thường để tránh đông; khu ẩm thực có nhiều món Nhật giá hợp lý.",
+    "sources": [
+      "https://wanderlog.com/place/details/1760347/"
+    ]
+  },
+  {
+    "trending": false,
+    "existing": false,
+    "status": "open",
+    "website": null,
+    "wiki": null,
+    "images": [],
+    "tags": [
+      "Trung tâm thương mại",
+      "Thủ Thiêm",
+      "Hợp với trẻ em"
+    ],
+    "rating": null,
+    "id": "hcmc-thiso-mall-sala",
+    "name": "Thiso Mall Sala",
+    "cat": "shopping",
+    "subtitle": "Trung tâm thương mại mới ở khu đô thị Sala – Thủ Thiêm",
+    "address": "10 Mai Chí Thọ, Phường Thủ Thiêm, Quận 2 (TP. Thủ Đức)",
+    "lat": null,
+    "lng": null,
+    "coordSource": null,
+    "price": "Miễn phí vào cửa",
+    "hours": "08:00–22:00 (theo mia.vn 12/2024)",
+    "mustTry": "Siêu thị E-Mart, MUJI, Uniqlo, rạp Galaxy, Pizza 4P's, khu vui chơi trẻ em; dạo khu Sala và công viên bờ sông Thủ Thiêm gần đó",
+    "desc_vi": "Thiso Mall Sala do THISO (thuộc THACO) vận hành, khai trương cuối năm 2022 trong khu đô thị Sala, Thủ Thiêm, với một tầng hầm và bốn tầng nổi. Trung tâm có siêu thị E-Mart, nhiều thương hiệu thời trang – gia dụng, rạp phim và chuỗi nhà hàng, thu hút đông gia đình cuối tuần.",
+    "review_vi": "Khen: không gian mới, rộng rãi, nhiều thương hiệu và nhà hàng, có E-Mart tiện mua đồ Hàn, nhiều khu vui chơi trẻ em. Chê: xa trung tâm Quận 1 hơn các trung tâm thương mại khác, cuối tuần và mùa lễ rất đông.",
+    "tips_vi": "Mẹo: đi buổi chiều rồi qua công viên bờ sông Sài Gòn (Thủ Thiêm) ngắm hoàng hôn và đường chân trời Quận 1.",
+    "sources": [
+      "https://mia.vn/cam-nang-du-lich/kham-pha-thiso-mall-sala-17401",
+      "https://thitruongtaichinhtiente.vn/hon-1-trieu-khach-hang-mua-sam-tai-thiso-mall-dip-cuoi-nam-64969.html",
+      "https://mekongasean.vn/thiso-diem-sang-tren-thi-truong-ban-le-23821.html"
+    ]
+  },
+  {
+    "trending": false,
+    "existing": false,
+    "status": "open",
+    "website": null,
+    "wiki": null,
+    "images": [
+      {
+        "commons": "File:42 Nguyen Hue Boulevard, Saigon (53547606514).jpg",
+        "kind": "place"
+      }
+    ],
+    "tags": [
+      "Check-in",
+      "View phố đi bộ",
+      "Biểu tượng mới"
+    ],
+    "rating": {
+      "value": 4.4,
+      "count": 1601,
+      "source": "Google (qua Wanderlog)",
+      "url": "https://wanderlog.com/place/details/11206043/",
+      "seen": "2026-10"
+    },
+    "id": "hcmc-cafe-chung-cu-42-nguyen-hue",
+    "name": "Chung cư cà phê 42 Nguyễn Huệ",
+    "cat": "cafe",
+    "subtitle": "Tòa chung cư cũ biến thành 'chung cư cà phê' nổi tiếng",
+    "address": "42 Nguyễn Huệ, Phường Bến Nghé, Quận 1",
+    "lat": 10.774059,
+    "lng": 106.704167,
+    "coordSource": "https://wanderlog.com/place/details/11206043/",
+    "price": "Giá đồ uống tùy quán; thang máy thu một khoản phí nhỏ",
+    "hours": "Khoảng 08:00–24:00 (mỗi quán giờ riêng)",
+    "mustTry": "Chọn quán ban công tầng cao nhìn xuống phố đi bộ Nguyễn Huệ, chụp ảnh mặt tiền nhiều tầng biển hiệu, các shop thời trang – quà tặng bên trong",
+    "desc_vi": "Tòa chung cư cũ nằm ngay trên phố đi bộ Nguyễn Huệ, nay hầu hết căn hộ đã thành quán cà phê, trà, tiệm quần áo và quà lưu niệm trải trên khoảng tám tầng. Mặt tiền chi chít biển hiệu là một trong những khung hình check-in nổi tiếng nhất Sài Gòn.",
+    "review_vi": "Khen: độc đáo, mỗi tầng một phong cách, ban công view phố đi bộ rất đẹp nhất là buổi tối. Chê: cầu thang cũ, chật và hơi tối; thang máy tính phí; giá đồ uống cao hơn mặt bằng chung, cuối tuần đông.",
+    "tips_vi": "Mẹo: chụp toàn cảnh mặt tiền từ phía bên kia phố đi bộ; lên buổi tối để ngắm Nguyễn Huệ lên đèn.",
+    "sources": [
+      "https://wanderlog.com/place/details/11206043/"
+    ]
+  },
+  {
+    "trending": false,
+    "existing": false,
+    "status": "open",
+    "website": "http://www.facebook.com/the.workshop.coffee",
+    "wiki": null,
+    "images": [],
+    "tags": [
+      "Specialty coffee",
+      "Làm việc"
+    ],
+    "rating": {
+      "value": 4.4,
+      "count": 4103,
+      "source": "Google (qua Wanderlog)",
+      "url": "https://wanderlog.com/place/details/422889/",
+      "seen": "2026-10"
+    },
+    "id": "hcmc-the-workshop-coffee",
+    "name": "The Workshop Coffee",
+    "cat": "cafe",
+    "subtitle": "Quán specialty coffee tiên phong của Sài Gòn",
+    "address": "Tầng 3, 27 Ngô Đức Kế, Phường Bến Nghé, Quận 1",
+    "lat": 10.773476,
+    "lng": 106.705604,
+    "coordSource": "https://wanderlog.com/place/details/422889/",
+    "price": null,
+    "hours": "08:00–20:30 hằng ngày",
+    "mustTry": "Cà phê pha thủ công (pour-over, siphon) từ hạt đặc sản, quầy bar pha chế ở giữa phòng, đồ ăn sáng – brunch",
+    "desc_vi": "The Workshop nằm trên tầng 3 một tòa nhà cũ trên đường Ngô Đức Kế, là một trong những quán cà phê đặc sản (specialty) lâu năm và nổi tiếng nhất Sài Gòn. Không gian kiểu xưởng công nghiệp, trần cao, cửa sổ lớn và quầy pha chế đặt chính giữa để khách xem barista làm việc.",
+    "review_vi": "Khen: cà phê chất lượng cao, barista am hiểu và tư vấn tận tình, không gian rộng nhiều ánh sáng, phù hợp làm việc. Chê: giá cao hơn quán thường; phải leo cầu thang, giờ cao điểm khó tìm chỗ.",
+    "tips_vi": "Mẹo: hỏi barista gợi ý hạt theo khẩu vị; đi buổi sáng ngày thường để có chỗ ngồi cạnh cửa sổ.",
+    "sources": [
+      "https://wanderlog.com/place/details/422889/",
+      "https://freakingnomads.com/workspace/the-workshop-coffee"
+    ]
+  },
+  {
+    "trending": false,
+    "existing": false,
+    "status": "open",
+    "website": "https://congcaphe.com/",
+    "wiki": null,
+    "images": [],
+    "tags": [
+      "Chuỗi cà phê Việt",
+      "Phong cách bao cấp",
+      "Cà phê dừa"
+    ],
+    "rating": {
+      "value": 4.4,
+      "count": 1039,
+      "source": "Google (qua Wanderlog)",
+      "url": "https://wanderlog.com/place/details/2743408/",
+      "seen": "2026-10"
+    },
+    "id": "hcmc-cong-ca-phe-suong-nguyet-anh",
+    "name": "Cộng Cà Phê (Sương Nguyệt Anh)",
+    "cat": "cafe",
+    "subtitle": "Chuỗi cà phê phong cách bao cấp nổi tiếng",
+    "address": "136 Sương Nguyệt Anh, Phường Bến Thành, Quận 1",
+    "lat": 10.770771,
+    "lng": 106.687911,
+    "coordSource": "https://wanderlog.com/place/details/2743408/",
+    "price": null,
+    "hours": "07:00–23:00 hằng ngày",
+    "mustTry": "Cốt dừa cà phê (cà phê dừa), bạc xỉu, không gian đồ cũ thời bao cấp, nhân viên mặc đồng phục kiểu quân phục",
+    "desc_vi": "Cộng Cà Phê là chuỗi quán Việt nổi tiếng với phong cách thời bao cấp: tường xanh rêu, bàn ghế gỗ cũ, radio, phích nước và đồng phục kiểu bộ đội. Món cốt dừa cà phê của Cộng được nhiều du khách quốc tế tìm đến như một đặc sản.",
+    "review_vi": "Khen: không gian hoài cổ đặc trưng, cà phê dừa ngon, có trà đá miễn phí, nhân viên thân thiện. Chê: giá cao hơn quán cóc; các chi nhánh trung tâm thường đông và ồn.",
+    "tips_vi": "Mẹo: Cộng có nhiều chi nhánh khắp thành phố; chọn chi nhánh gần lịch trình của bạn và đi ngoài giờ cao điểm để có chỗ ngồi đẹp.",
+    "sources": [
+      "https://wanderlog.com/place/details/2743408/"
+    ]
+  },
+  {
+    "trending": false,
+    "existing": false,
+    "status": "open",
+    "website": "https://www.facebook.com/okkiocaffe/",
+    "wiki": null,
+    "images": [],
+    "tags": [
+      "Specialty coffee",
+      "Quán ẩn",
+      "Gần chợ Bến Thành"
+    ],
+    "rating": {
+      "value": 4.6,
+      "count": 1284,
+      "source": "Google (qua Wanderlog)",
+      "url": "https://wanderlog.com/place/details/1082375/",
+      "seen": "2026-10"
+    },
+    "id": "hcmc-okkio-le-loi",
+    "name": "Okkio Caffe (Lê Lợi)",
+    "cat": "cafe",
+    "subtitle": "Quán specialty ẩn sau cầu thang xoắn đỏ",
+    "address": "120–122 Lê Lợi, Phường Bến Thành, Quận 1",
+    "lat": 10.77252,
+    "lng": 106.698958,
+    "coordSource": "https://wanderlog.com/place/details/1082375/",
+    "price": null,
+    "hours": "07:30–20:00 hằng ngày",
+    "mustTry": "Cà phê trứng, các món pha thủ công, chụp ảnh cầu thang xoắn đỏ ở lối lên",
+    "desc_vi": "Okkio là quán cà phê nằm ẩn trong tòa nhà cũ trên đường Lê Lợi, lối lên bằng chiếc cầu thang xoắn sơn đỏ rất ăn ảnh. Quán nổi tiếng với cà phê trứng và các món pha chất lượng trong không gian ấm cúng, nhạc hay, gần chợ Bến Thành.",
+    "review_vi": "Khen: cà phê ngon, cà phê trứng đặc biệt, nhạc hay, không gian yên tĩnh và nhân viên nhiệt tình. Chê: khó tìm lối vào, chỗ ngồi không nhiều nên giờ cao điểm hơi chật.",
+    "tips_vi": "Mẹo: tìm cầu thang xoắn đỏ trong hẻm/tòa nhà số 120 Lê Lợi; tiện ghé sau khi dạo chợ Bến Thành.",
+    "sources": [
+      "https://wanderlog.com/place/details/1082375/"
+    ]
+  },
+  {
+    "trending": false,
+    "existing": false,
+    "status": "open",
+    "website": "http://www.saigoncoffeeroastery.com/",
+    "wiki": null,
+    "images": [],
+    "tags": [
+      "Specialty coffee",
+      "Hạt Việt",
+      "Trong hẻm"
+    ],
+    "rating": {
+      "value": 4.5,
+      "count": 814,
+      "source": "Google (qua Wanderlog)",
+      "url": "https://wanderlog.com/place/details/1410269/",
+      "seen": "2026-10"
+    },
+    "id": "hcmc-saigon-coffee-roastery",
+    "name": "Saigon Coffee Roastery",
+    "cat": "cafe",
+    "subtitle": "Nhà rang cà phê đặc sản trong con hẻm Quận 3",
+    "address": "232/13 Võ Thị Sáu, Phường Võ Thị Sáu, Quận 3",
+    "lat": 10.782349,
+    "lng": 106.685258,
+    "coordSource": "https://wanderlog.com/place/details/1410269/",
+    "price": null,
+    "hours": "07:00–18:00 (một số ngày đến 22:00)",
+    "mustTry": "Cà phê phin và pour-over từ hạt Việt tự rang, bữa sáng nhẹ, mua hạt rang mang về",
+    "desc_vi": "Saigon Coffee Roastery là quán kiêm xưởng rang nằm sâu trong hẻm Võ Thị Sáu, chuyên hạt cà phê đặc sản Việt Nam. Không gian nhà cũ có sân vườn nhỏ, yên tĩnh, được giới mê cà phê và khách làm việc từ xa yêu thích.",
+    "review_vi": "Khen: cà phê đặc sản xuất sắc, bữa sáng ngon, không gian ấm cúng, nhạc dễ chịu, phù hợp làm việc. Chê: ít món chay; khu sân vườn đôi khi có khách hút thuốc.",
+    "tips_vi": "Mẹo: mua một túi hạt rang làm quà; đi buổi sáng để thưởng thức không khí yên tĩnh nhất.",
+    "sources": [
+      "https://wanderlog.com/place/details/1410269/"
+    ]
+  },
+  {
+    "trending": false,
+    "existing": false,
+    "status": "open",
+    "website": "http://lusinespace.com/",
+    "wiki": null,
+    "images": [],
+    "tags": [
+      "Brunch",
+      "Concept store",
+      "Quà thiết kế"
+    ],
+    "rating": {
+      "value": 4.6,
+      "count": 3408,
+      "source": "Google (qua Wanderlog)",
+      "url": "https://wanderlog.com/place/details/35472/",
+      "seen": "2026-10"
+    },
+    "id": "hcmc-lusine-le-thanh-ton",
+    "name": "L'Usine Lê Thánh Tôn",
+    "cat": "cafe",
+    "subtitle": "Café – brunch kiêm cửa hàng thiết kế phong cách Âu",
+    "address": "19 Lê Thánh Tôn, Phường Bến Nghé, Quận 1",
+    "lat": 10.779659,
+    "lng": 106.703996,
+    "coordSource": "https://wanderlog.com/place/details/35472/",
+    "price": null,
+    "hours": "07:30–21:30 hằng ngày",
+    "mustTry": "Brunch (hash brown cá hồi, trứng chần), kombucha, góc concept store bán đồ thiết kế – thời trang – quà tặng",
+    "desc_vi": "L'Usine là thương hiệu café – lifestyle store nổi tiếng của Sài Gòn, kết hợp quán cà phê phong cách Âu với cửa hàng đồ thiết kế, thời trang và quà tặng. Chi nhánh Lê Thánh Tôn nằm trong tòa nhà cổ ở trung tâm Quận 1.",
+    "review_vi": "Khen: món brunch ngon, đồ uống đa dạng, không gian sáng sủa sang trọng, phục vụ tốt; góc bán đồ thiết kế để săn quà. Chê: giá cao so với mặt bằng chung, cuối tuần đông.",
+    "tips_vi": "Mẹo: ghé buổi sáng để ăn brunch rồi dạo tiếp các cửa hàng trên Lê Thánh Tôn, Đồng Khởi.",
+    "sources": [
+      "https://wanderlog.com/place/details/35472/"
+    ]
+  },
+  {
+    "trending": false,
+    "existing": false,
+    "status": "open",
+    "website": "https://www.lacaph.com/",
+    "wiki": null,
+    "images": [],
+    "tags": [
+      "Workshop cà phê",
+      "Trải nghiệm",
+      "Văn hóa cà phê Việt"
+    ],
+    "rating": {
+      "value": 5.0,
+      "count": 8001,
+      "source": "Google (qua Wanderlog)",
+      "url": "https://wanderlog.com/place/details/1122203/",
+      "seen": "2026-10"
+    },
+    "id": "hcmc-lacaph-coffee",
+    "name": "Lacàph Coffee Experiences Space",
+    "cat": "cafe",
+    "subtitle": "Không gian trải nghiệm và workshop cà phê Việt",
+    "address": "220 Nguyễn Công Trứ, Phường Nguyễn Thái Bình, Quận 1",
+    "lat": 10.767974,
+    "lng": 106.700435,
+    "coordSource": "https://wanderlog.com/place/details/1122203/",
+    "price": null,
+    "hours": "07:30–19:30 hằng ngày",
+    "mustTry": "Workshop tự pha cà phê phin, cà phê muối, cà phê trứng, cà phê sữa chua; cà phê lá dứa",
+    "desc_vi": "Lacàph là thương hiệu cà phê Việt có không gian trải nghiệm tại Quận 1, nơi khách có thể tham gia các lớp ngắn học cách pha cà phê phin, cà phê trứng, cà phê muối và hiểu về văn hóa cà phê Việt Nam. Quán có điểm đánh giá rất cao từ khách quốc tế.",
+    "review_vi": "Khen: workshop thú vị, hướng dẫn viên thân thiện và am hiểu, đồ uống sáng tạo (cà phê lá dứa, cà phê trứng), hợp làm quà trải nghiệm. Chê: giá workshop không rẻ, thường phải đặt trước vì đông khách nước ngoài.",
+    "tips_vi": "Mẹo: đặt lịch workshop trước qua website; mua cà phê Lacàph làm quà mang về.",
+    "sources": [
+      "https://wanderlog.com/place/details/1122203/"
+    ]
+  },
+  {
+    "trending": false,
+    "existing": false,
+    "status": "unverified",
+    "website": null,
+    "wiki": null,
+    "images": [
+      {
+        "commons": "File:Net-filter coffee in Cheo Leo Café, Ho Chi Minh City.jpg",
+        "kind": "place"
+      },
+      {
+        "commons": "File:Making net-filter coffee at Cheo Leo Café, Ho Chi Minh City.jpg",
+        "kind": "place"
+      }
+    ],
+    "tags": [
+      "Cà phê vợt",
+      "Sài Gòn xưa",
+      "Quán lâu đời"
+    ],
+    "rating": null,
+    "id": "hcmc-cafe-vot-cheo-leo",
+    "name": "Cà phê vợt Cheo Leo",
+    "cat": "cafe",
+    "subtitle": "Quán cà phê vợt được xem là lâu đời nhất Sài Gòn (từ cuối thập niên 1930)",
+    "address": "109/36 Nguyễn Thiện Thuật, Phường 2, Quận 3",
+    "lat": 10.766905,
+    "lng": 106.679803,
+    "coordSource": "https://www.openstreetmap.org/node/6215109985",
+    "price": "Khoảng 15.000–25.000đ/ly (tham khảo)",
+    "hours": "Khoảng 05:15–18:45 (theo Foody – nên kiểm tra lại)",
+    "mustTry": "Cà phê vợt pha bằng túi vải nấu trên lò than, cà phê sữa đá kiểu xưa, ngồi ghế đẩu trong hẻm",
+    "desc_vi": "Cheo Leo là quán cà phê vợt gia truyền trong một con hẻm Quận 3, mở từ cuối thập niên 1930 và được truyền qua ba thế hệ. Cà phê được lọc bằng vợt vải, nước sôi nấu trên lò than, giữ nguyên hương vị Sài Gòn xưa.",
+    "review_vi": "Khen: hương vị cà phê xưa đậm đà, giá rẻ, không khí hẻm Sài Gòn chân thật, có câu chuyện gia đình thú vị. Chê: quán nhỏ, ghế thấp, không gian đơn sơ; khó tìm trong hẻm.",
+    "tips_vi": "Mẹo: đi buổi sáng sớm để thấy cảnh pha cà phê bên lò than; chưa có xác nhận hoạt động mới nhất năm 2025–2026, nên kiểm tra trước khi đến.",
+    "sources": [
+      "https://www.openstreetmap.org/node/6215109985",
+      "https://www.foody.vn/ho-chi-minh/cheo-leo-cafe",
+      "https://saigoneer.com/saigon-street-food-restaurants/13232-video-h%E1%BA%BBm-gems-80-years-of-c%C3%A0-ph%C3%AA-v%E1%BB%A3t-in-saigon-s-oldest-cafe",
+      "https://plo.vn/sau-gian-cach-tiem-ca-phe-vot-lau-doi-nhat-sai-gon-lai-dong-duc-khach-post657353.html",
+      "https://tablejourney.com/vietnam/ho-chi-minh-city/hidden-gems/"
+    ]
+  },
+  {
+    "trending": true,
+    "existing": false,
+    "status": "open",
+    "website": null,
+    "wiki": null,
+    "images": [],
+    "tags": [
+      "Hot TikTok 2026",
+      "Cà phê phin",
+      "Check-in"
+    ],
+    "rating": null,
+    "id": "hcmc-ca-phe-dac-phuc",
+    "name": "Cà phê Đắc Phúc",
+    "cat": "cafe",
+    "subtitle": "Quán cà phê phin ly bọc giấy vàng chữ Hán gây sốt mạng xã hội 2026",
+    "address": "45 Huỳnh Mẫn Đạt, Quận Bình Thạnh (nay thuộc phường Thạnh Mỹ Tây)",
+    "lat": null,
+    "lng": null,
+    "coordSource": null,
+    "price": "Khoảng 20.000–35.000đ/ly",
+    "hours": "07:00–12:00 hằng ngày (chỉ bán buổi sáng)",
+    "mustTry": "Cà phê phin pha chậm truyền thống trong ly bọc giấy vàng in chữ Hán cầu tài lộc, decor kiểu Hoa cổ, chú vịt vàng khổng lồ trên mái",
+    "desc_vi": "Quán nhỏ chỉ 6–7 bàn bất ngờ nổi tiếng trên mạng xã hội giữa năm 2026 nhờ chiếc ly bọc giấy vàng in chữ Hán – loại giấy cầu may của người Hoa. Chủ quán pha phin thủ công, rót nước nhiều lần; quán từng phải tạm đóng đầu tháng 7/2026 vì quá đông rồi mở lại với nhân sự tăng cường.",
+    "review_vi": "Khen: cà phê phin đậm đà, giá rẻ so với chất lượng, ly và không gian rất lạ mắt để check-in. Chê: quán nhỏ, thường phải xếp hàng và mang đi; chỉ mở buổi sáng.",
+    "tips_vi": "Mẹo: đến sớm (trước 9h) và ngày thường để tránh xếp hàng; quán đóng cửa lúc trưa.",
+    "sources": [
+      "https://znews.vn/khach-van-xep-hang-check-in-quan-ca-phe-phu-chu-noi-tieng-tphcm-post1668599.html",
+      "https://mia.vn/cam-nang-du-lich/ca-phe-dac-phuc-sai-gon-21064"
+    ]
+  },
+  {
+    "trending": false,
+    "existing": false,
+    "status": "open",
+    "website": "http://www.chillsaigon.com/",
+    "wiki": null,
+    "images": [],
+    "tags": [
+      "Rooftop bar",
+      "Về đêm",
+      "View 360°"
+    ],
+    "rating": {
+      "value": 4.4,
+      "count": 5380,
+      "source": "Google (qua Wanderlog)",
+      "url": "https://wanderlog.com/place/details/116862/",
+      "seen": "2026-10"
+    },
+    "id": "hcmc-chill-skybar",
+    "name": "Chill Skybar",
+    "cat": "nightlife",
+    "subtitle": "Rooftop bar sôi động bậc nhất trung tâm Quận 1",
+    "address": "Tầng thượng AB Tower, 76A Lê Lai, Phường Bến Thành, Quận 1",
+    "lat": 10.770565,
+    "lng": 106.694378,
+    "coordSource": "https://wanderlog.com/place/details/116862/",
+    "price": null,
+    "hours": "17:30–01:30 hằng ngày",
+    "mustTry": "Cocktail ngắm toàn cảnh trung tâm về đêm, DJ và không khí tiệc, các đêm sự kiện – giao thừa",
+    "desc_vi": "Chill Skybar nằm trên tầng thượng tòa AB Tower cạnh công viên 23/9, là một trong những rooftop bar nổi tiếng nhất Sài Gòn với tầm nhìn 360° ra trung tâm thành phố. Về đêm quán chuyển sang không khí tiệc với DJ, đông khách quốc tế.",
+    "review_vi": "Khen: view đẹp, nhạc sôi động, cocktail ngon, nhân viên phục vụ nhiệt tình; các đêm lễ, giao thừa rất náo nhiệt. Chê: giá đồ uống cao, cuối tuần đông và ồn; trải nghiệm phục vụ không đồng đều tùy hôm.",
+    "tips_vi": "Mẹo: đến trước 19h để có chỗ đẹp và ngắm hoàng hôn; nên ăn mặc lịch sự; đặt bàn trước vào cuối tuần.",
+    "sources": [
+      "https://wanderlog.com/place/details/116862/"
+    ]
+  },
+  {
+    "trending": false,
+    "existing": false,
+    "status": "open",
+    "website": "https://www.hoteldesartssaigon.com/restaurants-bars/social-club-rooftop-bar",
+    "wiki": null,
+    "images": [],
+    "tags": [
+      "Rooftop bar",
+      "Sang trọng",
+      "Ngắm hoàng hôn"
+    ],
+    "rating": {
+      "value": 4.5,
+      "count": 2500,
+      "source": "Google (qua Wanderlog)",
+      "url": "https://wanderlog.com/place/details/415439/",
+      "seen": "2026-10"
+    },
+    "id": "hcmc-social-club-rooftop",
+    "name": "Social Club Rooftop Bar",
+    "cat": "nightlife",
+    "subtitle": "Rooftop bar sang trọng trên đỉnh Hôtel des Arts Saigon",
+    "address": "Tầng thượng Hôtel des Arts Saigon, 76–78 Nguyễn Thị Minh Khai, Quận 3",
+    "lat": 10.782423,
+    "lng": 106.697333,
+    "coordSource": "https://wanderlog.com/place/details/415439/",
+    "price": null,
+    "hours": "15:00–00:00 (một số ngày đến 01:00)",
+    "mustTry": "Cocktail đặc trưng (như Dragon Slayer), ngắm hoàng hôn từ tầng cao nhất khách sạn",
+    "desc_vi": "Social Club Rooftop Bar nằm ở tầng cao nhất của khách sạn Hôtel des Arts Saigon (MGallery) trên đường Nguyễn Thị Minh Khai, với không gian sang trọng và tầm nhìn bao quát Sài Gòn. Đây là điểm hẹn quen thuộc của dân văn phòng và khách du lịch muốn thưởng thức cocktail lúc hoàng hôn.",
+    "review_vi": "Khen: view rất đẹp, không gian ấm cúng sang trọng, cocktail pha chế khéo, nhân viên chu đáo. Chê: phục vụ món ăn đôi khi chậm; một số đồ uống (như cà phê) bị chê đắt mà không ngon.",
+    "tips_vi": "Mẹo: đến khoảng 17h30 để bắt hoàng hôn; đặt bàn trước nếu đi nhóm.",
+    "sources": [
+      "https://wanderlog.com/place/details/415439/"
+    ]
+  },
+  {
+    "trending": false,
+    "existing": false,
+    "status": "open",
+    "website": "https://www.caravellehotel.com/saigon-saigon-bar",
+    "wiki": null,
+    "images": [
+      {
+        "commons": "File:Saigon Saigon Rooftop Bar-March 2014.jpg",
+        "kind": "place"
+      }
+    ],
+    "tags": [
+      "Rooftop bar",
+      "Lịch sử",
+      "Nhạc sống",
+      "Mới cải tạo 2026"
+    ],
+    "rating": {
+      "value": 4.0,
+      "count": 166,
+      "source": "Google (qua Wanderlog)",
+      "url": "https://wanderlog.com/place/details/1206576/",
+      "seen": "2026-10"
+    },
+    "id": "hcmc-saigon-saigon-rooftop-bar",
+    "name": "Saigon Saigon Rooftop Bar",
+    "cat": "nightlife",
+    "subtitle": "Quầy bar lịch sử của phóng viên chiến trường – vừa làm mới 2026",
+    "address": "Khách sạn Caravelle, 19–23 Công trường Lam Sơn, Phường Bến Nghé, Quận 1",
+    "lat": 10.776319,
+    "lng": 106.703532,
+    "coordSource": "https://wanderlog.com/place/details/1206576/",
+    "price": "Đồ uống khoảng 200.000–700.000đ",
+    "hours": "16:00–01:00 hằng ngày; nhạc sống mỗi tối",
+    "mustTry": "Cocktail Miss Saigon, bia Saigon Special, máy đánh chữ của phóng viên thập niên 50–60 trưng bày, nhạc sống buổi tối",
+    "desc_vi": "Quầy bar trên tầng thượng khách sạn Caravelle gắn với lịch sử: thời chiến tranh đây là nơi tụ tập của các phóng viên quốc tế, nhìn ra Nhà hát Thành phố và khu Lam Sơn. Đầu tháng 10/2026 báo chí đưa tin quầy bar đã được làm mới toàn diện nhưng vẫn giữ sàn gạch caro, cửa chớp và thực đơn đồ uống mang dấu ấn lịch sử.",
+    "review_vi": "Khen: không gian giàu câu chuyện lịch sử, view trung tâm đẹp, nhạc sống mỗi tối tạo không khí vui. Chê: giá đồ uống cao; không có điều hòa nên khá nóng; tòa nhà cao tầng mới đã che mất một phần tầm nhìn.",
+    "tips_vi": "Mẹo: đi buổi chiều tối để vừa ngắm Nhà hát Thành phố lên đèn vừa nghe nhạc sống; điểm Google còn ít lượt do quán vừa mở lại sau cải tạo.",
+    "sources": [
+      "https://wanderlog.com/place/details/1206576/",
+      "https://e.vnexpress.net/photo/places/ho-chi-minh-citys-famous-wartime-bar-gets-new-look-5129391.html"
+    ]
+  },
+  {
+    "trending": false,
+    "existing": false,
+    "status": "open",
+    "website": null,
+    "wiki": null,
+    "images": [],
+    "tags": [
+      "Speakeasy",
+      "Cocktail",
+      "Nhạc acoustic"
+    ],
+    "rating": {
+      "value": 4.6,
+      "count": 795,
+      "source": "Google (qua Wanderlog)",
+      "url": "https://wanderlog.com/place/details/410005/",
+      "seen": "2026-10"
+    },
+    "id": "hcmc-snuffbox",
+    "name": "Snuffbox – Speakeasy Cocktail Bar",
+    "cat": "nightlife",
+    "subtitle": "Quán cocktail speakeasy trong chung cư cũ Tôn Thất Đạm",
+    "address": "14 Tôn Thất Đạm, Quận 1",
+    "lat": 10.769604,
+    "lng": 106.704158,
+    "coordSource": "https://wanderlog.com/place/details/410005/",
+    "price": null,
+    "hours": "14:00–02:00 hằng ngày",
+    "mustTry": "Cocktail signature (như 'The Tattooist'), không gian speakeasy cổ điển, nhạc acoustic tối thứ Ba, thứ Sáu, thứ Bảy",
+    "desc_vi": "Snuffbox là quán bar theo phong cách speakeasy thời cấm rượu, ẩn trong tòa chung cư cũ số 14 Tôn Thất Đạm. Không gian tối, ấm cúng với nội thất cổ điển, thực đơn cocktail sáng tạo và các đêm nhạc acoustic.",
+    "review_vi": "Khen: không gian bí ẩn đầy cảm hứng, cocktail signature thú vị, các đêm nhạc acoustic rất hay. Chê: giá hơi cao, chất lượng pha chế đôi khi chưa đồng đều.",
+    "tips_vi": "Mẹo: tìm lối lên trong tòa chung cư cũ; tối thứ Ba, thứ Sáu, thứ Bảy có nhạc acoustic nên đặt chỗ trước.",
+    "sources": [
+      "https://wanderlog.com/place/details/410005/"
+    ]
+  },
+  {
+    "trending": false,
+    "existing": false,
+    "status": "open",
+    "website": "https://linktr.ee/laylaeateryandbar",
+    "wiki": null,
+    "images": [],
+    "tags": [
+      "Cocktail",
+      "Bar & bistro"
+    ],
+    "rating": {
+      "value": 4.8,
+      "count": 6333,
+      "source": "Google (qua Wanderlog)",
+      "url": "https://wanderlog.com/place/details/422920/",
+      "seen": "2026-10"
+    },
+    "id": "hcmc-layla-eatery-bar",
+    "name": "Layla – Eatery & Bar",
+    "cat": "nightlife",
+    "subtitle": "Quán cocktail và đồ ăn sành điệu trên phố Đông Du",
+    "address": "Tầng 2, 63 Đông Du, Phường Bến Nghé, Quận 1",
+    "lat": 10.775405,
+    "lng": 106.704147,
+    "coordSource": "https://wanderlog.com/place/details/422920/",
+    "price": null,
+    "hours": "Chiều đến khuya (khoảng 16:00–01:00, cuối tuần muộn hơn)",
+    "mustTry": "Cocktail cổ điển như Moscow Mule, Collins; món ăn kèm như mực, cà tím",
+    "desc_vi": "Layla là quán bar kiêm nhà hàng trên tầng 2 một tòa nhà ở phố Đông Du, gần Nhà hát Thành phố, nổi tiếng với chương trình cocktail chỉn chu và đồ ăn chất lượng. Không gian phong cách, ấm cúng, là điểm khởi đầu buổi tối quen thuộc của dân sành cocktail.",
+    "review_vi": "Khen: cocktail pha chuẩn, đồ ăn ngon, không gian sang và thân thiện; điểm Google rất cao. Chê: tối thứ Bảy đông nên phục vụ chậm; lựa chọn bia ít.",
+    "tips_vi": "Mẹo: đặt bàn trước tối cuối tuần; kết hợp đi dạo Đồng Khởi – Nhà hát Thành phố.",
+    "sources": [
+      "https://wanderlog.com/place/details/422920/"
+    ]
+  },
+  {
+    "trending": false,
+    "existing": false,
+    "status": "open",
+    "website": "http://pasteurstreet.com/",
+    "wiki": null,
+    "images": [],
+    "tags": [
+      "Craft beer",
+      "Bia thủ công Việt"
+    ],
+    "rating": {
+      "value": 4.8,
+      "count": 4782,
+      "source": "Google (qua Wanderlog)",
+      "url": "https://wanderlog.com/place/details/400399/",
+      "seen": "2026-10"
+    },
+    "id": "hcmc-pasteur-street-brewing",
+    "name": "Pasteur Street Brewing Co.",
+    "cat": "nightlife",
+    "subtitle": "Taproom bia thủ công nổi tiếng với nguyên liệu Việt",
+    "address": "144/3 Pasteur, Phường Bến Nghé, Quận 1",
+    "lat": 10.775176,
+    "lng": 106.701034,
+    "coordSource": "https://wanderlog.com/place/details/400399/",
+    "price": null,
+    "hours": "11:00–23:00 (một số ngày đến 24:00)",
+    "mustTry": "Jasmine IPA, các loại bia theo mùa dùng trái cây Việt (như ổi), set nếm thử nhiều loại bia",
+    "desc_vi": "Pasteur Street Brewing là một trong những thương hiệu bia thủ công (craft beer) tiêu biểu của Việt Nam, nổi tiếng với các dòng bia kết hợp nguyên liệu bản địa như hoa nhài, trái cây nhiệt đới. Taproom gốc nằm trong con hẻm trên đường Pasteur với nhiều tầng và sân thượng.",
+    "review_vi": "Khen: bia đa dạng và sáng tạo, nhân viên tư vấn nhiệt tình, không gian thoải mái, đồ ăn kèm ngon. Chê: giá bia cao hơn bia thường nhiều; lối vào trong hẻm hơi khó tìm.",
+    "tips_vi": "Mẹo: gọi set nếm thử (flight) để thử nhiều loại; quán trong hẻm nhỏ trên đường Pasteur.",
+    "sources": [
+      "https://wanderlog.com/place/details/400399/"
+    ]
+  },
+  {
+    "trending": false,
+    "existing": false,
+    "status": "open",
+    "website": "http://facebook.com/acousticbarngothoinhiem",
+    "wiki": null,
+    "images": [],
+    "tags": [
+      "Nhạc sống",
+      "Về đêm"
+    ],
+    "rating": {
+      "value": 4.5,
+      "count": 3200,
+      "source": "Google (qua Wanderlog)",
+      "url": "https://wanderlog.com/place/details/1082544/",
+      "seen": "2026-10"
+    },
+    "id": "hcmc-acoustic-bar",
+    "name": "Acoustic Bar",
+    "cat": "nightlife",
+    "subtitle": "Tụ điểm nhạc sống ban nhạc mỗi đêm lâu năm",
+    "address": "Đường Ngô Thời Nhiệm (gần Võ Thị Sáu), Quận 3",
+    "lat": 10.781195,
+    "lng": 106.689916,
+    "coordSource": "https://wanderlog.com/place/details/1082544/",
+    "price": null,
+    "hours": "19:00–24:00 hằng ngày",
+    "mustTry": "Ban nhạc sống chơi pop – rock – Việt mỗi tối, kèn saxophone, không khí hát theo cùng khán giả",
+    "desc_vi": "Acoustic Bar là quán nhạc sống quen thuộc của Sài Gòn, nơi các ban nhạc biểu diễn mỗi đêm với dàn âm thanh tốt và nhiều ca sĩ trẻ. Quán nổi tiếng với không khí cuồng nhiệt, khán giả đứng hát và nhảy theo.",
+    "review_vi": "Khen: nhạc sống tuyệt vời, ca sĩ nhiệt huyết, âm thanh chất lượng, đi một mình cũng vui. Chê: giá đồ uống cao; đông và chật vào cuối tuần, khó tìm chỗ ngồi nếu đến muộn.",
+    "tips_vi": "Mẹo: đến trước 20h để có chỗ ngồi gần sân khấu, nhất là thứ Sáu – thứ Bảy.",
+    "sources": [
+      "https://wanderlog.com/place/details/1082544/"
+    ]
+  },
+  {
+    "trending": false,
+    "existing": false,
+    "status": "open",
+    "website": "https://www.saigonwaterbus.com/",
+    "wiki": "https://en.wikipedia.org/wiki/Saigon_Waterbus",
+    "images": [
+      {
+        "commons": "File:Landmark 81 and Saigon Waterbus.png",
+        "kind": "place"
+      },
+      {
+        "commons": "File:Bus in the Binh An station.jpg",
+        "kind": "place"
+      },
+      {
+        "commons": "File:Checkin door in the Bach Dang Station - Sai Gon Water Bus.jpg",
+        "kind": "place"
+      }
+    ],
+    "tags": [
+      "Trải nghiệm sông nước",
+      "Ngắm hoàng hôn",
+      "Giá rẻ",
+      "Hợp với trẻ em"
+    ],
+    "rating": null,
+    "id": "hcmc-saigon-waterbus",
+    "name": "Saigon Waterbus (Buýt đường sông) – Bến Bạch Đằng",
+    "cat": "experience",
+    "subtitle": "Ngắm Sài Gòn từ sông chỉ với 15.000đ",
+    "address": "Ga tàu thủy Bạch Đằng, đường Tôn Đức Thắng, Phường Bến Nghé, Quận 1",
+    "lat": 10.77523,
+    "lng": 106.707282,
+    "coordSource": "https://www.openstreetmap.org/node/5884373574",
+    "price": "15.000đ/lượt (khứ hồi 30.000đ); miễn phí người trên 70 tuổi, trẻ dưới 1 tuổi, người khuyết tật",
+    "hours": "07:00–21:00 thứ Hai–thứ Sáu; 07:00–23:00 cuối tuần, ngày lễ (lịch từ 1/4/2026)",
+    "mustTry": "Đi chuyến trước hoàng hôn từ Bạch Đằng đến Bình An (~22 phút) hoặc Ba Son (~10 phút), ngắm Landmark 81, Thủ Thiêm và đường chân trời Quận 1",
+    "desc_vi": "Tuyến buýt đường sông số 1 khai trương tháng 11/2017, dài khoảng 11 km từ bến Bạch Đằng (Quận 1) đến Linh Đông (Thủ Đức), dừng ở 8 bến gồm Thủ Thiêm, Ba Son, Bình An, Thảo Điền, Thanh Đa. Đây là cách rẻ nhất để ngắm thành phố từ sông Sài Gòn, đặc biệt lúc hoàng hôn.",
+    "review_vi": "Khen: giá rất rẻ, tàu sạch và mát, view sông và các tòa cao tầng đẹp nhất lúc chiều tà. Chê: khoảng cách giữa các chuyến có thể 2–3 tiếng; chuyến hoàng hôn cuối tuần hay hết vé; mưa lớn thì đóng boong sau.",
+    "tips_vi": "Mẹo: kiểm tra giờ chuyến về trước khi mua vé đi; chọn chuyến khởi hành 30–45 phút trước hoàng hôn; ngồi bên trái khi đi để nhìn phía trung tâm. Công viên bến Bạch Đằng ngay cạnh ga là chỗ dạo mát buổi tối.",
+    "sources": [
+      "https://www.openstreetmap.org/node/5884373574",
+      "https://junglebosstours.com/explorer/tourism-blog/saigon-waterbus-boat-tour",
+      "https://mia.vn/cam-nang-du-lich/water-bus-saigon-12411",
+      "https://vinwonders.com/vi/wonderpedia/news/xe-buyt-song-sai-gon-review-lich-trinh-gia-ve-moi-nhat/"
+    ]
+  },
+  {
+    "trending": true,
+    "existing": false,
+    "status": "open",
+    "website": null,
+    "wiki": "https://vi.wikipedia.org/wiki/Tuy%E1%BA%BFn_1_(%C4%90%C6%B0%E1%BB%9Dng_s%E1%BA%AFt_%C4%91%C3%B4_th%E1%BB%8B_Th%C3%A0nh_ph%E1%BB%91_H%E1%BB%93_Ch%C3%AD_Minh)",
+    "images": [
+      {
+        "commons": "File:Interior of the Bến Thành Station, HCMC metro, line 1.jpg",
+        "kind": "place"
+      },
+      {
+        "commons": "File:Ben Thanh Station 241224 1.jpg",
+        "kind": "place"
+      },
+      {
+        "commons": "File:(VNM-Ho Chi Minh City) HCMC Metro Line 1 Hitachi Rolling Stock L1010 @ Van Thanh Park 2025-10-06.jpg",
+        "kind": "place"
+      }
+    ],
+    "tags": [
+      "Hot check-in 2025",
+      "Phương tiện công cộng",
+      "Trải nghiệm",
+      "Hợp với trẻ em"
+    ],
+    "rating": null,
+    "id": "hcmc-metro-so-1-ga-ben-thanh",
+    "name": "Metro số 1 Bến Thành – Suối Tiên (Ga Bến Thành)",
+    "cat": "experience",
+    "subtitle": "Tuyến metro đầu tiên của TP.HCM, khai thác từ 22/12/2024",
+    "address": "Ga ngầm Bến Thành, Quảng trường Quách Thị Trang (trước chợ Bến Thành), Quận 1",
+    "lat": 10.77083,
+    "lng": 106.69778,
+    "coordSource": "https://en.wikipedia.org/wiki/B%E1%BA%BFn_Th%C3%A0nh_station",
+    "price": "Vé lượt 7.000–20.000đ (tiền mặt), 6.000–19.000đ (không tiền mặt); vé ngày 40.000đ, vé 3 ngày 90.000đ",
+    "hours": "Khoảng 05:00–22:00 hằng ngày (kiểm tra giờ hiện hành trên ứng dụng HCMC Metro)",
+    "mustTry": "Ga ngầm Bến Thành với giếng trời lớn, đoạn đi trên cao qua sông Sài Gòn và Thảo Điền ngắm Landmark 81, đi thẳng đến Suối Tiên",
+    "desc_vi": "Tuyến metro số 1 dài gần 20 km nối ga ngầm Bến Thành ở trung tâm Quận 1 với Suối Tiên (TP. Thủ Đức), khai thác thương mại từ 22/12/2024. Sau một năm tuyến đã chở gần 19 triệu lượt khách; đi metro ngắm thành phố từ trên cao trở thành trải nghiệm được giới trẻ và du khách yêu thích.",
+    "review_vi": "Khen: sạch, mát, đúng giờ, giá rẻ, ga Bến Thành hiện đại và đẹp; đoạn trên cao có view sông và Landmark 81. Chê: dịp lễ Tết quá tải, đặc biệt tại ga Bến Thành; mới chỉ có một tuyến nên kết nối còn hạn chế.",
+    "tips_vi": "Mẹo: mua vé ngày nếu đi nhiều chặng; tránh giờ cao điểm và dịp lễ Tết vì tàu rất đông; có thể đi thẳng ra ga Suối Tiên để chơi Suối Tiên.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/B%E1%BA%BFn_Th%C3%A0nh_station",
+      "https://www.sggp.org.vn/tphcm-ban-hanh-gia-ve-metro-so-1-ben-thanh-suoi-tien-post769364.html",
+      "https://tuoitre.vn/gan-19-trieu-luot-khach-di-metro-so-1-sau-mot-nam-van-hanh-20251218090916428.htm",
+      "https://www.sggp.org.vn/dip-tet-duong-lich-2026-tuyen-metro-so-1-qua-tai-post831657.html",
+      "https://vtcnews.vn/hon-222-000-luot-khach-di-metro-ben-thanh-suoi-tien-trong-3-ngay-tet-ar1003850.html"
+    ]
+  },
+  {
+    "trending": true,
+    "existing": false,
+    "status": "open",
+    "website": null,
+    "wiki": null,
+    "images": [
+      {
+        "commons": "File:View from Saigon riverside park 6.jpg",
+        "kind": "place"
+      },
+      {
+        "commons": "File:View from Saigon riverside park 13.jpg",
+        "kind": "place"
+      }
+    ],
+    "tags": [
+      "Điểm check-in hot 2025",
+      "Ngắm hoàng hôn",
+      "Miễn phí",
+      "Hợp với trẻ em"
+    ],
+    "rating": null,
+    "id": "hcmc-cong-vien-bo-song-sai-gon-thu-thiem",
+    "name": "Công viên bờ sông Sài Gòn (Thủ Thiêm)",
+    "cat": "nature",
+    "subtitle": "Công viên ven sông ngắm trọn đường chân trời Quận 1",
+    "address": "Đường Trần Bạch Đằng – bờ sông Thủ Thiêm (giữa cầu Ba Son và hầm Thủ Thiêm), Phường An Khánh, Quận 2 (TP. Thủ Đức)",
+    "lat": 10.770518,
+    "lng": 106.712919,
+    "coordSource": "https://www.openstreetmap.org/way/366105823",
+    "price": "Miễn phí",
+    "hours": "Mở cả ngày; đẹp nhất lúc hoàng hôn và tối",
+    "mustTry": "Ngắm hoàng hôn và skyline Quận 1 – Bitexco bên kia sông, cánh đồng hướng dương dịp Tết, bãi cỏ thả diều dưới chân cầu Thủ Thiêm, Công viên Sáng Tạo bên kia cầu Ba Son",
+    "desc_vi": "Công viên bờ sông Sài Gòn rộng gần 20 ha dọc bờ Thủ Thiêm, mở cửa từ ngày 23/12/2023, nhìn thẳng sang trung tâm Quận 1. Với bãi cỏ rộng, lối đi ven sông và cánh đồng hướng dương mỗi dịp Tết, nơi đây nhanh chóng trở thành điểm dạo chơi, chụp ảnh và tổ chức lễ hội năm mới quen thuộc của giới trẻ.",
+    "review_vi": "Khen: không gian thoáng đãng, view skyline và hoàng hôn tuyệt đẹp, miễn phí, nhiều sự kiện và hoa theo mùa. Chê: ban ngày nắng và ít bóng mát; dịp lễ rất đông, chỗ gửi xe hạn chế.",
+    "tips_vi": "Mẹo: đến khoảng 17h để ngắm hoàng hôn rồi xem Quận 1 lên đèn; có thể đi Saigon Waterbus đến bến Thủ Thiêm. Cầu đi bộ 'lá dừa nước' nối Bạch Đằng – Thủ Thiêm đang được xây dựng (chưa mở tính đến 8/2026).",
+    "sources": [
+      "https://www.openstreetmap.org/way/366105823",
+      "https://www.sggp.org.vn/suc-song-moi-ben-bo-song-sai-gon-post831978.html",
+      "https://tuoitre.vn/bo-song-sai-gon-tap-nap-dong-vui-truoc-them-tet-duong-lich-2024-20231230205416393.htm",
+      "https://mia.vn/cam-nang-du-lich/cong-vien-bo-song-sai-gon-16675",
+      "https://tuoitre.vn/cau-di-bo.html"
+    ]
+  },
+  {
+    "trending": false,
+    "existing": false,
+    "status": "open",
+    "website": null,
+    "wiki": "https://vi.wikipedia.org/wiki/Khu_d%E1%BB%B1_tr%E1%BB%AF_sinh_quy%E1%BB%83n_r%E1%BB%ABng_ng%E1%BA%ADp_m%E1%BA%B7n_C%E1%BA%A7n_Gi%E1%BB%9D",
+    "images": [
+      {
+        "commons": "File:Mangrove in Can Gio forest.jpg",
+        "kind": "place"
+      },
+      {
+        "commons": "File:Can Gio mangrove forest.jpg",
+        "kind": "place"
+      },
+      {
+        "commons": "File:Khỉ Việt Nam ở đảo khỉ Cần Giờ, ngày 28 tháng 9 năm 2017.jpg",
+        "kind": "place"
+      }
+    ],
+    "tags": [
+      "Khu dự trữ sinh quyển UNESCO",
+      "Sinh thái",
+      "Đi trong ngày",
+      "Hợp với trẻ em"
+    ],
+    "rating": null,
+    "id": "hcmc-can-gio",
+    "name": "Rừng ngập mặn Cần Giờ",
+    "cat": "nature",
+    "subtitle": "Khu dự trữ sinh quyển thế giới đầu tiên của Việt Nam (UNESCO 2000)",
+    "address": "Huyện Cần Giờ (các điểm: Lâm Viên Cần Giờ – Đảo Khỉ, Vàm Sát, Căn cứ Rừng Sác)",
+    "lat": 10.50113889,
+    "lng": 106.86758333,
+    "coordSource": "https://vi.wikipedia.org/wiki/Khu_d%E1%BB%B1_tr%E1%BB%AF_sinh_quy%E1%BB%83n_r%E1%BB%ABng_ng%E1%BA%ADp_m%E1%BA%B7n_C%E1%BA%A7n_Gi%E1%BB%9D",
+    "price": "Tham khảo: Đảo Khỉ khoảng 35.000đ; Căn cứ Rừng Sác vé cổng 35.000đ (đi cano tính riêng); phà Bình Khánh 4.000đ/xe máy",
+    "hours": "Ban ngày (các khu du lịch thường mở buổi sáng đến chiều – kiểm tra từng điểm)",
+    "mustTry": "Đảo Khỉ, chèo xuồng xuyên rừng đước – rừng mắm, tháp Tang Bồng 26 m ở Vàm Sát, Đầm Dơi, Sân Chim, Căn cứ Rừng Sác, hải sản biển Cần Thạnh",
+    "desc_vi": "Rừng ngập mặn Cần Giờ cách trung tâm khoảng 50 km về phía đông nam, được UNESCO công nhận là Khu dự trữ sinh quyển thế giới đầu tiên của Việt Nam năm 2000. Khu rừng đước, mắm bạt ngàn là 'lá phổi xanh' của thành phố, có đàn khỉ hoang, đầm dơi, sân chim và di tích Đặc công Rừng Sác.",
+    "review_vi": "Khen: thiên nhiên hoang sơ ngay sát thành phố, đi trong ngày được, trải nghiệm xuồng, ngắm chim và khỉ thú vị. Chê: khỉ ở Đảo Khỉ hay giật đồ; đường xa và phải qua phà, một số dịch vụ cano khá đắt.",
+    "tips_vi": "Mẹo: toạ độ là điểm chung của khu dự trữ sinh quyển, không phải cổng một khu du lịch cụ thể; giữ chặt kính, mũ, túi khi vào Đảo Khỉ; có thể đi xe buýt 75 từ Công viên 23/9 (khoảng 2 giờ).",
+    "sources": [
+      "https://vi.wikipedia.org/wiki/Khu_d%E1%BB%B1_tr%E1%BB%AF_sinh_quy%E1%BB%83n_r%E1%BB%ABng_ng%E1%BA%ADp_m%E1%BA%B7n_C%E1%BA%A7n_Gi%E1%BB%9D",
+      "https://www.vietnamairlines.com/fr/vi/plan-book/travel/travel-guide/du-lich-can-gio",
+      "https://vinpearl.com/vi/can-cu-noi-rung-sac-can-gio-diem-den-gan-sai-gon-sieu-hap-dan",
+      "https://vinpearl.com/vi/khu-du-lich-sinh-thai-can-gio-top-6-diem-den-hoat-dong-hap-dan-nhat",
+      "https://vnexpress.net/cam-nang-du-lich-can-gio-4673430.html"
+    ]
+  },
+  {
+    "trending": false,
+    "existing": false,
+    "status": "open",
+    "website": null,
+    "wiki": null,
+    "images": [],
+    "tags": [
+      "Ít người biết",
+      "Chợ Lớn",
+      "Trung thu",
+      "Hợp với trẻ em"
+    ],
+    "rating": null,
+    "id": "hcmc-pho-long-den-luong-nhu-hoc",
+    "name": "Phố lồng đèn Lương Nhữ Học",
+    "cat": "experience",
+    "subtitle": "Con phố làm và bán lồng đèn truyền thống của Chợ Lớn",
+    "address": "Đường Lương Nhữ Học, Phường 11, Quận 5",
+    "lat": 10.752727,
+    "lng": 106.66018,
+    "coordSource": "https://www.openstreetmap.org/way/189017031",
+    "price": "Miễn phí dạo phố; gửi xe khoảng 15.000–20.000đ",
+    "hours": "Sôi động nhất buổi tối (19:00–22:00) trong khoảng một tháng trước Tết Trung thu",
+    "mustTry": "Ngắm và chụp ảnh giữa hàng nghìn lồng đèn giấy, lồng đèn kiếng thủ công, mua lồng đèn ông sao, ăn vặt (kem cá, sủi cảo) dọc phố",
+    "desc_vi": "Lương Nhữ Học là con phố nhỏ ở Chợ Lớn nơi nhiều gia đình người Hoa làm và buôn bán lồng đèn qua nhiều thế hệ. Mỗi mùa Trung thu, cả con đường rực rỡ lồng đèn, trở thành lễ hội đường phố; năm 2025 phường còn tổ chức khai hội Phố lồng đèn chính thức.",
+    "review_vi": "Khen: không khí lễ hội rực rỡ, đậm chất văn hóa Hoa, nhiều góc chụp ảnh đẹp và lồng đèn thủ công độc đáo. Chê: mùa cao điểm rất đông, kẹt xe; ngoài mùa Trung thu phố khá vắng, ít hàng.",
+    "tips_vi": "Mẹo: đi khoảng 2–4 tuần trước rằm tháng Tám, gửi xe ở đầu phố rồi đi bộ; ngoài mùa Trung thu có thể kết hợp dạo Chùa Bà Thiên Hậu, Chợ Bình Tây.",
+    "sources": [
+      "https://www.openstreetmap.org/way/189017031",
+      "https://www.greensm.com/vn-vi/news/pho-long-den-luong-nhu-hoc-quan-5-tphcm",
+      "https://tuoitre.vn/pho-long-den-khong-gian-trung-thu-ruc-ro-giua-long-cho-lon-chinh-thuc-khai-hoi-20250924181317253.htm",
+      "https://www.vietnambooking.com/du-lich/blog-du-lich/pho-long-den-tp-hcm.html",
+      "https://www.greensm.com/vn-vi/news/nhung-dia-diem-o-sai-gon-it-nguoi-biet"
+    ]
+  },
+  {
+    "trending": false,
+    "existing": false,
+    "status": "open",
+    "website": null,
+    "wiki": "https://en.wikipedia.org/wiki/Mariamman_Temple,_Ho_Chi_Minh_City",
+    "images": [
+      {
+        "commons": "File:2023-12-10 Mariamman Temple, Ho Chi Minh City 01.jpg",
+        "kind": "place"
+      },
+      {
+        "commons": "File:2023-12-10 Mariamman Temple, Ho Chi Minh City 02.jpg",
+        "kind": "place"
+      }
+    ],
+    "tags": [
+      "Ít người biết",
+      "Tâm linh",
+      "Kiến trúc Ấn Độ",
+      "Miễn phí"
+    ],
+    "rating": {
+      "value": 4.7,
+      "count": 433,
+      "source": "Google (qua Wanderlog)",
+      "url": "https://wanderlog.com/place/details/2285075/",
+      "seen": "2026-10"
+    },
+    "id": "hcmc-den-mariamman",
+    "name": "Đền Mariamman (Chùa Bà Ấn)",
+    "cat": "sight",
+    "subtitle": "Đền Hindu của cộng đồng Tamil giữa trung tâm Quận 1",
+    "address": "45 Trương Định, Phường Bến Thành, Quận 1",
+    "lat": 10.772403,
+    "lng": 106.695662,
+    "coordSource": "https://wanderlog.com/place/details/2285075/",
+    "price": "Miễn phí",
+    "hours": null,
+    "mustTry": "Tháp cổng raja-gopuram cao khoảng 12 m phủ tượng thần sặc sỡ, chánh điện thờ nữ thần Mariamman, không gian giao thoa tín ngưỡng Hindu – Việt",
+    "desc_vi": "Đền Mariamman được cộng đồng thương nhân Tamil (Ấn Độ) xây dựng cuối thế kỷ 19, là một trong số ít đền Hindu còn hoạt động ở TP.HCM. Ngôi đền nổi bật với tháp cổng phủ kín tượng thần nhiều màu sắc theo kiến trúc Nam Ấn; người Việt quanh vùng cũng đến cầu bình an, gọi là Chùa Bà Ấn.",
+    "review_vi": "Khen: kiến trúc Nam Ấn rực rỡ hiếm thấy ở Sài Gòn, không gian yên bình, thú vị khi thấy người Việt và người Ấn cùng đến cầu nguyện. Chê: đền nhỏ nên tham quan khá nhanh; giờ mở cửa không cố định rõ ràng.",
+    "tips_vi": "Mẹo: chỉ cách chợ Bến Thành vài phút đi bộ nên dễ ghép lịch trình; ăn mặc kín đáo và tôn trọng người đang hành lễ.",
+    "sources": [
+      "https://wanderlog.com/place/details/2285075/",
+      "https://en.wikipedia.org/wiki/Mariamman_Temple,_Ho_Chi_Minh_City",
+      "https://www.greensm.com/vn-vi/news/nhung-dia-diem-o-sai-gon-it-nguoi-biet"
+    ]
+  },
+  {
+    "trending": false,
+    "existing": false,
+    "status": "open",
+    "website": null,
+    "wiki": "https://vi.wikipedia.org/wiki/Ch%C3%B9a_Gi%C3%A1c_L%C3%A2m",
+    "images": [
+      {
+        "commons": "File:Chua Giac Lam Gate.JPG",
+        "kind": "place"
+      },
+      {
+        "commons": "File:ChuaGiacLam02.jpg",
+        "kind": "place"
+      },
+      {
+        "commons": "File:Chùa Giác Lâm năm 2016 (1).jpg",
+        "kind": "place"
+      }
+    ],
+    "tags": [
+      "Ít người biết",
+      "Chùa cổ",
+      "Di tích quốc gia"
+    ],
+    "rating": {
+      "value": 4.7,
+      "count": 327,
+      "source": "Google (qua Wanderlog)",
+      "url": "https://wanderlog.com/place/details/30625/",
+      "seen": "2026-10"
+    },
+    "id": "hcmc-chua-giac-lam",
+    "name": "Chùa Giác Lâm",
+    "cat": "sight",
+    "subtitle": "Một trong những ngôi chùa cổ nhất Sài Gòn (1744)",
+    "address": "565 Lạc Long Quân, Quận Tân Bình",
+    "lat": 10.77944,
+    "lng": 106.64917,
+    "coordSource": "https://vi.wikipedia.org/wiki/Ch%C3%B9a_Gi%C3%A1c_L%C3%A2m",
+    "price": "Miễn phí",
+    "hours": "06:30–12:00 và 13:30–20:00 hằng ngày",
+    "mustTry": "Bảo tháp lục giác 7 tầng, 113 pho tượng cổ phần lớn bằng gỗ, hàng cột và câu đối sơn son thếp vàng, vườn cây bồ đề",
+    "desc_vi": "Chùa Giác Lâm được cư sĩ Lý Thụy Long lập năm 1744 thời chúa Nguyễn Phúc Khoát, là một trong những ngôi chùa cổ nhất TP.HCM và tổ đình phái Lâm Tế ở Nam Bộ. Chùa được công nhận di tích lịch sử – văn hóa quốc gia năm 1988, lưu giữ hơn trăm pho tượng cổ và nhiều câu đối, hoành phi chạm khắc.",
+    "review_vi": "Khen: không gian thanh tịnh, cây xanh rợp bóng, kiến trúc và tượng cổ chạm khắc tinh xảo, ít khách du lịch. Chê: nằm xa trung tâm Quận 1; nghỉ trưa từ 12:00 đến 13:30.",
+    "tips_vi": "Mẹo: đi buổi sáng để tránh nắng và giờ nghỉ trưa; ăn mặc kín đáo, giữ trật tự.",
+    "sources": [
+      "https://vi.wikipedia.org/wiki/Ch%C3%B9a_Gi%C3%A1c_L%C3%A2m",
+      "https://wanderlog.com/place/details/30625/"
+    ]
+  },
+  {
+    "trending": false,
+    "existing": false,
+    "status": "open",
+    "website": "http://fitomuseum.com.vn/",
+    "wiki": null,
+    "images": [],
+    "tags": [
+      "Ít người biết",
+      "Bảo tàng",
+      "Y học cổ truyền"
+    ],
+    "rating": {
+      "value": 4.5,
+      "count": 2082,
+      "source": "Google (qua Wanderlog)",
+      "url": "https://wanderlog.com/place/details/5284/",
+      "seen": "2026-10"
+    },
+    "id": "hcmc-bao-tang-y-hoc-co-truyen-fito",
+    "name": "Bảo tàng Y học cổ truyền Việt Nam (FITO)",
+    "cat": "sight",
+    "subtitle": "Bảo tàng tư nhân về lịch sử y học cổ truyền Việt Nam",
+    "address": "41 Hoàng Dư Khương, Phường 12, Quận 10",
+    "lat": 10.776192,
+    "lng": 106.671889,
+    "coordSource": "https://wanderlog.com/place/details/5284/",
+    "price": "Tham khảo (cập nhật 12/2023): 180.000đ người lớn; 90.000đ học sinh, sinh viên, người cao tuổi",
+    "hours": "08:30–17:00 hằng ngày",
+    "mustTry": "Các tầng trưng bày dụng cụ và hiện vật bào chế thuốc cổ truyền, thông tin về thảo dược Việt, thưởng thức trà thảo dược cuối buổi tham quan",
+    "desc_vi": "Bảo tàng FITO do công ty dược Fito Pharma xây dựng và vận hành, giới thiệu lịch sử y học cổ truyền Việt Nam qua nhiều hiện vật và dụng cụ bào chế. Tòa nhà nhiều tầng, mỗi tầng một chủ đề trưng bày, nằm trên con đường nhỏ Hoàng Dư Khương ở Quận 10.",
+    "review_vi": "Khen: trưng bày công phu, đẹp mắt, thông tin rõ ràng từng tầng, cuối buổi được mời trà thảo dược. Chê: giá vé khá cao so với bảo tàng công lập; đôi khi đông người chụp ảnh.",
+    "tips_vi": "Mẹo: dành khoảng 1 giờ; có thể đặt vé qua các nền tảng như Tiqets, Pelago.",
+    "sources": [
+      "https://wanderlog.com/place/details/5284/",
+      "https://mia.vn/cam-nang-du-lich/bao-tang-y-hoc-co-truyen-14166",
+      "https://www.tiqets.com/de/fito-museum-tickets-l269763/",
+      "https://ovietnam.vietnamnews.vn/museum-of-traditional-medicine-opens-to-tourists-post268647.html"
+    ]
+  },
+  {
+    "trending": false,
+    "existing": false,
+    "status": "open",
+    "website": null,
+    "wiki": "https://vi.wikipedia.org/wiki/Ch%E1%BB%A3_D%C3%A2n_Sinh",
+    "images": [
+      {
+        "commons": "File:Dan Sinh Market.jpg",
+        "kind": "place"
+      },
+      {
+        "commons": "File:Chợ Dân Sinh Cổng 1.jpg",
+        "kind": "place"
+      }
+    ],
+    "tags": [
+      "Ít người biết",
+      "Chợ truyền thống",
+      "Đồ quân dụng"
+    ],
+    "rating": {
+      "value": 4.6,
+      "count": 58,
+      "source": "Google (qua Wanderlog)",
+      "url": "https://wanderlog.com/place/details/16661834/",
+      "seen": "2026-10"
+    },
+    "id": "hcmc-cho-dan-sinh",
+    "name": "Chợ Dân Sinh",
+    "cat": "market",
+    "subtitle": "'Chợ đồ lính' – thiên đường đồ quân dụng, kim khí cũ",
+    "address": "104 Yersin, Phường Nguyễn Thái Bình, Quận 1",
+    "lat": 10.766432,
+    "lng": 106.698158,
+    "coordSource": "https://vi.wikipedia.org/wiki/Ch%E1%BB%A3_D%C3%A2n_Sinh",
+    "price": "Vào cửa miễn phí; trả giá được",
+    "hours": "Khoảng 08:00–18:00",
+    "mustTry": "Quân phục, ba lô, nón cối, la bàn, bi đông, đồ kim khí – điện nước, đồ cũ lạ mắt",
+    "desc_vi": "Chợ Dân Sinh hình thành từ khu giải trí Kim Chung thời Bảy Viễn, đổi tên Dân Sinh cuối năm 1954 và nổi tiếng với hàng quân dụng thải của Mỹ. Ngày nay chợ vẫn là nơi bán quân phục, đồ lính, phụ tùng kim khí, điện nước và đủ thứ đồ cũ độc lạ.",
+    "review_vi": "Khen: độc đáo, nhiều món đồ lính và đồ cũ khó tìm nơi khác, giá rẻ hơn khu du lịch. Chê: ít người nói tiếng Anh, giá mỗi sạp mỗi khác nên dễ bối rối; lối đi chật, ít đồ lưu niệm đúng nghĩa.",
+    "tips_vi": "Mẹo: hỏi giá vài sạp trước khi mua; cách chợ Bến Thành khoảng 10 phút đi bộ.",
+    "sources": [
+      "https://vi.wikipedia.org/wiki/Ch%E1%BB%A3_D%C3%A2n_Sinh",
+      "https://wanderlog.com/place/details/16661834/"
+    ]
+  },
+  {
+    "trending": false,
+    "existing": false,
+    "status": "open",
+    "website": null,
+    "wiki": null,
+    "images": [
+      {
+        "commons": "File:Phố đồ cổ Lê Công Kiều, T6n2022 (cửa hàng đồ cũ xưa) (8).jpg",
+        "kind": "place"
+      },
+      {
+        "commons": "File:Phố đồ cổ Lê Công Kiều, T6n2022 (đồ cũ xưa, tượng Quan Công) (1).jpg",
+        "kind": "place"
+      }
+    ],
+    "tags": [
+      "Ít người biết",
+      "Đồ cổ",
+      "Sài Gòn xưa"
+    ],
+    "rating": {
+      "value": 3.8,
+      "count": 15,
+      "source": "Google (qua Wanderlog)",
+      "url": "https://wanderlog.com/place/details/10045299/",
+      "seen": "2026-10"
+    },
+    "id": "hcmc-pho-do-co-le-cong-kieu",
+    "name": "Phố đồ cổ Lê Công Kiều",
+    "cat": "shopping",
+    "subtitle": "Con phố đồ cổ, đồ xưa ẩn sau chợ Bến Thành",
+    "address": "Đường Lê Công Kiều, Phường Nguyễn Thái Bình, Quận 1",
+    "lat": 10.770413,
+    "lng": 106.700004,
+    "coordSource": "https://wanderlog.com/place/details/10045299/",
+    "price": "Miễn phí dạo phố; đồ cổ giá thỏa thuận",
+    "hours": "Ban ngày đến chiều tối (tùy cửa hàng)",
+    "mustTry": "Gốm sứ, tượng gỗ – đồng, đồng hồ, đèn dầu, tem và tiền xưa, đồ trang trí Đông Dương",
+    "desc_vi": "Lê Công Kiều là con phố ngắn gần chợ Bến Thành tập trung hàng chục cửa hàng đồ cổ, đồ xưa từ gốm sứ, tượng đồng đến đồ gia dụng thời Pháp. Đây là điểm quen thuộc của dân chơi đồ cổ nhưng nhiều du khách đi ngang qua mà không biết.",
+    "review_vi": "Khen: kho đồ xưa phong phú, thú vị để dạo xem và chụp ảnh, đậm không khí Sài Gòn cũ. Chê: giá thay đổi nhiều, phải trả giá; một số chủ tiệm không mặn mà với khách chỉ xem; khó phân biệt đồ cổ thật.",
+    "tips_vi": "Mẹo: nên hỏi kỹ nguồn gốc và trả giá khi mua; lưu ý quy định khi mang đồ cổ ra nước ngoài.",
+    "sources": [
+      "https://wanderlog.com/place/details/10045299/"
+    ]
+  },
+  {
+    "trending": false,
+    "existing": false,
+    "status": "open",
+    "website": null,
+    "wiki": null,
+    "images": [],
+    "tags": [
+      "Ít người biết",
+      "Chợ đường phố",
+      "Quán ẩn"
+    ],
+    "rating": {
+      "value": 4.1,
+      "count": 755,
+      "source": "Google (qua Wanderlog)",
+      "url": "https://wanderlog.com/place/details/70448/",
+      "seen": "2026-10"
+    },
+    "id": "hcmc-cho-cu-ton-that-dam",
+    "name": "Chợ cũ Tôn Thất Đạm & chung cư 14 Tôn Thất Đạm",
+    "cat": "market",
+    "subtitle": "Chợ đường phố giữa khu tài chính và tòa chung cư cũ đầy quán ẩn",
+    "address": "Đường Tôn Thất Đạm, Phường Bến Nghé, Quận 1",
+    "lat": 10.771554,
+    "lng": 106.703181,
+    "coordSource": "https://wanderlog.com/place/details/70448/",
+    "price": "Vào chợ miễn phí",
+    "hours": "Khoảng 09:00–19:00 ngày thường; đến khoảng 16:30 cuối tuần",
+    "mustTry": "Dạo dãy sạp thực phẩm, hàng khô bên đường; lên tòa chung cư cũ 14 Tôn Thất Đạm tìm quán cà phê, bar ẩn như Snuffbox",
+    "desc_vi": "Chợ cũ Tôn Thất Đạm là khu chợ đường phố dài khoảng một dãy nhà, nằm lọt thỏm giữa các cao ốc văn phòng gần Bitexco. Ngay cạnh là tòa chung cư cũ số 14 Tôn Thất Đạm, nơi nhiều căn hộ đã thành quán cà phê, quán bar ẩn mình – một phiên bản ít người biết của 'chung cư cà phê'.",
+    "review_vi": "Khen: cảm giác Sài Gòn chân thật giữa khu trung tâm hiện đại, nhiều quán ẩn thú vị, đồ ăn và hàng hóa địa phương. Chê: chợ nhỏ, buổi chiều cuối tuần đóng sớm; nhiều người lo khu chợ sẽ biến mất vì quy hoạch xung quanh.",
+    "tips_vi": "Mẹo: đi buổi sáng để thấy chợ đông vui nhất; buổi tối quay lại tòa 14 Tôn Thất Đạm để ghé quán bar speakeasy.",
+    "sources": [
+      "https://wanderlog.com/place/details/70448/",
+      "https://wanderlog.com/place/details/410005/"
+    ]
+  },
+  {
+    "trending": false,
+    "existing": false,
+    "status": "open",
+    "website": "http://quangsan.museum/",
+    "wiki": null,
+    "images": [],
+    "tags": [
+      "Ít người biết",
+      "Bảo tàng nghệ thuật",
+      "Thảo Điền"
+    ],
+    "rating": {
+      "value": 4.8,
+      "count": 364,
+      "source": "Google (qua Wanderlog)",
+      "url": "https://wanderlog.com/place/details/9030773/",
+      "seen": "2026-10"
+    },
+    "id": "hcmc-quang-san-art-museum",
+    "name": "Quang San Art Museum",
+    "cat": "sight",
+    "subtitle": "Bảo tàng mỹ thuật tư nhân đầu tiên của TP.HCM, bên sông Sài Gòn",
+    "address": "189B/3 Nguyễn Văn Hưởng, Phường Thảo Điền, Quận 2 (TP. Thủ Đức)",
+    "lat": 10.818018,
+    "lng": 106.730151,
+    "coordSource": "https://wanderlog.com/place/details/9030773/",
+    "price": null,
+    "hours": null,
+    "mustTry": "Hơn 1.600 tác phẩm hội họa Việt từ thời Đông Dương đến đương đại, tranh sơn mài chạm khắc tinh xảo, không gian bên sông",
+    "desc_vi": "Quang San Art Museum do gia đình nhà sưu tập Nguyễn Thiệu Quang thành lập, được giới thiệu là bảo tàng mỹ thuật tư nhân đầu tiên của thành phố. Bảo tàng rộng khoảng 2.000 m² nhìn ra sông Sài Gòn, các tầng trưng bày sắp xếp theo dòng chảy lịch sử hội họa Việt Nam với hơn 1.600 tác phẩm.",
+    "review_vi": "Khen: bộ sưu tập chất lượng cao, không gian thiết kế đẹp, hướng dẫn viên am hiểu; điểm Google rất cao. Chê: nằm sâu trong Thảo Điền, xa trung tâm; nên kiểm tra giờ mở cửa và đặt lịch trước.",
+    "tips_vi": "Mẹo: liên hệ qua website quangsan.museum để biết giờ mở cửa và giá vé hiện hành; kết hợp dạo Thảo Điền.",
+    "sources": [
+      "https://wanderlog.com/place/details/9030773/",
+      "https://vietnamnet.vn/en/first-private-art-museum-set-up-in-hcm-city-2168959.html",
+      "https://mia.vn/cam-nang-du-lich/bao-tang-nghe-thuat-quang-san-19426",
+      "https://www.abduzeedo.com/rebranding-quang-san-art-museum-layers-contemplation-vietnamese-fine-arts"
+    ]
+  },
+  {
+    "trending": false,
+    "existing": false,
+    "status": "open",
+    "website": "https://congvientaodan.com/",
+    "wiki": null,
+    "images": [
+      {
+        "commons": "File:Tao Dan Park.jpg",
+        "kind": "place"
+      },
+      {
+        "commons": "File:Parque Tao Dan, Ciudad Ho Chi Minh, Vietnam, 2013-08-15, DD 02.JPG",
+        "kind": "place"
+      }
+    ],
+    "tags": [
+      "Hợp với trẻ em",
+      "Công viên",
+      "Miễn phí"
+    ],
+    "rating": {
+      "value": 4.5,
+      "count": 15620,
+      "source": "Google (qua Wanderlog)",
+      "url": "https://wanderlog.com/place/details/5286/",
+      "seen": "2026-10"
+    },
+    "cat": "kids",
+    "id": "hcmc-kids-cong-vien-tao-dan",
+    "name": "Công viên Tao Đàn (sân chơi trẻ em)",
+    "subtitle": "Lá phổi xanh giữa Quận 1 với khu vui chơi miễn phí",
+    "address": "Công viên Tao Đàn (giữa Trương Định – Nguyễn Thị Minh Khai – Cách Mạng Tháng Tám), Phường Bến Thành, Quận 1",
+    "lat": 10.77558,
+    "lng": 106.69208,
+    "coordSource": "https://wanderlog.com/place/details/5286/",
+    "price": "Miễn phí; mọi lứa tuổi (sân chơi phù hợp trẻ nhỏ đi cùng phụ huynh)",
+    "hours": "Khoảng 07:00–22:00 hằng ngày",
+    "mustTry": "Sân chơi cầu trượt – xích đu dưới tán cây cổ thụ, chạy nhảy trên bãi cỏ, ngắm tượng nghệ thuật, hội hoa xuân dịp Tết",
+    "desc_vi": "Công viên Tao Đàn là công viên lâu đời ngay trung tâm Quận 1, nổi tiếng với hàng cây cổ thụ cho bóng mát, lối đi bộ và nhiều tượng nghệ thuật. Công viên có khu sân chơi cho trẻ em, phù hợp cho gia đình nghỉ chân giữa lịch trình tham quan Dinh Độc Lập, chợ Bến Thành.",
+    "review_vi": "Khen: rộng, nhiều bóng mát, sạch, có sân chơi cho trẻ và khoảng trống để chạy nhảy, dịp Tết trang trí hoa rất đẹp. Chê: cuối tuần đông; một số thiết bị sân chơi khá cơ bản.",
+    "tips_vi": "Mẹo: đi sáng sớm hoặc chiều mát; ngay cạnh Dinh Độc Lập và Nhà hát múa rối nước Rồng Vàng.",
+    "sources": [
+      "https://wanderlog.com/place/details/5286/"
+    ]
+  },
+  {
+    "trending": false,
+    "existing": false,
+    "status": "open",
+    "website": null,
+    "wiki": null,
+    "images": [
+      {
+        "commons": "File:Le Van Tam park.JPG",
+        "kind": "place"
+      }
+    ],
+    "tags": [
+      "Hợp với trẻ em",
+      "Công viên",
+      "Miễn phí",
+      "Ít người biết"
+    ],
+    "rating": {
+      "value": 4.4,
+      "count": 1375,
+      "source": "Google (qua Wanderlog)",
+      "url": "https://wanderlog.com/place/details/5011166/",
+      "seen": "2026-10"
+    },
+    "cat": "kids",
+    "id": "hcmc-kids-cong-vien-le-van-tam",
+    "name": "Công viên Lê Văn Tám",
+    "subtitle": "Công viên rợp bóng cây có sân chơi trẻ em ở Đa Kao",
+    "address": "Đường Hai Bà Trưng – Điện Biên Phủ, Phường Đa Kao, Quận 1",
+    "lat": 10.788161,
+    "lng": 106.693773,
+    "coordSource": "https://wanderlog.com/place/details/5011166/",
+    "price": "Miễn phí; phù hợp trẻ nhỏ đi cùng phụ huynh",
+    "hours": null,
+    "mustTry": "Sân chơi trẻ em, lối đi bộ rộng, ngắm sóc trên cây, sân bóng rổ – bóng chuyền cho trẻ lớn",
+    "desc_vi": "Công viên Lê Văn Tám là mảng xanh yên tĩnh gần Nhà thờ Tân Định và Chùa Ngọc Hoàng, với lối đi rộng, khu tập thể dục, sân thể thao và sân chơi trẻ em. Hàng cây lớn có nhiều sóc là điểm thích thú với các bé.",
+    "review_vi": "Khen: yên tĩnh, sạch sẽ, nhiều bóng mát, có sân chơi, sân thể thao và nhà vệ sinh công cộng, thấy sóc chạy trên cây. Chê: là công viên nhỏ, không có trò chơi tính phí hay dịch vụ giải trí lớn.",
+    "tips_vi": "Mẹo: kết hợp đi Nhà thờ Tân Định, Chợ Tân Định gần đó; đi sáng sớm hoặc chiều mát.",
+    "sources": [
+      "https://wanderlog.com/place/details/5011166/"
+    ]
+  },
+  {
+    "trending": false,
+    "existing": false,
+    "status": "open",
+    "website": "http://www.congviengiadinh.com/",
+    "wiki": null,
+    "images": [
+      {
+        "commons": "File:Gia Dinh park - 1.jpg",
+        "kind": "place"
+      },
+      {
+        "commons": "File:Gia Dinh park at night 6.jpg",
+        "kind": "place"
+      }
+    ],
+    "tags": [
+      "Hợp với trẻ em",
+      "Công viên",
+      "Miễn phí"
+    ],
+    "rating": {
+      "value": 4.6,
+      "count": 2764,
+      "source": "Google (qua Wanderlog)",
+      "url": "https://wanderlog.com/place/details/7880095/",
+      "seen": "2026-10"
+    },
+    "cat": "kids",
+    "id": "hcmc-kids-cong-vien-gia-dinh",
+    "name": "Công viên Gia Định",
+    "subtitle": "Công viên lớn cạnh sân bay với nhiều mảng xanh cho gia đình",
+    "address": "Đường Hoàng Minh Giám, Phường 3, Quận Gò Vấp",
+    "lat": 10.813249,
+    "lng": 106.675901,
+    "coordSource": "https://wanderlog.com/place/details/7880095/",
+    "price": "Miễn phí; mọi lứa tuổi",
+    "hours": "04:00–22:00 hằng ngày",
+    "mustTry": "Chạy nhảy trên bãi cỏ rộng, khu vui chơi trẻ em, ngắm chim, đi bộ dưới hàng cây buổi chiều",
+    "desc_vi": "Công viên Gia Định nằm gần sân bay Tân Sơn Nhất, là một trong những công viên lớn và được thiết kế đẹp của thành phố với cây xanh dày và nhiều khu chức năng cho mọi lứa tuổi. Đây là chỗ quen thuộc của các gia đình phía bắc thành phố vào cuối tuần.",
+    "review_vi": "Khen: rộng, xanh mát, được chăm sóc tốt, có hoạt động cho mọi lứa tuổi, nhiều loài chim. Chê: cuối tuần đông, khó tìm chỗ gửi xe.",
+    "tips_vi": "Mẹo: đi chiều muộn khi trời mát; tiện ghé trước hoặc sau khi đón tiễn ở sân bay Tân Sơn Nhất.",
+    "sources": [
+      "https://wanderlog.com/place/details/7880095/"
+    ]
+  },
+  {
+    "trending": false,
+    "existing": false,
+    "status": "open",
+    "website": "https://damsenwaterpark.com.vn/",
+    "wiki": null,
+    "images": [
+      {
+        "commons": "File:Dam-sen-water-park-tuonglamphotos.jpg",
+        "kind": "place"
+      },
+      {
+        "commons": "File:Cong-chinh-cong-vien-nuoc-dam-sen.jpg",
+        "kind": "place"
+      },
+      {
+        "commons": "File:Cong-vien-nuoc-dam-sen-mang-truot-den-tu-tren-cao.jpg",
+        "kind": "place"
+      }
+    ],
+    "tags": [
+      "Hợp với trẻ em",
+      "Công viên nước"
+    ],
+    "rating": {
+      "value": 4.3,
+      "count": 36020,
+      "source": "Google (qua Wanderlog)",
+      "url": "https://wanderlog.com/place/details/1703003/",
+      "seen": "2026-10"
+    },
+    "cat": "kids",
+    "id": "hcmc-kids-cong-vien-nuoc-dam-sen",
+    "name": "Công viên nước Đầm Sen",
+    "subtitle": "Công viên nước lâu đời với hơn 36 trò chơi",
+    "address": "3 Hòa Bình, Phường 3, Quận 11",
+    "lat": 10.768695,
+    "lng": 106.636151,
+    "coordSource": "https://wanderlog.com/place/details/1703003/",
+    "price": "Tham khảo 2026: 220.000đ (cao trên 1,4 m); 180.000đ (0,8–1,4 m); miễn phí trẻ dưới 0,8 m",
+    "hours": "Khoảng 08:30–18:00 (giờ có thể thay đổi theo mùa)",
+    "mustTry": "Hồ tạo sóng 3.000 m², máng trượt xoắn, sông lười và các trò chơi nước cho nhiều lứa tuổi",
+    "desc_vi": "Công viên nước Đầm Sen nằm cạnh Công viên Văn hóa Đầm Sen ở Quận 11, là điểm 'giải nhiệt' quen thuộc của trẻ em Sài Gòn với hơn 36 trò chơi nước. Khu vực có hồ tạo sóng rộng khoảng 3.000 m², nhiều máng trượt xoắn và sông lười.",
+    "review_vi": "Khen: nhiều trò chơi đa dạng cho cả nhà, hồ tạo sóng và máng trượt vui, máng trượt cao tốc và lâu đài nước hấp dẫn trẻ lớn. Chê: một số khu cần bảo trì; mùa hè và cuối tuần rất đông.",
+    "tips_vi": "Mẹo: đi ngày thường, buổi sáng; mang kem chống nắng, áo phao cho bé nhỏ; có thể kết hợp Công viên Văn hóa Đầm Sen bên cạnh.",
+    "sources": [
+      "https://wanderlog.com/place/details/1703003/",
+      "https://aeonmall-tanphuceladon-en.com/tin-tuc/cong-vien-nuoc-sai-gon.html"
+    ]
+  },
+  {
+    "trending": false,
+    "existing": false,
+    "status": "open",
+    "website": "https://vinwonders.com/vi/grand-park/",
+    "wiki": null,
+    "images": [],
+    "tags": [
+      "Hợp với trẻ em",
+      "Công viên nước",
+      "Mới"
+    ],
+    "rating": null,
+    "cat": "kids",
+    "id": "hcmc-kids-vinwonders-grand-park",
+    "name": "VinWonders Grand Park (Công viên nước & Khu vườn Mộng Mơ)",
+    "subtitle": "Tổ hợp vui chơi mới trong khu Vinhomes Grand Park",
+    "address": "Khu đô thị Vinhomes Grand Park, Phường Long Thạnh Mỹ, Quận 9 (TP. Thủ Đức)",
+    "lat": 10.839941,
+    "lng": 106.84728,
+    "coordSource": "https://www.openstreetmap.org/node/12777641246",
+    "price": "Tham khảo 2026: vé công viên nước khoảng 250.000đ người lớn, 150.000đ trẻ em; combo công viên nước + Khu vườn Mộng Mơ 270.000–300.000đ người lớn, 190.000–211.111đ trẻ em (trẻ em: cao 80–140 cm)",
+    "hours": "Công viên nước 10:00–18:00; Khu vườn Mộng Mơ 16:00–21:00 ngày thường, 13:00–21:00 cuối tuần và lễ Tết",
+    "mustTry": "Công viên nước 'Hòn đảo nhiệt đới' với máng trượt và khu chơi nước cho trẻ, Khu vườn Mộng Mơ buổi tối, combo gia đình",
+    "desc_vi": "VinWonders Grand Park là tổ hợp vui chơi trong đại đô thị Vinhomes Grand Park ở Thủ Đức, gồm công viên nước phong cách nhiệt đới và khu vườn chủ đề 'Mộng Mơ' mở về chiều tối. Đây là điểm vui chơi mới cho gia đình ở phía đông thành phố, có nhiều gói combo và thẻ tháng.",
+    "review_vi": "Khen: khu vui chơi mới, thiết kế nhiệt đới, có khu chơi nước dành cho trẻ, nhiều combo gia đình tiết kiệm. Chê: nằm xa trung tâm (TP. Thủ Đức); khu vườn Mộng Mơ chỉ mở từ chiều.",
+    "tips_vi": "Mẹo: theo dõi trang ưu đãi VinWonders (khuyến mãi áp dụng 15/5–31/12/2026); kiểm tra chiều cao của bé để chọn đúng loại vé.",
+    "sources": [
+      "https://www.openstreetmap.org/node/12777641246",
+      "https://vinwonders.com/vi/uu-dai/tong-hop-uu-dai-tai-grand-park/",
+      "https://aeonmall-tanphuceladon-en.com/tin-tuc/cong-vien-nuoc-sai-gon.html"
+    ]
+  },
+  {
+    "trending": false,
+    "existing": false,
+    "status": "open",
+    "website": "http://tiniworld.com/",
+    "wiki": null,
+    "images": [],
+    "tags": [
+      "Hợp với trẻ em",
+      "Khu vui chơi trong nhà",
+      "Trong TTTM"
+    ],
+    "rating": {
+      "value": 4.2,
+      "count": 563,
+      "source": "Google (qua Wanderlog)",
+      "url": "https://wanderlog.com/place/details/7640762/",
+      "seen": "2026-10"
+    },
+    "cat": "kids",
+    "id": "hcmc-kids-tiniworld-go-vap",
+    "name": "tiNiWorld (Vincom Plaza Quang Trung)",
+    "subtitle": "Chuỗi khu vui chơi trong nhà cho trẻ 0–12 tuổi",
+    "address": "Vincom Plaza, 190 Quang Trung, Quận Gò Vấp",
+    "lat": 10.829301,
+    "lng": 106.672533,
+    "coordSource": "https://wanderlog.com/place/details/7640762/",
+    "price": "Trẻ 0–12 tuổi; tham khảo 150.000–180.000đ/vé trẻ em (giá chi nhánh AEON Tân Phú, 2025), phụ huynh đi kèm miễn phí",
+    "hours": "Theo giờ mở cửa trung tâm thương mại",
+    "mustTry": "Khu nhà búp bê, khu xếp hình Lego, hố cát, khu đọc sách, trò chơi điện tử cho trẻ",
+    "desc_vi": "tiNiWorld là chuỗi khu vui chơi trong nhà dành cho trẻ dưới 12 tuổi, có mặt ở nhiều trung tâm thương mại tại TP.HCM (như AEON Tân Phú, Vincom). Không gian chia theo độ tuổi với khu vận động, sáng tạo, nhập vai và đọc sách, có máy lạnh và khu nghỉ cho phụ huynh.",
+    "review_vi": "Khen: sạch, an toàn, nhiều khu chơi đa dạng, bé rất thích; tiện kết hợp đi trung tâm thương mại. Chê: giá hơi cao, cuối tuần đông.",
+    "tips_vi": "Mẹo: đi ngày thường để bé chơi thoải mái; có chi nhánh tại AEON Mall Tân Phú nếu ở phía tây thành phố.",
+    "sources": [
+      "https://wanderlog.com/place/details/7640762/",
+      "https://www.greensm.com/vn-vi/news/tiniworld-aeon-tan-phu",
+      "https://aeonmall-tanphuceladon-en.com/tin-tuc/10-khu-vui-choi-tre-em-duoc-yeu-thich-nhat-tai-tp-hcm.html"
+    ]
+  },
+  {
+    "trending": false,
+    "existing": false,
+    "status": "open",
+    "website": "https://jumparena.vn/",
+    "wiki": null,
+    "images": [],
+    "tags": [
+      "Hợp với trẻ em",
+      "Vận động trong nhà",
+      "Trampoline"
+    ],
+    "rating": {
+      "value": 4.5,
+      "count": 1389,
+      "source": "Google (qua Wanderlog)",
+      "url": "https://wanderlog.com/place/details/5962824/",
+      "seen": "2026-10"
+    },
+    "cat": "kids",
+    "id": "hcmc-kids-jump-arena-him-lam",
+    "name": "Jump Arena Him Lam",
+    "subtitle": "Công viên bạt nhún – leo núi – ninja trong nhà",
+    "address": "2–4 Đường số 9, Khu đô thị Him Lam, Phường Tân Hưng, Quận 7",
+    "lat": 10.742073,
+    "lng": 106.695119,
+    "coordSource": "https://wanderlog.com/place/details/5962824/",
+    "price": "Tham khảo (8/2026): 170.000đ/người ngày thường (không giới hạn giờ); 210.000đ cuối tuần (120 phút); vé tháng 1.600.000đ; miễn phí 1 phụ huynh đi cùng trẻ cao dưới 120 cm",
+    "hours": "10:00–22:00 thứ Hai–thứ Sáu; 09:00–22:00 thứ Bảy, Chủ nhật",
+    "mustTry": "Bạt nhún tự do, bóng rổ trên bạt nhún, tường leo núi nhiều cấp độ, thử thách ninja, dây cao, khu Jelly Zone cho trẻ nhỏ",
+    "desc_vi": "Jump Arena Him Lam là khu vui chơi vận động trong nhà rộng hơn 2.000 m² ở Quận 7, với bạt nhún, leo núi, thử thách ninja và dây cao. Phù hợp trẻ lớn, thiếu niên và cả người lớn, có khu riêng cho trẻ nhỏ; nhận tổ chức sinh nhật cho bé.",
+    "review_vi": "Khen: nhiều hoạt động vận động trong một vé, có tất chống trượt, nhân viên thân thiện, rất hợp để bé xả năng lượng ngày nắng mưa. Chê: cuối tuần đông và giá cao hơn; nên đi ngày thường.",
+    "tips_vi": "Mẹo: đi ngày thường để rẻ hơn và không giới hạn giờ; mặc đồ thể thao; cùng khu Him Lam có Vietopia để kết hợp trong ngày.",
+    "sources": [
+      "https://wanderlog.com/place/details/5962824/",
+      "https://mia.vn/cam-nang-du-lich/oanh-tac-jump-arena-quan-7-15206",
+      "https://mytour.vn/vi/blog/bai-viet/vi-sao-jump-arena-sai-gon-gay-bao-cung-gioi-tre.html"
+    ]
+  },
+  {
+    "trending": false,
+    "existing": false,
+    "status": "open",
+    "website": "https://vietopia.com.vn/",
+    "wiki": null,
+    "images": [],
+    "tags": [
+      "Hợp với trẻ em",
+      "Giáo dục",
+      "Hướng nghiệp",
+      "Trong nhà"
+    ],
+    "rating": {
+      "value": 4.2,
+      "count": 3279,
+      "source": "Google (qua Wanderlog)",
+      "url": "https://wanderlog.com/place/details/4432145/",
+      "seen": "2026-10"
+    },
+    "cat": "kids",
+    "id": "hcmc-kids-vietopia",
+    "name": "Vietopia – Thành phố hướng nghiệp",
+    "subtitle": "Thành phố thu nhỏ để bé nhập vai hơn 70 nghề",
+    "address": "Khu đô thị Him Lam (98 Nguyễn Thị Thập / 2–4 Đường số 9), Phường Tân Hưng, Quận 7",
+    "lat": 10.741554,
+    "lng": 106.695004,
+    "coordSource": "https://wanderlog.com/place/details/4432145/",
+    "price": "Trẻ 4–12 tuổi (có khu riêng cho bé dưới 3 tuổi); tham khảo 280.000đ/bé, 45.000đ/người lớn",
+    "hours": "08:00–16:00 thứ Ba–thứ Sáu; 09:00–17:00 cuối tuần, ngày lễ; nghỉ thứ Hai",
+    "mustTry": "Nhập vai phi công, lính cứu hỏa, bác sĩ, người mẫu…; kiếm và tiêu 'tiền' trong thành phố thu nhỏ",
+    "desc_vi": "Vietopia là khu vui chơi giáo dục trong nhà rộng khoảng 30.000 m² ở Quận 7, mô phỏng một thành phố với ngân hàng, bệnh viện, sân bay, đài truyền hình. Trẻ được nhập vai hơn 70 ngành nghề, làm việc để nhận 'lương' và chi tiêu, học kỹ năng qua trò chơi.",
+    "review_vi": "Khen: mô hình hướng nghiệp độc đáo, bé được trải nghiệm thực tế nhiều nghề, có ý nghĩa giáo dục, kiếm và tiêu 'tiền' rất hào hứng. Chê: giá vé trẻ em khá cao; nghỉ thứ Hai và đóng cửa sớm (16:00–17:00).",
+    "tips_vi": "Mẹo: đến sớm ngay giờ mở cửa để chơi được nhiều nghề; tránh thứ Hai (nghỉ).",
+    "sources": [
+      "https://wanderlog.com/place/details/4432145/",
+      "https://mia.vn/cam-nang-du-lich/khu-vui-choi-vietopia-quan-7-15195",
+      "https://aeonmall-tanphuceladon-en.com/tin-tuc/10-khu-vui-choi-tre-em-duoc-yeu-thich-nhat-tai-tp-hcm.html"
+    ]
+  },
+  {
+    "trending": false,
+    "existing": false,
+    "status": "open",
+    "website": "https://www.facebook.com/GiaiTriThoTrang/",
+    "wiki": null,
+    "images": [
+      {
+        "commons": "File:Le Thi Rieng Park (49358108272).jpg",
+        "kind": "place"
+      }
+    ],
+    "tags": [
+      "Hợp với trẻ em",
+      "Khu trò chơi",
+      "Công viên"
+    ],
+    "rating": {
+      "value": 4.3,
+      "count": 8514,
+      "source": "Google (qua Wanderlog)",
+      "url": "https://wanderlog.com/place/details/1804476/",
+      "seen": "2026-10"
+    },
+    "cat": "kids",
+    "id": "hcmc-kids-tho-trang-le-thi-rieng",
+    "name": "Khu vui chơi Thỏ Trắng (Công viên Lê Thị Riêng)",
+    "subtitle": "Khu trò chơi ngoài trời trong công viên lớn Quận 10",
+    "address": "875 Cách Mạng Tháng Tám (Công viên Lê Thị Riêng), Quận 10",
+    "lat": 10.785501,
+    "lng": 106.666053,
+    "coordSource": "https://wanderlog.com/place/details/1804476/",
+    "price": "Vào công viên miễn phí; trò chơi tính vé riêng từng trò; phù hợp nhiều lứa tuổi",
+    "hours": "14:00–22:00 thứ Hai–thứ Sáu; 08:00–22:00 thứ Bảy, Chủ nhật",
+    "mustTry": "Trò chơi cảm giác mạnh vừa sức, bạt nhún, hồ bơi, khu game – bắn súng hơi, dạo công viên Lê Thị Riêng",
+    "desc_vi": "Khu vui chơi Thỏ Trắng nằm trong Công viên Lê Thị Riêng (Quận 10), có nhiều trò chơi ngoài trời, bạt nhún, hồ bơi và khu trò chơi điện tử. Công viên rộng, nhiều cây xanh, là điểm cuối tuần bình dân quen thuộc của các gia đình.",
+    "review_vi": "Khen: nhiều trò chơi cho trẻ, có hồ bơi sạch, không gian rộng để chạy nhảy, chi phí linh hoạt. Chê: một số trò chơi cũ; buổi tối cuối tuần đông.",
+    "tips_vi": "Mẹo: ngày thường khu trò chơi chỉ mở từ 14:00; mua vé theo trò nên hỏi giá trước.",
+    "sources": [
+      "https://wanderlog.com/place/details/1804476/",
+      "https://mia.vn/cam-nang-du-lich/cong-vien-tho-trang-12528"
+    ]
+  },
+  {
+    "trending": false,
+    "existing": false,
+    "status": "open",
+    "website": null,
+    "wiki": null,
+    "images": [
+      {
+        "commons": "File:Sieu thi Aeonmall,duong Ten lua duong so17A,phuong Bình Trị Đông B, Bình Tân, TPHCM, Việt Nam,24-07-16-Dyt - panoramio.jpg",
+        "kind": "place"
+      }
+    ],
+    "tags": [
+      "Hợp với trẻ em",
+      "Trung tâm thương mại",
+      "Trong nhà"
+    ],
+    "rating": {
+      "value": 4.6,
+      "count": 34871,
+      "source": "Google (qua Wanderlog)",
+      "url": "https://wanderlog.com/place/details/145438/",
+      "seen": "2026-10"
+    },
+    "cat": "kids",
+    "id": "hcmc-kids-aeon-mall-binh-tan",
+    "name": "AEON Mall Bình Tân",
+    "subtitle": "Đại trung tâm thương mại Nhật với nhiều khu vui chơi gia đình",
+    "address": "1 Đường số 17A, Phường Bình Trị Đông B, Quận Bình Tân",
+    "lat": 10.74275,
+    "lng": 106.611931,
+    "coordSource": "https://wanderlog.com/place/details/145438/",
+    "price": "Vào cửa miễn phí; khu vui chơi trẻ em tính phí riêng",
+    "hours": "10:00–22:00 ngày thường; 09:00–22:00 cuối tuần",
+    "mustTry": "Khu vui chơi trẻ em trong nhà, cà phê mèo, siêu thị Nhật, khu ẩm thực, sảnh trang trí theo mùa",
+    "desc_vi": "AEON Mall Bình Tân là trung tâm thương mại lớn của tập đoàn AEON ở phía tây thành phố, có siêu thị, nhiều cửa hàng, khu ẩm thực và các khu vui chơi cho trẻ. Máy lạnh, rộng rãi và có bãi xe lớn nên rất tiện cho gia đình đi cả ngày.",
+    "review_vi": "Khen: rộng, sạch, nhiều lựa chọn mua sắm – ăn uống – vui chơi, có cà phê mèo, bãi xe rộng, nhân viên bảo vệ hỗ trợ tốt. Chê: xa trung tâm; cuối tuần rất đông.",
+    "tips_vi": "Mẹo: đi ngày thường để tránh đông; kết hợp mua sắm và cho bé chơi trong ngày mưa.",
+    "sources": [
+      "https://wanderlog.com/place/details/145438/",
+      "https://aeonmall-tanphuceladon-en.com/tin-tuc/10-khu-vui-choi-tre-em-duoc-yeu-thich-nhat-tai-tp-hcm.html"
+    ]
+  },
+  {
+    "trending": false,
+    "existing": false,
+    "status": "open",
+    "website": "http://vanhanhmall.com/",
+    "wiki": null,
+    "images": [
+      {
+        "commons": "File:Van Hanh Mall (1).jpg",
+        "kind": "place"
+      }
+    ],
+    "tags": [
+      "Hợp với trẻ em",
+      "Trung tâm thương mại",
+      "Trong nhà"
+    ],
+    "rating": {
+      "value": 4.4,
+      "count": 23028,
+      "source": "Google (qua Wanderlog)",
+      "url": "https://wanderlog.com/place/details/506363/",
+      "seen": "2026-10"
+    },
+    "cat": "kids",
+    "id": "hcmc-kids-van-hanh-mall",
+    "name": "Vạn Hạnh Mall",
+    "subtitle": "Trung tâm thương mại gia đình ở Quận 10 với rạp phim và khu game",
+    "address": "11 Sư Vạn Hạnh, Phường 12, Quận 10",
+    "lat": 10.770575,
+    "lng": 106.669923,
+    "coordSource": "https://wanderlog.com/place/details/506363/",
+    "price": "Vào cửa miễn phí; khu trò chơi, rạp phim tính phí",
+    "hours": "09:30–22:00 hằng ngày",
+    "mustTry": "Khu game – vui chơi trẻ em, rạp chiếu phim, khu ẩm thực nhiều tầng",
+    "desc_vi": "Vạn Hạnh Mall là trung tâm thương mại lớn ở Quận 10 với nhiều thương hiệu trong và ngoài nước, rạp chiếu phim, khu trò chơi và ẩm thực. Không gian rộng, sạch, phù hợp cả gia đình dành nửa ngày mua sắm và vui chơi.",
+    "review_vi": "Khen: rộng rãi, sạch sẽ, nhiều cửa hàng từ bình dân đến quốc tế, có rạp phim và khu game cho trẻ, đồ ăn ngon. Chê: cuối tuần đông người.",
+    "tips_vi": "Mẹo: ghé Bảo tàng Y học cổ truyền FITO gần đó nếu bé lớn thích tìm hiểu.",
+    "sources": [
+      "https://wanderlog.com/place/details/506363/"
+    ]
+  },
+  {
+    "trending": false,
+    "existing": false,
+    "status": "open",
+    "website": null,
+    "wiki": null,
+    "images": [],
+    "tags": [
+      "Hợp với trẻ em",
+      "Trượt băng",
+      "Trong nhà"
+    ],
+    "rating": null,
+    "cat": "kids",
+    "id": "hcmc-kids-san-truot-bang-landmark-81",
+    "name": "Sân trượt băng Vincom Ice Rink – Landmark 81",
+    "subtitle": "Sân băng trong nhà dưới chân tòa nhà cao nhất Việt Nam",
+    "address": "Tầng B1, Vincom Center Landmark 81, 772 Điện Biên Phủ, Phường 22, Quận Bình Thạnh",
+    "lat": 10.795195,
+    "lng": 106.721767,
+    "coordSource": "https://wanderlog.com/place/details/10045288/",
+    "price": "Tham khảo (2/2025): 220.000đ người lớn, 150.000đ trẻ em; thuê giày 30.000đ/lượt; dụng cụ tập hình hải cẩu 60.000đ, chim cánh cụt 40.000đ",
+    "hours": "10:00–22:00 hằng ngày",
+    "mustTry": "Trượt băng cho bé mới tập với dụng cụ hình chim cánh cụt – hải cẩu, kết hợp lên đài quan sát SkyView cùng tòa nhà",
+    "desc_vi": "Vincom Ice Rink nằm ở tầng hầm B1 Landmark 81, là sân trượt băng trong nhà rộng khoảng 2.000 m², một trải nghiệm 'mùa đông' hiếm có giữa Sài Gòn nóng bức. Sân có dụng cụ hỗ trợ hình con vật cho trẻ mới tập và tổ chức nhiều sự kiện theo mùa.",
+    "review_vi": "Khen: trải nghiệm lạ và vui cho trẻ, sân rộng khoảng 2.000 m², có dụng cụ hỗ trợ hình con vật cho bé mới tập. Chê: giá vé cộng tiền thuê đồ khá cao; giá có thể tăng dịp lễ Tết.",
+    "tips_vi": "Mẹo: mặc áo ấm; không mang đồ ăn uống vào sân, tránh chạy nhảy va chạm; kết hợp lên SkyView Landmark 81.",
+    "sources": [
+      "https://wanderlog.com/place/details/10045288/",
+      "https://mia.vn/cam-nang-du-lich/trai-nghiem-san-truot-bang-landmark-8-17922",
+      "https://vinpearl.com/vi/vincom-ice-rink-diem-truot-bang-o-sai-gon-dat-chuan-quoc-te"
+    ]
+  }
+]

@@ -1,0 +1,2373 @@
+[
+  {
+    "id": "hcmc-anan-saigon",
+    "name": "Ănăn Saigon",
+    "cat": "food",
+    "subtitle": "Ẩm thực Việt đương đại · Michelin 1 sao",
+    "address": "89 Tôn Thất Đạm, Phường Bến Nghé, Quận 1",
+    "lat": 10.7719227,
+    "lng": 106.7028706,
+    "coordSource": "https://guide.michelin.com/vn/en/ho-chi-minh/ho-chi-minh_2978179/restaurant/anan-saigon",
+    "price": "Tasting menu 115–145 USD/người (chưa gồm đồ uống)",
+    "hours": "17:00–khuya, thứ Ba–Chủ nhật (nghỉ thứ Hai)",
+    "mustTry": "Bánh mì Wagyu mini (Le Petite Bánh Mì), chả giò gan ngỗng, cá nghệ Hà Nội, bún chả Bourdain",
+    "desc_vi": "Nhà hàng của đầu bếp Peter Cường Franklin nằm ngay khu chợ Cũ Tôn Thất Đạm, nâng các món ăn đường phố Việt lên tầm fine dining bằng kỹ thuật hiện đại. Ănăn giữ 1 sao Michelin trong ấn bản 2026 và là một trong những địa chỉ tiên phong của làn sóng ẩm thực Việt sáng tạo ở Sài Gòn.",
+    "review_vi": "Khen: Michelin đánh giá mỗi món (chả giò gan ngỗng, cá nghệ Hà Nội, bánh mì Wagyu mini) là một bài học về cân bằng hương vị và kết cấu; thực đơn nếm thử đi từ Bắc vào Nam. Chê: giá niêm yết bằng USD, cao hơn hẳn mặt bằng ẩm thực Việt; quán nằm giữa khu chợ Cũ sôi động nên không dành cho ai tìm sự yên tĩnh.",
+    "rating": null,
+    "trending": false,
+    "tags": [
+      "Michelin 1 sao 2026",
+      "Fine dining",
+      "Ẩm thực Việt sáng tạo"
+    ],
+    "tips_vi": "Chỉ phục vụ bữa tối từ 17h, nghỉ thứ Hai — nên đặt bàn trước qua website. Có lựa chọn kết hợp rượu vang hoặc đồ uống không cồn.",
+    "images": [
+      {
+        "commons": "File:Anan Saigon.jpg",
+        "kind": "place"
+      }
+    ],
+    "wiki": null,
+    "website": "https://anansaigon.com",
+    "sources": [
+      "https://guide.michelin.com/vn/en/ho-chi-minh/ho-chi-minh_2978179/restaurant/anan-saigon",
+      "https://anansaigon.com",
+      "https://guide.michelin.com/en/article/michelin-guide-ceremony/michelin-guide-vietnam-2026"
+    ],
+    "status": "open",
+    "existing": true
+  },
+  {
+    "id": "hcmc-banh-xeo-46a",
+    "name": "Bánh Xèo 46A",
+    "cat": "food",
+    "subtitle": "Bánh xèo miền Nam · Michelin Bib Gourmand",
+    "address": "46A Đinh Công Tráng, Phường Tân Định, Quận 1",
+    "lat": 10.7895934,
+    "lng": 106.6913619,
+    "coordSource": "https://guide.michelin.com/vn/en/ho-chi-minh/ho-chi-minh_2978179/restaurant/banh-xeo-46a",
+    "price": "80.000–120.000đ/phần bánh xèo",
+    "hours": "10:00–13:50, 16:00–20:50 hằng ngày",
+    "mustTry": "Bánh xèo tôm thịt cỡ lớn, gỏi gà xé, các món nướng (heo, bò, mực, tôm)",
+    "desc_vi": "Quán bánh xèo lâu đời trên đường Đinh Công Tráng với chiếc bánh vàng giòn đường kính 30–35 cm, nhân tôm, thịt, giá và đậu xanh, cuốn cùng rổ rau sống. Anthony Bourdain từng ghé quay chương trình No Reservations năm 2008, và quán liên tục có mặt trong danh sách Bib Gourmand, gồm cả ấn bản 2026.",
+    "review_vi": "Khen: bánh to, vỏ mỏng giòn, nhiều tôm thịt, rau cuốn tươi; Michelin khuyên ngồi khu ngoài trời cạnh bếp để có trải nghiệm chân thực nhất. Chê: điểm Foody chỉ ở mức trung bình — nhiều bình luận phàn nàn giá cao so với phần ăn, phục vụ vội và hay mời gọi đồ uống, thu thêm phí gửi xe và phụ thu phòng lạnh.",
+    "rating": {
+      "value": 5.4,
+      "count": 177,
+      "source": "Foody.vn (thang điểm 10)",
+      "url": "https://www.foody.vn/ho-chi-minh/banh-xeo-46a-dinh-cong-trang",
+      "seen": "2026-10"
+    },
+    "trending": false,
+    "tags": [
+      "Michelin Bib Gourmand 2026",
+      "Ẩm thực đường phố",
+      "Anthony Bourdain"
+    ],
+    "tips_vi": "Chỉ nhận tiền mặt. Quán nghỉ giữa buổi (khoảng 14h–16h); nên đến sớm trước giờ đóng cửa vì gần tối hay hết bánh. Ngồi ngoài trời để xem đổ bánh và tránh phụ thu phòng lạnh.",
+    "images": [
+      {
+        "commons": "File:BanhXeoatSaigon.jpg",
+        "kind": "dish"
+      }
+    ],
+    "wiki": null,
+    "website": null,
+    "sources": [
+      "https://guide.michelin.com/vn/en/ho-chi-minh/ho-chi-minh_2978179/restaurant/banh-xeo-46a",
+      "https://vnexpress.net/8-quan-binh-dan-o-tp-hcm-duoc-michelin-goi-ten-4815268.html",
+      "https://www.foody.vn/ho-chi-minh/banh-xeo-46a-dinh-cong-trang"
+    ],
+    "status": "open",
+    "existing": true
+  },
+  {
+    "id": "hcmc-com-tam-ba-ghien",
+    "name": "Cơm Tấm Ba Ghiền",
+    "cat": "food",
+    "subtitle": "Cơm tấm sườn nướng than · Michelin Bib Gourmand",
+    "address": "84 Đặng Văn Ngữ, Phường 10, Quận Phú Nhuận",
+    "lat": 10.79444,
+    "lng": 106.66935,
+    "coordSource": "https://guide.michelin.com/vn/en/ho-chi-minh/ho-chi-minh_2978179/restaurant/com-tam-ba-ghien",
+    "price": "81.000–150.000đ/đĩa",
+    "hours": "09:00–21:30 hằng ngày",
+    "mustTry": "Cơm tấm sườn cốt lết nướng than (miếng sườn khổng lồ), đĩa thập cẩm sườn bì chả trứng",
+    "desc_vi": "Mở từ năm 1995, quán nổi tiếng với miếng sườn cốt lết thái dày 400–600 g, ướp công thức gia truyền rồi nướng than, phủ gần kín đĩa cơm. Ba Ghiền được Michelin xếp hạng Bib Gourmand bốn năm liền 2023–2026 và thường được coi là một trong những đĩa cơm tấm ngon nhất Sài Gòn.",
+    "review_vi": "Khen: miếng sườn 450–500 g ướp nước sốt bí quyết, nướng than thơm khói, phần ăn rất no; nhiều khách ăn ở đây hàng chục năm. Chê: ý kiến chia rẽ về giá — không ít người cho rằng giá chưa xứng với tiêu chí 'ngon, giá phải chăng' của Bib Gourmand, sườn đậm vị nhưng chưa thật mọng; quán bài trí cũ, không máy lạnh.",
+    "rating": {
+      "value": 6.6,
+      "count": 1567,
+      "source": "Foody.vn (thang điểm 10)",
+      "url": "https://www.foody.vn/ho-chi-minh/com-tam-ba-ghien-khong-chi-nhanh-84-dang-van-ngu",
+      "seen": "2026-10"
+    },
+    "trending": false,
+    "tags": [
+      "Michelin Bib Gourmand 2026",
+      "Cơm tấm",
+      "Ẩm thực đường phố"
+    ],
+    "tips_vi": "Chỉ nhận tiền mặt. Một đĩa sườn đã rất no — đi nhóm có thể gọi thêm canh khổ qua hoặc canh chua để đỡ ngấy.",
+    "images": [
+      {
+        "commons": "File:Cơm Tấm Bì Sườn Chả.jpg",
+        "kind": "dish"
+      }
+    ],
+    "wiki": null,
+    "website": null,
+    "sources": [
+      "https://guide.michelin.com/vn/en/ho-chi-minh/ho-chi-minh_2978179/restaurant/com-tam-ba-ghien",
+      "https://ngoisao.vnexpress.net/chi-pu-dua-amber-di-an-com-tam-sai-gon-5088565.html",
+      "https://news.tuoitre.vn/public-opinion-split-on-com-tam-ba-ghien-receiving-michelin-recognition-10373802.htm",
+      "https://www.foody.vn/ho-chi-minh/com-tam-ba-ghien-khong-chi-nhanh-84-dang-van-ngu"
+    ],
+    "status": "open",
+    "existing": true
+  },
+  {
+    "id": "hcmc-pho-le",
+    "name": "Phở Lệ",
+    "cat": "food",
+    "subtitle": "Phở bò kiểu Nam · Michelin Bib Gourmand",
+    "address": "413–415 Nguyễn Trãi, Phường 7, Quận 5",
+    "lat": 10.75529,
+    "lng": 106.67351,
+    "coordSource": "https://guide.michelin.com/vn/en/ho-chi-minh/ho-chi-minh_2978179/restaurant/pho-le-district-5",
+    "price": "80.000–100.000đ/tô",
+    "hours": "06:00–24:00 hằng ngày",
+    "mustTry": "Phở đặc biệt (tái, nạm, bò viên, gân)",
+    "desc_vi": "Tiệm phở mở từ năm 1970 trên đường Nguyễn Trãi (Quận 5, khu Chợ Lớn), phục vụ phở bò kiểu miền Nam đậm vị, nhiều thịt, nước dùng hầm xương bò khoảng 8 tiếng và rổ rau thơm đầy đặn. Phở Lệ có mặt trong danh sách Bib Gourmand của Michelin, gồm cả năm 2026, và có thêm cơ sở trên đường Võ Văn Tần, Quận 3.",
+    "review_vi": "Khen: tô phở nhiều thịt, nước dùng đậm, rau thơm đầy đặn, mở cửa đến nửa đêm nên tiện ăn khuya; tầng trên có máy lạnh. Chê: quán luôn đông và ồn, tầng trệt chỉ có quạt; giá cao hơn phở bình dân.",
+    "rating": null,
+    "trending": false,
+    "tags": [
+      "Michelin Bib Gourmand 2026",
+      "Phở",
+      "Quán lâu đời"
+    ],
+    "tips_vi": "Chỉ nhận tiền mặt. Tầng trệt chỉ có quạt, muốn mát hãy lên lầu. Ăn khuya sau 21h vẫn đông nhưng bớt chờ hơn giờ trưa.",
+    "images": [
+      {
+        "commons": "File:Pho and Eggs in Ho Chi Minh city.jpg",
+        "kind": "dish"
+      }
+    ],
+    "wiki": null,
+    "website": "https://www.phole.vn",
+    "sources": [
+      "https://guide.michelin.com/vn/en/ho-chi-minh/ho-chi-minh_2978179/restaurant/pho-le-district-5",
+      "https://thanhnien.vn/co-den-8-quan-pho-o-tphcm-duoc-michelin-vinh-danh-chu-quan-co-bi-quyet-gi-1852406211758293.htm",
+      "https://www.vietnamairlines.com/en/useful-information/travel-guide/best-pho-in-hcmc",
+      "https://thanhnien.vn/7-quan-pho-noi-tieng-tphcm-duoc-michelin-vinh-danh-2025-co-quan-ruot-cua-ban-khong-185250605224533612.htm"
+    ],
+    "status": "open",
+    "existing": true
+  },
+  {
+    "id": "hcmc-pho-phuong",
+    "name": "Phở Phượng",
+    "cat": "food",
+    "subtitle": "Phở đuôi bò · Michelin Bib Gourmand",
+    "address": "25 Hoàng Sa, Phường Đa Kao, Quận 1",
+    "lat": 10.791939,
+    "lng": 106.704478,
+    "coordSource": "https://guide.michelin.com/vn/en/ho-chi-minh/ho-chi-minh_2978179/restaurant/pho-phuong",
+    "price": "75.000–115.000đ/tô",
+    "hours": "05:30–20:30 (thứ Hai đến 14:00)",
+    "mustTry": "Phở đuôi bò hầm, phở đặc biệt nhiều phần thịt",
+    "desc_vi": "Quán phở bà Nguyễn Ngọc Phượng mở từ năm 18 tuổi, hơn 40 năm trên đường Hoàng Sa ven kênh Nhiêu Lộc – Thị Nghè. Nổi tiếng nhất là đuôi bò hầm rất lâu (Michelin ghi tới 40 giờ) đến mềm, sánh dẻo; rau thơm được nhặt rửa kỹ. Quán được xếp Bib Gourmand từ 2023 và vẫn giữ danh hiệu năm 2026.",
+    "review_vi": "Khen: đuôi bò hầm mềm, béo ngậy, nước dùng ngọt thanh, ăn không ngấy; rau thơm được nhặt rửa kỹ, nhiều khách gắn bó từ nhỏ. Chê: buổi sáng và trưa rất đông, phải chờ; món đuôi bò khá béo, không phải ai cũng hợp; một số đánh giá trên Foody (2020–2023) cho rằng giá cao và chất lượng giảm so với trước.",
+    "rating": {
+      "value": 5.3,
+      "count": 20,
+      "source": "Foody.vn (thang điểm 10)",
+      "url": "https://www.foody.vn/ho-chi-minh/quan-pho-phuong-hoang-sa",
+      "seen": "2026-10"
+    },
+    "trending": false,
+    "tags": [
+      "Michelin Bib Gourmand 2026",
+      "Phở"
+    ],
+    "tips_vi": "Thứ Hai chỉ bán buổi sáng đến 14h. Chỉ nhận tiền mặt; nên đến trước 7h hoặc sau 13h để tránh hàng chờ.",
+    "images": [
+      {
+        "commons": "File:Guests adjust the spice before enjoying phở 15-07-2018.jpg",
+        "kind": "dish"
+      }
+    ],
+    "wiki": null,
+    "website": null,
+    "sources": [
+      "https://guide.michelin.com/vn/en/ho-chi-minh/ho-chi-minh_2978179/restaurant/pho-phuong",
+      "https://tuoitre.vn/nld/hai-quan-pho-mot-nha-cung-duoc-michelin-goi-ten-196250629202128053.htm",
+      "https://www.vietnamairlines.com/en/useful-information/travel-guide/best-pho-in-hcmc",
+      "https://authentiktravel.com/best-addresses-northern-style-pho-ho-chi-minh-city",
+      "https://www.foody.vn/ho-chi-minh/quan-pho-phuong-hoang-sa"
+    ],
+    "status": "open",
+    "existing": true
+  },
+  {
+    "id": "hcmc-bun-bo-hue-14b",
+    "name": "Bún Bò Huế 14B",
+    "cat": "food",
+    "subtitle": "Bún bò Huế · Michelin Bib Gourmand",
+    "address": "14B Đường số 46, Phường 5, Quận 4",
+    "lat": 10.759416,
+    "lng": 106.69741,
+    "coordSource": "https://guide.michelin.com/vn/en/ho-chi-minh/ho-chi-minh_2978179/restaurant/bun-bo-hue-14b",
+    "price": "45.000–60.000đ/tô",
+    "hours": "06:30–20:30 hằng ngày",
+    "mustTry": "Bún bò đặc biệt (thịt bò, gân, chả bò, chả cây, giò heo)",
+    "desc_vi": "Quán nhỏ trong con hẻm yên tĩnh ở Quận 4 do hai chàng trai trẻ mở năm 2018, lớn mạnh nhờ bán qua ứng dụng giao đồ ăn với có ngày tới 500 tô. Nước dùng hầm từ xương bò, xương heo và hành, được nêm đậm hơn bản gốc Huế cho hợp khẩu vị người miền Nam; quán là Bib Gourmand liên tiếp, gồm cả năm 2026.",
+    "review_vi": "Khen: nước dùng đậm đà, nhiều topping, giá bình dân; sa tế và tương ớt nhà làm. Chê: quán chủ yếu bán mang đi/giao hàng, chỗ ngồi rất ít; vị đã được 'Nam hóa' nên người sành bún bò Huế gốc có thể thấy khác.",
+    "rating": {
+      "value": 8.4,
+      "count": 192,
+      "source": "Foody.vn (thang điểm 10)",
+      "url": "https://www.foody.vn/ho-chi-minh/bun-bo-hue-14b",
+      "seen": "2026-10"
+    },
+    "trending": false,
+    "tags": [
+      "Michelin Bib Gourmand 2026",
+      "Bún bò Huế"
+    ],
+    "tips_vi": "Không nhận thẻ. Nếu ở xa, đặt qua ShopeeFood/GrabFood là cách quán phục vụ phần lớn khách.",
+    "images": [
+      {
+        "commons": "File:Bun Bo Hue in Sai Gon.jpg",
+        "kind": "dish"
+      }
+    ],
+    "wiki": null,
+    "website": null,
+    "sources": [
+      "https://guide.michelin.com/vn/en/ho-chi-minh/ho-chi-minh_2978179/restaurant/bun-bo-hue-14b",
+      "https://vtcnews.vn/cam-50-nghin-dong-thuong-thuc-bun-bo-hue-o-tp-hcm-duoc-michelin-goi-ten-ar889599.html",
+      "https://vnexpress.net/8-quan-binh-dan-o-tp-hcm-duoc-michelin-goi-ten-4815268.html",
+      "https://www.foody.vn/ho-chi-minh/bun-bo-hue-14b"
+    ],
+    "status": "open",
+    "existing": true
+  },
+  {
+    "id": "hcmc-xoi-ga-number-one",
+    "name": "Xôi Gà Number One",
+    "cat": "food",
+    "subtitle": "Xôi gà, xôi bắp gia truyền · Michelin Selected",
+    "address": "15 Nguyễn Trung Trực, Phường Bến Thành, Quận 1",
+    "lat": 10.7737678,
+    "lng": 106.6992828,
+    "coordSource": "https://guide.michelin.com/vn/en/ho-chi-minh/ho-chi-minh_2978179/restaurant/xoi-ga-number-one",
+    "price": "20.000–40.000đ/phần",
+    "hours": "06:30–20:30 hằng ngày",
+    "mustTry": "Xôi gà đùi (kèm trứng non, lòng gà, nước sốt), xôi bắp mỡ hành",
+    "desc_vi": "Khởi đầu từ gánh xôi bắp của cụ Đỗ Thị Tịnh cuối thập niên 1950, quán đã qua ba thế hệ và nằm ngay gần cửa Đông chợ Bến Thành. Thực đơn chỉ xoay quanh xôi gà và xôi bắp nhưng đủ để được Michelin xếp vào nhóm Selected.",
+    "review_vi": "Khen: xôi dẻo thơm, gà và nước sốt đậm đà, vệ sinh tốt và giá rất bình dân giữa trung tâm Quận 1 — khoảng 100.000đ đủ cho 2–3 người. Chê: thực đơn gần như chỉ có xôi gà, xôi bắp; quán nhỏ ở góc phố nên chỗ ngồi hạn chế.",
+    "rating": null,
+    "trending": false,
+    "tags": [
+      "Michelin Selected 2026",
+      "Ẩm thực đường phố",
+      "Quán lâu đời"
+    ],
+    "tips_vi": "Chỉ nhận tiền mặt. Tiện ghé ăn sáng trước khi dạo chợ Bến Thành.",
+    "images": [
+      {
+        "commons": "File:Xôi gà.jpg",
+        "kind": "dish"
+      }
+    ],
+    "wiki": null,
+    "website": null,
+    "sources": [
+      "https://guide.michelin.com/vn/en/ho-chi-minh/ho-chi-minh_2978179/restaurant/xoi-ga-number-one",
+      "https://vtcnews.vn/cam-100-nghin-di-an-xoi-ga-number-one-canh-cho-ben-thanh-duoc-michelin-de-xuat-ar884907.html",
+      "https://vnexpress.net/8-quan-binh-dan-o-tp-hcm-duoc-michelin-goi-ten-4815268.html"
+    ],
+    "status": "open",
+    "existing": true
+  },
+  {
+    "id": "hcmc-banh-canh-cua-ba-ba",
+    "name": "Bánh Canh Cua Bà Ba",
+    "cat": "food",
+    "subtitle": "Bánh canh cua nồi đất · Michelin Bib Gourmand (mới 2026)",
+    "address": "Hẻm 84/6 Nguyễn Biểu, Phường 1, Quận 5",
+    "lat": 10.7551971,
+    "lng": 106.684595,
+    "coordSource": "https://guide.michelin.com/vn/en/ho-chi-minh/ho-chi-minh_2978179/restaurant/banh-canh-cua-ba-ba",
+    "price": "55.000đ/tô; nồi đất cho nhóm 120.000đ",
+    "hours": "08:00–20:00 hằng ngày",
+    "mustTry": "Bánh canh cua nồi đất, thêm chân giò, chả cá, quẩy; muối ớt xanh",
+    "desc_vi": "Quán nằm ở ngã ba hẻm Nguyễn Biểu, mở từ năm 2009 và chuyển hẳn sang bánh canh cua từ 2019 theo công thức gia đình; tên quán đặt theo bà nội của chủ quán. Nước lèo màu cam từ gạch cua, đặc sánh, ăn cùng chả cá, thịt càng cua và trứng thái sợi — đủ để lần đầu được Michelin đưa vào Bib Gourmand năm 2026.",
+    "review_vi": "Khen: nước lèo sánh, ngọt từ xương heo và gạch cua, topping nhiều; chấm muối ớt xanh chanh rất hợp, phần nồi đất tiện cho nhóm. Chê: quán nhỏ trong hẻm, khó tìm lần đầu và đông hơn hẳn từ khi được Michelin gọi tên.",
+    "rating": {
+      "value": 7.6,
+      "count": 69,
+      "source": "Foody.vn (thang điểm 10)",
+      "url": "https://www.foody.vn/ho-chi-minh/banh-canh-cua-ba-ba",
+      "seen": "2026-10"
+    },
+    "trending": false,
+    "tags": [
+      "Michelin Bib Gourmand 2026",
+      "Mới vào Michelin 2026",
+      "Bánh canh cua"
+    ],
+    "tips_vi": "Có thể vào từ phía đường Nguyễn Biểu hoặc Nguyễn Văn Cừ theo biển chỉ dẫn. Chỉ nhận tiền mặt.",
+    "images": [
+      {
+        "commons": "File:Bánh canh cua.jpg",
+        "kind": "dish"
+      }
+    ],
+    "wiki": null,
+    "website": null,
+    "sources": [
+      "https://guide.michelin.com/vn/en/ho-chi-minh/ho-chi-minh_2978179/restaurant/banh-canh-cua-ba-ba",
+      "https://vnexpress.net/quan-banh-canh-trong-hem-o-tp-hcm-duoc-michelin-vinh-danh-5083354.html",
+      "https://www.foody.vn/ho-chi-minh/banh-canh-cua-ba-ba"
+    ],
+    "status": "open",
+    "existing": false
+  },
+  {
+    "id": "hcmc-banh-cuon-tay-ho-127",
+    "name": "Bánh Cuốn Tây Hồ 127",
+    "cat": "food",
+    "subtitle": "Bánh cuốn nóng · Michelin Bib Gourmand (mới 2026)",
+    "address": "127 Đinh Tiên Hoàng, Phường Đa Kao, Quận 1",
+    "lat": 10.7908015,
+    "lng": 106.6969749,
+    "coordSource": "https://guide.michelin.com/vn/en/ho-chi-minh/ho-chi-minh_2978179/restaurant/banh-cuon-tay-ho-127",
+    "price": "40.000–72.000đ/phần",
+    "hours": "05:30–21:30 hằng ngày",
+    "mustTry": "Bánh cuốn nhân thịt mộc nhĩ, bánh cuốn tôm thịt nấm, chả lụa, bánh đậu xanh chiên",
+    "desc_vi": "Tiệm bánh cuốn 65 năm tuổi do cụ Trần Thị Cà (quê Hà Nam) mở năm 1961 gần đền thờ Phan Châu Trinh (hiệu Tây Hồ), chuyển về Đinh Tiên Hoàng từ 1978. Bánh tráng hơi tại chỗ khi khách gọi, vỏ mỏng mềm thơm hành phi; quán lần đầu vào Bib Gourmand năm 2026, nổi bật với hình ảnh bà chủ mặc áo dài phục vụ khách.",
+    "review_vi": "Khen: bánh tráng nóng khi khách gọi, vỏ mỏng mềm thơm dầu hành, giữ vị truyền thống mà thêm nhiều loại nhân, có cả thực đơn chay; quán rộng, có phòng lạnh trên lầu. Chê: giá 40.000–72.000đ/phần cao hơn bánh cuốn bình dân; giờ trưa đông khách hơn hẳn từ khi được Michelin gọi tên.",
+    "rating": null,
+    "trending": false,
+    "tags": [
+      "Michelin Bib Gourmand 2026",
+      "Mới vào Michelin 2026",
+      "Bánh cuốn",
+      "Quán lâu đời"
+    ],
+    "tips_vi": "Chỉ nhận tiền mặt. Mẹo của quán: dùng thìa cắt bánh rồi nhúng vào nước mắm.",
+    "images": [
+      {
+        "commons": "File:Bánh cuốn Saigon.jpg",
+        "kind": "dish"
+      }
+    ],
+    "wiki": null,
+    "website": null,
+    "sources": [
+      "https://guide.michelin.com/vn/en/ho-chi-minh/ho-chi-minh_2978179/restaurant/banh-cuon-tay-ho-127",
+      "https://vnexpress.net/quan-banh-cuon-65-tuoi-duoc-michelin-vinh-danh-an-ngon-gia-phai-chang-5083954.html"
+    ],
+    "status": "open",
+    "existing": false
+  },
+  {
+    "id": "hcmc-chi-mo",
+    "name": "Chị Mơ",
+    "cat": "food",
+    "subtitle": "Phở và món Việt · Michelin Bib Gourmand 2026 (tạm đóng cửa)",
+    "address": "23C Lê Văn Miến, Phường Thảo Điền, Quận 2 (TP. Thủ Đức)",
+    "lat": 10.8055643,
+    "lng": 106.732977,
+    "coordSource": "https://guide.michelin.com/vn/en/ho-chi-minh/ho-chi-minh_2978179/restaurant/chi-mo",
+    "price": "₫₫ (Michelin: chi tiêu vừa phải)",
+    "hours": "Tạm ngừng hoạt động từ 3/6/2026",
+    "mustTry": "Phở bò ba loại nước dùng hầm 24 giờ, cá trê nướng bánh đa",
+    "desc_vi": "Nhà hàng món Việt mở năm 2025 ở Thảo Điền, nổi bật với phở không bột ngọt, ba loại nước dùng hầm xương tươi 24 giờ cùng kệ đồ lên men tự làm. Quán thông báo tạm dừng ngày 3/6/2026 — đúng một ngày trước khi được Michelin xướng tên Bib Gourmand — và cho biết sẽ trở lại ở khu trung tâm (Quận 1 cũ) với concept mới.",
+    "review_vi": "Khen: Michelin khen nước phở đậm đà, kết hợp kỹ thuật phương Tây với hồn Việt. Chê: hiện chưa thể đến ăn vì quán đang tạm đóng; chưa có thông tin chính thức về địa chỉ và ngày mở lại.",
+    "rating": null,
+    "trending": false,
+    "tags": [
+      "Michelin Bib Gourmand 2026",
+      "Mới vào Michelin 2026",
+      "Phở"
+    ],
+    "tips_vi": "Theo dõi fanpage/Instagram của quán để biết khi nào mở lại ở địa điểm mới trước khi đi.",
+    "images": [
+      {
+        "commons": "File:Pho and Eggs in Ho Chi Minh city.jpg",
+        "kind": "dish"
+      }
+    ],
+    "wiki": null,
+    "website": null,
+    "sources": [
+      "https://guide.michelin.com/vn/en/ho-chi-minh/ho-chi-minh_2978179/restaurant/chi-mo",
+      "https://ngoisao.vnexpress.net/quan-pho-vua-dong-cua-hom-truoc-hom-sau-duoc-michelin-xuong-ten-5082246.html",
+      "https://dtinews.dantri.com.vn/print/20260606142516101.htm"
+    ],
+    "status": "closed",
+    "existing": false
+  },
+  {
+    "id": "hcmc-akuna",
+    "name": "Akuna",
+    "cat": "food",
+    "subtitle": "Fine dining Âu – Việt · Michelin 1 sao",
+    "address": "Tầng 9, khách sạn Le Méridien Saigon, 3C Tôn Đức Thắng, Phường Bến Nghé, Quận 1",
+    "lat": 10.7798895,
+    "lng": 106.7074227,
+    "coordSource": "https://guide.michelin.com/vn/en/ho-chi-minh/ho-chi-minh_2978179/restaurant/akuna",
+    "price": "Tasting menu 4.900.000đ/người (chưa gồm phí phục vụ và VAT); kết hợp rượu từ 1.800.000đ",
+    "hours": "18:00–22:00, thứ Ba–thứ Bảy",
+    "mustTry": "Tasting menu theo mùa của bếp trưởng Sam Aisbett, bò Wagyu Úc 9+ nướng than với lá lốt",
+    "desc_vi": "Nhà hàng của bếp trưởng người Úc Sam Aisbett trên tầng 9 khách sạn Le Méridien; tên Akuna nghĩa là 'dòng nước chảy' trong ngôn ngữ thổ dân Úc, gợi từ 1.200 thanh đèn lấp lánh quanh bếp mở. Thực đơn nếm thử kết hợp kỹ thuật châu Âu với nguyên liệu và hương vị Việt mà Sam gom nhặt trên hành trình khắp Việt Nam; nhà hàng giữ 1 sao Michelin năm 2026.",
+    "review_vi": "Khen: Michelin đánh giá các món Âu sáng tạo mang ảnh hưởng Việt 'không bao giờ thất bại trong việc gây ấn tượng', không gian bếp mở với hệ đèn ánh nước rất ấn tượng; có lựa chọn kết hợp rượu Úc, sake hoặc đồ uống không cồn. Chê: chi phí rất cao (gần 5 triệu đồng/người chưa tính đồ uống, phí dịch vụ), chỉ phục vụ bữa tối 5 ngày/tuần.",
+    "rating": null,
+    "trending": false,
+    "tags": [
+      "Michelin 1 sao 2026",
+      "Fine dining"
+    ],
+    "tips_vi": "Đặt bàn trước qua website; nghỉ Chủ nhật và thứ Hai. Giá niêm yết tính theo nghìn đồng và chưa gồm phí dịch vụ, VAT.",
+    "images": [],
+    "wiki": null,
+    "website": "https://akunarestaurant.com",
+    "sources": [
+      "https://guide.michelin.com/vn/en/ho-chi-minh/ho-chi-minh_2978179/restaurant/akuna",
+      "https://akunarestaurant.com/menu/",
+      "https://akunarestaurant.com/wp-content/uploads/2026/09/AKUNA-MENU-ENG-VIET-7.9.pdf.pdf"
+    ],
+    "status": "open",
+    "existing": false
+  },
+  {
+    "id": "hcmc-ciel",
+    "name": "CieL",
+    "cat": "food",
+    "subtitle": "Fine dining Pháp – Việt · Michelin 1 sao",
+    "address": "6/3 Đường số 50, Phường Thảo Điền, Quận 2 (TP. Thủ Đức)",
+    "lat": 10.805146,
+    "lng": 106.7341963,
+    "coordSource": "https://guide.michelin.com/vn/en/ho-chi-minh/ho-chi-minh_2978179/restaurant/ciel%C2%A0",
+    "price": "₫₫₫₫ — tasting menu (Michelin: hạng chi tiêu cao nhất)",
+    "hours": "Thứ Ba–Chủ nhật 17:30–23:00 (phục vụ từ 18:30, lượt cuối 20:30); nghỉ thứ Hai",
+    "mustTry": "Tasting menu thay đổi liên tục, món bong bóng cá với custard",
+    "desc_vi": "Nhà hàng trong một căn villa hiện đại ở Thảo Điền, tạo cảm giác như đang dùng bữa tại nhà một người bạn: tầng trệt là quầy nhìn thẳng vào bếp mở và vườn nhiệt đới, tầng trên mang phong cách Bắc Âu thanh lịch. Bếp trưởng Việt Hồng kết hợp kỹ thuật Pháp với tâm hồn Việt trong thực đơn nếm thử luôn biến đổi; nhà hàng giữ 1 sao Michelin năm 2026.",
+    "review_vi": "Khen: Michelin khen món bong bóng cá và custard là sự giao thoa Đông – Tây 'tuyệt hảo', dịch vụ chu đáo và phần kết hợp rượu vang hài hòa. Chê: chỉ phục vụ bữa tối, giá ở mức cao nhất của Michelin và nằm xa trung tâm Quận 1.",
+    "rating": null,
+    "trending": false,
+    "tags": [
+      "Michelin 1 sao 2026",
+      "Fine dining",
+      "Thảo Điền"
+    ],
+    "tips_vi": "Nên đặt chỗ ngồi quầy tầng trệt để xem bếp. Lượt cuối nhận khách lúc 20:30; liên hệ đặt bàn qua website hoặc số +84 903 600 505.",
+    "images": [],
+    "wiki": null,
+    "website": "https://cieldining.com",
+    "sources": [
+      "https://guide.michelin.com/vn/en/ho-chi-minh/ho-chi-minh_2978179/restaurant/ciel%C2%A0",
+      "https://cieldining.com"
+    ],
+    "status": "open",
+    "existing": false
+  },
+  {
+    "id": "hcmc-coco-dining",
+    "name": "CoCo Dining",
+    "cat": "food",
+    "subtitle": "Ẩm thực Việt sáng tạo · Michelin 1 sao",
+    "address": "143 Nam Kỳ Khởi Nghĩa, Quận 3",
+    "lat": 10.7808709,
+    "lng": 106.6932479,
+    "coordSource": "https://guide.michelin.com/vn/en/ho-chi-minh/ho-chi-minh_2978179/restaurant/coco-dining",
+    "price": "₫₫₫ — tasting menu 'Lưu Tích' (Michelin: dành cho dịp đặc biệt)",
+    "hours": "17:30–23:00 hằng ngày",
+    "mustTry": "Tasting menu theo chủ đề 'Lưu Tích'; à la carte ở CoCo Grill bên cạnh",
+    "desc_vi": "Trái tim của tổ hợp CoCo Saigon (gồm cả quầy whisky, villa tiệc riêng và CoCo Grill), với phòng ăn sang trọng có quầy bếp và bàn đá granite đen. Bếp trưởng Võ Thanh Vương xây dựng thực đơn nếm thử theo mùa như một câu chuyện kể dần qua từng món, kết hợp công thức Việt với sáng tạo hiện đại; nhà hàng giữ 1 sao Michelin năm 2026.",
+    "review_vi": "Khen: Michelin đánh giá các món được thiết kế để bổ trợ nhau, tạo hành trình cân bằng; có thêm lựa chọn à la carte thoải mái hơn ở CoCo Grill và quầy 'The Front Row' cho khách đi một mình. Chê: chỉ mở buổi tối, chi phí cao và cần đặt trước.",
+    "rating": null,
+    "trending": false,
+    "tags": [
+      "Michelin 1 sao 2026",
+      "Fine dining",
+      "Ẩm thực Việt sáng tạo"
+    ],
+    "tips_vi": "Nếu muốn trải nghiệm nhẹ hơn, chọn à la carte ở CoCo Grill hoặc ghé CoCo Bar (mở đến 1h sáng).",
+    "images": [],
+    "wiki": null,
+    "website": "https://cocosgn.com",
+    "sources": [
+      "https://guide.michelin.com/vn/en/ho-chi-minh/ho-chi-minh_2978179/restaurant/coco-dining",
+      "https://cocosgn.com/coco-dining"
+    ],
+    "status": "open",
+    "existing": false
+  },
+  {
+    "id": "hcmc-long-trieu",
+    "name": "Long Triều",
+    "cat": "food",
+    "subtitle": "Ẩm thực Quảng Đông · Michelin 1 sao",
+    "address": "Tầng 4, khách sạn The Reverie Saigon, 22–36 Nguyễn Huệ, Phường Bến Nghé, Quận 1",
+    "lat": 10.7739539,
+    "lng": 106.7047515,
+    "coordSource": "https://guide.michelin.com/vn/en/ho-chi-minh/ho-chi-minh_2978179/restaurant/long-trieu",
+    "price": "₫₫₫₫ (Michelin: hạng chi tiêu cao nhất)",
+    "hours": "Trưa 11:00–14:00 (cuối tuần từ 10:00), tối 18:00–22:00",
+    "mustTry": "Tôm chiên sốt XO, súp hoành thánh chua cay, dim sum buổi trưa",
+    "desc_vi": "Nhà hàng Quảng Đông trong khách sạn The Reverie Saigon, phòng ăn lộng lẫy với đá ngọc bích, tranh vẽ dát vàng phong cách Trung Hoa và ghế chạm trổ. Thực đơn à la carte và set menu tôn vinh di sản Quảng Đông nhưng khéo léo dùng nguyên liệu Việt; Long Triều giữ 1 sao Michelin năm 2026.",
+    "review_vi": "Khen: Michelin đánh giá cao cách đưa nguyên liệu Việt vào kỹ thuật Quảng Đông truyền thống, nổi bật là tôm chiên sốt XO và súp hoành thánh chua cay; phòng ăn lộng lẫy hợp tiếp khách, có cả à la carte lẫn set menu. Chê: giá thuộc nhóm cao nhất của Michelin, cần đặt bàn trước.",
+    "rating": null,
+    "trending": false,
+    "tags": [
+      "Michelin 1 sao 2026",
+      "Fine dining",
+      "Quảng Đông"
+    ],
+    "tips_vi": "Có cả bữa trưa và bữa tối; cuối tuần mở bữa trưa từ 10h. Nên đặt bàn trước.",
+    "images": [],
+    "wiki": null,
+    "website": "https://www.thereveriesaigon.com/restaurants-bars/long-trieu",
+    "sources": [
+      "https://guide.michelin.com/vn/en/ho-chi-minh/ho-chi-minh_2978179/restaurant/long-trieu"
+    ],
+    "status": "open",
+    "existing": false
+  },
+  {
+    "id": "hcmc-upstairs",
+    "name": "Upstairs",
+    "cat": "food",
+    "subtitle": "Ẩm thực Việt đương đại · Michelin 1 sao (mới 2026)",
+    "address": "Tầng 1, 36 Nguyễn Bá Huân, Phường Thảo Điền, Quận 2 (TP. Thủ Đức)",
+    "lat": 10.8044888,
+    "lng": 106.7291323,
+    "coordSource": "https://guide.michelin.com/vn/en/ho-chi-minh/ho-chi-minh_2978179/restaurant/upstairs",
+    "price": "₫₫₫₫ — tasting menu (Michelin: hạng chi tiêu cao nhất)",
+    "hours": "Tối 18:00–23:00 thứ Sáu–thứ Ba; trưa 12:00–15:00 Chủ nhật và thứ Hai; nghỉ thứ Tư, thứ Năm",
+    "mustTry": "Tasting menu gốc miền Trung, gỏi bò cà (tartare Wagyu, cà tím nghiền, lòng đỏ trứng trong vỏ giòn)",
+    "desc_vi": "Nhà hàng nhỏ chỉ bốn bàn nằm phía trên một quầy rượu vang ở Thảo Điền, nội thất đường cong với tông hồng phấn và be. Bếp trưởng Trương Hiệp làm mới các món Việt gốc miền Trung theo lối hiện đại; Upstairs là ngôi sao Michelin mới duy nhất của TP.HCM trong ấn bản 2026.",
+    "review_vi": "Khen: Michelin khen cách làm mới món cổ điển một cách thanh lịch như gỏi bò cà, danh sách vang từ các nhà làm rượu nhỏ với sommelier tư vấn rượu theo ly rất am hiểu. Chê: chỉ bốn bàn nên rất khó đặt chỗ, giá ở mức cao nhất và lịch mở cửa không đều trong tuần.",
+    "rating": null,
+    "trending": false,
+    "tags": [
+      "Michelin 1 sao 2026",
+      "Mới vào Michelin 2026",
+      "Fine dining",
+      "Thảo Điền"
+    ],
+    "tips_vi": "Đặt bàn sớm vì sức chứa rất nhỏ. Thứ Tư và thứ Năm nghỉ; bữa trưa chỉ có Chủ nhật và thứ Hai.",
+    "images": [],
+    "wiki": null,
+    "website": "https://upstairssgn.com/home/en",
+    "sources": [
+      "https://guide.michelin.com/vn/en/ho-chi-minh/ho-chi-minh_2978179/restaurant/upstairs",
+      "https://upstairssgn.com/home/en",
+      "https://guide.michelin.com/en/article/michelin-guide-ceremony/michelin-guide-vietnam-2026"
+    ],
+    "status": "open",
+    "existing": false
+  },
+  {
+    "id": "hcmc-chay-garden",
+    "name": "Chay Garden",
+    "cat": "food",
+    "subtitle": "Nhà hàng chay Việt · Michelin Bib Gourmand",
+    "address": "Cuối hẻm 52 Võ Văn Tần, Quận 3",
+    "lat": 10.778071,
+    "lng": 106.6909017,
+    "coordSource": "https://guide.michelin.com/vn/en/ho-chi-minh/ho-chi-minh_2978179/restaurant/chay-garden",
+    "price": "Món 80.000–200.000đ; lẩu chay 200.000–400.000đ/nồi",
+    "hours": "10:00–22:00 hằng ngày",
+    "mustTry": "Cà tím om chuối đậu xanh, gỏi nấm, lẩu chay",
+    "desc_vi": "Mở từ năm 2018 trong một căn nhà kiểu thuộc địa cuối con hẻm yên tĩnh ở trung tâm, có sân vườn rợp cây và các phòng ăn nhỏ bài trí tinh tế, một phòng có bích họa nhiều màu. Thực đơn chay Việt phong phú với giá hợp lý; Chay Garden vào Bib Gourmand từ 2023 và tiếp tục giữ danh hiệu năm 2026.",
+    "review_vi": "Khen: món chay ngon, trình bày đẹp, thực đơn rất đa dạng; không gian sân vườn yên tĩnh hợp hẹn hò, gia đình; điểm Foody cao (8,4). Chê: một số khách cho rằng giá hơi cao so với quán chay bình dân và quán ngày càng đông, thương mại hơn; có lúc phục vụ chưa chu đáo.",
+    "rating": {
+      "value": 8.4,
+      "count": 53,
+      "source": "Foody.vn (thang điểm 10)",
+      "url": "https://www.foody.vn/ho-chi-minh/chay-garden-restaurant-coffee",
+      "seen": "2026-10"
+    },
+    "trending": false,
+    "tags": [
+      "Michelin Bib Gourmand 2026",
+      "Đồ chay",
+      "Sân vườn"
+    ],
+    "tips_vi": "Lối vào chung hẻm với quán hủ tiếu Nam Vang, đi thẳng vào cuối hẻm. Nhận thẻ tín dụng.",
+    "images": [
+      {
+        "commons": "File:Gỏi Cuốn Chay Vietnamese Fresh Vegetarian Spring Roll 2019-1599.jpg",
+        "kind": "dish"
+      }
+    ],
+    "wiki": null,
+    "website": "https://chaygarden.com",
+    "sources": [
+      "https://guide.michelin.com/vn/en/ho-chi-minh/ho-chi-minh_2978179/restaurant/chay-garden",
+      "https://ngoisao.vnexpress.net/nha-hang-chay-ba-nam-lien-duoc-michelin-vinh-danh-o-tp-hcm-5041808.html",
+      "https://www.foody.vn/ho-chi-minh/chay-garden-restaurant-coffee"
+    ],
+    "status": "open",
+    "existing": false
+  },
+  {
+    "id": "hcmc-bep-me-in",
+    "name": "Bếp Mẹ Ỉn (Lê Thánh Tôn)",
+    "cat": "food",
+    "subtitle": "Món Việt kiểu quê nhà · Michelin Bib Gourmand",
+    "address": "Hẻm 136 Lê Thánh Tôn, Phường Bến Thành, Quận 1",
+    "lat": 10.7739937,
+    "lng": 106.6982066,
+    "coordSource": "https://guide.michelin.com/vn/en/ho-chi-minh/ho-chi-minh_2978179/restaurant/bep-me-in-le-thanh-ton",
+    "price": "₫ (Michelin: giá bình dân)",
+    "hours": "10:30–22:30 hằng ngày",
+    "mustTry": "Bánh xèo tôm thịt dọn trong rổ tre, cơm chiên tôm trứng trong trái dừa",
+    "desc_vi": "Quán nhỏ nép trong hẻm gần chợ Bến Thành, tường vàng rực và cửa chớp xanh mô phỏng nhà làng quê, khách ngồi ghế đẩu gỗ như dân địa phương. Michelin xếp Bếp Mẹ Ỉn vào Bib Gourmand 2026 nhờ món Việt dễ ăn, phần ăn hợp chia sẻ và không khí thân thiện.",
+    "review_vi": "Khen: Michelin khen bánh xèo tôm thịt và cơm chiên trái dừa, phục vụ thân thiện, phần ăn vừa để chia nhóm; vị trí tiện ghé khi dạo Bến Thành. Chê: ngồi ghế đẩu gỗ kiểu quán bình dân, không khí nhộn nhịp ồn ào — không hợp ai cần sự yên tĩnh.",
+    "rating": null,
+    "trending": false,
+    "tags": [
+      "Michelin Bib Gourmand 2026",
+      "Món Việt",
+      "Gần chợ Bến Thành"
+    ],
+    "tips_vi": "Nhận thẻ Visa. Lưu ý chọn đúng chi nhánh trên đường Lê Thánh Tôn (chuỗi có nhiều cơ sở).",
+    "images": [
+      {
+        "commons": "File:BanhXeoatSaigon.jpg",
+        "kind": "dish"
+      }
+    ],
+    "wiki": null,
+    "website": "https://bep.mein.vn",
+    "sources": [
+      "https://guide.michelin.com/vn/en/ho-chi-minh/ho-chi-minh_2978179/restaurant/bep-me-in-le-thanh-ton"
+    ],
+    "status": "open",
+    "existing": false
+  },
+  {
+    "id": "hcmc-la-lola",
+    "name": "La Lola",
+    "cat": "food",
+    "subtitle": "Ẩm thực Địa Trung Hải · Michelin Bib Gourmand (mới 2026)",
+    "address": "82 Lý Tự Trọng, Phường Bến Thành, Quận 1",
+    "lat": 10.77448,
+    "lng": 106.697626,
+    "coordSource": "https://guide.michelin.com/vn/en/ho-chi-minh/ho-chi-minh_2978179/restaurant/la-lola",
+    "price": "₫₫ (Michelin: chi tiêu vừa phải)",
+    "hours": null,
+    "mustTry": "Gambas al ajillo (tôm Việt sốt dầu tỏi ớt), sườn heo Ibérico áp chảo",
+    "desc_vi": "Nhà hàng Địa Trung Hải trẻ trung với mặt tiền màu cam cháy nổi bật, sàn gạch hoa và ghế nhung. Bếp trưởng Julio Gomez thêm chút hơi thở Việt vào món kinh điển, như gambas al ajillo dùng tôm Việt; La Lola là một trong năm quán TP.HCM lần đầu vào Bib Gourmand năm 2026.",
+    "review_vi": "Khen: Michelin đánh giá món ăn đậm vị, phần ăn hợp chia sẻ, không gian thoải mái để nán lại với đồ uống; sườn Ibérico mềm, áp chảo khéo. Chê: quán mới vào danh sách, các nguồn tiếng Việt đã đọc chưa có nhiều đánh giá để đối chiếu.",
+    "rating": null,
+    "trending": false,
+    "tags": [
+      "Michelin Bib Gourmand 2026",
+      "Mới vào Michelin 2026",
+      "Ẩm thực quốc tế"
+    ],
+    "tips_vi": "Hợp đi nhóm để gọi nhiều món chia nhau. Nhận thẻ tín dụng.",
+    "images": [],
+    "wiki": null,
+    "website": null,
+    "sources": [
+      "https://guide.michelin.com/vn/en/ho-chi-minh/ho-chi-minh_2978179/restaurant/la-lola",
+      "https://guide.michelin.com/en/article/michelin-guide-ceremony/michelin-guide-vietnam-2026"
+    ],
+    "status": "open",
+    "existing": false
+  },
+  {
+    "id": "hcmc-bo-kho-ganh",
+    "name": "Bò Kho Gánh",
+    "cat": "food",
+    "subtitle": "Bò kho thố đá · Michelin Bib Gourmand",
+    "address": "029 Lô H, chung cư Ngô Gia Tự (đường Sư Vạn Hạnh), Phường 2, Quận 10",
+    "lat": 10.761215,
+    "lng": 106.669885,
+    "coordSource": "https://guide.michelin.com/vn/en/ho-chi-minh/ho-chi-minh_2978179/restaurant/bo-kho-ganh",
+    "price": "Từ 50.000đ/phần; bò kho đặc biệt thố đất 110.000đ",
+    "hours": "10:00–22:00 hằng ngày",
+    "mustTry": "Bò kho đặc biệt (sườn bò tơ Củ Chi, nạm, gân) ăn với bánh mì, hủ tiếu hoặc mì",
+    "desc_vi": "Quán bò kho bình dân dưới chân chung cư Ngô Gia Tự, phục vụ bò kho trong thố đá giữ nóng, ăn kèm bánh mì, mì hoặc cơm tùy chọn. Nước dùng đậm vị thịt, hơi ngọt kiểu miền Nam; quán liên tục có mặt trong Bib Gourmand, gồm cả năm 2026.",
+    "review_vi": "Khen: thịt bò thơm mềm, nước kho đậm đà, khách tự nêm thêm gia vị theo ý; giá dễ chịu. Chê: không gian đơn sơ dưới chung cư cũ, chỉ nhận tiền mặt; phần đặc biệt giá cao hơn hẳn phần thường.",
+    "rating": {
+      "value": 6.0,
+      "count": 23,
+      "source": "Foody.vn (thang điểm 10)",
+      "url": "https://www.foody.vn/ho-chi-minh/bo-kho-ganh-chung-cu-ngo-gia-tu",
+      "seen": "2026-10"
+    },
+    "trending": false,
+    "tags": [
+      "Michelin Bib Gourmand 2026",
+      "Bò kho",
+      "Ẩm thực đường phố"
+    ],
+    "tips_vi": "Chỉ nhận tiền mặt. Ăn với bánh mì là cách phổ biến nhất của người Sài Gòn.",
+    "images": [
+      {
+        "commons": "File:Bo Kho.jpg",
+        "kind": "dish"
+      }
+    ],
+    "wiki": null,
+    "website": "https://www.bokhoganh.com",
+    "sources": [
+      "https://guide.michelin.com/vn/en/ho-chi-minh/ho-chi-minh_2978179/restaurant/bo-kho-ganh",
+      "https://vnexpress.net/8-quan-binh-dan-o-tp-hcm-duoc-michelin-goi-ten-4815268.html",
+      "https://www.foody.vn/ho-chi-minh/bo-kho-ganh-chung-cu-ngo-gia-tu"
+    ],
+    "status": "open",
+    "existing": false
+  },
+  {
+    "id": "hcmc-nha-tu",
+    "name": "Nhà Tú",
+    "cat": "food",
+    "subtitle": "Cơm nhà kiểu Sài Gòn · Michelin Bib Gourmand",
+    "address": "Hẻm 129/4 Võ Văn Tần, Quận 3",
+    "lat": 10.7753712,
+    "lng": 106.6898829,
+    "coordSource": "https://guide.michelin.com/vn/en/ho-chi-minh/ho-chi-minh_2978179/restaurant/nha-tu",
+    "price": "₫ (Michelin: giá bình dân)",
+    "hours": "11:00–23:00 hằng ngày",
+    "mustTry": "Ốc hấp nhồi thịt sả, rau củ trộn mắm tóp mỡ, kho quẹt, trứng chiên hàu, lẩu hàu sữa",
+    "desc_vi": "Quán cơm gia đình trong hẻm Võ Văn Tần, không gian nhiều cây xanh, hoài niệm và có ban công tầng trên dễ chịu. Chủ quán tái hiện những món cơm nhà tuổi thơ hiếm gặp ở nơi khác; Nhà Tú được Michelin xếp Bib Gourmand liên tiếp từ 2023, gồm cả năm 2026.",
+    "review_vi": "Khen: Michelin khen ốc nhồi thịt thơm sả đậm umami, món rau trộn mắm tóp mỡ đơn giản mà 'gây nghiện'; không gian nhiều cây xanh như một ốc đảo giữa phố. Chê: các nguồn đã đọc không ghi nhận phàn nàn đáng kể; lưu ý quán nằm sâu trong hẻm.",
+    "rating": null,
+    "trending": false,
+    "tags": [
+      "Michelin Bib Gourmand 2026",
+      "Cơm nhà",
+      "Món Việt"
+    ],
+    "tips_vi": "Đi nhóm 3–4 người để gọi được nhiều món cơm nhà. Nên ngồi ban công tầng trên.",
+    "images": [
+      {
+        "commons": "File:Canhchua1.jpg",
+        "kind": "dish"
+      }
+    ],
+    "wiki": null,
+    "website": null,
+    "sources": [
+      "https://guide.michelin.com/vn/en/ho-chi-minh/ho-chi-minh_2978179/restaurant/nha-tu",
+      "https://vnexpress.net/7-dia-chi-thuong-thuc-com-nha-o-tp-hcm-cuoi-tuan-5101433.html"
+    ],
+    "status": "open",
+    "existing": false
+  },
+  {
+    "id": "hcmc-bun-rieu-yen",
+    "name": "Bún Riêu Yến",
+    "cat": "food",
+    "subtitle": "Bún riêu tôm thịt · Michelin Bib Gourmand (mới 2026)",
+    "address": "1346 Trường Sa, Phường 3, Quận Tân Bình",
+    "lat": 10.7917087,
+    "lng": 106.6640324,
+    "coordSource": "https://guide.michelin.com/vn/en/ho-chi-minh/ho-chi-minh_2978179/restaurant/bun-rieu-yen",
+    "price": "₫ (Michelin: giá bình dân)",
+    "hours": "06:00–18:00 thứ Hai–thứ Bảy; Chủ nhật 06:00–11:00",
+    "mustTry": "Bún riêu (riêu tôm thịt trứng, chả, huyết, đậu hũ chiên, ốc), đậu hũ chiên chấm mắm tôm",
+    "desc_vi": "Quán gia đình nhiều thập kỷ ở góc phố nhìn ra kênh Nhiêu Lộc (khu Ông Tạ), bán ba món chính: bún riêu, canh bún và bánh đa. Điểm khác biệt là riêu làm từ tôm, thịt và trứng thay cho cua đồng, nước dùng chua nhẹ, ngọt tự nhiên; đây là quán bún riêu duy nhất trong Bib Gourmand TP.HCM năm 2026.",
+    "review_vi": "Khen: nước dùng thanh, ăn hết tô vẫn không thấy nặng bụng; topping nhiều, đậu hũ chiên giòn ngoài mềm trong là món 'ruột'; quán luôn đông, rất có không khí. Chê: ai quen bún riêu cua có thể bất ngờ vì không có riêu cua; một số đánh giá cũ trên Foody phàn nàn về đơn giao hàng và vệ sinh.",
+    "rating": {
+      "value": 6.6,
+      "count": 46,
+      "source": "Foody.vn (thang điểm 10)",
+      "url": "https://www.foody.vn/ho-chi-minh/bun-rieu-yen",
+      "seen": "2026-10"
+    },
+    "trending": false,
+    "tags": [
+      "Michelin Bib Gourmand 2026",
+      "Mới vào Michelin 2026",
+      "Bún riêu"
+    ],
+    "tips_vi": "Chủ nhật chỉ bán buổi sáng. Michelin khuyên nêm mắm tôm từ từ vì khá nồng; chỉ nhận tiền mặt.",
+    "images": [
+      {
+        "commons": "File:Bún riêu đặc biệt.jpg",
+        "kind": "dish"
+      }
+    ],
+    "wiki": null,
+    "website": null,
+    "sources": [
+      "https://guide.michelin.com/vn/en/ho-chi-minh/ho-chi-minh_2978179/restaurant/bun-rieu-yen",
+      "https://news.tuoitre.vn/whats-inside-michelin-guides-only-bib-gourmand-bun-rieu-in-ho-chi-minh-city-103260611143529908.htm",
+      "https://www.foody.vn/ho-chi-minh/bun-rieu-yen"
+    ],
+    "status": "open",
+    "existing": false
+  },
+  {
+    "id": "hcmc-pho-mien-ga-ky-dong",
+    "name": "Phở Miến Gà Kỳ Đồng",
+    "cat": "food",
+    "subtitle": "Phở gà, miến gà · Michelin Bib Gourmand",
+    "address": "14/5Bis Kỳ Đồng, Phường 9, Quận 3",
+    "lat": 10.7839019,
+    "lng": 106.6820208,
+    "coordSource": "https://guide.michelin.com/vn/en/ho-chi-minh/ho-chi-minh_2978179/restaurant/pho-mien-ga-ky-%C4%91ong",
+    "price": "Từ 55.000đ/tô",
+    "hours": "05:30–22:30 hằng ngày",
+    "mustTry": "Phở gà, miến gà, gỏi gà",
+    "desc_vi": "Khởi đầu từ xe đẩy bán miến gà đầu đường Kỳ Đồng sau năm 1975, gia đình ông Nguyễn Văn Đức đã giữ quán gần nửa thế kỷ và mua mặt bằng hiện tại năm 2004. Nước dùng ninh từ xương gà và xương heo 3–4 tiếng, thơm và đậm; quán là Bib Gourmand nhiều năm liền, gồm cả năm 2026.",
+    "review_vi": "Khen: Michelin gọi phở gà ở đây là 'viên ngọc' giữa phố, thịt gà mềm, nước dùng thơm; mở từ sáng sớm đến khuya. Chê: quán lúc nào cũng đông, giờ cao điểm phải chờ.",
+    "rating": null,
+    "trending": false,
+    "tags": [
+      "Michelin Bib Gourmand 2026",
+      "Phở gà",
+      "Quán lâu đời"
+    ],
+    "tips_vi": "Chỉ nhận tiền mặt. Gọi thêm đĩa gỏi gà để ăn kèm.",
+    "images": [
+      {
+        "commons": "File:Saigon style chicken phở.jpg",
+        "kind": "dish"
+      }
+    ],
+    "wiki": null,
+    "website": null,
+    "sources": [
+      "https://guide.michelin.com/vn/en/ho-chi-minh/ho-chi-minh_2978179/restaurant/pho-mien-ga-ky-%C4%91ong",
+      "https://www.vietnamairlines.com/en/useful-information/travel-guide/best-pho-in-hcmc",
+      "https://thanhnien.vn/7-quan-pho-noi-tieng-tphcm-duoc-michelin-vinh-danh-2025-co-quan-ruot-cua-ban-khong-185250605224533612.htm"
+    ],
+    "status": "open",
+    "existing": false
+  },
+  {
+    "id": "hcmc-man-moi",
+    "name": "Mặn Mòi (Thảo Điền)",
+    "cat": "food",
+    "subtitle": "Món Việt ba miền, sân vườn · Michelin Bib Gourmand",
+    "address": "32 Đường số 11, Phường Thảo Điền, Quận 2 (TP. Thủ Đức)",
+    "lat": 10.804463,
+    "lng": 106.743993,
+    "coordSource": "https://guide.michelin.com/vn/en/ho-chi-minh/ho-chi-minh_2978179/restaurant/man-moi-thu-duc-city",
+    "price": "₫₫ (Michelin: chi tiêu vừa phải)",
+    "hours": "10:00–22:00 hằng ngày",
+    "mustTry": "Gỏi, món nướng, kho tộ, lẩu đặc sản ba miền; cà phê Việt cuối bữa",
+    "desc_vi": "Một địa chỉ quen của giới ăn uống TP.HCM hơn 10 năm, nổi bật với không gian lấy cảm hứng thiên nhiên và sân vườn rợp cây. Thực đơn rất rộng, gom đặc sản khắp ba miền từ gỏi, canh, món nướng, kho tộ đến lẩu; Mặn Mòi giữ Bib Gourmand năm 2026.",
+    "review_vi": "Khen: Michelin đánh giá không gian lấy cảm hứng thiên nhiên rất cuốn hút, thực đơn đặc sản ba miền phong phú, nên xin bàn ở sân vườn. Chê: giá cao hơn quán cơm bình dân và nằm ở Thảo Điền, xa trung tâm Quận 1.",
+    "rating": null,
+    "trending": false,
+    "tags": [
+      "Michelin Bib Gourmand 2026",
+      "Món Việt",
+      "Sân vườn",
+      "Thảo Điền"
+    ],
+    "tips_vi": "Xin bàn ngoài sân vườn để có trải nghiệm đẹp nhất; cuối bữa có thể mua quà ở gian hàng lưu niệm.",
+    "images": [
+      {
+        "commons": "File:Gỏi cuốn.jpg",
+        "kind": "dish"
+      }
+    ],
+    "wiki": null,
+    "website": "https://manmoi.vn",
+    "sources": [
+      "https://guide.michelin.com/vn/en/ho-chi-minh/ho-chi-minh_2978179/restaurant/man-moi-thu-duc-city"
+    ],
+    "status": "open",
+    "existing": false
+  },
+  {
+    "id": "hcmc-pho-huong-binh",
+    "name": "Phở Hương Bình",
+    "cat": "food",
+    "subtitle": "Phở gà, phở bò từ 1958 · Michelin Bib Gourmand",
+    "address": "148 Võ Thị Sáu, Phường 8, Quận 3",
+    "lat": 10.7871,
+    "lng": 106.69103,
+    "coordSource": "https://guide.michelin.com/vn/en/ho-chi-minh/ho-chi-minh_2978179/restaurant/pho-huong-binh",
+    "price": "Khoảng 85.000đ/tô phở gà",
+    "hours": "06:30–21:00 hằng ngày",
+    "mustTry": "Phở gà đặc biệt (da gà, trứng non, thịt ức), phở bò gầu, gân",
+    "desc_vi": "Quán phở do cụ Đoàn Thị Rản mở năm 1958 trên đường Võ Thị Sáu, nay do cháu nội đời thứ ba là chị Trần Thị Phúc Thịnh đứng quầy từ sáng đến tối. Nước lèo nấu mới mỗi ngày, trong và thanh, ninh ngập nồi xương; quán được Michelin 'vực dậy' với danh hiệu Bib Gourmand và giữ đến năm 2026.",
+    "review_vi": "Khen: phở gà được nhiều thực khách đánh giá thuộc hàng ngon của Sài Gòn, nước dùng trong, ngọt tự nhiên; topping đa dạng (da gà, trứng non, gân). Chê: có khách nhận xét ngon nhưng 'không quá xuất sắc'; chủ quán kể năm 2021 từng bị chê nước dùng không giống thời mẹ nấu và mất nửa năm để chỉnh lại.",
+    "rating": null,
+    "trending": false,
+    "tags": [
+      "Michelin Bib Gourmand 2026",
+      "Phở gà",
+      "Quán lâu đời"
+    ],
+    "tips_vi": "Chỉ nhận tiền mặt. Gọi thêm trứng non và da gà nếu thích béo.",
+    "images": [
+      {
+        "commons": "File:Saigon style chicken phở.jpg",
+        "kind": "dish"
+      }
+    ],
+    "wiki": null,
+    "website": null,
+    "sources": [
+      "https://guide.michelin.com/vn/en/ho-chi-minh/ho-chi-minh_2978179/restaurant/pho-huong-binh",
+      "https://tuoitre.vn/pho-huong-binh-ninh-ngap-noi-xuong-la-bi-quyet-dan-cai-man-cua-muoi-20251205150402187.htm",
+      "https://thanhnien.vn/7-quan-pho-noi-tieng-tphcm-duoc-michelin-vinh-danh-2025-co-quan-ruot-cua-ban-khong-185250605224533612.htm"
+    ],
+    "status": "open",
+    "existing": false
+  },
+  {
+    "id": "hcmc-hu-tieu-hong-phat",
+    "name": "Hủ Tiếu Hồng Phát (Bàn Cờ)",
+    "cat": "food",
+    "subtitle": "Hủ tiếu Nam Vang · Michelin Bib Gourmand",
+    "address": "389–391 Võ Văn Tần, Phường 5, Quận 3",
+    "lat": 10.770509,
+    "lng": 106.684843,
+    "coordSource": "https://guide.michelin.com/vn/en/ho-chi-minh/ho-chi-minh_2978179/restaurant/hong-phat-district-3",
+    "price": "60.000–130.000đ/tô",
+    "hours": "06:30–22:30 hằng ngày",
+    "mustTry": "Hủ tiếu Nam Vang đặc biệt (khô hoặc nước), chả giò tôm cua, sủi cảo chiên, xí quách",
+    "desc_vi": "Thương hiệu hủ tiếu Nam Vang lâu năm trên đường Võ Văn Tần, kết tinh từ sự giao thoa ẩm thực Triều Châu và Khmer. Tô hủ tiếu sợi mềm đi cùng thịt bằm, gan, tôm sú hoặc huyết; Hồng Phát giữ Bib Gourmand năm 2026.",
+    "review_vi": "Khen: hủ tiếu khô và nước đều ngon, tô xí quách đáng gọi thêm, rau tươi, quán sạch sẽ; Michelin gợi ý chả giò tôm cua và sủi cảo chiên làm món khai vị. Chê: giá cao hơn hủ tiếu thường (tô đặc biệt trên 120.000đ), tính thêm tiền khăn lạnh, trà đá; vài khách thấy nước lèo mặn hoặc phục vụ thiên vị khách nước ngoài.",
+    "rating": {
+      "value": 6.9,
+      "count": 65,
+      "source": "Foody.vn (thang điểm 10)",
+      "url": "https://www.foody.vn/ho-chi-minh/hu-tieu-hong-phat",
+      "seen": "2026-10"
+    },
+    "trending": false,
+    "tags": [
+      "Michelin Bib Gourmand 2026",
+      "Hủ tiếu Nam Vang"
+    ],
+    "tips_vi": "Nhận thẻ (Visa, Mastercard, JCB, UnionPay). Thử cả bản khô lẫn nước, gọi thêm xí quách.",
+    "images": [
+      {
+        "commons": "File:Hủ tiếu Nam Vang Sài Gòn.jpg",
+        "kind": "dish"
+      }
+    ],
+    "wiki": null,
+    "website": "https://hutieuhongphat.com",
+    "sources": [
+      "https://guide.michelin.com/vn/en/ho-chi-minh/ho-chi-minh_2978179/restaurant/hong-phat-district-3",
+      "https://www.foody.vn/ho-chi-minh/hu-tieu-hong-phat"
+    ],
+    "status": "open",
+    "existing": false
+  },
+  {
+    "id": "hcmc-com-tho-chuyen-ky",
+    "name": "Tiệm Cơm Thố Chuyên Ký",
+    "cat": "food",
+    "subtitle": "Cơm thố Quảng Đông từ 1948 · Michelin Bib Gourmand",
+    "address": "67 Tôn Thất Đạm, Phường Bến Nghé, Quận 1",
+    "lat": 10.7716032,
+    "lng": 106.7030242,
+    "coordSource": "https://guide.michelin.com/vn/en/ho-chi-minh/ho-chi-minh_2978179/restaurant/tiem-com-tho-chuyen-ky",
+    "price": "Khoảng 30.000–100.000đ/món (Foody)",
+    "hours": "10:00–14:00, 17:00–21:00 hằng ngày",
+    "mustTry": "Canh gà ác tiềm thuốc bắc, cơm thố bò / gà / lạp xưởng, hải sản chế biến theo ngày",
+    "desc_vi": "Tiệm cơm người Hoa mở năm 1948, nay do thế hệ thứ ba quản lý, nằm trong khu chợ Cũ Tôn Thất Đạm. Món tủ là canh gà ác chưng cách thủy theo cách làm không đổi từ ngày mở quán, nước trong, không bột ngọt, thơm nhẹ thuốc bắc; quán giữ Bib Gourmand năm 2026.",
+    "review_vi": "Khen: Michelin khen canh gà ác thanh, không bột ngọt, cơm thố đúng kiểu Quảng Đông xưa; chủ quán tư vấn món tận tình. Chê: nhiều đánh giá cũ trên Foody cho rằng quán chật, cũ kỹ, giá không rẻ so với phần ăn và vệ sinh chưa tốt.",
+    "rating": {
+      "value": 6.2,
+      "count": 24,
+      "source": "Foody.vn (thang điểm 10)",
+      "url": "https://www.foody.vn/ho-chi-minh/com-tho-chuyen-ky",
+      "seen": "2026-10"
+    },
+    "trending": false,
+    "tags": [
+      "Michelin Bib Gourmand 2026",
+      "Ẩm thực người Hoa",
+      "Quán lâu đời"
+    ],
+    "tips_vi": "Chỉ nhận tiền mặt. Quán nằm trong khu chợ nên hơi khó tìm; hỏi chủ quán món hải sản ngon trong ngày.",
+    "images": [],
+    "wiki": null,
+    "website": null,
+    "sources": [
+      "https://guide.michelin.com/vn/en/ho-chi-minh/ho-chi-minh_2978179/restaurant/tiem-com-tho-chuyen-ky",
+      "https://www.foody.vn/ho-chi-minh/com-tho-chuyen-ky"
+    ],
+    "status": "open",
+    "existing": false
+  },
+  {
+    "id": "hcmc-pho-chao",
+    "name": "Phở Chào",
+    "cat": "food",
+    "subtitle": "Phở bò, phở gà, Phởtine · Michelin Bib Gourmand",
+    "address": "52 Nguyễn Công Trứ, Phường 19, Quận Bình Thạnh",
+    "lat": 10.792919,
+    "lng": 106.7102507,
+    "coordSource": "https://guide.michelin.com/vn/en/ho-chi-minh/ho-chi-minh_2978179/restaurant/pho-chao",
+    "price": "50.000–90.000đ/tô; Phởtine từ 90.000đ",
+    "hours": "06:30–15:00, 17:00–21:00 hằng ngày",
+    "mustTry": "Phở bắp hoa tái, gà chiên sốt mắm tôm, Phởtine (khoai tây chiên rưới sốt phở và phô mai)",
+    "desc_vi": "Quán phở mở cuối 2020 của bà Bùi Thị Dung, người nấu phở từ năm 1986; tên 'Chào' như lời chào đón khách — khoảng 70% khách là người nước ngoài. Khách chọn nước lèo xương bò hầm ba ngày hoặc nước gà; quán nổi tiếng với món lai Phởtine và giữ Bib Gourmand năm 2026.",
+    "review_vi": "Khen: Michelin khen quán dù mở rộng vẫn giữ nét quyến rũ vỉa hè, nước lèo bò hầm ba ngày đậm vị; chủ và nhân viên niềm nở, giá giữ ổn định nhiều năm. Chê: sau khi được Michelin gọi tên, quán đông gấp 2–3 lần nên giờ cao điểm phải chờ.",
+    "rating": null,
+    "trending": false,
+    "tags": [
+      "Michelin Bib Gourmand 2026",
+      "Phở"
+    ],
+    "tips_vi": "Chỉ nhận tiền mặt. Quán nghỉ giữa buổi 15h–17h.",
+    "images": [
+      {
+        "commons": "File:Guests adjust the spice before enjoying phở 15-07-2018.jpg",
+        "kind": "dish"
+      }
+    ],
+    "wiki": null,
+    "website": null,
+    "sources": [
+      "https://guide.michelin.com/vn/en/ho-chi-minh/ho-chi-minh_2978179/restaurant/pho-chao",
+      "https://thanhnien.vn/co-den-8-quan-pho-o-tphcm-duoc-michelin-vinh-danh-chu-quan-co-bi-quyet-gi-1852406211758293.htm",
+      "https://thanhnien.vn/7-quan-pho-noi-tieng-tphcm-duoc-michelin-vinh-danh-2025-co-quan-ruot-cua-ban-khong-185250605224533612.htm"
+    ],
+    "status": "open",
+    "existing": false
+  },
+  {
+    "id": "hcmc-cuc-gach-quan",
+    "name": "Cục Gạch Quán",
+    "cat": "food",
+    "subtitle": "Cơm nhà Việt trong nhà cổ · Michelin Bib Gourmand",
+    "address": "10 Đặng Tất, Phường Tân Định, Quận 1",
+    "lat": 10.7930299,
+    "lng": 106.6892557,
+    "coordSource": "https://guide.michelin.com/vn/en/ho-chi-minh/ho-chi-minh_2978179/restaurant/cuc-gach-quan",
+    "price": "₫₫ (Michelin: chi tiêu vừa phải)",
+    "hours": "09:00–23:30 hằng ngày",
+    "mustTry": "Đậu hũ chiên sả ớt, canh chua cá hú, chuối chiên, sương sâm",
+    "desc_vi": "Quán do kiến trúc sư Trần Bình mở khoảng năm 2010 trong những căn nhà kiểu Pháp cũ: hai phòng ăn đối diện nhau trên cùng con đường, xen hồ cá koi và vườn cây. Rau củ lấy từ nông trại riêng cho thực đơn cơm nhà truyền thống với đậu hũ tự làm, đồ chua tự muối; quán giữ Bib Gourmand năm 2026.",
+    "review_vi": "Khen: Michelin khen nguyên liệu tươi từ nông trại riêng, canh chua cá hú chua ngọt hài hòa, đậu hũ chiên sả ớt; không gian sân vườn, hồ cá thư thái. Chê: giá cao hơn quán cơm bình dân (Michelin xếp mức ₫₫); các nguồn đã đọc không ghi nhận phàn nàn nổi bật khác.",
+    "rating": null,
+    "trending": false,
+    "tags": [
+      "Michelin Bib Gourmand 2026",
+      "Cơm nhà",
+      "Sân vườn"
+    ],
+    "tips_vi": "Đặt bàn trước cho bữa tối. Chừa bụng cho chuối chiên hoặc sương sâm tráng miệng.",
+    "images": [
+      {
+        "commons": "File:Canhchua1.jpg",
+        "kind": "dish"
+      }
+    ],
+    "wiki": null,
+    "website": "https://cucgachquan.com",
+    "sources": [
+      "https://guide.michelin.com/vn/en/ho-chi-minh/ho-chi-minh_2978179/restaurant/cuc-gach-quan",
+      "https://cucgachquan.com"
+    ],
+    "status": "open",
+    "existing": false
+  },
+  {
+    "id": "hcmc-pho-minh",
+    "name": "Phở Minh",
+    "cat": "food",
+    "subtitle": "Phở Bắc gia truyền trong hẻm Pasteur · Michelin Bib Gourmand",
+    "address": "63/6 Pasteur (trong hẻm 63), Phường Bến Nghé, Quận 1",
+    "lat": 10.774904,
+    "lng": 106.7002701,
+    "coordSource": "https://guide.michelin.com/vn/en/ho-chi-minh/ho-chi-minh_2978179/restaurant/pho-minh",
+    "price": "₫ (Michelin: giá bình dân)",
+    "hours": "06:30–10:30 hằng ngày (hết sớm)",
+    "mustTry": "Phở tái, nạm, gầu, sụn; bánh pâté chaud nướng tại chỗ",
+    "desc_vi": "Tiệm phở của cụ Trần Minh (quê Hà Đông) khởi nghiệp từ gánh phở gần chợ Bến Thành những năm 1930–1940, có gian nhà riêng trong hẻm Pasteur từ khoảng 1950 và nay do đời thứ ba giữ gìn. Công thức gần như không đổi suốt hơn 80 năm, quán bày bàn ghế kiểu Sài Gòn xưa; Phở Minh được Bib Gourmand nhiều năm, gồm cả 2026.",
+    "review_vi": "Khen: thịt bò chọn kỹ, nạm gầu mềm ngọt; nước lèo trong, vị thanh kiểu Bắc pha Nam; quán sạch, khách quen lâu năm; bánh pâté chaud nóng giòn là điểm cộng. Chê: chỉ bán buổi sáng và nghỉ sớm khi hết; có người thấy nước dùng hơi nhạt, không đậm đà.",
+    "rating": {
+      "value": 7.2,
+      "count": 10,
+      "source": "Foody.vn (thang điểm 10)",
+      "url": "https://www.foody.vn/ho-chi-minh/pho-minh-pasteur",
+      "seen": "2026-10"
+    },
+    "trending": false,
+    "tags": [
+      "Michelin Bib Gourmand 2026",
+      "Phở",
+      "Quán lâu đời"
+    ],
+    "tips_vi": "Đến trước 9h vì quán đóng khoảng 10h–10h30. Hẻm nhỏ cạnh khách sạn Liberty CityPoint, gửi xe cuối hẻm.",
+    "images": [
+      {
+        "commons": "File:Pho and Eggs in Ho Chi Minh city.jpg",
+        "kind": "dish"
+      }
+    ],
+    "wiki": null,
+    "website": null,
+    "sources": [
+      "https://guide.michelin.com/vn/en/ho-chi-minh/ho-chi-minh_2978179/restaurant/pho-minh",
+      "https://tuoitre.vn/pho-minh-3-nam-lien-duoc-michelin-vinh-danh-va-cau-chuyen-no-nuc-don-vang-khap-thi-thanh-20251211160511221.htm",
+      "https://thanhnien.vn/7-quan-pho-noi-tieng-tphcm-duoc-michelin-vinh-danh-2025-co-quan-ruot-cua-ban-khong-185250605224533612.htm",
+      "https://www.foody.vn/ho-chi-minh/pho-minh-pasteur"
+    ],
+    "status": "open",
+    "existing": false
+  },
+  {
+    "id": "hcmc-pho-hoang",
+    "name": "Phở Hoàng (Nguyễn Tri Phương)",
+    "cat": "food",
+    "subtitle": "Phở bò nước trong · Michelin Bib Gourmand",
+    "address": "460 Nguyễn Tri Phương, Phường 9, Quận 10",
+    "lat": 10.765992,
+    "lng": 106.667711,
+    "coordSource": "https://guide.michelin.com/vn/en/ho-chi-minh/ho-chi-minh_2978179/restaurant/pho-hoang",
+    "price": "60.000–80.000đ/tô",
+    "hours": "06:00–14:00 hằng ngày",
+    "mustTry": "Phở bò tái/nạm/gân, thêm trứng; trà thảo mộc la hán từ hơn 10 loại thảo dược",
+    "desc_vi": "Quán phở mở năm 2008 của anh Hoàng Văn Khải — em rể bà Phượng của Phở Phượng, dùng chung công thức gia truyền nhưng nêm nếm theo cách riêng. Nước lèo trong, ninh hơn 12 tiếng; quán được Bib Gourmand liên tiếp và giữ danh hiệu năm 2026.",
+    "review_vi": "Khen: nước dùng đậm mà vẫn thanh, quán sạch sẽ, có thể gọi thêm gân, nạm, bò bằm hoặc trứng; trà thảo mộc tự nấu được khen. Chê: một số khách trên Foody thấy nước hơi mặn và lượng thịt ít so với giá 60.000–80.000đ.",
+    "rating": {
+      "value": 6.2,
+      "count": 22,
+      "source": "Foody.vn (thang điểm 10)",
+      "url": "https://www.foody.vn/ho-chi-minh/pho-hoang-nguyen-tri-phuong",
+      "seen": "2026-10"
+    },
+    "trending": false,
+    "tags": [
+      "Michelin Bib Gourmand 2026",
+      "Phở"
+    ],
+    "tips_vi": "Chỉ bán đến 14h; chỉ nhận tiền mặt.",
+    "images": [
+      {
+        "commons": "File:Guests adjust the spice before enjoying phở 15-07-2018.jpg",
+        "kind": "dish"
+      }
+    ],
+    "wiki": null,
+    "website": null,
+    "sources": [
+      "https://guide.michelin.com/vn/en/ho-chi-minh/ho-chi-minh_2978179/restaurant/pho-hoang",
+      "https://tuoitre.vn/nld/hai-quan-pho-mot-nha-cung-duoc-michelin-goi-ten-196250629202128053.htm",
+      "https://www.foody.vn/ho-chi-minh/pho-hoang-nguyen-tri-phuong"
+    ],
+    "status": "open",
+    "existing": false
+  },
+  {
+    "id": "hcmc-hum-garden",
+    "name": "Hum Garden",
+    "cat": "food",
+    "subtitle": "Nhà hàng chay sân vườn · Michelin Bib Gourmand",
+    "address": "32 Đường D10, Phường Thảo Điền, Quận 2 (TP. Thủ Đức)",
+    "lat": 10.8042053,
+    "lng": 106.744484,
+    "coordSource": "https://guide.michelin.com/vn/en/ho-chi-minh/ho-chi-minh_2978179/restaurant/hum-garden",
+    "price": "70.000–300.000đ/món",
+    "hours": "10:00–22:00 hằng ngày",
+    "mustTry": "Chả giò nấm chiên, chè nhãn hạt sen ướp lạnh",
+    "desc_vi": "Căn nhà xinh có sân trong, hiên và đồ trang trí mộc mạc trên con đường yên tĩnh ở Thảo Điền. Món chay Việt biến tấu hiện đại, dùng rau củ tươi phần lớn hữu cơ lấy trực tiếp từ nông trại; Hum Garden giữ Bib Gourmand năm 2026.",
+    "review_vi": "Khen: món chay thanh, ít dầu mỡ, trình bày chăm chút; không gian xanh, tao nhã, có hẳn sân chơi cho trẻ em; Michelin khen chả giò nấm 'xuất sắc'. Chê: giá cao hơn quán chay bình dân và nằm xa trung tâm Quận 1.",
+    "rating": {
+      "value": 7.6,
+      "count": 20,
+      "source": "Foody.vn (thang điểm 10)",
+      "url": "https://www.foody.vn/ho-chi-minh/hum-vegetarian-garden-restaurant",
+      "seen": "2026-10"
+    },
+    "trending": false,
+    "tags": [
+      "Michelin Bib Gourmand 2026",
+      "Đồ chay",
+      "Sân vườn",
+      "Thảo Điền",
+      "Hợp với trẻ em"
+    ],
+    "tips_vi": "Hợp đi gia đình có con nhỏ nhờ sân vườn và khu chơi cho bé. Báo trước cho nhân viên nếu kiêng hoặc dị ứng món nào. Nhận thẻ tín dụng.",
+    "images": [
+      {
+        "commons": "File:Gỏi Cuốn Chay Vietnamese Fresh Vegetarian Spring Roll 2019-1599.jpg",
+        "kind": "dish"
+      }
+    ],
+    "wiki": null,
+    "website": "https://hum-dining.vn",
+    "sources": [
+      "https://guide.michelin.com/vn/en/ho-chi-minh/ho-chi-minh_2978179/restaurant/hum-garden",
+      "https://www.foody.vn/ho-chi-minh/hum-vegetarian-garden-restaurant"
+    ],
+    "status": "open",
+    "existing": false
+  },
+  {
+    "id": "hcmc-sol-kitchen-bar",
+    "name": "Sol Kitchen & Bar (Bến Thành)",
+    "cat": "food",
+    "subtitle": "Ẩm thực Mỹ Latinh · Michelin Bib Gourmand",
+    "address": "112 Lý Tự Trọng, Phường Bến Thành, Quận 1",
+    "lat": 10.7742548,
+    "lng": 106.6975079,
+    "coordSource": "https://guide.michelin.com/vn/en/ho-chi-minh/ho-chi-minh_2978179/restaurant/sol-kitchen-bar",
+    "price": "₫₫ (Michelin: chi tiêu vừa phải)",
+    "hours": "11:00–14:00, 17:00–22:30 hằng ngày",
+    "mustTry": "Empanada, ceviche sò điệp, bít tết ướp sốt chimichurri, sườn BBQ phủ nước mắm, gà quay sốt mojo",
+    "desc_vi": "Nhà hàng Mỹ Latinh không khí thoải mái của bếp trưởng người Malaysia Adrian Chong Yen, từng làm việc 12 năm ở Singapore. Thực đơn à la carte đa dạng từ empanada Mexico, ceviche Peru đến burrata Ý; Sol nổi tiếng nhất với các món thịt đỏ và giữ Bib Gourmand năm 2026.",
+    "review_vi": "Khen: Michelin đánh giá thực đơn phong phú, hấp dẫn, các món thịt là điểm mạnh — đặc biệt sườn BBQ phủ nước mắm mang dấu ấn Việt. Chê: là lựa chọn quốc tế nên không phù hợp nếu bạn muốn ăn món Việt; giờ trưa ngắn.",
+    "rating": null,
+    "trending": false,
+    "tags": [
+      "Michelin Bib Gourmand 2026",
+      "Ẩm thực quốc tế"
+    ],
+    "tips_vi": "Hợp cho bữa tối nhóm bạn; nhận hầu hết các loại thẻ.",
+    "images": [],
+    "wiki": null,
+    "website": "https://solkitchenbar.com",
+    "sources": [
+      "https://guide.michelin.com/vn/en/ho-chi-minh/ho-chi-minh_2978179/restaurant/sol-kitchen-bar"
+    ],
+    "status": "open",
+    "existing": false
+  },
+  {
+    "id": "hcmc-tales-by-chapter",
+    "name": "Tales by Chapter",
+    "cat": "food",
+    "subtitle": "Fine dining thuần chay, không rác thải · Michelin Sao Xanh 2026",
+    "address": "10 Nguyễn Thành Ý, Quận 1",
+    "lat": 10.7890929,
+    "lng": 106.6969337,
+    "coordSource": "https://guide.michelin.com/vn/en/ho-chi-minh/ho-chi-minh_2978179/restaurant/tales-by-chapter",
+    "price": "₫₫₫ — tasting menu (Michelin: dành cho dịp đặc biệt)",
+    "hours": "19:00–23:00, nghỉ thứ Ba",
+    "mustTry": "Tasting menu theo mùa: corn pie tee (kim chi, ớt lên men), bánh bột lọc nhân nấm porcini",
+    "desc_vi": "Nhà hàng fine dining thuần thực vật và không rác thải đầu tiên của Việt Nam, nằm trong một căn villa yên tĩnh. Thực đơn nếm thử theo mùa dùng nông sản hữu cơ từ Đà Lạt, rau thơm trồng trên sân thượng và kỹ thuật lên men; phần rau thừa được tận dụng làm nước dùng, sốt, đồ lên men hoặc phân bón. Tales by Chapter là nhà hàng mới nhận Sao Xanh Michelin (Green Star) năm 2026.",
+    "review_vi": "Khen: Michelin đánh giá cao triết lý 'không bỏ phí nguyên liệu' và các món tái hiện món Việt bằng thực vật đầy sáng tạo, có quầy bếp để xem đầu bếp chế biến; có lựa chọn kết hợp đồ uống có cồn hoặc không cồn. Chê: chỉ phục vụ bữa tối từ 19h, giá ở mức fine dining và thực đơn hoàn toàn thuần chay có thể không hợp người thích món mặn.",
+    "rating": null,
+    "trending": false,
+    "tags": [
+      "Michelin Sao Xanh 2026",
+      "Michelin Selected 2026",
+      "Đồ chay",
+      "Fine dining"
+    ],
+    "tips_vi": "Cùng địa chỉ có CELA phục vụ món Việt kiểu small plates và rượu vang từ 18h nếu muốn trải nghiệm nhẹ hơn. Nghỉ thứ Ba.",
+    "images": [],
+    "wiki": null,
+    "website": "https://talessgn.com",
+    "sources": [
+      "https://guide.michelin.com/vn/en/ho-chi-minh/ho-chi-minh_2978179/restaurant/tales-by-chapter",
+      "https://talessgn.com",
+      "https://guide.michelin.com/en/article/michelin-guide-ceremony/michelin-guide-vietnam-2026"
+    ],
+    "status": "open",
+    "existing": false
+  },
+  {
+    "id": "hcmc-nom",
+    "name": "NÔM",
+    "cat": "food",
+    "subtitle": "Tasting menu Việt Bắc–Trung–Nam · Michelin Selected",
+    "address": "53 Trần Nhật Duật, Phường Tân Định, Quận 1",
+    "lat": 10.79408,
+    "lng": 106.689601,
+    "coordSource": "https://guide.michelin.com/vn/en/ho-chi-minh/ho-chi-minh_2978179/restaurant/nom",
+    "price": "₫₫₫₫ (Michelin: hạng chi tiêu cao nhất)",
+    "hours": "17:00–23:00 thứ Ba–Chủ nhật (lượt cuối 20:00); nghỉ thứ Hai",
+    "mustTry": "Tasting menu hành trình Bắc → Trung → Nam: bún bò Huế phiên bản tinh tế, canh cá với dầu thảo mộc và trứng cá muối",
+    "desc_vi": "Tên nhà hàng gợi nhắc chữ Nôm, và thực đơn nếm thử là một chuyến đi xuyên di sản ẩm thực Việt: từ miền Bắc qua miền Trung, kết thúc bằng món tráng miệng lấy cảm hứng miền Nam. Mỗi tầng nhà được thiết kế theo một vùng miền, phong cách đương đại pha truyền thống dưới ánh đèn ấm; NÔM có trong danh sách Michelin Selected 2026.",
+    "review_vi": "Khen: Michelin khen các món quen thuộc được làm lại tinh tế, như bún bò Huế 'thanh lịch, nhiều tầng vị' và canh cá dậy mùi dầu thảo mộc, trứng cá muối; không gian nhập vai ấn tượng. Chê: giá ở mức cao nhất, chỉ phục vụ buổi tối và nhận khách đến 20h.",
+    "rating": null,
+    "trending": false,
+    "tags": [
+      "Michelin Selected 2026",
+      "Fine dining",
+      "Ẩm thực Việt sáng tạo"
+    ],
+    "tips_vi": "Đặt bàn trước qua website; lượt nhận khách cuối là 20h.",
+    "images": [
+      {
+        "commons": "File:Bun Bo Hue 1.jpg",
+        "kind": "dish"
+      }
+    ],
+    "wiki": null,
+    "website": "https://www.nomdining.com",
+    "sources": [
+      "https://guide.michelin.com/vn/en/ho-chi-minh/ho-chi-minh_2978179/restaurant/nom",
+      "https://www.nomdining.com"
+    ],
+    "status": "open",
+    "existing": false
+  },
+  {
+    "id": "hcmc-quan-an-ngu-binh",
+    "name": "Quán ăn Ngự Bình",
+    "cat": "food",
+    "subtitle": "Món Huế hơn 50 năm · Michelin Selected",
+    "address": "82 Cư xá Nguyễn Văn Trỗi, Quận Phú Nhuận",
+    "lat": 10.7923954,
+    "lng": 106.682037,
+    "coordSource": "https://guide.michelin.com/vn/en/ho-chi-minh/ho-chi-minh_2978179/restaurant/quan-an-ngu-binh",
+    "price": "Món Huế 20.000–80.000đ; bún bò Huế, bánh khoái 105.000đ",
+    "hours": "15:00–20:00 (theo Michelin; thường hết món sớm)",
+    "mustTry": "Bún bò Huế, bánh khoái, bánh bèo, nem nướng, bánh ướt tôm chấy",
+    "desc_vi": "Quán món Huế hơn 50 năm nằm khuất trong một cư xá ở Phú Nhuận, không gian kiểu gia đình yên tĩnh, không bảng hiệu cầu kỳ, chỉ 4–5 bàn. Bún bò Huế ở đây không có chả cua, huyết để làm nổi vị mắm ruốc trong nước dùng; quán có mặt trong danh sách Michelin Selected 2026.",
+    "review_vi": "Khen: Michelin khen bún bò thịt mềm, nước dùng nhẹ nhàng dễ chịu, gần như bàn nào cũng gọi bánh bèo và nem nướng; khách quen đánh giá hương vị khác biệt, bánh khoái không ngấy. Chê: giá gây tranh cãi — tô bún bò 105.000đ nhưng chỉ vài lát bò mỏng, nhiều người cho là quá đắt; quán khó tìm, bán ít và hết sớm.",
+    "rating": null,
+    "trending": false,
+    "tags": [
+      "Michelin Selected 2026",
+      "Món Huế",
+      "Quán lâu đời"
+    ],
+    "tips_vi": "Quán nằm sâu trong cư xá, nên mở bản đồ trước. Chỉ nhận tiền mặt; đến sớm vì số lượng món mỗi ngày có hạn.",
+    "images": [
+      {
+        "commons": "File:Bánh bèo de Saigon.jpg",
+        "kind": "dish"
+      }
+    ],
+    "wiki": null,
+    "website": null,
+    "sources": [
+      "https://guide.michelin.com/vn/en/ho-chi-minh/ho-chi-minh_2978179/restaurant/quan-an-ngu-binh",
+      "https://tuoitre.vn/tranh-cai-di-an-quan-ngu-binh-to-bun-bo-105-000-dong-dat-hay-re-20240404160220982.htm"
+    ],
+    "status": "open",
+    "existing": false
+  },
+  {
+    "id": "hcmc-oc-oanh",
+    "name": "Ốc Oanh",
+    "cat": "food",
+    "subtitle": "Quán ốc nổi tiếng nhất phố Vĩnh Khánh · Michelin Selected",
+    "address": "534 Vĩnh Khánh, Phường 8, Quận 4",
+    "lat": 10.760723,
+    "lng": 106.703309,
+    "coordSource": "https://guide.michelin.com/vn/en/ho-chi-minh/ho-chi-minh_2978179/restaurant/oc-oanh",
+    "price": "100.000–165.000đ/người (Foody); hải sản cao cấp tính theo thời giá",
+    "hours": "13:00–03:00 hằng ngày",
+    "mustTry": "Sò điệp nướng muối ớt, càng ghẹ rang muối ớt, nghêu hấp sả, tôm sú, bạch tuộc",
+    "desc_vi": "Quán ốc gần 20 năm trên phố ẩm thực Vĩnh Khánh, luôn đông khách với ốc, tôm, sò, ghẹ được chế biến đủ kiểu. Không có máy lạnh nhưng không khí vỉa hè sôi động bù lại tất cả; Ốc Oanh có tên trong Michelin Selected nhiều năm, gồm cả 2026.",
+    "review_vi": "Khen: hải sản tươi, nhiều cách chế biến sáng tạo, không khí phố ốc đặc trưng Sài Gòn mà Michelin đánh giá là 'chân thực'. Chê: điểm Foody thấp (5.0/10) với nhiều phàn nàn về giá cao hơn quán ốc vỉa hè khác, có món không ghi giá trên menu, phục vụ vội vàng khi đông.",
+    "rating": {
+      "value": 5.0,
+      "count": 344,
+      "source": "Foody.vn (thang điểm 10)",
+      "url": "https://www.foody.vn/ho-chi-minh/oc-oanh",
+      "seen": "2026-10"
+    },
+    "trending": false,
+    "tags": [
+      "Michelin Selected 2026",
+      "Ốc & hải sản",
+      "Phố Vĩnh Khánh"
+    ],
+    "tips_vi": "Hỏi giá trước khi gọi các món hải sản theo thời giá. Chỉ nhận tiền mặt. Kết hợp dạo cả phố Vĩnh Khánh.",
+    "images": [
+      {
+        "commons": "File:Ăn món ốc móng tay ở quán Sài Gòn năm 2013 (20130518 212422).jpg",
+        "kind": "dish"
+      }
+    ],
+    "wiki": null,
+    "website": null,
+    "sources": [
+      "https://guide.michelin.com/vn/en/ho-chi-minh/ho-chi-minh_2978179/restaurant/oc-oanh",
+      "https://vnexpress.net/8-quan-binh-dan-o-tp-hcm-duoc-michelin-goi-ten-4815268.html",
+      "https://www.foody.vn/ho-chi-minh/oc-oanh"
+    ],
+    "status": "open",
+    "existing": false
+  },
+  {
+    "id": "hcmc-thuy-94-cu",
+    "name": "Thúy 94 Cũ",
+    "cat": "food",
+    "subtitle": "Chuyên món cua · Michelin Selected",
+    "address": "84 Đinh Tiên Hoàng, Phường Đa Kao, Quận 1",
+    "lat": 10.790191,
+    "lng": 106.69786,
+    "coordSource": "https://guide.michelin.com/vn/en/ho-chi-minh/ho-chi-minh_2978179/restaurant/thuy-94-cu",
+    "price": "100.000–240.000đ/món",
+    "hours": "09:00–21:00 hằng ngày",
+    "mustTry": "Miến xào cua, cua lột chiên, miến cua (nước), chả giò cua, cua rang muối",
+    "desc_vi": "Quán nổi tiếng chuyên món cua trên đường Đinh Tiên Hoàng: chả giò cua, cơm chiên cua, cua rang muối, cua hấp, miến cua… Tô miến cua đầy thịt và gạch, nước dùng ngọt sâu; cua lột chiên giòn tại chỗ. Thúy 94 Cũ vào Michelin Selected từ 2024 và vẫn có mặt năm 2026.",
+    "review_vi": "Khen: nhiều thịt cua và gạch, miến xào cua và cua lột chiên được Michelin gợi ý; hầu hết món có thể thay cua bằng tôm. Chê: giá cao; một số đánh giá Foody phản ánh nêm nhiều bột ngọt, có lúc cua không tươi, phần mang về ít cua so với giá.",
+    "rating": {
+      "value": 6.3,
+      "count": 60,
+      "source": "Foody.vn (thang điểm 10)",
+      "url": "https://www.foody.vn/ho-chi-minh/mien-cua-94",
+      "seen": "2026-10"
+    },
+    "trending": false,
+    "tags": [
+      "Michelin Selected 2026",
+      "Cua & hải sản"
+    ],
+    "tips_vi": "Nên ăn tại quán thay vì đặt mang về (nhiều phàn nàn trên Foody đến từ đơn giao hàng). Chỉ nhận tiền mặt.",
+    "images": [
+      {
+        "commons": "File:Bánh canh cua.jpg",
+        "kind": "dish"
+      }
+    ],
+    "wiki": null,
+    "website": null,
+    "sources": [
+      "https://guide.michelin.com/vn/en/ho-chi-minh/ho-chi-minh_2978179/restaurant/thuy-94-cu",
+      "https://vnexpress.net/8-quan-binh-dan-o-tp-hcm-duoc-michelin-goi-ten-4815268.html",
+      "https://www.foody.vn/ho-chi-minh/mien-cua-94"
+    ],
+    "status": "open",
+    "existing": false
+  },
+  {
+    "id": "hcmc-bun-thit-nuong-hoang-van",
+    "name": "Bún Thịt Nướng Hoàng Văn",
+    "cat": "food",
+    "subtitle": "Bún thịt nướng chả giò · Michelin Selected",
+    "address": "137 Chấn Hưng, Phường 6, Quận Tân Bình",
+    "lat": 10.7851694,
+    "lng": 106.6623288,
+    "coordSource": "https://guide.michelin.com/vn/en/ho-chi-minh/ho-chi-minh_2978179/restaurant/bun-thit-nuong-hoang-van",
+    "price": "₫ (Michelin: giá bình dân)",
+    "hours": "07:00–20:30 (theo Michelin)",
+    "mustTry": "Bún thịt nướng chả giò, nem nướng",
+    "desc_vi": "Quán gia đình chỉ bán đúng một món: bún thịt nướng với bún tươi, thịt nướng, nem và chả giò giòn, chan nước mắm chua ngọt nhẹ — một món 'giải nhiệt' cho cái nóng Sài Gòn theo cách nói của Michelin. Không gian bình dân nhưng gọn gàng, ngăn nắp; quán có mặt trong Michelin Selected 2026.",
+    "review_vi": "Khen: phần ăn rất đầy đặn, thịt nhiều, chả giò to giòn, rau sống để riêng, nước mắm múc thoải mái; phục vụ cực nhanh, có chỗ để xe. Chê: có người thấy chả giò hơi cứng, giá 'không rẻ' so với bún thịt nướng bình dân.",
+    "rating": {
+      "value": 7.3,
+      "count": 150,
+      "source": "Foody.vn (thang điểm 10)",
+      "url": "https://www.foody.vn/ho-chi-minh/bun-thit-nuong-hoang-van-137-chan-hung",
+      "seen": "2026-10"
+    },
+    "trending": false,
+    "tags": [
+      "Michelin Selected 2026",
+      "Bún thịt nướng"
+    ],
+    "tips_vi": "Chỉ nhận tiền mặt. Gọi tô lớn nếu đói — phần ăn được nhiều khách khen là 'ăn no lết'.",
+    "images": [
+      {
+        "commons": "File:Saigon Bun thit nuong.jpg",
+        "kind": "dish"
+      }
+    ],
+    "wiki": null,
+    "website": null,
+    "sources": [
+      "https://guide.michelin.com/vn/en/ho-chi-minh/ho-chi-minh_2978179/restaurant/bun-thit-nuong-hoang-van",
+      "https://www.foody.vn/ho-chi-minh/bun-thit-nuong-hoang-van-137-chan-hung"
+    ],
+    "status": "open",
+    "existing": false
+  },
+  {
+    "id": "hcmc-vietnam-house",
+    "name": "Vietnam House",
+    "cat": "food",
+    "subtitle": "Món Việt nâng tầm của Luke Nguyễn · Michelin Selected",
+    "address": "93–97 Đồng Khởi, Phường Bến Nghé, Quận 1",
+    "lat": 10.7748944,
+    "lng": 106.7041683,
+    "coordSource": "https://guide.michelin.com/vn/en/ho-chi-minh/ho-chi-minh_2978179/restaurant/vietnam-house",
+    "price": "₫₫ (Michelin: chi tiêu vừa phải); có set lunch",
+    "hours": "11:30–15:00, 17:00–22:00 hằng ngày",
+    "mustTry": "Bún vịt (duck noodle soup), gà nướng than, tào phớ (tráng miệng đậu hũ non)",
+    "desc_vi": "Nhà hàng trong tòa nhà phong cách thuộc địa Pháp thanh lịch trên đường Đồng Khởi, do đầu bếp nổi tiếng người Úc gốc Việt Luke Nguyễn dẫn dắt. Món Việt truyền thống được làm mới theo lối hiện đại, phần ăn rộng rãi hợp đi nhóm; Vietnam House có trong Michelin Selected 2026.",
+    "review_vi": "Khen: không gian đẹp, sang, yên tĩnh giữa trung tâm; món trình bày cầu kỳ, bò lá lốt, gỏi cua được khen; set trưa tiện cho khách đi một mình. Chê: một số đánh giá cũ trên Foody cho rằng phục vụ chưa đạt chuẩn fine dining, món được 'Tây hóa' cho khách nước ngoài và có món dùng tôm đông lạnh.",
+    "rating": {
+      "value": 7.8,
+      "count": 9,
+      "source": "Foody.vn (thang điểm 10)",
+      "url": "https://www.foody.vn/ho-chi-minh/nha-hang-vietnam-house",
+      "seen": "2026-10"
+    },
+    "trending": false,
+    "tags": [
+      "Michelin Selected 2026",
+      "Món Việt",
+      "Đồng Khởi"
+    ],
+    "tips_vi": "Bữa trưa set menu là lựa chọn tiết kiệm. Nhận thẻ tín dụng.",
+    "images": [],
+    "wiki": null,
+    "website": "https://vietnamhousesaigon.com",
+    "sources": [
+      "https://guide.michelin.com/vn/en/ho-chi-minh/ho-chi-minh_2978179/restaurant/vietnam-house",
+      "https://www.foody.vn/ho-chi-minh/nha-hang-vietnam-house"
+    ],
+    "status": "open",
+    "existing": false
+  },
+  {
+    "id": "hcmc-banh-mi-huynh-hoa",
+    "name": "Bánh mì Huỳnh Hoa",
+    "cat": "food",
+    "subtitle": "Bánh mì thập cẩm 'đắt nhất Sài Gòn'",
+    "address": "26 Lê Thị Riêng (cửa hàng thứ hai ở số 30), Phường Phạm Ngũ Lão, Quận 1",
+    "lat": 10.7715922,
+    "lng": 106.6923228,
+    "coordSource": "https://www.foody.vn/ho-chi-minh/banh-mi-huynh-hoa-banh-mi-pate",
+    "price": "68.000–73.000đ/ổ",
+    "hours": "Khoảng 11:00–21:00",
+    "mustTry": "Bánh mì truyền thống (pate, bơ, chả lụa, jambon, xá xíu, chà bông… khoảng 13 loại nhân)",
+    "desc_vi": "Tiệm bánh mì nổi tiếng bậc nhất TP.HCM, thường được truyền thông quốc tế gợi ý là điểm phải ghé. Ổ bánh nặng khoảng 400 g với 13 loại nhân, lớp pate và bơ béo ngậy là 'linh hồn'; tiệm chỉ bán một loại bánh mì truyền thống, đựng hộp giấy, và chia hai cửa hàng cách nhau vài căn — một bên bán tại chỗ, một bên nhận đơn ứng dụng.",
+    "review_vi": "Khen: nhân đầy đặn, pate thơm béo, một ổ có thể chia hai người; khách Tây, khách ta sẵn sàng xếp hàng. Chê: giá cao gấp nhiều lần bánh mì bình dân và thường xuyên gây tranh cãi; có người thấy quá nhiều nhân, pate nhanh ngấy; giờ cao điểm phải chờ lâu dưới nắng.",
+    "rating": {
+      "value": 6.5,
+      "count": 368,
+      "source": "Foody.vn (thang điểm 10)",
+      "url": "https://www.foody.vn/ho-chi-minh/banh-mi-huynh-hoa-banh-mi-pate",
+      "seen": "2026-10"
+    },
+    "trending": false,
+    "tags": [
+      "Bánh mì",
+      "Ẩm thực đường phố",
+      "Nổi tiếng quốc tế"
+    ],
+    "tips_vi": "Mua ăn tại chỗ ở cửa hàng dành cho khách trực tiếp; đi nhóm nên mua một ổ chia đôi. Có chi nhánh trên đường Phan Xích Long (Phú Nhuận).",
+    "images": [
+      {
+        "commons": "File:Huỳnh Hoa bread stall 23-12-2017.jpg",
+        "kind": "place"
+      }
+    ],
+    "wiki": null,
+    "website": null,
+    "sources": [
+      "https://vietnamnet.vn/o-banh-mi-dat-bac-nhat-tp-hcm-khien-khach-tay-khach-ta-xep-hang-dai-cho-mua-2268468.html",
+      "https://znews.vn/tranh-cai-khau-phan-khong-lo-tai-banh-mi-huynh-hoa-com-tam-ba-ghien-post1605014.html",
+      "https://www.foody.vn/ho-chi-minh/banh-mi-huynh-hoa-banh-mi-pate"
+    ],
+    "status": "open",
+    "existing": true
+  },
+  {
+    "id": "hcmc-banh-mi-hoa-ma",
+    "name": "Bánh mì Hòa Mã",
+    "cat": "food",
+    "subtitle": "Bánh mì chảo hơn 60 năm",
+    "address": "53 Cao Thắng (đầu hẻm), Quận 3",
+    "lat": 10.770295,
+    "lng": 106.681666,
+    "coordSource": "https://www.foody.vn/ho-chi-minh/banh-mi-hoa-ma",
+    "price": "50.000–70.000đ/phần",
+    "hours": "06:00–11:00",
+    "mustTry": "Bánh mì ốp la 'đủ thứ' trong chảo (trứng, chả, pate, xúc xích, jambon), bánh mì kẹp thịt nguội",
+    "desc_vi": "Một trong những tiệm bánh mì lâu đời nhất Sài Gòn (hơn 60 năm), được xem là một trong những nơi đầu tiên bán bánh mì chảo, nằm ở đầu hẻm 53 Cao Thắng. Thực đơn gần như không đổi qua nhiều thập kỷ: bánh mì ốp la 'đủ thứ' trong chảo nóng và bánh mì kẹp thịt nguội.",
+    "review_vi": "Khen: bơ, pate, chả chiên ngon, phục vụ nhanh nhẹn vui vẻ; không khí ăn sáng vỉa hè kiểu Sài Gòn xưa, cuối tuần nhiều gia đình ghé. Chê: giá cao so với bánh mì vỉa hè (gọi thêm pate, bơ phải trả tiền), có người thấy ăn nhanh ngán; chỗ ngồi vỉa hè chật, xe ra vào.",
+    "rating": {
+      "value": 6.1,
+      "count": 149,
+      "source": "Foody.vn (thang điểm 10)",
+      "url": "https://www.foody.vn/ho-chi-minh/banh-mi-hoa-ma",
+      "seen": "2026-10"
+    },
+    "trending": false,
+    "tags": [
+      "Bánh mì chảo",
+      "Quán lâu đời",
+      "Ăn sáng"
+    ],
+    "tips_vi": "Chỉ bán buổi sáng; thường đông vào buổi sáng, nhất là cuối tuần.",
+    "images": [
+      {
+        "commons": "File:2023-12-10 Coffee and bánh mì in Saigon.jpg",
+        "kind": "dish"
+      }
+    ],
+    "wiki": null,
+    "website": null,
+    "sources": [
+      "https://znews.vn/8-tiem-banh-mi-ton-tai-tren-50-nam-tai-tphcm-post1645421.html",
+      "https://www.foody.vn/ho-chi-minh/banh-mi-hoa-ma"
+    ],
+    "status": "open",
+    "existing": true
+  },
+  {
+    "id": "hcmc-pho-2000",
+    "name": "Phở 2000",
+    "cat": "food",
+    "subtitle": "'Quán phở Clinton' cạnh chợ Bến Thành",
+    "address": "1–3 Phan Chu Trinh (góc Lê Thánh Tôn, cạnh chợ Bến Thành), Phường Bến Thành, Quận 1",
+    "lat": 10.771919,
+    "lng": 106.697554,
+    "coordSource": "https://www.foody.vn/ho-chi-minh/pho-2000",
+    "price": "Khoảng 75.000–99.000đ/tô (giá năm 2019)",
+    "hours": null,
+    "mustTry": "Phở bò, phở hải sản, chả giò",
+    "desc_vi": "Quán phở bên hông chợ Bến Thành nổi tiếng sau khi Tổng thống Mỹ Bill Clinton cùng gia đình ghé ăn năm 2000, nên còn được gọi là 'quán phở Clinton'. Ngoài phở bò, phở gà, quán có món phở hải sản ít nơi bán, cùng chả giò và cơm.",
+    "review_vi": "Khen: tô lớn, nước dùng không quá béo, chả giò và phở hải sản được khen; vị trí ngay trung tâm. Chê: nhiều đánh giá cho rằng giá cao hơn hẳn các quán phở khác mà hương vị không có gì đặc biệt ngoài câu chuyện Clinton; quán đông khách du lịch.",
+    "rating": {
+      "value": 6.0,
+      "count": 14,
+      "source": "Foody.vn (thang điểm 10)",
+      "url": "https://www.foody.vn/ho-chi-minh/pho-2000",
+      "seen": "2026-10"
+    },
+    "trending": false,
+    "tags": [
+      "Phở",
+      "Gần chợ Bến Thành"
+    ],
+    "tips_vi": "Chưa xác minh được quán còn mở trong 2025–2026 và địa chỉ hiện tại (các nguồn ghi 1–3 Phan Chu Trinh hoặc 208–210 Lê Thánh Tôn, cùng góc phố). Kiểm tra Google Maps trước khi đi.",
+    "images": [
+      {
+        "commons": "File:Pho and Eggs in Ho Chi Minh city.jpg",
+        "kind": "dish"
+      }
+    ],
+    "wiki": null,
+    "website": null,
+    "sources": [
+      "https://www.tinnhanhchungkhoan.vn/pho-clinton-ca-phe-trudeau-thuc-don-bush-o-sai-gon-post207074.html",
+      "https://uk.trip.com/restaurant/vietnam/ho-chi-minh-city/detail/pho-2000-10355123",
+      "https://www.foody.vn/ho-chi-minh/pho-2000"
+    ],
+    "status": "unverified",
+    "existing": true
+  },
+  {
+    "id": "hcmc-xiaoge-hotpot",
+    "name": "XiaoGe Hotpot",
+    "cat": "food",
+    "subtitle": "Lẩu (chưa xác minh)",
+    "address": "424 Nguyễn Tri Phương, Quận 10",
+    "lat": null,
+    "lng": null,
+    "coordSource": null,
+    "price": null,
+    "hours": null,
+    "mustTry": null,
+    "desc_vi": "Quán lẩu có trong danh sách cũ của bản đồ, nằm trên đường Nguyễn Tri Phương — một trục ăn uống sầm uất của Quận 10. Không tìm thấy thông tin xác nhận quán (tên, thực đơn, giờ mở cửa) trên Foody, báo chí hay các trang đánh giá trong lần rà soát tháng 10/2026.",
+    "review_vi": "Chưa có nguồn đánh giá đáng tin cậy để tổng hợp khen/chê.",
+    "rating": null,
+    "trending": false,
+    "tags": [
+      "Lẩu"
+    ],
+    "tips_vi": "Cần kiểm tra lại trên Google Maps hoặc tại chỗ trước khi đưa vào lịch trình.",
+    "images": [
+      {
+        "commons": "File:Beef hot pot.jpg",
+        "kind": "dish"
+      }
+    ],
+    "wiki": null,
+    "website": null,
+    "sources": [
+      "https://www.foody.vn/ho-chi-minh/dia-diem?q=xiaoge&ss=header_search_form"
+    ],
+    "status": "unverified",
+    "existing": true
+  },
+  {
+    "id": "hcmc-pho-oc-vinh-khanh",
+    "name": "Phố ẩm thực Vĩnh Khánh",
+    "cat": "market",
+    "subtitle": "Phố ốc & hải sản về đêm · Top 10 'Coolest Streets' 2025",
+    "address": "Đường Vĩnh Khánh (từ Bến Vân Đồn đến Tôn Đản), Quận 4",
+    "lat": null,
+    "lng": null,
+    "coordSource": null,
+    "price": "30.000–100.000đ/món",
+    "hours": "Từ chiều đến khuya; sôi động nhất 18:00–23:00",
+    "mustTry": "Ốc, nghêu, sò các kiểu xào, nướng, hấp; càng ghẹ rang muối ớt; mực khô nướng của người bán rong",
+    "desc_vi": "Con phố dài gần 1 km ở Quận 4, chính thức thành phố ẩm thực từ năm 2018, dày đặc quán ốc, hải sản, lẩu và đồ nướng với bàn ghế nhựa tràn vỉa hè. Tháng 11/2025, Vĩnh Khánh đứng thứ 10 trong danh sách 'Những con phố thú vị nhất thế giới 2025' của một tạp chí Anh và là điểm quen thuộc trong tour ẩm thực cho khách quốc tế.",
+    "review_vi": "Khen: mật độ quán dày, món đa dạng, giá hợp lý, hải sản tươi chế biến ngay trước mắt; không khí đường phố sống động với khói bếp, đèn bảng hiệu và nghệ sĩ đường phố — rất hợp kiểu 'food crawl'. Chê: đông đúc, ồn ào, xe máy qua lại sát chỗ ngồi; một số quán nổi tiếng bị phàn nàn giá cao hoặc không niêm yết giá rõ.",
+    "rating": null,
+    "trending": true,
+    "tags": [
+      "Phố ẩm thực",
+      "Ốc & hải sản",
+      "Top 10 Coolest Streets 2025",
+      "Ăn đêm"
+    ],
+    "tips_vi": "Đến sau 18h và đi bộ từ đầu đến cuối phố để thử nhiều quán (Ốc Oanh, Ốc Sáu Nở, Ốc Thảo…). Hỏi giá hải sản theo cân trước khi gọi.",
+    "images": [
+      {
+        "commons": "File:Ăn món ốc móng tay ở quán Sài Gòn năm 2013 (20130518 212422).jpg",
+        "kind": "dish"
+      }
+    ],
+    "wiki": null,
+    "website": null,
+    "sources": [
+      "https://vnexpress.net/ly-do-pho-am-thuc-vinh-khanh-duoc-vinh-danh-thu-vi-nhat-the-gioi-4985896.html",
+      "https://thanhnien.vn/dung-bo-lo-nhung-khu-pho-am-thuc-gia-binh-dan-o-tphcm-185250430192511111.htm",
+      "https://www.foody.vn/ho-chi-minh/oc-oanh"
+    ],
+    "status": "open",
+    "existing": true
+  },
+  {
+    "id": "hcmc-cho-ho-thi-ky",
+    "name": "Chợ ẩm thực Hồ Thị Kỷ",
+    "cat": "market",
+    "subtitle": "Thiên đường ăn vặt trong chợ hoa",
+    "address": "Hẻm chợ Hồ Thị Kỷ, Phường 1, Quận 10",
+    "lat": null,
+    "lng": null,
+    "coordSource": null,
+    "price": "10.000–60.000đ/món",
+    "hours": "15:00–23:00",
+    "mustTry": "Bánh tráng trộn, bánh mì bơ, hàu chén nướng trứng, kem cuộn Thái, khoai tây lốc xoáy, các loại chè",
+    "desc_vi": "Khu ăn vặt dài khoảng 300 m nằm giữa chợ hoa Hồ Thị Kỷ, với hơn 100 gian hàng bán món Việt cùng món kiểu Campuchia, Hàn Quốc, Nhật Bản. Đây là điểm hẹn quen thuộc để vừa đi bộ vừa ăn như một chợ đêm thu nhỏ.",
+    "review_vi": "Khen: món cực đa dạng, giá rẻ, có thể ăn thử nhiều thứ trong một lần ghé; không khí nhộn nhịp từ chiều đến tối. Chê: không gian hẹp, đông đúc vào giờ cao điểm — hợp vừa đi vừa ăn hơn là ngồi lâu.",
+    "rating": null,
+    "trending": false,
+    "tags": [
+      "Phố ẩm thực",
+      "Ăn vặt",
+      "Chợ đêm"
+    ],
+    "tips_vi": "Đi bộ thay vì chạy xe vào hẻm; mang theo tiền lẻ. Chợ mở từ 15h đến 23h.",
+    "images": [
+      {
+        "commons": "File:20180413 190400Saigon Hotpot Night Food Tour Ho Thi Ky Flower Market.jpg",
+        "kind": "place"
+      }
+    ],
+    "wiki": null,
+    "website": null,
+    "sources": [
+      "https://thanhnien.vn/dung-bo-lo-nhung-khu-pho-am-thuc-gia-binh-dan-o-tphcm-185250430192511111.htm"
+    ],
+    "status": "open",
+    "existing": true
+  },
+  {
+    "id": "hcmc-bun-thang-50",
+    "name": "Bún Thang 50",
+    "cat": "food",
+    "subtitle": "Bún thang Hà Nội 3 đời ở Phú Nhuận · Hot 2026",
+    "address": "50 Hồ Biểu Chánh, Phường 12, Quận Phú Nhuận",
+    "lat": 10.792460252261227,
+    "lng": 106.67628811234302,
+    "coordSource": "https://saigoneer.com/saigon-street-food-restaurants/26420-hẻm-gems-at-bún-thang-50,-unexpected-hanoi-flavors-in-a-phú-nhuận-corner",
+    "price": "40.000đ/tô",
+    "hours": "Từ sáng sớm đến khoảng 13:00 (theo chủ quán, 6/2026; hay hết sớm)",
+    "mustTry": "Bún thang Hà Nội (trứng tráng, gà xé, chả lụa thì là, nấm hương, mộc nhĩ, tóp mỡ)",
+    "desc_vi": "Quán bún thang gần 4 thập kỷ do cụ Phạm Ngọc Bảo, người Hà Nội vào TP.HCM sau 1975, sáng lập; nay cháu dâu đời thứ ba đứng bếp. Sau loạt bài 'Đi tìm quán ăn quê nhà ở TP.HCM' tháng 6/2026, quán đông đến mức hết món lúc 9h30 sáng.",
+    "review_vi": "Khen: tô bún thang thanh tao, ít dầu mỡ đúng chất Hà Nội; mộc nhĩ, nấm hương và tóp mỡ giòn tạo kết cấu, chả lụa có thì là rất 'Bắc'; giá mềm. Chê: nước dùng đậm và béo hơn bún thang nhà nấu; từ khi nổi tiếng, quán bán hết rất sớm.",
+    "rating": null,
+    "trending": true,
+    "tags": [
+      "Hot 2026",
+      "Bún thang",
+      "Món Bắc"
+    ],
+    "tips_vi": "Đến trước 9h, nhất là cuối tuần. Quán nhỏ góc hẻm, mang tiền mặt.",
+    "images": [
+      {
+        "commons": "File:Bún thang.JPG",
+        "kind": "dish"
+      }
+    ],
+    "wiki": null,
+    "website": null,
+    "sources": [
+      "https://thanhnien.vn/quan-an-que-nha-o-tphcm-dong-cua-som-vi-qua-dong-sau-loat-bai-cua-bao-thanh-nien-185260625212621133.htm",
+      "https://saigoneer.com/saigon-street-food-restaurants/26420-hẻm-gems-at-bún-thang-50",
+      "https://saigoneer.com/saigon-street-food-restaurants/26420-hẻm-gems-at-bún-thang-50,-unexpected-hanoi-flavors-in-a-phú-nhuận-corner"
+    ],
+    "status": "open",
+    "existing": false
+  },
+  {
+    "id": "hcmc-pho-hoa-pasteur",
+    "name": "Phở Hòa Pasteur",
+    "cat": "food",
+    "subtitle": "Phở Sài Gòn từ 1968",
+    "address": "260C Pasteur, Phường 8, Quận 3",
+    "lat": 10.786594,
+    "lng": 106.689166,
+    "coordSource": "https://www.foody.vn/ho-chi-minh/pho-hoa-pasteur",
+    "price": "30.000–105.000đ",
+    "hours": "06:00–22:30 hằng ngày",
+    "mustTry": "Phở bò tái/chín với các món bò nhà làm, sách bò; thêm trứng",
+    "desc_vi": "Tiệm phở hoạt động từ năm 1968 trên đường Pasteur, một trong những quán phở kinh điển của Sài Gòn và từng được New York Times, The Washington Post nhắc đến. Quán rất quen thuộc với khách quốc tế; các món bò nhà làm và sách bò là điểm riêng, khách có thể thêm trứng.",
+    "review_vi": "Khen: lâu đời, mở cửa cả ngày, phở kiểu Nam đầy đặn với nhiều lựa chọn topping; được khách du lịch biết đến rộng rãi. Chê: điểm Foody thấp (5,9/10) — nhiều phàn nàn giá cao so với chất lượng, nước dùng thiên ngọt hoặc nhạt, phục vụ thiếu thân thiện và thu phí gửi xe.",
+    "rating": {
+      "value": 5.9,
+      "count": 229,
+      "source": "Foody.vn (thang điểm 10)",
+      "url": "https://www.foody.vn/ho-chi-minh/pho-hoa-pasteur",
+      "seen": "2026-10"
+    },
+    "trending": false,
+    "tags": [
+      "Phở",
+      "Quán lâu đời"
+    ],
+    "tips_vi": "Quán đông khách du lịch; có thu phí gửi xe. Mở cửa từ sáng sớm đến tối muộn nên tiện ăn ngoài giờ cao điểm.",
+    "images": [
+      {
+        "commons": "File:Pho and Eggs in Ho Chi Minh city.jpg",
+        "kind": "dish"
+      }
+    ],
+    "wiki": null,
+    "website": null,
+    "sources": [
+      "https://www.vietnamairlines.com/en/useful-information/travel-guide/best-pho-in-hcmc",
+      "https://www.foody.vn/ho-chi-minh/pho-hoa-pasteur"
+    ],
+    "status": "open",
+    "existing": false
+  },
+  {
+    "id": "hcmc-che-hien-khanh",
+    "name": "Chè Hiển Khánh",
+    "cat": "food",
+    "subtitle": "Chè thạch hoa nhài hơn 60 năm",
+    "address": "718 Nguyễn Đình Chiểu, Phường 1, Quận 3",
+    "lat": 10.767533,
+    "lng": 106.679724,
+    "coordSource": "https://www.foody.vn/ho-chi-minh/che-hien-khanh",
+    "price": "Khoảng 20.000–33.000đ/chén",
+    "hours": "09:00–12:30, 14:30–22:00",
+    "mustTry": "Chè đậu xanh thạch trắng nước hoa nhài, chè thạch thập cẩm (củ năng, nhãn nhục), chè thưng",
+    "desc_vi": "Tiệm chè do hai ông chủ quê làng Hiển Khánh (Nam Định) mở khoảng cuối thập niên 1950, có cơ sở ở Đa Kao rồi mở thêm cửa hàng hiện tại trên Nguyễn Đình Chiểu từ năm 1965. Quán vẫn giữ bảng hiệu chữ cổ, bàn ghế thấp trải bạt hoa văn và tủ kính đặt bánh quê như Sài Gòn trước 1975; công thức chè thạch nước đường hoa nhài gần như không đổi.",
+    "review_vi": "Khen: chè thanh mát, thơm hoa nhài, thạch mềm dai, chén đầy đặn; không gian hoài cổ, chủ quán ôn hòa, chu đáo. Chê: giá nhỉnh hơn quán chè bình dân; giờ mở cửa có nghỉ trưa.",
+    "rating": {
+      "value": 7.5,
+      "count": 87,
+      "source": "Foody.vn (thang điểm 10)",
+      "url": "https://www.foody.vn/ho-chi-minh/che-hien-khanh",
+      "seen": "2026-10"
+    },
+    "trending": false,
+    "tags": [
+      "Chè",
+      "Tráng miệng",
+      "Quán lâu đời"
+    ],
+    "tips_vi": "Quán nghỉ 12:30–14:30. Bánh quê trên bàn (bánh đậu xanh, bánh ít…) tính tiền nếu ăn.",
+    "images": [
+      {
+        "commons": "File:Chè Thạch Trắng Đậu Xanh Nhãn Nhục.JPG",
+        "kind": "dish"
+      }
+    ],
+    "wiki": null,
+    "website": null,
+    "sources": [
+      "https://vnexpress.net/tiem-che-6-thap-ky-goi-ky-uc-sai-gon-xua-3930692.html",
+      "https://thanhnien.vn/thoi-trang-tre/nhung-quan-che-noi-tieng-tai-tphcm-ma-gioi-tre-cuc-ky-yeu-thich-185240715164836483.htm",
+      "https://www.foody.vn/ho-chi-minh/che-hien-khanh"
+    ],
+    "status": "open",
+    "existing": false
+  },
+  {
+    "id": "hcmc-banh-mi-bay-ho",
+    "name": "Bánh mì Bảy Hổ",
+    "cat": "food",
+    "subtitle": "Tiệm bánh mì gia truyền từ 1930",
+    "address": "19 Huỳnh Khương Ninh, Quận 1",
+    "lat": null,
+    "lng": null,
+    "coordSource": null,
+    "price": "20.000–60.000đ/ổ",
+    "hours": "Mở từ đầu giờ chiều",
+    "mustTry": "Bánh mì thịt với nhân nhà làm (chả, thịt nguội, pate)",
+    "desc_vi": "Một trong những tiệm bánh mì lâu đời nhất Sài Gòn, hoạt động từ năm 1930 và truyền qua ba thế hệ trong gia đình. Tiệm nổi tiếng nhờ các loại nhân tự làm thủ công, giá vẫn ở mức bình dân giữa khu Tân Định – Đa Kao.",
+    "review_vi": "Khen: nhân nhà làm đậm vị truyền thống, giá dễ chịu so với các tiệm bánh mì nổi tiếng khác. Chê: tiệm bán buổi chiều, ai muốn ăn sáng sẽ không mua được; nguồn mô tả chi tiết còn ít.",
+    "rating": null,
+    "trending": false,
+    "tags": [
+      "Bánh mì",
+      "Quán lâu đời"
+    ],
+    "tips_vi": "Ghé buổi chiều; kết hợp dạo khu Tân Định – Đa Kao.",
+    "images": [
+      {
+        "commons": "File:2023-12-10 Coffee and bánh mì in Saigon.jpg",
+        "kind": "dish"
+      }
+    ],
+    "wiki": null,
+    "website": null,
+    "sources": [
+      "https://znews.vn/8-tiem-banh-mi-ton-tai-tren-50-nam-tai-tphcm-post1645421.html"
+    ],
+    "status": "open",
+    "existing": false
+  },
+  {
+    "id": "hcmc-pho-sui-cao-ha-ton-quyen",
+    "name": "Phố sủi cảo Hà Tôn Quyền",
+    "cat": "market",
+    "subtitle": "Phố ẩm thực người Hoa, chuyên sủi cảo",
+    "address": "Đường Hà Tôn Quyền, Quận 11 (giáp Quận 6)",
+    "lat": null,
+    "lng": null,
+    "coordSource": null,
+    "price": "35.000–100.000đ/phần",
+    "hours": "Từ sáng sớm đến tối",
+    "mustTry": "Sủi cảo nước, sủi cảo khô, sủi cảo chiên, sủi cảo hấp",
+    "desc_vi": "Con đường dài khoảng 700 m trong khu Chợ Lớn, nổi tiếng là 'phố sủi cảo' với nhiều quán người Hoa lâu đời. Nhiều gia đình vẫn gói tay vỏ mỏng, nhân tôm thịt đầy đặn; phố rực rỡ đèn và đông khách về đêm.",
+    "review_vi": "Khen: hương vị người Hoa truyền thống, vỏ mỏng nhân tôm thịt đầy đặn, nhiều kiểu chế biến (nước, khô, chiên, hấp), giá hợp lý; phố rực rỡ, nhộn nhịp về đêm. Chê: các nguồn đã đọc không ghi nhận phàn nàn đáng kể; phố đông người vào buổi tối.",
+    "rating": null,
+    "trending": false,
+    "tags": [
+      "Phố ẩm thực",
+      "Ẩm thực người Hoa",
+      "Sủi cảo"
+    ],
+    "tips_vi": "Đi buổi tối để thấy phố lên đèn; gọi một phần nước và một phần chiên để so sánh.",
+    "images": [
+      {
+        "commons": "File:Jiaozi-close-look.jpg",
+        "kind": "dish"
+      }
+    ],
+    "wiki": null,
+    "website": null,
+    "sources": [
+      "https://thanhnien.vn/dung-bo-lo-nhung-khu-pho-am-thuc-gia-binh-dan-o-tphcm-185250430192511111.htm"
+    ],
+    "status": "open",
+    "existing": false
+  },
+  {
+    "id": "hcmc-hu-tieu-ca-anh-mai",
+    "name": "Hủ tiếu mì cá Anh Mai",
+    "cat": "food",
+    "subtitle": "Hủ tiếu cá lóc ăn sáng · Ít người biết",
+    "address": "153 Lê Thị Riêng, Phường Bến Thành, Quận 1",
+    "lat": 10.77026,
+    "lng": 106.688965,
+    "coordSource": "https://www.foody.vn/ho-chi-minh/anh-mai-hu-tieu-ca",
+    "price": "Tô lớn 75.000đ",
+    "hours": "06:00–11:30",
+    "mustTry": "Hủ tiếu cá lóc nước hoặc khô (phi lê cá lóc, củ cải muối, giá, xì dầu)",
+    "desc_vi": "Quán hủ tiếu cá hơn 10 năm, chỉ bán buổi sáng và giữ chân rất nhiều khách quen — có người ăn ở đây gần 20 năm. Điểm nhấn là phi lê cá lóc trắng, chắc, ngọt nhẹ trong nước lèo nêm vừa; năm 2026 quán dời về số 153 Lê Thị Riêng, một đoạn phố Quận 1 hiếm hoi còn yên tĩnh.",
+    "review_vi": "Khen: cá lóc phi lê không xương rất tươi, phần lớn nhiều cá; nước lèo thơm, đậm vừa; chủ quán vui vẻ, nhớ món của khách quen. Chê: chỉ bán đến khoảng 11h30 và sáng cuối tuần kín bàn, phải chờ; 75.000đ cho tô lớn không còn là giá bình dân.",
+    "rating": null,
+    "trending": false,
+    "tags": [
+      "Ít người biết",
+      "Hủ tiếu",
+      "Ăn sáng"
+    ],
+    "tips_vi": "Đến trước 10h, nhất là Chủ nhật. Chỉ có chỗ để xe máy; nhận tiền mặt hoặc chuyển khoản.",
+    "images": [
+      {
+        "commons": "File:Hủ tiếu.jpg",
+        "kind": "dish"
+      }
+    ],
+    "wiki": null,
+    "website": null,
+    "sources": [
+      "https://saigoneer.com/saigon-street-food-restaurants/26618-hẻm-gems-wake-up-early,-we-re-getting-hủ-tiếu-cá-for-breakfast",
+      "https://www.foody.vn/ho-chi-minh/anh-mai-hu-tieu-ca"
+    ],
+    "status": "open",
+    "existing": false
+  },
+  {
+    "id": "hcmc-pho-chay-nhu",
+    "name": "Phở Chay Như",
+    "cat": "food",
+    "subtitle": "Quán chay bình dân hơn 35 năm · Ít người biết",
+    "address": "54 Trương Quyền, Quận 3",
+    "lat": 10.786978,
+    "lng": 106.692279,
+    "coordSource": "https://saigoneer.com/saigon-street-food-restaurants/18400-hẻm-gems-pho-chay-nhu-and-35-years-of-serving-tasty-vegetarian-meals",
+    "price": "Dưới 100.000đ/người",
+    "hours": "06:00–20:00",
+    "mustTry": "Phở chay (nấm, tàu hũ ky cuộn), hoành thánh chiên, các món bún chay phỏng theo món Việt quen thuộc",
+    "desc_vi": "Quán chay nhỏ trên đường Trương Quyền, nằm giữa Điện Biên Phủ và Võ Thị Sáu, đi bộ một quãng là tới công viên Lê Văn Tám, đã phục vụ món chay khoảng 35 năm. Thực đơn là phiên bản chay của nhiều món nước Việt nổi tiếng, với nước dùng trong, nấm và tàu hũ ky đậm vị umami.",
+    "review_vi": "Khen: nước dùng thanh, nhiều nấm và tàu hũ ky; nước mắm chay và sa tế sả rất 'bắt'; đĩa hoành thánh chiên lấy thêm làm tô phở béo ngậy hơn. Chê: cửa quán rất dễ chạy lố; bàn nhôm xếp, không gian bình dân.",
+    "rating": null,
+    "trending": false,
+    "tags": [
+      "Ít người biết",
+      "Đồ chay",
+      "Phở"
+    ],
+    "tips_vi": "Chạy chậm khi tới gần số 54 vì lối vào khuất. Chỉ có chỗ để xe máy; nhận tiền mặt/chuyển khoản.",
+    "images": [
+      {
+        "commons": "File:Tofu noodle soup (Phở chay) - Pho Hanoi Authentic 2024-12-01.jpg",
+        "kind": "dish"
+      }
+    ],
+    "wiki": null,
+    "website": null,
+    "sources": [
+      "https://saigoneer.com/saigon-street-food-restaurants/18400-hẻm-gems-pho-chay-nhu-and-35-years-of-serving-tasty-vegetarian-meals"
+    ],
+    "status": "open",
+    "existing": false
+  },
+  {
+    "id": "hcmc-com-tam-ti-quynh",
+    "name": "Cơm tấm Tị Quỳnh",
+    "cat": "food",
+    "subtitle": "Cơm tấm Long Xuyên thịt kho trứng · Ít người biết",
+    "address": "19E Kỳ Đồng, Phường 9, Quận 3",
+    "lat": 10.782860652374032,
+    "lng": 106.681449231992,
+    "coordSource": "https://saigoneer.com/saigon-street-food-restaurants/27896-hẻm-gems-tị-quỳnh-an-alternative-cơm-tấm-from-long-xuyên-for-thịt-kho-trứng-fans",
+    "price": "Dưới 100.000đ/người",
+    "hours": "07:00–14:00, 16:00–21:00",
+    "mustTry": "Cơm tấm Long Xuyên (thịt ba rọi kho thái mỏng, trứng kho, đồ chua, nước mắm)",
+    "desc_vi": "Quán của một gia đình miền Tây trong con hẻm nối đường Kỳ Đồng với đường ven kênh Nhiêu Lộc; bán đồ ăn vặt hơn 10 năm rồi chuyển sang cơm tấm từ 2021. Món đặc trưng là cơm tấm Long Xuyên — biến thể miền Tây với thịt kho trứng thay cho sườn nướng, hiếm gặp ở Sài Gòn; quán còn có cơm tấm kiểu Sài Gòn và chi nhánh ở Gò Vấp.",
+    "review_vi": "Khen: món cơm tấm Long Xuyên lạ miệng cho fan thịt kho trứng, lên món nhanh (5–10 phút), đông khách giờ trưa dù mới mở vài năm. Chê: chỗ ngồi tạm ở sân nhà hàng xóm, giờ trưa phải len qua đông shipper để gọi món.",
+    "rating": null,
+    "trending": false,
+    "tags": [
+      "Ít người biết",
+      "Cơm tấm",
+      "Món miền Tây"
+    ],
+    "tips_vi": "Tránh 11h30–12h30 nếu muốn có chỗ ngồi. Chỉ có chỗ để xe máy.",
+    "images": [
+      {
+        "commons": "File:Cơm tấm SG (cơm sườn) ng27th9n2020 (1).jpg",
+        "kind": "dish"
+      }
+    ],
+    "wiki": null,
+    "website": null,
+    "sources": [
+      "https://saigoneer.com/saigon-street-food-restaurants/27896-hẻm-gems-tị-quỳnh-an-alternative-cơm-tấm-from-long-xuyên-for-thịt-kho-trứng-fans"
+    ],
+    "status": "open",
+    "existing": false
+  },
+  {
+    "id": "hcmc-hu-tieu-mi-co-chanh",
+    "name": "Hủ tiếu mì Cô Chánh (chợ Cũ)",
+    "cat": "food",
+    "subtitle": "Ki-ốt hủ tiếu người Hoa 60 năm trong chợ Cũ · Ít người biết",
+    "address": "69 Tôn Thất Đạm, Phường Bến Nghé, Quận 1",
+    "lat": 10.771752504525661,
+    "lng": 106.70307607116416,
+    "coordSource": "https://saigoneer.com/saigon-street-food-restaurants/28043-hẻm-gems-go-back-in-time-to-chợ-cũ-s-golden-days-via-cô-chánh-s-hủ-tiếu-mì",
+    "price": null,
+    "hours": "Khoảng sáng đến chiều tối (chủ quán dọn hàng khoảng 19h)",
+    "mustTry": "Hủ tiếu mì sợi lớn hoặc nhỏ với tôm, gan, tim, thịt, tóp mỡ; hoành thánh",
+    "desc_vi": "Ki-ốt hủ tiếu mì giữa khu chợ Cũ Tôn Thất Đạm với tủ kính kiểu xưa, do cô Chánh (Huỳnh Thị Dung) tiếp quản từ người chú — người bắt đầu bán mì ở đây khoảng 60 năm trước. Từ hủ tiếu kiểu Quảng Đông ban đầu, cô thêm hủ tiếu mì, hoành thánh, bò viên; mỗi tô được xếp topping rất ngay ngắn, nước lèo nêm vừa, không ngọt.",
+    "review_vi": "Khen: hương vị 'xưa' kiểu bếp người Hoa, gan làm sạch không tanh, hoành thánh vỏ mỏng nhân đậm; không khí chợ thân tình, chủ quán hay trò chuyện với khách. Chê: nhân hoành thánh hơi mặn hơn nơi khác; chỉ là một ki-ốt nhỏ, khách giảm nhiều sau dịch.",
+    "rating": null,
+    "trending": false,
+    "tags": [
+      "Ít người biết",
+      "Hủ tiếu",
+      "Ẩm thực người Hoa",
+      "Quán lâu đời"
+    ],
+    "tips_vi": "Ghé cùng lúc khám phá chợ Cũ (gần Ănăn Saigon, Cơm thố Chuyên Ký). Tự nêm thêm giấm, sốt kiểu Triều Châu trên bàn.",
+    "images": [
+      {
+        "commons": "File:Hủ tiếu.jpg",
+        "kind": "dish"
+      }
+    ],
+    "wiki": null,
+    "website": null,
+    "sources": [
+      "https://saigoneer.com/saigon-street-food-restaurants/28043-hẻm-gems-go-back-in-time-to-chợ-cũ-s-golden-days-via-cô-chánh-s-hủ-tiếu-mì"
+    ],
+    "status": "open",
+    "existing": false
+  },
+  {
+    "id": "hcmc-o-phuong",
+    "name": "O Phương – Món ngon sông Hương",
+    "cat": "food",
+    "subtitle": "Bún bò Huế trong nhà hiện đại miền Nam xưa · Ít người biết",
+    "address": "162 Điện Biên Phủ (góc Trương Quyền), Quận 3",
+    "lat": 10.7860573,
+    "lng": 106.6931429,
+    "coordSource": "https://www.foody.vn/ho-chi-minh/bun-bo-o-phuong-dien-bien-phu",
+    "price": "Dưới 100.000đ/người",
+    "hours": "07:30–21:30",
+    "mustTry": "Bún bò Huế nước, bún bò khô 'remix', bánh bột lọc lá dong, bánh ướt tôm chấy, bánh bèo chén",
+    "desc_vi": "Quán món Huế trong một căn nhà kiến trúc hiện đại miền Nam cũ: bậc thềm cao, hành lang lộng gió, tường đá rửa, hoa sắt hình mây sóng và chữ Phúc, hồ nước nhỏ và hàng tre phía trước. Chủ quán là anh Duy, đặt tên theo vợ là người Huế; nước dùng ninh 14 tiếng với mắm ruốc tép, giữ nguyên vị bún bò Huế không 'nam hóa'.",
+    "review_vi": "Khen: nước dùng trong mà đậm mùi ruốc, nguyên liệu mang từ quê (tiêu Gio Linh, tôm sáo phá Tam Giang, hành Lý Sơn); không gian yên tĩnh bất ngờ giữa phố đông. Chê: nằm ngay góc Điện Biên Phủ rất đông xe; chỉ có chỗ để xe máy.",
+    "rating": null,
+    "trending": false,
+    "tags": [
+      "Ít người biết",
+      "Bún bò Huế",
+      "Món Huế",
+      "Kiến trúc đẹp"
+    ],
+    "tips_vi": "Thử bản bún bò khô (nước để riêng) nếu đã quen bún bò nước. Nhận tiền mặt/chuyển khoản.",
+    "images": [
+      {
+        "commons": "File:Bún bò Huế - Chợ Đông Ba (2024) - img 01.jpg",
+        "kind": "dish"
+      }
+    ],
+    "wiki": null,
+    "website": null,
+    "sources": [
+      "https://saigoneer.com/saigon-street-food-restaurants/28799-hẻm-gems-inside-a-modernist-abode,-o-phương’s-bún-bò-harks-back-to-huế-flavors2",
+      "https://www.foody.vn/ho-chi-minh/bun-bo-o-phuong-dien-bien-phu"
+    ],
+    "status": "open",
+    "existing": false
+  },
+  {
+    "id": "hcmc-banh-beo-co-mai-phu-yen",
+    "name": "Bánh bèo Cô Mai Phú Yên",
+    "cat": "food",
+    "subtitle": "Bánh canh hẹ Phú Yên · Ít người biết",
+    "address": "54 Hoa Sứ, Phường 7, Quận Phú Nhuận",
+    "lat": 10.79934389085852,
+    "lng": 106.68898445514866,
+    "coordSource": "https://saigoneer.com/saigon-street-food-restaurants/26603-hẻm-gems-bánh-canh-hẹ-is-phú-yên-s-homage-to-chives-and-the-sea",
+    "price": "Dưới 100.000đ/người",
+    "hours": "07:00–21:00",
+    "mustTry": "Bánh canh hẹ (phủ ngập hẹ, nước dùng cá biển), bánh bèo",
+    "desc_vi": "Quán của một gia đình Phú Yên chuyển vào Sài Gòn nhưng giữ nguyên thực đơn quê nhà. Đặc sản là bánh canh hẹ: sợi bánh canh làm từ gạo Phú Yên, nước dùng ninh từ cá vùng biển, phủ một lớp hẹ xanh ngắt — món bình dân của miền Trung mà ít quán ở TP.HCM bán.",
+    "review_vi": "Khen: món địa phương hiếm gặp, nước dùng cá ngọt, hẹ thơm nhẹ; quán được nhiều người Sài Gòn giới thiệu. Chê: lượng hẹ rất nhiều, nhìn 'choáng' với người không mê rau hành.",
+    "rating": null,
+    "trending": false,
+    "tags": [
+      "Ít người biết",
+      "Bánh canh",
+      "Món miền Trung"
+    ],
+    "tips_vi": "Ai ngại hẹ có thể dặn bớt. Chỉ có chỗ để xe máy; nhận tiền mặt/chuyển khoản.",
+    "images": [],
+    "wiki": null,
+    "website": null,
+    "sources": [
+      "https://saigoneer.com/saigon-street-food-restaurants/26603-hẻm-gems-bánh-canh-hẹ-is-phú-yên-s-homage-to-chives-and-the-sea"
+    ],
+    "status": "open",
+    "existing": false
+  },
+  {
+    "id": "hcmc-sugar-daddy-eatery",
+    "name": "Sugar Daddy Eatery",
+    "cat": "food",
+    "subtitle": "Gelato vị nước mắm, nước tương · Ít người biết",
+    "address": "345/29 Trần Hưng Đạo, Phường Cầu Kho, Quận 1",
+    "lat": 10.7608317,
+    "lng": 106.6898091,
+    "coordSource": "https://www.foody.vn/ho-chi-minh/sugar-daddy-gelato-tran-hung-dao",
+    "price": "Dưới 100.000đ/người",
+    "hours": "14:00–22:00",
+    "mustTry": "Gelato vị nước mắm, gelato vị nước tương, các vị gelato Việt sáng tạo",
+    "desc_vi": "Tiệm gelato gia đình của vợ chồng Danh và Vy trong hẻm Trần Hưng Đạo, đã bám trụ khoảng năm năm giữa lúc nhiều tiệm kem trung tâm đóng cửa hoặc dời đi Thảo Điền. Từ 2025 tiệm chuyển vài căn trong hẻm về ngôi nhà gia đình sửa lại, rộng và sáng hơn; nổi bật là những vị kem lấy cảm hứng từ gia vị Việt như nước mắm, nước tương.",
+    "review_vi": "Khen: vị kem độc đáo khó tìm nơi khác, không khí gia đình (mẹ chủ quán cũng phụ khách chọn vị), chỗ ngồi mới rộng rãi. Chê: chỉ mở từ 14h; nằm trong hẻm, chỉ có chỗ để xe máy.",
+    "rating": null,
+    "trending": false,
+    "tags": [
+      "Ít người biết",
+      "Tráng miệng",
+      "Kem",
+      "Độc lạ"
+    ],
+    "tips_vi": "Xin nếm thử trước vị nước mắm/nước tương. Gần chợ Bến Thành, tiện ghé sau bữa tối.",
+    "images": [],
+    "wiki": null,
+    "website": null,
+    "sources": [
+      "https://saigoneer.com/saigon-street-food-restaurants/29150-hẻm-gems-sugar-daddy-eatery,-where-fish-sauce-and-soy-sauce-are-not-condiments,-but-gelato-flavors",
+      "https://www.foody.vn/ho-chi-minh/sugar-daddy-gelato-tran-hung-dao"
+    ],
+    "status": "open",
+    "existing": false
+  },
+  {
+    "id": "hcmc-cccp-saigon",
+    "name": "CCCP Saigon",
+    "cat": "food",
+    "subtitle": "Ẩm thực Liên Xô hoài niệm · Ít người biết",
+    "address": "48A Nguyễn Bỉnh Khiêm, Phường Đa Kao, Quận 1",
+    "lat": 10.793033,
+    "lng": 106.698813,
+    "coordSource": "https://www.foody.vn/ho-chi-minh/nha-hang-cccp-saigon",
+    "price": "Khoảng 300.000đ/người",
+    "hours": "10:30–21:30",
+    "mustTry": "Bánh mì đen phết bơ với trứng cá muối, các món Nga – Liên Xô",
+    "desc_vi": "Nhà hàng Liên Xô có lẽ nổi tiếng nhất Sài Gòn, là nơi nhiều thế hệ cựu du học sinh Nga tìm lại hương vị thời sinh viên. Không gian như nhà bà ngoại ở một nước Đông Âu: bàn ghế gỗ, rèm caro đỏ trắng, khay sơn mài, búp bê lật đật và giấy dán tường hoa.",
+    "review_vi": "Khen: món ăn và không gian gợi ký ức Liên Xô rất riêng, hợp đi gia đình nhiều thế hệ; nhận mọi hình thức thanh toán, có chỗ đậu ô tô. Chê: vài đánh giá trên Foody (2023) phàn nàn quán ồn, nóng và thái độ phục vụ; thường kín bàn nên cần đặt trước.",
+    "rating": null,
+    "trending": false,
+    "tags": [
+      "Ít người biết",
+      "Ẩm thực quốc tế",
+      "Độc lạ"
+    ],
+    "tips_vi": "Đặt bàn qua Facebook Messenger hoặc Zalo (không có trên app giao hàng).",
+    "images": [],
+    "wiki": null,
+    "website": null,
+    "sources": [
+      "https://saigoneer.com/saigon-street-food-restaurants/29075-hẻm-gems-cccp-anchors-fond-memories-of-soviet-cuisine-for-saigoneers,-young-and-old",
+      "https://www.foody.vn/ho-chi-minh/nha-hang-cccp-saigon"
+    ],
+    "status": "open",
+    "existing": false
+  },
+  {
+    "id": "hcmc-bun-mam-nem-di-bay",
+    "name": "Bún mắm nêm Dì Bảy",
+    "cat": "food",
+    "subtitle": "Bún mắm nêm heo quay khu Bàu Cát · Ít người biết",
+    "address": "199 Bàu Cát, Phường 14, Quận Tân Bình",
+    "lat": 10.79207531069989,
+    "lng": 106.64371751309123,
+    "coordSource": "https://saigoneer.com/saigon-street-food-restaurants/17767-hẻm-gems-the-stink-of-bún-mắm-nêm-is-my-childhood-aroma",
+    "price": "Dưới 100.000đ/người",
+    "hours": "07:00–21:00",
+    "mustTry": "Bún mắm nêm heo quay (thịt heo quay giòn, tai heo, dầu điều), mắm nêm pha thơm",
+    "desc_vi": "Khu Bàu Cát (Tân Bình) là nơi tụ cư của nhiều người gốc Quảng Nam – Đà Nẵng, và Dì Bảy là quán ruột của họ cho món bún mắm nêm heo quay. Mắm nêm — mắm cá cơm lên men, pha với thơm, chanh, tỏi, ớt — là linh hồn quyết định tô bún.",
+    "review_vi": "Khen: mắm nêm đủ nồng, dậy mùi đúng kiểu miền Trung; heo quay giòn, tai heo sần sật, có dầu điều. Chê: mùi mắm nêm rất mạnh, nhiều người lần đầu (nhất là khách nước ngoài) khó ăn.",
+    "rating": null,
+    "trending": false,
+    "tags": [
+      "Ít người biết",
+      "Bún",
+      "Món miền Trung"
+    ],
+    "tips_vi": "Tiện ghé trên đường ra sân bay Tân Sơn Nhất. Chỉ có chỗ để xe máy.",
+    "images": [],
+    "wiki": null,
+    "website": null,
+    "sources": [
+      "https://saigoneer.com/saigon-street-food-restaurants/17767-hẻm-gems-the-stink-of-bún-mắm-nêm-is-my-childhood-aroma"
+    ],
+    "status": "open",
+    "existing": false
+  },
+  {
+    "id": "hcmc-snap-cafe",
+    "name": "SNAP Cafe",
+    "cat": "food",
+    "subtitle": "Cafe – nhà hàng sân vườn có sân cát cho bé",
+    "address": "32 Trần Ngọc Diện, Phường Thảo Điền, Quận 2 (TP. Thủ Đức)",
+    "lat": null,
+    "lng": null,
+    "coordSource": null,
+    "price": "120.000–300.000đ/người",
+    "hours": null,
+    "mustTry": "Big breakfast (trứng, thịt xông khói), burger và khoai tây chiên cho bé, món Việt, món Mexico, salad",
+    "desc_vi": "Quán cafe – nhà hàng phục vụ cả ngày trong một khoảng sân có các cửa hàng nhỏ ở Thảo Điền, quen thuộc với các gia đình có con nhỏ. Sân chơi ngoài trời có hố cát rào chắn và dây leo, bé chơi miễn phí khi bố mẹ gọi đồ; quán có thực đơn trẻ em và ghế ăn cho bé.",
+    "review_vi": "Khen: bố mẹ vừa ăn vừa trông con dễ dàng, thực đơn trẻ em và món Âu – Việt đa dạng. Chê: toàn bộ bàn và sân chơi ở ngoài trời nên trưa nắng khá nóng; giá theo mặt bằng Thảo Điền, cao hơn quán Việt bình dân.",
+    "rating": null,
+    "trending": false,
+    "tags": [
+      "Hợp với trẻ em",
+      "Ẩm thực quốc tế",
+      "Thảo Điền",
+      "Brunch"
+    ],
+    "tips_vi": "Mang nước, kem chống nắng và quần áo thay cho bé vì sân chơi là hố cát ngoài trời; đi buổi sáng hoặc chiều mát.",
+    "images": [],
+    "wiki": null,
+    "website": null,
+    "sources": [
+      "https://vietnamisawesome.com/?p=946",
+      "https://restaurantsforkings.com/rankings/ho-chi-minh-city/family-friendly/2026/",
+      "https://tablejourney.com/vietnam/ho-chi-minh-city/brunch/snap-cafe/"
+    ],
+    "status": "open",
+    "existing": false
+  },
+  {
+    "id": "hcmc-au-parc",
+    "name": "Au Parc",
+    "cat": "food",
+    "subtitle": "Ẩm thực Địa Trung Hải, brunch · có phòng chơi cho bé",
+    "address": "23 Hàn Thuyên, Phường Bến Nghé, Quận 1",
+    "lat": 10.7787925,
+    "lng": 106.698065,
+    "coordSource": "https://www.foody.vn/ho-chi-minh/au-parc",
+    "price": "45.000–605.000đ/món",
+    "hours": "07:30–22:30",
+    "mustTry": "Mezze, shakshuka, sandwich, brunch cuối tuần",
+    "desc_vi": "Nhà hàng Địa Trung Hải – Trung Đông lâu năm gần Dinh Độc Lập, nổi tiếng với brunch cuối tuần. Tầng trên có một phòng nhỏ cho trẻ mới biết đi chơi, cùng thực đơn trẻ em và ghế ăn cho bé — tiện cho gia đình có con nhỏ đang dạo trung tâm Quận 1.",
+    "review_vi": "Khen: không gian đẹp, thực đơn đa dạng, hợp đi brunch; có góc chơi cho bé ngay trong nhà hàng. Chê: một số đánh giá trên Foody cho rằng món khá nhạt và giá cao, chất lượng phục vụ không đều (đánh giá 2021–2022).",
+    "rating": {
+      "value": 7.9,
+      "count": 105,
+      "source": "Foody.vn (thang điểm 10)",
+      "url": "https://www.foody.vn/ho-chi-minh/au-parc",
+      "seen": "2026-10"
+    },
+    "trending": false,
+    "tags": [
+      "Hợp với trẻ em",
+      "Ẩm thực quốc tế",
+      "Brunch"
+    ],
+    "tips_vi": "Phòng chơi cho bé ở tầng trên, phù hợp trẻ nhỏ; cuối tuần nên đặt bàn brunch.",
+    "images": [],
+    "wiki": null,
+    "website": null,
+    "sources": [
+      "https://www.foody.vn/ho-chi-minh/au-parc",
+      "https://vietnamisawesome.com/?p=946",
+      "https://restaurantsforkings.com/rankings/ho-chi-minh-city/family-friendly/2026/"
+    ],
+    "status": "open",
+    "existing": false
+  },
+  {
+    "id": "hcmc-sui-cao-dai-nuong",
+    "name": "Sủi cảo Đại Nương",
+    "cat": "food",
+    "subtitle": "Sủi cảo hẹ người Hoa ở Chợ Lớn · Ít người biết",
+    "address": "125 Châu Văn Liêm, Phường 14, Quận 5",
+    "lat": 10.754031,
+    "lng": 106.658233,
+    "coordSource": "https://saigoneer.com/saigon-street-food-restaurants/17644-hẻm-gems-at-d5-s-sủi-cảo-đại-nương,-a-song-of-chives-and-fire",
+    "price": "Khoảng 40.000–50.000đ/phần (giá năm 2019)",
+    "hours": null,
+    "mustTry": "Sủi cảo luộc (nhân thịt băm nhiều hẹ), sủi cảo chiên, mì xào thịt trứng, cơm chiên, phá lấu kiểu Hoa, trà ô long",
+    "desc_vi": "Quán sủi cảo người Hoa bên đại lộ Châu Văn Liêm — trục phố Chợ Lớn lâu đời với rạp hát cũ, xe chè và nhiều tiệm sủi cảo. Viên sủi cảo to cỡ quả bóng golf, vỏ dày dai kiểu Đài Loan, nhân thịt băm và rất nhiều hẹ, được luộc hoặc chiên ngập dầu khi khách gọi; không gian đơn giản với bàn kim loại, ghế gỗ và kệ gia vị Hoa.",
+    "review_vi": "Khen: sủi cảo luộc mềm dai, nhân ẩm nhờ hẹ; mì xào và cơm chiên ngon bất ngờ; trà ô long pha đậm; phần ăn rất lớn so với giá. Chê: sủi cảo chiên ngập dầu nhanh ngấy; Saigoneer chỉ chấm 2/5 cho độ thân thiện của phục vụ; lượng hẹ rất nhiều, không hợp người không ăn hẹ.",
+    "rating": null,
+    "trending": false,
+    "tags": [
+      "Ít người biết",
+      "Ẩm thực người Hoa",
+      "Sủi cảo",
+      "Chợ Lớn"
+    ],
+    "tips_vi": "Tự pha nước chấm từ xì dầu, giấm và sa tế trên bàn. Giá trong bài từ năm 2019, có thể đã tăng.",
+    "images": [
+      {
+        "commons": "File:Jiaozi-close-look.jpg",
+        "kind": "dish"
+      }
+    ],
+    "wiki": null,
+    "website": null,
+    "sources": [
+      "https://saigoneer.com/saigon-street-food-restaurants/17644-hẻm-gems-at-d5-s-sủi-cảo-đại-nương,-a-song-of-chives-and-fire"
+    ],
+    "status": "open",
+    "existing": false
+  }
+]

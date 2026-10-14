@@ -1,0 +1,5 @@
+# network caches from tools/enrich.py (geocoder and Commons answers)
+data/.cache/
+__pycache__/
+_site/
+.DS_Store

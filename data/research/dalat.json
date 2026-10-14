@@ -1,0 +1,3024 @@
+[
+ {
+  "id": "dalat-lau-ga-la-e-tao-ngo",
+  "name": "Lẩu gà lá é Tao Ngộ",
+  "cat": "food",
+  "subtitle": "Lẩu gà lá é trứ danh",
+  "address": "05 Đường 3 Tháng 4, Đà Lạt",
+  "lat": null,
+  "lng": null,
+  "coordSource": null,
+  "price": "200.000–400.000đ/nồi",
+  "hours": "07:00–21:00",
+  "mustTry": "Lẩu gà lá é (gà ta thái miếng, nước dùng chua nhẹ thơm lá é), ăn kèm bún hoặc mì",
+  "desc_vi": "Một trong những quán lẩu gà lá é được nhắc tên nhiều nhất ở Đà Lạt, nằm trên trục đường 3 Tháng 4 hướng ra đèo Prenn, cách trung tâm khoảng 1 km. Quán bình dân với bàn inox ghế nhựa; nồi nhỏ đủ cho 2–4 người, nồi lớn cho nhóm đông. Chuỗi Tao Ngộ đã mở thêm vài chi nhánh khác trong thành phố.",
+  "review_vi": "Khen: nước lẩu thanh, chua nhẹ, mùi lá é rõ; thịt gà chắc, hợp ăn trong tiết trời lạnh. Chê: quán nhỏ, rất đông giờ cơm tối (khoảng 18–20h), không gian đơn giản, phải chờ hoặc được chuyển sang chi nhánh gần đó.",
+  "rating": null,
+  "trending": false,
+  "tags": [
+   "lẩu gà lá é",
+   "đặc sản",
+   "ăn tối"
+  ],
+  "tips_vi": "Mẹo: Đi trước 18h để tránh cảnh chờ bàn; nếu quán chính kín chỗ, nhân viên sẽ chỉ sang chi nhánh gần đó. Kiểm tra đúng biển \"Tao Ngộ\" vì trong thành phố có nhiều quán lẩu gà lá é tên na ná. Lưu ý: chưa tìm được trang có tọa độ cho đúng số 5 đường 3/4; trên Google Maps các chi nhánh Tao Ngộ gần đó ghi ở 10Bis và 14Bis đường 3/4.",
+  "images": [],
+  "wiki": null,
+  "website": null,
+  "sources": [
+   "https://mia.vn/cam-nang-du-lich/quan-lau-ga-la-e-da-lat-16285",
+   "https://mia.vn/cam-nang-du-lich/de-mia-vn-dat-ban-den-top-8-quan-lau-ngon-tai-da-lat-1332",
+   "https://mia.vn/cam-nang-du-lich/quan-an-ngon-da-lat-19896"
+  ],
+  "status": "open",
+  "existing": true
+ },
+ {
+  "id": "dalat-banh-trang-nuong-112",
+  "name": "Bánh tráng nướng 112",
+  "cat": "food",
+  "subtitle": "Bánh tráng nướng",
+  "address": "112 Nguyễn Văn Trỗi, Phường 2, Đà Lạt",
+  "lat": 11.948475,
+  "lng": 108.437313,
+  "coordSource": "https://wanderlog.com/place/details/1323108/bánh-tráng-nướng-112-đà-lạt",
+  "price": "Bình dân (giá niêm yết trên bảng)",
+  "hours": "12:30–23:30",
+  "mustTry": "Bánh tráng nướng thập cẩm/đặc biệt chấm sốt me",
+  "desc_vi": "Quán bánh tráng nướng nhỏ trên con dốc Nguyễn Văn Trỗi gần chợ Đà Lạt, nổi tiếng với chiếc \"pizza Việt\" giòn rụm phủ trứng, hành, xúc xích và nhiều topping. Menu đánh số và giá in sẵn trên băng rôn nên khách dễ gọi món.",
+  "review_vi": "Khen: bánh nướng giòn, phần đặc biệt nhiều nhân, sốt me lạ miệng; phục vụ nhanh, thân thiện, giá rõ ràng. Chê: chỗ ngồi chật, rất khó đậu xe; giờ cao điểm phải chờ.",
+  "rating": {
+   "value": 4.1,
+   "count": 660,
+   "source": "Google (qua Wanderlog)",
+   "url": "https://wanderlog.com/place/details/1323108/bánh-tráng-nướng-112-đà-lạt",
+   "seen": "2026-10"
+  },
+  "trending": false,
+  "tags": [
+   "bánh tráng nướng",
+   "ăn vặt"
+  ],
+  "tips_vi": "Mẹo: Gọi món theo số trên bảng menu cho nhanh; có thể mua mang đi (đựng túi gọn). Khu Nguyễn Văn Trỗi còn có các tiệm kem bơ nổi tiếng, tiện ghé ăn tráng miệng.",
+  "images": [
+   {
+    "commons": "File:Pizzabanhtrangnuong1.jpg",
+    "kind": "dish"
+   }
+  ],
+  "wiki": null,
+  "website": "https://www.facebook.com/banhtrangnuong112/",
+  "sources": [
+   "https://wanderlog.com/place/details/1323108/bánh-tráng-nướng-112-đà-lạt",
+   "https://vietnamnet.vn/da-lat-lanh-14-do-c-khach-van-xuyt-xoa-xep-hang-o-pho-kem-bo-2080453.html"
+  ],
+  "status": "open",
+  "existing": true
+ },
+ {
+  "id": "dalat-persimmon-cafe",
+  "name": "Persimmon Cafe",
+  "cat": "cafe",
+  "subtitle": "Cà phê vườn hồng",
+  "address": "96B Hùng Vương, Đà Lạt",
+  "lat": 11.947391,
+  "lng": 108.473331,
+  "coordSource": "https://wanderlog.com/place/details/4965091/cafe-persimmon",
+  "price": null,
+  "hours": "07:00–19:00",
+  "mustTry": "Món \"Hồng Dầm\" (hồng tươi dầm) trong menu, ngắm và chụp ảnh vườn hồng",
+  "desc_vi": "Quán cà phê nằm giữa một vườn hồng rộng trên đường Hùng Vương, phía đông thành phố. Mùa hồng chín, khách có thể ngắm cây trĩu quả, chụp ảnh và chọn hái hồng; không gian yên tĩnh, nhiều chỗ ngồi ngoài trời.",
+  "review_vi": "Khen: khung cảnh vườn hồng yên bình, đẹp để chụp ảnh, nhân viên phục vụ tốt; món Hồng Dầm được khen tươi ngọt. Chê: một số khách thấy đồ uống đắt và không đặc sắc; lối vào hẹp, dốc, ô tô khó vào.",
+  "rating": {
+   "value": 4,
+   "count": 912,
+   "source": "Google (qua Wanderlog)",
+   "url": "https://wanderlog.com/place/details/4965091/cafe-persimmon",
+   "seen": "2026-10"
+  },
+  "trending": false,
+  "tags": [
+   "vườn hồng",
+   "check-in"
+  ],
+  "tips_vi": "Mẹo: Đi buổi sáng để có ánh sáng đẹp và ít khách; nên đi xe máy vì đoạn xuống vườn dốc, ô tô khó xoay trở. Muốn thấy cây trĩu quả hãy đi vào mùa hồng chín (mùa thu).",
+  "images": [],
+  "wiki": null,
+  "website": null,
+  "sources": [
+   "https://wanderlog.com/place/details/4965091/cafe-persimmon"
+  ],
+  "status": "open",
+  "existing": true
+ },
+ {
+  "id": "dalat-suoi-binh-yen",
+  "name": "Suối Bình Yên",
+  "cat": "cafe",
+  "subtitle": "Cà phê bên suối",
+  "address": "Đường Hoa Cẩm Tú Cầu (tuyến hồ Tuyền Lâm), Phường 3, Đà Lạt",
+  "lat": 11.9018417,
+  "lng": 108.4396697,
+  "coordSource": "https://langthangdalat.com/dia-diem/suoi-binh-yen/",
+  "price": "Vé 120.000đ/người (kèm 1 nước); combo 2 khu 150.000đ",
+  "hours": "07:00–18:00",
+  "mustTry": "Ngồi bên suối, cầu gỗ bắc qua suối, gà nướng cơm lam",
+  "desc_vi": "Khu cà phê – dã ngoại bên một con suối nhỏ giữa rừng thông ở phía nam Đà Lạt, trên tuyến hồ Tuyền Lâm. Không gian có bãi cỏ, nhà gỗ, cầu gỗ và chỗ ngồi sát mép nước; khách mua vé vào cửa kèm đồ uống. Đây là điểm dừng chân thư giãn 1–1,5 tiếng, dễ ghép với Tuyền Lâm, Trúc Lâm, Datanla.",
+  "review_vi": "Khen: suối trong, cảnh rừng thông lãng mạn, nhiều góc chụp ảnh, hợp dã ngoại và nướng BBQ. Chê: đồ ăn uống chưa đều tay, phục vụ chậm lúc đông, vé vào hơi cao; đá ven suối trơn, đông trẻ em ở khu cầu.",
+  "rating": {
+   "value": 4.4,
+   "count": 2979,
+   "source": "Google (qua langthangdalat.com)",
+   "url": "https://langthangdalat.com/dia-diem/suoi-binh-yen/",
+   "seen": "2026-10"
+  },
+  "trending": true,
+  "tags": [
+   "Hot TikTok 2025",
+   "bên suối",
+   "dã ngoại"
+  ],
+  "tips_vi": "Mẹo: Mang giày đế bám vì nền dốc và trơn sau mưa; trông kỹ trẻ nhỏ khi xuống suối. Xe lớn (16 chỗ trở lên) nên hỏi trước chỗ đỗ/quay đầu. Giá vé có nhiều mức khác nhau giữa các nguồn, nên hỏi lại tại quầy.",
+  "images": [],
+  "wiki": null,
+  "website": null,
+  "sources": [
+   "https://langthangdalat.com/dia-diem/suoi-binh-yen/",
+   "https://hoadalattravel.vn/suoi-binh-yen-da-lat/",
+   "https://www.tiktok.com/discover/menu-cafe-su%E1%BB%91i-b%C3%ACnh-y%C3%AAn-%C4%91%C3%A0-l%E1%BA%A1t"
+  ],
+  "status": "open",
+  "existing": true
+ },
+ {
+  "id": "dalat-banh-trang-nuong-di-dinh",
+  "name": "Bánh tráng nướng Dì Đinh",
+  "cat": "food",
+  "subtitle": "Bánh tráng nướng",
+  "address": "26 Hoàng Diệu, Phường 5, Đà Lạt",
+  "lat": 11.94287,
+  "lng": 108.428783,
+  "coordSource": "https://wanderlog.com/place/details/2283624/bánh-tráng-nướng-dì-đinh",
+  "price": "Rẻ, phần nhỏ kiểu ăn vặt",
+  "hours": "13:00–20:30",
+  "mustTry": "Bánh tráng nướng phô mai, trứng cút, xúc xích; sữa đậu nành nóng, yaourt",
+  "desc_vi": "Quán bánh tráng nướng lâu năm trên đường Hoàng Diệu, được nhiều người dân Đà Lạt chọn làm điểm ăn xế. Bánh nướng trên than hồng, mặt dưới giòn tan, có nhiều lựa chọn nhân như phô mai, trứng cút, xúc xích.",
+  "review_vi": "Khen: bánh giòn, nhân đa dạng, giá rất rẻ, ra món nhanh; không khí ghế thấp đậm chất địa phương. Chê: lúc đông khá chật và nóng do bếp than; phần bánh nhỏ nên thường phải gọi nhiều cái.",
+  "rating": {
+   "value": 4.4,
+   "count": 2430,
+   "source": "Google (qua Wanderlog)",
+   "url": "https://wanderlog.com/place/details/2283624/bánh-tráng-nướng-dì-đinh",
+   "seen": "2026-10"
+  },
+  "trending": false,
+  "tags": [
+   "bánh tráng nướng",
+   "ăn vặt",
+   "quán địa phương"
+  ],
+  "tips_vi": "Mẹo: Tránh khung giờ chiều tối cuối tuần; gọi vài loại để thử nhiều vị. Sữa đậu nành mang ra rất nóng, cẩn thận khi uống.",
+  "images": [
+   {
+    "commons": "File:Pizzabanhtrangnuong1.jpg",
+    "kind": "dish"
+   }
+  ],
+  "wiki": null,
+  "website": null,
+  "sources": [
+   "https://wanderlog.com/place/details/2283624/bánh-tráng-nướng-dì-đinh",
+   "https://mia.vn/cam-nang-du-lich/quan-an-ngon-da-lat-19896"
+  ],
+  "status": "open",
+  "existing": true
+ },
+ {
+  "id": "dalat-banh-can-nha-chung",
+  "name": "Bánh căn Nhà Chung",
+  "cat": "food",
+  "subtitle": "Bánh căn",
+  "address": "1 Nhà Chung, Đà Lạt",
+  "lat": 11.93639,
+  "lng": 108.438626,
+  "coordSource": "https://wanderlog.com/place/details/787115/bánh-căn-nhà-chung",
+  "price": null,
+  "hours": null,
+  "mustTry": "Bánh căn trứng, trứng cút, bò; nước chấm mặn ngọt cay nhẹ",
+  "desc_vi": "Quán bánh căn bình dân ở đầu con dốc Nhà Chung, gần Nhà thờ Con Gà, từng là một trong những địa chỉ bánh căn quen thuộc nhất với khách du lịch. Bánh đổ tại chỗ trong khuôn đất, ăn nóng với nước chấm và xíu mại.",
+  "review_vi": "Khen: bánh căn nóng giòn, nước chấm đậm đà, giá phải chăng, chủ quán đổ bánh tại chỗ. Chê: chỗ ngồi đơn giản; nhiều nguồn ghi giờ mở cửa khác nhau.",
+  "rating": {
+   "value": 3.9,
+   "count": 2892,
+   "source": "Google (qua Wanderlog)",
+   "url": "https://wanderlog.com/place/details/787115/bánh-căn-nhà-chung",
+   "seen": "2026-10"
+  },
+  "trending": false,
+  "tags": [
+   "bánh căn"
+  ],
+  "tips_vi": "Lưu ý: Trang Wanderlog (dữ liệu Google Maps) đang báo quán \"tạm đóng cửa\" (xem 10/2026); chưa tìm thấy tin đóng cửa hẳn. Nên kiểm tra lại trên Google Maps trước khi đến; nếu quán nghỉ có thể chuyển sang Bánh căn Lệ (Yersin).",
+  "images": [
+   {
+    "commons": "File:Bánh căn (Vietnamese mini pancake) clay cooking pots.jpg",
+    "kind": "dish"
+   },
+   {
+    "commons": "File:Bánh căn 1.jpg",
+    "kind": "dish"
+   }
+  ],
+  "wiki": null,
+  "website": "https://www.foody.vn/lam-dong/banh-can-nha-chung",
+  "sources": [
+   "https://wanderlog.com/place/details/787115/bánh-căn-nhà-chung",
+   "https://mia.vn/cam-nang-du-lich/quan-banh-can-nha-chung-chi-co-trung-va-bot-nhung-nuoc-mam-nhung-lai-cuon-hut-la-ky-1336"
+  ],
+  "status": "unverified",
+  "existing": true
+ },
+ {
+  "id": "dalat-kem-bo-cho-da-lat",
+  "name": "Kem bơ Chợ Đà Lạt",
+  "cat": "food",
+  "subtitle": "Kem bơ",
+  "address": "Tầng trên chợ Đà Lạt (76 Nguyễn Thị Minh Khai), Phường 1, Đà Lạt",
+  "lat": 11.943545,
+  "lng": 108.437505,
+  "coordSource": "https://wanderlog.com/place/details/9788764/x",
+  "price": "Khoảng 20.000–30.000đ/ly (2022–2023)",
+  "hours": "06:00–18:00",
+  "mustTry": "Kem bơ (bơ xay sánh mịn + kem dừa), có thể thêm sầu riêng",
+  "desc_vi": "Quầy kem bơ nhỏ trong chợ Đà Lạt gắn với tên bà Mai Thị Phụng – người bán kem bơ trong chợ từ những năm 1980, được xem là khởi nguồn của món kem bơ nổi tiếng. Sau này con cháu bà mở thêm tiệm Kem Phụng khang trang trên đường Nguyễn Văn Trỗi (\"phố kem bơ\").",
+  "review_vi": "Khen: kem bơ kết hợp kem dừa lạ miệng, giá phải chăng, phục vụ nhanh; là trải nghiệm ăn vặt kinh điển khi dạo chợ. Chê: không gian trong chợ không thật sự thoải mái để ngồi lâu, dù đã có thêm chỗ ngồi; một số khách thấy kem chưa đủ béo.",
+  "rating": {
+   "value": 4.6,
+   "count": 187,
+   "source": "Google (qua Wanderlog)",
+   "url": "https://wanderlog.com/place/details/9788764/x",
+   "seen": "2026-10"
+  },
+  "trending": false,
+  "tags": [
+   "kem bơ",
+   "ăn vặt"
+  ],
+  "tips_vi": "Mẹo: Quầy nằm ở tầng trên của chợ (tên trên Google Maps: \"Kem Phụng Chợ Đà Lạt\"); chỗ ngồi trong chợ đơn giản. Buổi tối khi chợ đóng có thể sang tiệm Kem Phụng 97A Nguyễn Văn Trỗi (mở đến 22:30).",
+  "images": [],
+  "wiki": null,
+  "website": null,
+  "sources": [
+   "https://wanderlog.com/place/details/9788764/x",
+   "https://vietnamnet.vn/da-lat-lanh-14-do-c-khach-van-xuyt-xoa-xep-hang-o-pho-kem-bo-2080453.html",
+   "https://mia.vn/cam-nang-du-lich/top-10-quan-kem-ngon-tai-da-lat-danh-cho-hoi-sanh-an-1300"
+  ],
+  "status": "open",
+  "existing": true
+ },
+ {
+  "id": "dalat-crazy-house",
+  "name": "Crazy House (Biệt thự Hằng Nga)",
+  "cat": "sight",
+  "subtitle": "Kiến trúc độc đáo",
+  "address": "3 Huỳnh Thúc Kháng, Phường 4, Đà Lạt",
+  "lat": 11.93473333,
+  "lng": 108.43063611,
+  "coordSource": "https://en.wikipedia.org/wiki/H%E1%BA%B1ng_Nga_Guesthouse",
+  "price": "Vé 80.000đ người lớn; trẻ 1m2–1m4: 30.000đ; dưới 1m2 miễn phí",
+  "hours": "08:30–19:00",
+  "mustTry": "Đi hết mê cung cầu thang, cầu treo trên cao, các phòng nghỉ theo chủ đề động vật, ngắm phố từ tầng thượng",
+  "desc_vi": "Biệt thự Hằng Nga do kiến trúc sư Đặng Việt Nga thiết kế, khai trương năm 1990 trên khuôn viên gần 4.000 m². Công trình mô phỏng thân cây khổng lồ với hang động, hành lang và cầu thang uốn lượn, mạng nhện bằng dây kẽm, tượng thú lớn; vừa là điểm tham quan vừa là nhà nghỉ với các phòng theo chủ đề.",
+  "review_vi": "Khen: kiến trúc kỳ lạ như truyện cổ tích, mỗi góc là một bất ngờ, nhiều chỗ chụp ảnh và ngắm phố trên cao. Chê: cầu thang hẹp, cầu dốc và cao, rất đông giờ cao điểm; phòng nghỉ nhỏ, không thang máy và điều hòa.",
+  "rating": {
+   "value": 4.3,
+   "count": 16422,
+   "source": "Google (qua Wanderlog)",
+   "url": "https://wanderlog.com/place/details/30758/crazy-house-hang-nga-villa",
+   "seen": "2026-10"
+  },
+  "trending": false,
+  "tags": [
+   "kiến trúc",
+   "check-in"
+  ],
+  "tips_vi": "Mẹo: Đến ngay khi mở cửa để tránh tắc ở cầu thang hẹp; người sợ độ cao nên cân nhắc khi lên các cầu cao. Có thể mua vé online trên trang ticket của Crazy House.",
+  "images": [
+   {
+    "commons": "File:Hang Nga guesthouse 01.jpg",
+    "kind": "place"
+   },
+   {
+    "commons": "File:HangNgaCrazyHouse2.jpg",
+    "kind": "place"
+   },
+   {
+    "commons": "File:Crazy House in Da Lat - panoramio.jpg",
+    "kind": "place"
+   }
+  ],
+  "wiki": "https://vi.wikipedia.org/wiki/Bi%E1%BB%87t_th%E1%BB%B1_H%E1%BA%B1ng_Nga",
+  "website": "https://crazyhouse.vn/",
+  "sources": [
+   "https://en.wikipedia.org/wiki/H%E1%BA%B1ng_Nga_Guesthouse",
+   "https://wanderlog.com/place/details/30758/crazy-house-hang-nga-villa",
+   "https://ticket.crazyhouse.vn/",
+   "https://crazyhouse.vn/",
+   "https://vi.wikipedia.org/wiki/Bi%E1%BB%87t_th%E1%BB%B1_H%E1%BA%B1ng_Nga"
+  ],
+  "status": "open",
+  "existing": true
+ },
+ {
+  "id": "dalat-goc-ha-thanh",
+  "name": "Góc Hà Thành",
+  "cat": "food",
+  "subtitle": "Cơm Việt cho khách du lịch",
+  "address": "51 Trương Công Định, Phường 1, Đà Lạt",
+  "lat": 11.94395,
+  "lng": 108.434512,
+  "coordSource": "https://wanderlog.com/place/details/1137817/goc-ha-thanh",
+  "price": null,
+  "hours": "11:30–21:30",
+  "mustTry": "Cà ri gà nước cốt dừa, đậu hũ rang muối tiêu tỏi, các món cuốn",
+  "desc_vi": "Nhà hàng cơm Việt kiểu gia đình trên phố Trương Công Định – con phố nhiều quán bar, nhà nghỉ cho khách ba lô gần chợ Đà Lạt. Thực đơn dài với các món Việt dễ ăn, được nhiều khách nước ngoài lựa chọn.",
+  "review_vi": "Khen: cà ri gà và đậu hũ muối tiêu được khen nhiều, không khí ấm cúng, quản lý nhiệt tình gợi ý món. Chê: một số món bị chê hơi ngọt hoặc nhiều dầu; quán thường đông, phải chờ.",
+  "rating": {
+   "value": 4.4,
+   "count": 1407,
+   "source": "Google (qua Wanderlog)",
+   "url": "https://wanderlog.com/place/details/1137817/goc-ha-thanh",
+   "seen": "2026-10"
+  },
+  "trending": false,
+  "tags": [
+   "cơm Việt",
+   "hợp khách nước ngoài"
+  ],
+  "tips_vi": "Mẹo: Đến trước giờ cao điểm trưa/tối; đường lên quán khá dốc, đi Grab sẽ tiện hơn.",
+  "images": [
+   {
+    "commons": "File:Cà Ri Gà Vietnamese Chicken Curry 2019-1600.jpg",
+    "kind": "dish"
+   }
+  ],
+  "wiki": null,
+  "website": null,
+  "sources": [
+   "https://wanderlog.com/place/details/1137817/goc-ha-thanh"
+  ],
+  "status": "open",
+  "existing": true
+ },
+ {
+  "id": "dalat-cho-dem",
+  "name": "Chợ đêm Đà Lạt",
+  "cat": "market",
+  "subtitle": "Chợ đêm & ăn vặt",
+  "address": "Đường Nguyễn Thị Minh Khai (trước chợ Đà Lạt), Phường 1, Đà Lạt",
+  "lat": 11.941402,
+  "lng": 108.437291,
+  "coordSource": "https://wanderlog.com/place/details/773480/da-lat-night-market",
+  "price": "Miễn phí vào cửa",
+  "hours": "17:30–24:00",
+  "mustTry": "Bánh tráng nướng, sữa đậu nành nóng, bắp nướng, xiên nướng, dâu tây; áo len, khăn len",
+  "desc_vi": "Khu chợ đêm trải dài trên đường Nguyễn Thị Minh Khai và cầu thang trước chợ Đà Lạt, họp từ chiều tối đến nửa đêm. Hàng rong bán ăn vặt nóng hổi, trái cây, đặc sản và quần áo ấm, tạo nên không khí nhộn nhịp đặc trưng của Đà Lạt về đêm.",
+  "review_vi": "Khen: không khí sôi động, nhiều món ăn đường phố, tiện mua quà và đồ ấm, dạo chơi vui. Chê: rất đông dịp cuối tuần, lễ Tết; nhiều hàng không niêm yết giá; có phản ánh hộp dâu bị trộn quả nhỏ, dập ở dưới đáy.",
+  "rating": {
+   "value": 4.2,
+   "count": 17857,
+   "source": "Google (qua Wanderlog)",
+   "url": "https://wanderlog.com/place/details/773480/da-lat-night-market",
+   "seen": "2026-10"
+  },
+  "trending": false,
+  "tags": [
+   "chợ đêm",
+   "ăn vặt",
+   "mua sắm"
+  ],
+  "tips_vi": "Mẹo: Mặc ấm vì tối trời lạnh; mang tiền mặt và hỏi giá trước khi mua; kiểm tra kỹ hộp dâu. Lưu ý: tuyến phố đi bộ thử nghiệm Trần Quốc Toản ven hồ Xuân Hương đã bị dừng (tin 10/2025), khu chợ đêm vẫn hoạt động.",
+  "images": [
+   {
+    "commons": "File:Dalat night market - panoramio.jpg",
+    "kind": "place"
+   }
+  ],
+  "wiki": null,
+  "website": null,
+  "sources": [
+   "https://wanderlog.com/place/details/773480/da-lat-night-market",
+   "https://baovanhoa.vn/du-lich/lam-dong-dong-pho-di-bo-tran-quoc-toan-do-hoat-dong-khong-hieu-qua-177465.html"
+  ],
+  "status": "open",
+  "existing": true
+ },
+ {
+  "id": "dalat-ho-xuan-huong",
+  "name": "Hồ Xuân Hương",
+  "cat": "nature",
+  "subtitle": "Hồ trung tâm",
+  "address": "Trung tâm TP. Đà Lạt (đường Trần Quốc Toản, Yersin, Nguyễn Thái Học bao quanh)",
+  "lat": 11.940736,
+  "lng": 108.44154,
+  "coordSource": "https://wanderlog.com/place/details/6959764/xuan-huong-lake",
+  "price": "Miễn phí",
+  "hours": "Cả ngày",
+  "mustTry": "Đi bộ hoặc đạp xe vòng hồ, đạp vịt, đi xe ngựa, ngắm hoàng hôn",
+  "desc_vi": "Hồ nhân tạo hình trăng lưỡi liềm rộng khoảng 25 ha ngay trung tâm Đà Lạt, hình thành từ năm 1919 khi người Pháp ngăn dòng suối Cam Ly. Hồ có chu vi chừng 5 km, đi qua vườn hoa thành phố, công viên Yersin, đồi Cù và quảng trường Lâm Viên; được xem là \"trái tim\" của thành phố.",
+  "review_vi": "Khen: yên bình, không khí trong lành, đẹp nhất lúc bình minh và hoàng hôn; nhiều hoạt động nhẹ nhàng như đạp vịt, xe ngựa. Chê: giờ cao điểm cuối tuần xe cộ quanh hồ khá đông.",
+  "rating": {
+   "value": 4.7,
+   "count": 379,
+   "source": "Google (qua Wanderlog)",
+   "url": "https://wanderlog.com/place/details/6959764/xuan-huong-lake",
+   "seen": "2026-10"
+  },
+  "trending": false,
+  "tags": [
+   "hồ",
+   "dạo bộ",
+   "miễn phí",
+   "Hợp với trẻ em"
+  ],
+  "tips_vi": "Mẹo: Đi bộ vòng hồ vào sáng sớm có sương; ghép lịch với quảng trường Lâm Viên, chợ Đà Lạt và Dinh II, Dinh III gần đó.",
+  "images": [
+   {
+    "commons": "File:Da Lat - Xuan Huong Lake.jpg",
+    "kind": "place"
+   },
+   {
+    "commons": "File:Xuan Huong Lake 08.jpg",
+    "kind": "place"
+   }
+  ],
+  "wiki": "https://vi.wikipedia.org/wiki/H%E1%BB%93_Xu%C3%A2n_H%C6%B0%C6%A1ng_(h%E1%BB%93_n%C6%B0%E1%BB%9Bc)",
+  "website": null,
+  "sources": [
+   "https://wanderlog.com/place/details/6959764/xuan-huong-lake",
+   "https://mia.vn/cam-nang-du-lich/du-lich-da-lat-12034",
+   "https://vi.wikipedia.org/wiki/H%E1%BB%93_Xu%C3%A2n_H%C6%B0%C6%A1ng_(h%E1%BB%93_n%C6%B0%E1%BB%9Bc)"
+  ],
+  "status": "open",
+  "existing": true
+ },
+ {
+  "id": "dalat-thung-lung-tinh-yeu",
+  "name": "Thung lũng Tình Yêu",
+  "cat": "nature",
+  "subtitle": "Khu du lịch",
+  "address": "3–5–7 Mai Anh Đào, Đà Lạt",
+  "lat": 11.98084722,
+  "lng": 108.45038889,
+  "coordSource": "https://vi.wikipedia.org/wiki/Thung_l%C5%A9ng_T%C3%ACnh_Y%C3%AAu",
+  "price": "Người lớn 100.000đ, trẻ em 50.000đ; xe Jeep 360.000đ/lượt",
+  "hours": "07:30–17:00",
+  "mustTry": "Đạp thuyền thiên nga hồ Đa Thiện, vườn hoa cẩm tú cầu – lavender, cầu kính, zipline, xem giao lưu cồng chiêng",
+  "desc_vi": "Khu du lịch cách trung tâm khoảng 5 km về phía bắc; thập niên 1930 người Pháp gọi nơi này là \"Vallée d'Amour\". Thung lũng ôm lấy hồ Đa Thiện (hình thành sau khi xây đập năm 1972) giữa đồi thông, nay có thêm vườn hoa, cầu kính, zipline, cưỡi ngựa và nhiều tiểu cảnh.",
+  "review_vi": "Khen: cảnh hồ và rừng thông đẹp, nhiều hoạt động cho gia đình và cặp đôi, khuôn viên được đầu tư. Chê: tiểu cảnh nhân tạo khá nhiều, bị thương mại hóa; cầu kính không hợp với người sợ độ cao; nhiều dịch vụ tính phí riêng.",
+  "rating": {
+   "value": 4.4,
+   "count": 19798,
+   "source": "Google (qua Wanderlog)",
+   "url": "https://wanderlog.com/place/details/107794/valley-of-love",
+   "seen": "2026-10"
+  },
+  "trending": false,
+  "tags": [
+   "khu du lịch",
+   "vườn hoa",
+   "gia đình",
+   "Hợp với trẻ em"
+  ],
+  "tips_vi": "Mẹo: Đến sớm để tránh đông và có ánh sáng đẹp; dành 2–3 tiếng; mùa mimosa và cẩm tú cầu là lúc đẹp nhất. Hỏi rõ vé đã bao gồm trò nào.",
+  "images": [
+   {
+    "commons": "File:Thung Lũng Tình Yêu.JPG",
+    "kind": "place"
+   },
+   {
+    "commons": "File:The Valley of Love in Dalat, Vietnam.jpg",
+    "kind": "place"
+   }
+  ],
+  "wiki": "https://vi.wikipedia.org/wiki/Thung_l%C5%A9ng_T%C3%ACnh_Y%C3%AAu",
+  "website": "https://ticketssee.com/thunglungtinhyeu/",
+  "sources": [
+   "https://vi.wikipedia.org/wiki/Thung_l%C5%A9ng_T%C3%ACnh_Y%C3%AAu",
+   "https://wanderlog.com/place/details/107794/valley-of-love",
+   "https://mia.vn/cam-nang-du-lich/du-lich-da-lat-12034",
+   "https://vi.wikipedia.org/wiki/Thung_l%C5%A9ng_T%C3%ACnh_Y%C3%AAu"
+  ],
+  "status": "open",
+  "existing": true
+ },
+ {
+  "id": "dalat-chua-linh-phuoc",
+  "name": "Chùa Linh Phước (Chùa Ve Chai)",
+  "cat": "sight",
+  "subtitle": "Chùa khảm sành",
+  "address": "120 Tự Phước, Trại Mát, Đà Lạt",
+  "lat": 11.94428333,
+  "lng": 108.4995,
+  "coordSource": "https://vi.wikipedia.org/wiki/Ch%C3%B9a_Linh_Ph%C6%B0%E1%BB%9Bc",
+  "price": "Miễn phí",
+  "hours": "08:00–17:00",
+  "mustTry": "Rồng vỏ chai dài 49 m, Linh Tháp 7 tầng (tháp chuông), chánh điện cột rồng khảm sành",
+  "desc_vi": "Ngôi chùa ở khu Trại Mát, cách trung tâm khoảng 8 km, xây năm 1949–1950 và trùng tu lớn từ 1990, nổi tiếng với lối khảm sành sứ, mảnh chai trên khắp công trình nên còn gọi là \"chùa Ve Chai\". Sân chùa có con rồng dài 49 m làm từ khoảng 12.000 vỏ chai bia; tòa Linh Tháp 7 tầng cao hơn 37 m được xem là tháp chuông cao nhất Việt Nam.",
+  "review_vi": "Khen: nghệ thuật khảm công phu, choáng ngợp từng chi tiết; không gian tâm linh đẹp, miễn phí vào cửa. Chê: đông đoàn khách theo xe buýt du lịch vào giữa ngày.",
+  "rating": {
+   "value": 4.6,
+   "count": 10739,
+   "source": "Google (qua Wanderlog)",
+   "url": "https://wanderlog.com/place/details/117897/chùa-linh-phước",
+   "seen": "2026-10"
+  },
+  "trending": false,
+  "tags": [
+   "chùa",
+   "kiến trúc",
+   "miễn phí"
+  ],
+  "tips_vi": "Mẹo: Đến sớm trước khi xe đoàn tới; có thể đi tàu du lịch từ ga Đà Lạt xuống ga Trại Mát rồi đi bộ một đoạn ngắn tới chùa. Ăn mặc kín đáo.",
+  "images": [
+   {
+    "commons": "File:Da Lat - Linh Phuoc Temple 01.jpg",
+    "kind": "place"
+   },
+   {
+    "commons": "File:Linh Phuoc Pagoda 06.jpg",
+    "kind": "place"
+   }
+  ],
+  "wiki": "https://vi.wikipedia.org/wiki/Ch%C3%B9a_Linh_Ph%C6%B0%E1%BB%9Bc",
+  "website": null,
+  "sources": [
+   "https://vi.wikipedia.org/wiki/Ch%C3%B9a_Linh_Ph%C6%B0%E1%BB%9Bc",
+   "https://wanderlog.com/place/details/117897/chùa-linh-phước",
+   "https://mia.vn/cam-nang-du-lich/du-lich-da-lat-12034",
+   "https://vi.wikipedia.org/wiki/Ch%C3%B9a_Linh_Ph%C6%B0%E1%BB%9Bc"
+  ],
+  "status": "open",
+  "existing": true
+ },
+ {
+  "id": "dalat-ga-da-lat",
+  "name": "Ga Đà Lạt",
+  "cat": "sight",
+  "subtitle": "Nhà ga cổ",
+  "address": "1 Quang Trung, Phường 9, Đà Lạt",
+  "lat": 11.94222222,
+  "lng": 108.45555556,
+  "coordSource": "https://vi.wikipedia.org/wiki/Ga_%C4%90%C3%A0_L%E1%BA%A1t",
+  "price": "Vé tham quan 50.000đ/người (trẻ dưới 6 tuổi hoặc dưới 1m32 miễn phí); vé tàu đi Trại Mát tính riêng",
+  "hours": "06:00–17:00",
+  "mustTry": "Kiến trúc ba mái chóp, đầu máy hơi nước và toa tàu cổ, tàu du lịch Đà Lạt – Trại Mát",
+  "desc_vi": "Nhà ga do người Pháp xây dựng từ 1932 đến 1938, có ba mái chóp cách điệu ba đỉnh núi Langbiang (hoặc nhà rông Tây Nguyên), từng là đầu mối tuyến đường sắt Tháp Chàm – Đà Lạt dài 84 km. Ga là di tích lịch sử văn hóa quốc gia; hiện chỉ còn chạy tàu du lịch 7 km xuống Trại Mát và là điểm chụp ảnh nổi tiếng với các toa tàu cổ.",
+  "review_vi": "Khen: kiến trúc cổ kính đẹp, nhiều góc chụp ảnh với toa tàu cũ, có phòng trưng bày lịch sử, trẻ em thích. Chê: nhạc phát trên tàu khá to; một số khách phàn nàn về hướng dẫn của nhân viên.",
+  "rating": {
+   "value": 4.2,
+   "count": 4463,
+   "source": "Google (qua Wanderlog)",
+   "url": "https://wanderlog.com/place/details/536644/da-lat-railway-station",
+   "seen": "2026-10"
+  },
+  "trending": false,
+  "tags": [
+   "kiến trúc Pháp",
+   "tàu hỏa",
+   "check-in",
+   "Hợp với trẻ em"
+  ],
+  "tips_vi": "Mẹo: Mua vé khứ hồi đi Trại Mát và chừa thời gian ghé chùa Linh Phước; trên tàu nên ra hai đầu toa để ngắm cảnh rõ hơn.",
+  "images": [
+   {
+    "commons": "File:Da Lat Railway Station 01.jpg",
+    "kind": "place"
+   },
+   {
+    "commons": "File:Ga Da Lat 1330.JPG",
+    "kind": "place"
+   }
+  ],
+  "wiki": "https://vi.wikipedia.org/wiki/Ga_%C4%90%C3%A0_L%E1%BA%A1t",
+  "website": null,
+  "sources": [
+   "https://vi.wikipedia.org/wiki/Ga_%C4%90%C3%A0_L%E1%BA%A1t",
+   "https://wanderlog.com/place/details/536644/da-lat-railway-station",
+   "https://mia.vn/cam-nang-du-lich/du-lich-da-lat-12034",
+   "https://vi.wikipedia.org/wiki/Ga_%C4%90%C3%A0_L%E1%BA%A1t"
+  ],
+  "status": "open",
+  "existing": true
+ },
+ {
+  "id": "dalat-ho-tuyen-lam",
+  "name": "Hồ Tuyền Lâm",
+  "cat": "nature",
+  "subtitle": "Hồ giữa rừng thông",
+  "address": "Khu du lịch quốc gia hồ Tuyền Lâm, phía nam TP. Đà Lạt (gần đèo Prenn)",
+  "lat": 11.89968889,
+  "lng": 108.43231111,
+  "coordSource": "https://vi.wikipedia.org/wiki/H%E1%BB%93_Tuy%E1%BB%81n_L%C3%A2m",
+  "price": "Miễn phí ngắm cảnh; thuyền, kayak tính phí",
+  "hours": null,
+  "mustTry": "Chèo kayak, đi thuyền trên hồ, ngắm hoàng hôn, kết hợp Thiền viện Trúc Lâm",
+  "desc_vi": "Hồ nước ngọt rộng nhất khu vực Đà Lạt (khoảng 320 ha), cách trung tâm chừng 7 km, nằm giữa rừng thông dưới chân núi Phụng Hoàng. Đây là một trong các khu du lịch quốc gia, có nhiều resort, quán cà phê ven hồ; Thiền viện Trúc Lâm nằm ở phía đông bắc hồ.",
+  "review_vi": "Khen: không khí trong lành, yên tĩnh, chèo kayak rất thư thái, hoàng hôn đẹp. Chê: một số dịch vụ quanh hồ do các đơn vị tư nhân cung cấp, giá cả nên hỏi kỹ.",
+  "rating": {
+   "value": 4.6,
+   "count": 2365,
+   "source": "Google (qua Wanderlog)",
+   "url": "https://wanderlog.com/place/details/117892/tuyền-lâm-lake",
+   "seen": "2026-10"
+  },
+  "trending": false,
+  "tags": [
+   "hồ",
+   "rừng thông",
+   "kayak"
+  ],
+  "tips_vi": "Mẹo: Đặt tour kayak qua các nhóm/fanpage để có giá tốt; đi giữa tuần để thấy hồ vắng; ghép lịch với cáp treo Robin – Trúc Lâm.",
+  "images": [
+   {
+    "commons": "File:Tuyen Lam Lake 01.jpg",
+    "kind": "place"
+   },
+   {
+    "commons": "File:Tuyen Lam Lake HDR.jpg",
+    "kind": "place"
+   }
+  ],
+  "wiki": "https://vi.wikipedia.org/wiki/H%E1%BB%93_Tuy%E1%BB%81n_L%C3%A2m",
+  "website": null,
+  "sources": [
+   "https://vi.wikipedia.org/wiki/H%E1%BB%93_Tuy%E1%BB%81n_L%C3%A2m",
+   "https://wanderlog.com/place/details/117892/tuyền-lâm-lake",
+   "https://mia.vn/cam-nang-du-lich/du-lich-da-lat-12034",
+   "https://vi.wikipedia.org/wiki/H%E1%BB%93_Tuy%E1%BB%81n_L%C3%A2m"
+  ],
+  "status": "open",
+  "existing": true
+ },
+ {
+  "id": "dalat-banh-can-le",
+  "name": "Bánh căn Lệ",
+  "cat": "food",
+  "subtitle": "Bánh căn",
+  "address": "27/44 Yersin, Đà Lạt",
+  "lat": 11.942279,
+  "lng": 108.45065,
+  "coordSource": "https://wanderlog.com/place/details/2184411/bánh-căn-lệ",
+  "price": null,
+  "hours": "06:30–15:30",
+  "mustTry": "Bánh căn trứng, tôm mực, bò, trứng cút; xíu mại chấm kèm xoài xanh",
+  "desc_vi": "Tiệm bánh căn trong hẻm đường Yersin, gần ga Đà Lạt, được nhiều bài giới thiệu ẩm thực nhắc tên. Bánh đổ trong khuôn đất trên bếp than, ngoài giòn trong mềm, ăn cùng nước chấm và chén xíu mại nóng.",
+  "review_vi": "Khen: bánh làm tại chỗ nóng hổi, nhiều loại nhân (tôm, mực, bò, trứng cút), nước chấm đậm vị, ăn kèm xoài xanh lạ miệng. Chê: xíu mại bị một số khách chê hơi ngọt; quán bình dân, giờ đông phải chờ mẻ bánh mới.",
+  "rating": {
+   "value": 4.3,
+   "count": 1685,
+   "source": "Google (qua Wanderlog)",
+   "url": "https://wanderlog.com/place/details/2184411/bánh-căn-lệ",
+   "seen": "2026-10"
+  },
+  "trending": false,
+  "tags": [
+   "bánh căn",
+   "ăn sáng"
+  ],
+  "tips_vi": "Mẹo: Quán chỉ bán buổi sáng đến đầu giờ chiều (khoảng 06:30–15:30); đi sớm để ăn mẻ bánh nóng nhất.",
+  "images": [
+   {
+    "commons": "File:Bánh căn (Vietnamese mini pancake) clay cooking pots.jpg",
+    "kind": "dish"
+   },
+   {
+    "commons": "File:Bánh căn 1.jpg",
+    "kind": "dish"
+   }
+  ],
+  "wiki": null,
+  "website": "https://www.facebook.com/le.banhcan.5",
+  "sources": [
+   "https://wanderlog.com/place/details/2184411/bánh-căn-lệ",
+   "https://mia.vn/cam-nang-du-lich/quan-an-ngon-da-lat-19896"
+  ],
+  "status": "open",
+  "existing": false
+ },
+ {
+  "id": "dalat-banh-uot-long-ga-long-chuyen",
+  "name": "Bánh ướt lòng gà Long Chuyên",
+  "cat": "food",
+  "subtitle": "Bánh ướt lòng gà",
+  "address": "Hẻm 202 Phan Đình Phùng, Đà Lạt",
+  "lat": 11.948527,
+  "lng": 108.436384,
+  "coordSource": "https://wanderlog.com/place/details/679410/bánh-ướt-lòng-gà-long-chuyên",
+  "price": null,
+  "hours": "06:30–21:00",
+  "mustTry": "Bánh ướt lòng gà đặc biệt, gà xé, cháo gà lòng",
+  "desc_vi": "Quán bánh ướt lòng gà trong hẻm Phan Đình Phùng – một trong những địa chỉ đông khách nhất cho món đặc sản này. Bánh ướt mỏng mềm ăn với gà xé, lòng gà, rau thơm và nước mắm chua ngọt.",
+  "review_vi": "Khen: bánh mềm mượt, lòng gà và thịt gà đậm vị, nước chấm chua ngọt vừa miệng, giá hợp lý; chủ quán nhiệt tình chỉ cách ăn. Chê: rất đông, nhất là buổi sáng; không gian bình dân.",
+  "rating": {
+   "value": 4,
+   "count": 4113,
+   "source": "Google (qua Wanderlog)",
+   "url": "https://wanderlog.com/place/details/679410/bánh-ướt-lòng-gà-long-chuyên",
+   "seen": "2026-10"
+  },
+  "trending": false,
+  "tags": [
+   "bánh ướt lòng gà",
+   "ăn sáng"
+  ],
+  "tips_vi": "Mẹo: Tránh khung sáng cuối tuần nếu không muốn chờ; ngoài bánh ướt có thể gọi thêm cháo gà lòng hoặc bánh flan, sữa chua của quán.",
+  "images": [],
+  "wiki": null,
+  "website": null,
+  "sources": [
+   "https://wanderlog.com/place/details/679410/bánh-ướt-lòng-gà-long-chuyên"
+  ],
+  "status": "open",
+  "existing": false
+ },
+ {
+  "id": "dalat-nem-nuong-ba-hung",
+  "name": "Nem nướng Bà Hùng",
+  "cat": "food",
+  "subtitle": "Nem nướng",
+  "address": "328 Phan Đình Phùng, Phường 2, Đà Lạt",
+  "lat": 11.951699,
+  "lng": 108.433326,
+  "coordSource": "https://wanderlog.com/place/details/773582/ba-hung-fried-rolls",
+  "price": null,
+  "hours": "09:30–21:00",
+  "mustTry": "Nem nướng cuốn bánh tráng, ram chiên giòn, rau sống và nước chấm sệt",
+  "desc_vi": "Quán nem nướng nổi tiếng trên đường Phan Đình Phùng, chỉ tập trung vào một món: nem nướng tự cuốn với bánh tráng, ram chiên, rau sống và nước chấm sệt đặc trưng.",
+  "review_vi": "Khen: nem thơm, có lớp chiên giòn tạo độ lạ, nước chấm đậm đà, phục vụ thân thiện, chỉ một món nên gọi nhanh. Chê: đông khách, giờ cao điểm phải chờ; điểm đánh giá chung chỉ ở mức khá.",
+  "rating": {
+   "value": 3.8,
+   "count": 3310,
+   "source": "Google (qua Wanderlog)",
+   "url": "https://wanderlog.com/place/details/773582/ba-hung-fried-rolls",
+   "seen": "2026-10"
+  },
+  "trending": false,
+  "tags": [
+   "nem nướng"
+  ],
+  "tips_vi": "Mẹo: Đi lệch giờ cơm; nếu chưa quen tự cuốn có thể nhờ nhân viên hướng dẫn.",
+  "images": [
+   {
+    "commons": "File:Nem nướng.jpg",
+    "kind": "dish"
+   }
+  ],
+  "wiki": null,
+  "website": null,
+  "sources": [
+   "https://wanderlog.com/place/details/773582/ba-hung-fried-rolls",
+   "https://mia.vn/cam-nang-du-lich/quan-an-ngon-da-lat-19896"
+  ],
+  "status": "open",
+  "existing": false
+ },
+ {
+  "id": "dalat-lau-bo-ba-toa",
+  "name": "Lẩu bò Ba Toa (Bùi Thị Xuân)",
+  "cat": "food",
+  "subtitle": "Lẩu bò",
+  "address": "115 Bùi Thị Xuân, Đà Lạt (chi nhánh)",
+  "lat": 11.94726,
+  "lng": 108.440292,
+  "coordSource": "https://wanderlog.com/place/details/7935652/lẩu-bò-ba-toa-cn-bùi-thị-xuân",
+  "price": null,
+  "hours": "10:00–23:00",
+  "mustTry": "Lẩu bò Ba Toa nhiều phần thịt, gân, sách; rau cải Đà Lạt",
+  "desc_vi": "Lẩu bò là món ăn tối quen thuộc của Đà Lạt và Ba Toa là một trong những thương hiệu lẩu bò được nhắc tên nhiều nhất. Chi nhánh Bùi Thị Xuân nằm gần trung tâm, tiện cho khách du lịch, phục vụ nồi lẩu bò nhiều loại thịt và rau tươi.",
+  "review_vi": "Khen: thịt bò tươi, nhiều lựa chọn thịt và rau, phục vụ nhanh, chu đáo. Chê: có khách phàn nàn quán ám khói, có người hút thuốc trong quán; chất lượng chưa đồng đều giữa các lần.",
+  "rating": {
+   "value": 4.1,
+   "count": 317,
+   "source": "Google (qua Wanderlog)",
+   "url": "https://wanderlog.com/place/details/7935652/lẩu-bò-ba-toa-cn-bùi-thị-xuân",
+   "seen": "2026-10"
+  },
+  "trending": false,
+  "tags": [
+   "lẩu bò",
+   "ăn tối"
+  ],
+  "tips_vi": "Mẹo: Quán chỉ nhận tiền mặt; người nhạy cảm khói thuốc nên chọn bàn gần cửa.",
+  "images": [
+   {
+    "commons": "File:Lẩu bò tại quán Bò cười (3).jpg",
+    "kind": "dish"
+   }
+  ],
+  "wiki": null,
+  "website": "https://www.facebook.com/laubobatoabtxdalat",
+  "sources": [
+   "https://wanderlog.com/place/details/7935652/lẩu-bò-ba-toa-cn-bùi-thị-xuân"
+  ],
+  "status": "open",
+  "existing": false
+ },
+ {
+  "id": "dalat-banh-mi-xiu-mai-ri-79",
+  "name": "Bánh mì xíu mại Ri 79",
+  "cat": "food",
+  "subtitle": "Bánh mì xíu mại",
+  "address": "2 Thông Thiên Học, Đà Lạt (đối diện cây xăng Tỉnh Đội)",
+  "lat": 11.9519,
+  "lng": 108.439038,
+  "coordSource": "https://wanderlog.com/place/details/1468936/bánh-mì-xíu-mại-ri-79-đối-diện-cây-xăng-tỉnh-đội",
+  "price": null,
+  "hours": "06:00–19:00",
+  "mustTry": "Chén xíu mại nóng nước dùng thơm húng quế, chấm bánh mì giòn",
+  "desc_vi": "Bánh mì xíu mại là món ăn sáng đặc trưng của Đà Lạt: chén xíu mại nóng hổi ăn kèm ổ bánh mì giòn. Quán Ri 79 nằm ở tầng dưới trên đường Thông Thiên Học, nổi tiếng nhờ nước dùng đậm vị và giá rẻ.",
+  "review_vi": "Khen: xíu mại mềm, nước dùng nêm vừa, thơm húng quế; bánh mì nóng giòn; giá rẻ. Chê: rất đông, có lúc phải xếp hàng khoảng 15 phút; giờ cao điểm phục vụ chậm.",
+  "rating": {
+   "value": 4.6,
+   "count": 1947,
+   "source": "Google (qua Wanderlog)",
+   "url": "https://wanderlog.com/place/details/1468936/bánh-mì-xíu-mại-ri-79-đối-diện-cây-xăng-tỉnh-đội",
+   "seen": "2026-10"
+  },
+  "trending": false,
+  "tags": [
+   "bánh mì xíu mại",
+   "ăn sáng"
+  ],
+  "tips_vi": "Mẹo: Đi sớm buổi sáng hoặc giữa buổi để tránh hàng; quán có chỗ ngồi ngoài trời và trong nhà.",
+  "images": [
+   {
+    "commons": "File:Xiu mai.jpg",
+    "kind": "dish"
+   },
+   {
+    "commons": "File:Bánh mì xíu mại-meatball-sandwich.jpg",
+    "kind": "dish"
+   }
+  ],
+  "wiki": null,
+  "website": "https://www.facebook.com/B%C3%A1nh-M%C3%AC-X%C3%ADu-M%E1%BA%A1i-Ri-79-100294558811276",
+  "sources": [
+   "https://wanderlog.com/place/details/1468936/bánh-mì-xíu-mại-ri-79-đối-diện-cây-xăng-tỉnh-đội"
+  ],
+  "status": "open",
+  "existing": false
+ },
+ {
+  "id": "dalat-kem-bo-thanh-thao",
+  "name": "Kem bơ Thanh Thảo",
+  "cat": "food",
+  "subtitle": "Kem bơ",
+  "address": "76 Nguyễn Văn Trỗi, Phường 2, Đà Lạt",
+  "lat": 11.94733,
+  "lng": 108.437084,
+  "coordSource": "https://wanderlog.com/place/details/2283620/thanh-thao-avocado-ice-cream",
+  "price": "Khoảng 20.000–30.000đ/ly (2022)",
+  "hours": "08:00–22:30",
+  "mustTry": "Kem bơ, kem bơ sầu riêng, yaourt phô mai, chè Thái",
+  "desc_vi": "Tiệm kem bơ hai tầng trên đường Nguyễn Văn Trỗi – con phố được gọi vui là \"phố kem bơ\", nằm ngay cạnh Kem Phụng. Ly kem gồm lớp bơ xay sánh đặc phủ kem dừa lạnh, có thể thêm sầu riêng.",
+  "review_vi": "Khen: bơ xay đặc, béo, hơi đắng nhẹ hợp với kem lạnh; giá hợp lý, phục vụ nhanh; nhiều vị khác như sầu riêng, yaourt phô mai. Chê: chất lượng đôi lúc không đều, có phản ánh thái độ phục vụ chưa tốt khi đông.",
+  "rating": {
+   "value": 4,
+   "count": 2143,
+   "source": "Google (qua Wanderlog)",
+   "url": "https://wanderlog.com/place/details/2283620/thanh-thao-avocado-ice-cream",
+   "seen": "2026-10"
+  },
+  "trending": false,
+  "tags": [
+   "kem bơ",
+   "ăn vặt"
+  ],
+  "tips_vi": "Mẹo: Tối cuối tuần rất đông, nên ghé buổi chiều; kết hợp ăn bánh tráng nướng 112 cùng con dốc.",
+  "images": [],
+  "wiki": null,
+  "website": null,
+  "sources": [
+   "https://wanderlog.com/place/details/2283620/thanh-thao-avocado-ice-cream",
+   "https://vietnamnet.vn/da-lat-lanh-14-do-c-khach-van-xuyt-xoa-xep-hang-o-pho-kem-bo-2080453.html"
+  ],
+  "status": "open",
+  "existing": false
+ },
+ {
+  "id": "dalat-cham-cafe-kem-bo",
+  "name": "Chạm cà phê & kem bơ",
+  "cat": "food",
+  "subtitle": "Kem bơ & cà phê",
+  "address": "27 Nguyễn Trãi, Phường 9, Đà Lạt",
+  "lat": 11.942125,
+  "lng": 108.453294,
+  "coordSource": "https://wanderlog.com/place/details/1280155/chạm-cà-phê--kem-bơ-đà-lạt",
+  "price": null,
+  "hours": "07:30–22:00",
+  "mustTry": "Kem bơ 4 topping, trà miễn phí, đồ lưu niệm hình quả bơ",
+  "desc_vi": "Tiệm kem bơ kiêm cà phê gần ga Đà Lạt, theo phong cách trẻ trung với đồ trang trí và quà lưu niệm hình quả bơ. Ngoài kem bơ, quán có thực đơn đồ uống khá dài và phục vụ trà miễn phí trong những chén nhỏ xinh.",
+  "review_vi": "Khen: kem bơ mịn, vị bơ đậm, ngọt vừa; không gian ấm cúng, nhân viên thân thiện và nói được tiếng Anh. Chê: là tiệm \"kem bơ đời mới\" nên giá nhỉnh hơn quán truyền thống; điểm Google khác nhau giữa các chi nhánh.",
+  "rating": {
+   "value": 4.7,
+   "count": 3118,
+   "source": "Google (qua Wanderlog)",
+   "url": "https://wanderlog.com/place/details/1280155/chạm-cà-phê--kem-bơ-đà-lạt",
+   "seen": "2026-10"
+  },
+  "trending": false,
+  "tags": [
+   "kem bơ",
+   "cà phê"
+  ],
+  "tips_vi": "Mẹo: Gọi kem bơ đủ 4 topping để thử trọn vị; tiện ghé sau khi tham quan ga Đà Lạt.",
+  "images": [],
+  "wiki": null,
+  "website": "https://chamdalat.vn/",
+  "sources": [
+   "https://wanderlog.com/place/details/1280155/chạm-cà-phê--kem-bơ-đà-lạt",
+   "https://mia.vn/cam-nang-du-lich/quan-an-ngon-da-lat-19896"
+  ],
+  "status": "open",
+  "existing": false
+ },
+ {
+  "id": "dalat-leguda-buffet-rau",
+  "name": "Léguda Buffet Rau",
+  "cat": "food",
+  "subtitle": "Lẩu buffet rau",
+  "address": "Khu du lịch Cáp treo, Đồi Robin (đường Đống Đa), Đà Lạt",
+  "lat": 11.92332,
+  "lng": 108.44384,
+  "coordSource": "https://wanderlog.com/place/details/696645/léguda-buffet-rau-đà-lạt",
+  "price": "Buffet rau giá bình dân; thịt, hải sản gọi thêm",
+  "hours": "10:00–20:00",
+  "mustTry": "Lẩu buffet rau Đà Lạt với nước lẩu chua ngọt, bún",
+  "desc_vi": "Nhà hàng buffet lẩu rau trên đồi Robin, cạnh ga cáp treo, do Dalattourist quản lý. Quầy rau gồm rất nhiều loại rau, nấm, củ tươi của Đà Lạt; nồi lẩu hai ngăn và tầm nhìn ra đồi thông thoáng đãng.",
+  "review_vi": "Khen: rau tươi sạch, phong phú, nước lẩu chua ngọt ngon, giá dễ chịu, view đẹp. Chê: chủ yếu là rau nên ai thích đạm phải gọi thêm đậu hũ, thịt, hải sản.",
+  "rating": {
+   "value": 4.6,
+   "count": 4996,
+   "source": "Google (qua Wanderlog)",
+   "url": "https://wanderlog.com/place/details/696645/léguda-buffet-rau-đà-lạt",
+   "seen": "2026-10"
+  },
+  "trending": false,
+  "tags": [
+   "lẩu rau",
+   "buffet",
+   "chay"
+  ],
+  "tips_vi": "Mẹo: Kết hợp đi cáp treo Robin – Trúc Lâm rồi ăn trưa tại đây; người ăn chay nên gọi thêm đậu hũ để đủ chất.",
+  "images": [],
+  "wiki": null,
+  "website": "https://www.dalattourist.com.vn/",
+  "sources": [
+   "https://wanderlog.com/place/details/696645/léguda-buffet-rau-đà-lạt"
+  ],
+  "status": "open",
+  "existing": false
+ },
+ {
+  "id": "dalat-tui-mo-to",
+  "name": "Tiệm Cà Phê Túi Mơ To",
+  "cat": "cafe",
+  "subtitle": "Cà phê view vườn rau",
+  "address": "Hẻm 31 Sào Nam, Đà Lạt",
+  "lat": 11.940996,
+  "lng": 108.483685,
+  "coordSource": "https://wanderlog.com/place/details/2184393/tiệm-cà-phê-túi-mơ-to",
+  "price": null,
+  "hours": "07:30–21:30",
+  "mustTry": "Sữa hạt than tre nóng (món đặc trưng), ngắm vườn rau và thung lũng",
+  "desc_vi": "Quán cà phê nổi tiếng nằm trên sườn đồi khu Sào Nam, nhìn xuống những luống rau, nhà kính và xa xa là dãy Langbiang. Quán có nhiều tầng, kiến trúc gỗ – kính, cạnh đó có thêm nhà hàng sân vườn cùng tên.",
+  "review_vi": "Khen: view thung lũng rau xanh và núi rất đẹp, không gian rộng nhiều cây, đồ uống ổn với mức giá hợp lý so với view. Chê: rất đông, nhất là cuối tuần, khó tìm chỗ đẹp.",
+  "rating": {
+   "value": 4.5,
+   "count": 3926,
+   "source": "Google (qua Wanderlog)",
+   "url": "https://wanderlog.com/place/details/2184393/tiệm-cà-phê-túi-mơ-to",
+   "seen": "2026-10"
+  },
+  "trending": false,
+  "tags": [
+   "cà phê view",
+   "check-in"
+  ],
+  "tips_vi": "Mẹo: Đến ngay lúc mở cửa (khoảng 07:30); đi xuống các tầng dưới để có góc nhìn thoáng hơn.",
+  "images": [],
+  "wiki": null,
+  "website": "https://www.facebook.com/tiemcaphe.tuimoto",
+  "sources": [
+   "https://wanderlog.com/place/details/2184393/tiệm-cà-phê-túi-mơ-to"
+  ],
+  "status": "open",
+  "existing": false
+ },
+ {
+  "id": "dalat-me-linh-coffee-garden",
+  "name": "Mê Linh Coffee Garden",
+  "cat": "cafe",
+  "subtitle": "Cà phê view thung lũng",
+  "address": "Tổ 20, thôn 4, xã Tà Nung, Đà Lạt",
+  "lat": 11.900179,
+  "lng": 108.346751,
+  "coordSource": "https://wanderlog.com/place/details/459867/me-linh-coffee-garden",
+  "price": null,
+  "hours": "07:30–17:00",
+  "mustTry": "Cà phê chồn, tham quan vườn cà phê, view thung lũng",
+  "desc_vi": "Vườn cà phê kiêm quán trên đường đi Tà Nung, phía tây thành phố. Khách có thể dạo vườn hoa – vườn cà phê, tìm hiểu về các loại hạt và cách pha chế, rồi ngồi uống cà phê trên ban công nhìn ra thung lũng và đồi núi; quán bán cà phê chồn (Cherry, Arabica, Moka).",
+  "review_vi": "Khen: view thung lũng rất đẹp, nhiều góc chụp ảnh, được tìm hiểu về các loại hạt và thử cà phê chồn. Chê: một số khách chê phục vụ hờ hững; cà phê chồn giá cao; cuối tuần đông khách đoàn.",
+  "rating": {
+   "value": 4.1,
+   "count": 9529,
+   "source": "Google (qua Wanderlog)",
+   "url": "https://wanderlog.com/place/details/459867/me-linh-coffee-garden",
+   "seen": "2026-10"
+  },
+  "trending": false,
+  "tags": [
+   "cà phê view",
+   "vườn cà phê"
+  ],
+  "tips_vi": "Mẹo: Đi ngày thường để vắng; nên tham gia phần hướng dẫn tham quan vườn để hiểu thêm về cà phê. Đường đèo Tà Nung có khúc cua gấp, lái xe cẩn thận.",
+  "images": [],
+  "wiki": null,
+  "website": "http://melinhcoffeegarden.com/",
+  "sources": [
+   "https://wanderlog.com/place/details/459867/me-linh-coffee-garden",
+   "http://melinhcoffeegarden.com/"
+  ],
+  "status": "open",
+  "existing": false
+ },
+ {
+  "id": "dalat-horizon-coffee",
+  "name": "Horizon Coffee",
+  "cat": "cafe",
+  "subtitle": "Cà phê view đồi thông",
+  "address": "31/6 Đường 3 Tháng 4, Đà Lạt",
+  "lat": 11.923834,
+  "lng": 108.448361,
+  "coordSource": "https://wanderlog.com/place/details/530753/horizon-coffee-da-lat",
+  "price": null,
+  "hours": "07:00–19:00",
+  "mustTry": "Trà sữa kem dừa, đồ nướng, ngồi xích đu ngắm đồi thông",
+  "desc_vi": "Quán cà phê rộng trên sườn đồi gần đèo Prenn, nhìn thẳng ra đồi thông và núi trùng điệp. Không gian ngoài trời nhiều tầng, có xích đu, phù hợp ngắm bình minh, hoàng hôn và đi nhóm.",
+  "review_vi": "Khen: view núi đồi mờ sương rất đẹp, không gian rộng, đồ uống và món nướng được khen. Chê: giá cao hơn quán thường; cuối tuần đông.",
+  "rating": {
+   "value": 4.2,
+   "count": 3502,
+   "source": "Google (qua Wanderlog)",
+   "url": "https://wanderlog.com/place/details/530753/horizon-coffee-da-lat",
+   "seen": "2026-10"
+  },
+  "trending": false,
+  "tags": [
+   "cà phê view",
+   "đồi thông"
+  ],
+  "tips_vi": "Mẹo: Đi sáng sớm để có sương và ánh sáng đẹp; mang áo ấm vì quán lộng gió.",
+  "images": [],
+  "wiki": null,
+  "website": "https://m.facebook.com/horizondalat/",
+  "sources": [
+   "https://wanderlog.com/place/details/530753/horizon-coffee-da-lat"
+  ],
+  "status": "open",
+  "existing": false
+ },
+ {
+  "id": "dalat-la-viet-coffee",
+  "name": "Là Việt Coffee",
+  "cat": "cafe",
+  "subtitle": "Cà phê đặc sản",
+  "address": "200 Nguyễn Công Trứ, Đà Lạt",
+  "lat": 11.956792,
+  "lng": 108.435092,
+  "coordSource": "https://wanderlog.com/place/details/1324465/la-viet-coffee",
+  "price": null,
+  "hours": "07:00–22:00",
+  "mustTry": "Cà phê đặc sản (specialty), cà phê cốt dừa, cold brew; mua hạt cà phê",
+  "desc_vi": "Thương hiệu cà phê đặc sản gốc Đà Lạt có trang trại và xưởng rang riêng. Quán chính trên đường Nguyễn Công Trứ là một nhà xưởng rộng theo phong cách công nghiệp, khách có thể xem khu rang và mua hạt mang về; Là Việt còn có thêm chi nhánh ở Trần Quý Cáp.",
+  "review_vi": "Khen: cà phê chất lượng, nhất là cà phê cốt dừa và các món pha máy; không gian rộng, nhân viên thân thiện. Chê: đồ ăn bị chê đắt so với chất lượng; nhà xưởng vang tiếng khi đông khách.",
+  "rating": {
+   "value": 4.5,
+   "count": 3411,
+   "source": "Google (qua Wanderlog)",
+   "url": "https://wanderlog.com/place/details/1324465/la-viet-coffee",
+   "seen": "2026-10"
+  },
+  "trending": false,
+  "tags": [
+   "cà phê đặc sản",
+   "rang xay"
+  ],
+  "tips_vi": "Mẹo: Tập trung gọi đồ uống đặc sản thay vì đồ ăn; đi ngày thường để tránh ồn.",
+  "images": [],
+  "wiki": null,
+  "website": "http://www.laviet.coffee/",
+  "sources": [
+   "https://wanderlog.com/place/details/1324465/la-viet-coffee"
+  ],
+  "status": "open",
+  "existing": false
+ },
+ {
+  "id": "dalat-an-cafe",
+  "name": "An Cafe",
+  "cat": "cafe",
+  "subtitle": "Cà phê sân vườn",
+  "address": "63 Bis Ba Tháng Hai, Phường 1, Đà Lạt",
+  "lat": 11.941699,
+  "lng": 108.433827,
+  "coordSource": "https://wanderlog.com/place/details/773522/an-cafe-global",
+  "price": null,
+  "hours": "07:00–21:30",
+  "mustTry": "Cà phê trứng, súp bí đỏ, ngồi xích đu giữa vườn cây",
+  "desc_vi": "Quán cà phê sân vườn nhiều tầng gần chợ Đà Lạt, phủ kín cây xanh và gỗ, có cả xích đu và cây đàn piano cho khách. Đây là quán quen của dân làm việc từ xa vì bàn nào cũng có ổ cắm điện.",
+  "review_vi": "Khen: không gian xanh mát, thư giãn, nhiều kiểu chỗ ngồi; tiện làm việc; món ăn đồ uống ổn. Chê: chất lượng món và phục vụ chưa đều, có lúc đông và chậm.",
+  "rating": {
+   "value": 4.3,
+   "count": 5805,
+   "source": "Google (qua Wanderlog)",
+   "url": "https://wanderlog.com/place/details/773522/an-cafe-global",
+   "seen": "2026-10"
+  },
+  "trending": false,
+  "tags": [
+   "cà phê sân vườn",
+   "làm việc"
+  ],
+  "tips_vi": "Mẹo: Đi ngày thường hoặc ngoài giờ cao điểm; nếu cần làm việc hãy chọn bàn có ổ cắm ngay khi vào.",
+  "images": [],
+  "wiki": null,
+  "website": "http://ancafeglobal.com/",
+  "sources": [
+   "https://wanderlog.com/place/details/773522/an-cafe-global"
+  ],
+  "status": "open",
+  "existing": false
+ },
+ {
+  "id": "dalat-still-cafe",
+  "name": "Still Café",
+  "cat": "cafe",
+  "subtitle": "Cà phê nhà gỗ",
+  "address": "59 Nguyễn Trãi, Phường 9, Đà Lạt",
+  "lat": 11.944242,
+  "lng": 108.454476,
+  "coordSource": "https://wanderlog.com/place/details/1324500/still-cafe",
+  "price": null,
+  "hours": "08:00–21:00",
+  "mustTry": "Ramen, bánh ngọt, cà phê trong khu nhà gỗ kiểu Nhật",
+  "desc_vi": "Quán cà phê trong một khu nhà gỗ mang hơi hướng Nhật Bản, phủ cây xanh như bước ra từ phim hoạt hình Ghibli, gần ga Đà Lạt. Trong khuôn viên còn có vài tiệm nhỏ bán bánh và đồ thủ công.",
+  "review_vi": "Khen: không gian ấm cúng, nhiều góc đẹp, nhân viên thân thiện, ramen và bánh ngọt ngon, có mèo của quán. Chê: ngày càng đông nên khó tìm chỗ yên tĩnh.",
+  "rating": {
+   "value": 4.5,
+   "count": 3123,
+   "source": "Google (qua Wanderlog)",
+   "url": "https://wanderlog.com/place/details/1324500/still-cafe",
+   "seen": "2026-10"
+  },
+  "trending": false,
+  "tags": [
+   "cà phê",
+   "phong cách Nhật"
+  ],
+  "tips_vi": "Mẹo: Ghé buổi trưa hoặc chiều sớm để thong thả; dạo thêm các tiệm nhỏ trong khuôn viên.",
+  "images": [],
+  "wiki": null,
+  "website": "https://www.facebook.com/still.dalat",
+  "sources": [
+   "https://wanderlog.com/place/details/1324500/still-cafe"
+  ],
+  "status": "open",
+  "existing": false
+ },
+ {
+  "id": "dalat-cafe-tung",
+  "name": "Cà phê Tùng",
+  "cat": "cafe",
+  "subtitle": "Cà phê xưa",
+  "address": "6 Khu Hòa Bình, Phường 1, Đà Lạt",
+  "lat": 11.944171,
+  "lng": 108.435888,
+  "coordSource": "https://wanderlog.com/place/details/1781630/cafe-tùng",
+  "price": null,
+  "hours": "07:00–21:30",
+  "mustTry": "Cà phê đen/sữa kiểu xưa, yaourt, trà nóng miễn phí",
+  "desc_vi": "Quán cà phê lâu đời ở khu Hòa Bình, giữ phong cách cổ điển như Đà Lạt những thập niên trước. Quán gắn với nhiều trí thức, văn nghệ sĩ như Trịnh Công Sơn và là nơi để cảm nhận nhịp sống chậm của Đà Lạt \"ngày xưa\".",
+  "review_vi": "Khen: không khí hoài cổ đặc biệt, giá rẻ, có trà nóng miễn phí, nhân viên thân thiện. Chê: khách được hút thuốc trong quán, không hợp người nhạy cảm khói; đồ uống đơn giản.",
+  "rating": {
+   "value": 4.4,
+   "count": 1088,
+   "source": "Google (qua Wanderlog)",
+   "url": "https://wanderlog.com/place/details/1781630/cafe-tùng",
+   "seen": "2026-10"
+  },
+  "trending": false,
+  "tags": [
+   "cà phê xưa",
+   "hoài cổ"
+  ],
+  "tips_vi": "Mẹo: Tránh khung 16:00–20:00 khi quán đông; nếu sợ khói thuốc có thể mua mang đi và dạo khu Hòa Bình.",
+  "images": [],
+  "wiki": null,
+  "website": null,
+  "sources": [
+   "https://wanderlog.com/place/details/1781630/cafe-tùng"
+  ],
+  "status": "open",
+  "existing": false
+ },
+ {
+  "id": "dalat-binh-minh-oi",
+  "name": "Tiệm cà phê Bình Minh Ơi",
+  "cat": "cafe",
+  "subtitle": "Cà phê săn mây",
+  "address": "89 Hoàng Hoa Thám, Phường 10, Đà Lạt",
+  "lat": 11.933628,
+  "lng": 108.464773,
+  "coordSource": "https://wanderlog.com/place/details/4993124/tiệm-cà-phê-bình-minh-ơi",
+  "price": null,
+  "hours": "04:30–22:00",
+  "mustTry": "Săn mây – ngắm bình minh, cà phê muối, nhạc acoustic buổi sáng",
+  "desc_vi": "Quán cà phê săn mây nổi tiếng ở phía đông thành phố, mở cửa từ khoảng 4:30 sáng để khách kịp đón bình minh trên thung lũng phủ sương. Không gian mộc mạc bằng gỗ, buổi sáng thường có hát acoustic.",
+  "review_vi": "Khen: bình minh và thung lũng sương rất đẹp, không khí mộc mạc, cà phê ngon, có nhạc sống. Chê: quá đông vào sáng sớm cuối tuần; chất lượng ca sĩ chưa đều; không phải hôm nào cũng có biển mây.",
+  "rating": {
+   "value": 4.5,
+   "count": 5059,
+   "source": "Google (qua Wanderlog)",
+   "url": "https://wanderlog.com/place/details/4993124/tiệm-cà-phê-bình-minh-ơi",
+   "seen": "2026-10"
+  },
+  "trending": false,
+  "tags": [
+   "săn mây",
+   "bình minh",
+   "acoustic"
+  ],
+  "tips_vi": "Mẹo: Đến khoảng 5h sáng để có chỗ đẹp; xem dự báo thời tiết trước khi đi vì không phải ngày nào cũng có biển mây.",
+  "images": [],
+  "wiki": null,
+  "website": "https://binhminhoi.vn/",
+  "sources": [
+   "https://wanderlog.com/place/details/4993124/tiệm-cà-phê-bình-minh-ơi"
+  ],
+  "status": "open",
+  "existing": false
+ },
+ {
+  "id": "dalat-dinh-bao-dai-3",
+  "name": "Dinh Bảo Đại (Dinh III)",
+  "cat": "sight",
+  "subtitle": "Biệt điện vua Bảo Đại",
+  "address": "1 Triệu Việt Vương, Đà Lạt",
+  "lat": 11.93017222,
+  "lng": 108.42966111,
+  "coordSource": "https://vi.wikipedia.org/wiki/Dinh_III",
+  "price": "Người lớn 60.000đ, trẻ em 40.000đ",
+  "hours": "07:00–17:30",
+  "mustTry": "Phòng làm việc, thư viện, phòng ngủ của vua và hoàng hậu, vườn hoa trước – sau biệt điện",
+  "desc_vi": "Biệt điện của gia đình vua Bảo Đại, xây trong khoảng 1933–1938 trên đỉnh đồi giữa rừng thông, do hai kiến trúc sư người Pháp Paul Veysseyre và Arthur Kruze thiết kế. Bên trong còn giữ nhiều đồ nội thất thập niên 1930–1940, các phòng tiếp khách, làm việc, phòng ngủ của hoàng gia.",
+  "review_vi": "Khen: được bảo quản tốt, nội thất nguyên bản, có thuyết minh, vườn hoa đẹp, giúp hiểu đời sống hoàng gia cuối cùng. Chê: đông đoàn khách giờ cao điểm; điểm Tripadvisor thấp hơn Google, một số khách thấy nội dung trưng bày đơn giản.",
+  "rating": {
+   "value": 4.2,
+   "count": 9613,
+   "source": "Google (qua Wanderlog)",
+   "url": "https://wanderlog.com/place/details/117903/bao-dai-palace-3",
+   "seen": "2026-10"
+  },
+  "trending": false,
+  "tags": [
+   "di tích",
+   "kiến trúc Pháp",
+   "lịch sử"
+  ],
+  "tips_vi": "Mẹo: Dành 60–90 phút; đi buổi sáng ngày thường để vắng. Khách phải mang bao giày khi vào trong biệt điện.",
+  "images": [
+   {
+    "commons": "File:Dinh Bao Dai III - 23061210935.jpg",
+    "kind": "place"
+   },
+   {
+    "commons": "File:Dinh Bao Dai III (22439883683).jpg",
+    "kind": "place"
+   }
+  ],
+  "wiki": "https://vi.wikipedia.org/wiki/Dinh_III",
+  "website": null,
+  "sources": [
+   "https://wanderlog.com/place/details/117903/bao-dai-palace-3",
+   "https://vi.wikipedia.org/wiki/Dinh_III",
+   "https://mia.vn/cam-nang-du-lich/du-lich-da-lat-12034"
+  ],
+  "status": "open",
+  "existing": false
+ },
+ {
+  "id": "dalat-dinh-1",
+  "name": "Dinh I (Dinh Bảo Đại I)",
+  "cat": "sight",
+  "subtitle": "Biệt điện trên đồi",
+  "address": "Hẻm 1 Trần Quang Diệu, Đà Lạt",
+  "lat": 11.94436389,
+  "lng": 108.46981944,
+  "coordSource": "https://vi.wikipedia.org/wiki/Dinh_I",
+  "price": "Theo mia.vn (07/2026): miễn phí vào cổng; các dịch vụ chụp ảnh, trang phục tính riêng",
+  "hours": "07:00–17:30",
+  "mustTry": "Biệt điện trên đồi thông, đường hầm thời Ngô Đình Diệm, chụp ảnh trang phục hoàng gia",
+  "desc_vi": "Biệt thự do triệu phú người Pháp Robert Clément Bourgery xây năm 1940 trên ngọn đồi cao khoảng 1.550 m, giữa khu rừng thông rộng khoảng 60 ha. Vua Bảo Đại mua lại năm 1949; sau đó dinh được dùng làm nơi nghỉ của các nguyên thủ, thời Ngô Đình Diệm có làm thêm đường hầm.",
+  "review_vi": "Khen: khuôn viên rộng, được chăm chút, nhiều góc chụp ảnh đẹp, kiến trúc pha trộn Á – Âu; có dịch vụ mặc trang phục hoàng gia, chụp ảnh với ngựa. Chê: nhiều tiểu cảnh và dịch vụ thương mại; ít thông tin lịch sử hơn Dinh III.",
+  "rating": {
+   "value": 4.3,
+   "count": 6313,
+   "source": "Google (qua Wanderlog)",
+   "url": "https://wanderlog.com/place/details/737113/bao-dai-palace-1",
+   "seen": "2026-10"
+  },
+  "trending": false,
+  "tags": [
+   "di tích",
+   "biệt điện"
+  ],
+  "tips_vi": "Mẹo: Đi sớm để tránh đông; hỏi rõ các gói vé dịch vụ trước khi mua.",
+  "images": [
+   {
+    "commons": "File:Palace I, 01.jpg",
+    "kind": "place"
+   }
+  ],
+  "wiki": "https://vi.wikipedia.org/wiki/Dinh_I",
+  "website": "http://dinhbaodai.com/",
+  "sources": [
+   "https://wanderlog.com/place/details/737113/bao-dai-palace-1",
+   "https://vi.wikipedia.org/wiki/Dinh_I",
+   "https://mia.vn/cam-nang-du-lich/du-lich-da-lat-12034"
+  ],
+  "status": "open",
+  "existing": false
+ },
+ {
+  "id": "dalat-nha-tho-con-ga",
+  "name": "Nhà thờ Con Gà (Nhà thờ Chính tòa Đà Lạt)",
+  "cat": "sight",
+  "subtitle": "Nhà thờ Pháp cổ",
+  "address": "15 Trần Phú, Đà Lạt",
+  "lat": 11.93640278,
+  "lng": 108.43763889,
+  "coordSource": "https://vi.wikipedia.org/wiki/Nh%C3%A0_th%E1%BB%9D_ch%C3%ADnh_t%C3%B2a_%C4%90%C3%A0_L%E1%BA%A1t",
+  "price": "Miễn phí",
+  "hours": null,
+  "mustTry": "Tượng gà đồng trên đỉnh tháp chuông, kính màu Pháp, kiến trúc mặt tiền",
+  "desc_vi": "Nhà thờ chính tòa Thánh Nicôla Bari – nhà thờ chính tòa của Giáo phận Đà Lạt, quen gọi là Nhà thờ Con Gà vì con gà bằng đồng trên đỉnh tháp chuông. Nhà thờ khởi công năm 1931, khánh thành năm 1942; tháp chuông cao 47 m, các ô kính màu do xưởng Louis Balmet (Grenoble, Pháp) chế tác.",
+  "review_vi": "Khen: kiến trúc cổ đẹp, kính màu ấn tượng, không gian yên bình, sân rộng nhìn xuống phố. Chê: dễ đông khách; khi đang có thánh lễ thì khó tham quan bên trong.",
+  "rating": {
+   "value": 4.6,
+   "count": 8030,
+   "source": "Google (qua Wanderlog)",
+   "url": "https://wanderlog.com/place/details/117906/st-nicholas-cathedral-of-da-lat",
+   "seen": "2026-10"
+  },
+  "trending": false,
+  "tags": [
+   "nhà thờ",
+   "kiến trúc Pháp",
+   "miễn phí"
+  ],
+  "tips_vi": "Mẹo: Ghé ngoài giờ lễ để chụp ảnh mặt tiền; ăn mặc lịch sự. Dốc Nhà Chung bên cạnh có bánh căn, bánh tráng nướng.",
+  "images": [
+   {
+    "commons": "File:Cathedral of Da Lat 11.jpg",
+    "kind": "place"
+   },
+   {
+    "commons": "File:Cathedral of Da Lat 07.jpg",
+    "kind": "place"
+   }
+  ],
+  "wiki": "https://vi.wikipedia.org/wiki/Nh%C3%A0_th%E1%BB%9D_ch%C3%ADnh_t%C3%B2a_%C4%90%C3%A0_L%E1%BA%A1t",
+  "website": null,
+  "sources": [
+   "https://vi.wikipedia.org/wiki/Nh%C3%A0_th%E1%BB%9D_ch%C3%ADnh_t%C3%B2a_%C4%90%C3%A0_L%E1%BA%A1t",
+   "https://wanderlog.com/place/details/117906/st-nicholas-cathedral-of-da-lat",
+   "https://mia.vn/cam-nang-du-lich/du-lich-da-lat-12034"
+  ],
+  "status": "open",
+  "existing": false
+ },
+ {
+  "id": "dalat-domaine-de-marie",
+  "name": "Nhà thờ Domaine de Marie",
+  "cat": "sight",
+  "subtitle": "Nhà thờ màu hồng",
+  "address": "1 Ngô Quyền, Đà Lạt",
+  "lat": 11.94945556,
+  "lng": 108.43028889,
+  "coordSource": "https://vi.wikipedia.org/wiki/Nh%C3%A0_th%E1%BB%9D_Domaine_de_Marie",
+  "price": "Miễn phí",
+  "hours": "07:30–11:30, 13:30–17:30",
+  "mustTry": "Mặt tiền tường hồng, tượng Đức Mẹ trên quả địa cầu, vườn hoa, đồ thêu – len của các sơ",
+  "desc_vi": "Nhà thờ của dòng Nữ tu Bác ái Vinh Sơn (còn gọi nhà thờ Vinh Sơn, nhà thờ Mai Anh) trên đồi Mai Anh, khuôn viên khoảng 12 ha. Công trình mang nét Pháp với tường đá quét vôi hồng, mái dốc lợp ngói đỏ gợi dáng nhà rông Tây Nguyên, kính màu nhập từ Pháp; phía sau có mộ bà Suzanne Decoux – vợ Toàn quyền Đông Dương.",
+  "review_vi": "Khen: kiến trúc màu hồng nổi bật giữa rừng thông, vườn hoa chăm chút, yên tĩnh, miễn phí vào cửa; mua đồ thủ công giúp các sơ nuôi trẻ em khó khăn. Chê: giờ mở cửa có nghỉ trưa, đông khi có lễ.",
+  "rating": {
+   "value": 4.6,
+   "count": 7306,
+   "source": "Google (qua Wanderlog)",
+   "url": "https://wanderlog.com/place/details/117905/domaine-de-marie",
+   "seen": "2026-10"
+  },
+  "trending": false,
+  "tags": [
+   "nhà thờ",
+   "kiến trúc",
+   "miễn phí"
+  ],
+  "tips_vi": "Mẹo: Tránh giờ lễ và Chủ nhật nếu muốn yên tĩnh; mở cửa khoảng 07:30–11:30 và 13:30–17:30. Giữ trật tự, ăn mặc kín đáo.",
+  "images": [
+   {
+    "commons": "File:Domaine de Marie 00.JPG",
+    "kind": "place"
+   },
+   {
+    "commons": "File:Nha tho Domaine de Marie - Huy Phuong 1.jpg",
+    "kind": "place"
+   }
+  ],
+  "wiki": "https://vi.wikipedia.org/wiki/Nh%C3%A0_th%E1%BB%9D_Domaine_de_Marie",
+  "website": null,
+  "sources": [
+   "https://vi.wikipedia.org/wiki/Nh%C3%A0_th%E1%BB%9D_Domaine_de_Marie",
+   "https://wanderlog.com/place/details/117905/domaine-de-marie"
+  ],
+  "status": "open",
+  "existing": false
+ },
+ {
+  "id": "dalat-thien-vien-truc-lam",
+  "name": "Thiền viện Trúc Lâm",
+  "cat": "sight",
+  "subtitle": "Thiền viện bên hồ",
+  "address": "Đường Trúc Lâm Yên Tử (núi Phụng Hoàng, trên hồ Tuyền Lâm), Đà Lạt",
+  "lat": 11.902459,
+  "lng": 108.436432,
+  "coordSource": "https://en.wikipedia.org/wiki/Tr%C3%BAc_L%C3%A2m_Monastery_of_Da_Lat",
+  "price": "Miễn phí",
+  "hours": "07:00–17:00",
+  "mustTry": "Chánh điện, 140 bậc đá giữa rừng thông, vườn hoa, hồ Tĩnh Tâm, lối xuống hồ Tuyền Lâm",
+  "desc_vi": "Thiền viện do Hòa thượng Thích Thanh Từ khai lập, xây dựng 1993–1994 trên núi Phụng Hoàng, cách trung tâm khoảng 5 km, nhìn xuống hồ Tuyền Lâm. Lối vào là 140 bậc đá rợp thông qua ba lớp cổng; khuôn viên có vườn hoa nhiều loài quý và hồ Tĩnh Tâm.",
+  "review_vi": "Khen: không gian thanh tịnh, vườn cảnh đẹp, chánh điện ấn tượng với view núi đồi; có lối đi bộ xuống hồ Tuyền Lâm qua rừng thông. Chê: đông đoàn khách vào giữa ngày.",
+  "rating": {
+   "value": 4.6,
+   "count": 3907,
+   "source": "Google (qua Wanderlog)",
+   "url": "https://wanderlog.com/place/details/579089/truc-lam-zen-buddhist-temple",
+   "seen": "2026-10"
+  },
+  "trending": false,
+  "tags": [
+   "thiền viện",
+   "tâm linh",
+   "miễn phí"
+  ],
+  "tips_vi": "Mẹo: Đến sớm (khoảng 7:30–9:00) để yên tĩnh; mặc quần áo dài, kín đáo. Có thể đi cáp treo từ đồi Robin tới thẳng thiền viện.",
+  "images": [
+   {
+    "commons": "File:Thien vien Truc Lam o Da Lat.jpg",
+    "kind": "place"
+   },
+   {
+    "commons": "File:Truc Lam Gate.JPG",
+    "kind": "place"
+   },
+   {
+    "commons": "File:Truc Lam Zen Monastery 28.jpg",
+    "kind": "place"
+   }
+  ],
+  "wiki": "https://vi.wikipedia.org/wiki/Thi%E1%BB%81n_vi%E1%BB%87n_Tr%C3%BAc_L%C3%A2m_%C4%90%C3%A0_L%E1%BA%A1t",
+  "website": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Tr%C3%BAc_L%C3%A2m_Monastery_of_Da_Lat",
+   "https://wanderlog.com/place/details/579089/truc-lam-zen-buddhist-temple",
+   "https://vi.wikipedia.org/wiki/Thi%E1%BB%81n_vi%E1%BB%87n_Tr%C3%BAc_L%C3%A2m_%C4%90%C3%A0_L%E1%BA%A1t"
+  ],
+  "status": "open",
+  "existing": false
+ },
+ {
+  "id": "dalat-cao-dang-su-pham",
+  "name": "Trường Cao đẳng Sư phạm Đà Lạt",
+  "cat": "sight",
+  "subtitle": "Kiến trúc Pháp",
+  "address": "29 Yersin, Đà Lạt",
+  "lat": 11.946339,
+  "lng": 108.452933,
+  "coordSource": "https://vi.wikipedia.org/wiki/Tr%C6%B0%E1%BB%9Dng_Cao_%C4%91%E1%BA%B3ng_%C4%90%C3%A0_L%E1%BA%A1t",
+  "price": "Ngắm từ bên ngoài, miễn phí",
+  "hours": null,
+  "mustTry": "Dãy lớp học hình vòng cung, tháp chuông cao khoảng 54 m, sân trước để chụp ảnh",
+  "desc_vi": "Ngôi trường do người Pháp xây năm 1927 (kiến trúc sư Moncet), mang tên Lycée Yersin từ năm 1935, sau 1975 là Trường Cao đẳng Sư phạm Đà Lạt và từ 2022 sáp nhập thành Trường Cao đẳng Đà Lạt. Dãy lớp học uốn cong hình vòng cung cùng tháp chuông cao khoảng 54 m được Hiệp hội Kiến trúc sư Quốc tế (UIA) xếp vào danh sách 1.000 công trình tiêu biểu thế kỷ 20.",
+  "review_vi": "Khen: kiến trúc Pháp độc đáo, góc chụp ảnh đẹp nhất là sân trước dãy nhà vòng cung, gần trung tâm. Chê: là trường học đang hoạt động nên không phải lúc nào cũng vào sâu bên trong được.",
+  "rating": null,
+  "trending": false,
+  "tags": [
+   "kiến trúc Pháp",
+   "check-in"
+  ],
+  "tips_vi": "Mẹo: Ghé cuối tuần hoặc ngoài giờ học; giữ trật tự và không vào khu lớp học. Lưu ý: tên chính thức hiện nay là Trường Cao đẳng Đà Lạt (Google Maps có thể hiển thị tên cũ \"đã đóng cửa\").",
+  "images": [
+   {
+    "commons": "File:Truong Cao dang Su pham Da Lat - Tran Huy Phuong 1.jpg",
+    "kind": "place"
+   },
+   {
+    "commons": "File:Pedagogical College of Da Lat 01.JPG",
+    "kind": "place"
+   },
+   {
+    "commons": "File:Thap chuong Cao dang su pham Da Lat.jpg",
+    "kind": "place"
+   }
+  ],
+  "wiki": "https://vi.wikipedia.org/wiki/Tr%C6%B0%E1%BB%9Dng_Cao_%C4%91%E1%BA%B3ng_%C4%90%C3%A0_L%E1%BA%A1t",
+  "website": null,
+  "sources": [
+   "https://wanderlog.com/place/details/6989542/da-lat-pedagogy-college",
+   "https://vi.wikipedia.org/wiki/Tr%C6%B0%E1%BB%9Dng_Cao_%C4%91%E1%BA%B3ng_%C4%90%C3%A0_L%E1%BA%A1t"
+  ],
+  "status": "open",
+  "existing": false
+ },
+ {
+  "id": "dalat-duong-ham-dieu-khac",
+  "name": "Đường hầm điêu khắc",
+  "cat": "sight",
+  "subtitle": "Điêu khắc đất đỏ",
+  "address": "Khu du lịch Đà Lạt Star (vùng ven, trước thuộc Phường 4), Đà Lạt",
+  "lat": 11.882505,
+  "lng": 108.411569,
+  "coordSource": "https://wanderlog.com/place/details/247568/kdl-duong-ham-dieu-khac",
+  "price": "Người lớn 120.000đ, trẻ em 50.000đ",
+  "hours": "07:00–17:00",
+  "mustTry": "Tượng đất đỏ kể lịch sử Đà Lạt, hai ngôi nhà đất sét kỷ lục, Hồ Vô Cực với tượng K'Lang – H'Biang",
+  "desc_vi": "Công trình điêu khắc bằng đất đỏ bazan ở vùng ven Đà Lạt, tái hiện lịch sử thành phố từ thời Yersin phát hiện cao nguyên đến các công trình như ga Đà Lạt, Dinh Bảo Đại, Lycée Yersin. Khu du lịch có thêm hai ngôi nhà đất sét được xác lập kỷ lục và Hồ Vô Cực nhìn ra núi.",
+  "review_vi": "Khen: quy mô lớn, nhiều tác phẩm độc đáo, Hồ Vô Cực rất ăn ảnh, không gian thoáng, ít đông hơn khu trung tâm. Chê: đồ ăn uống và quà lưu niệm bên trong đắt hơn bên ngoài; đường đi khá xa trung tâm.",
+  "rating": {
+   "value": 4.2,
+   "count": 16570,
+   "source": "Google (qua Wanderlog)",
+   "url": "https://wanderlog.com/place/details/247568/kdl-duong-ham-dieu-khac",
+   "seen": "2026-10"
+  },
+  "trending": false,
+  "tags": [
+   "điêu khắc",
+   "check-in",
+   "Hợp với trẻ em"
+  ],
+  "tips_vi": "Mẹo: Đi buổi sáng 8–10h hoặc chiều 15–17h; mang giày đế bằng vì đường đất có thể trơn. Cách hồ Xuân Hương khoảng 12 km (30–40 phút).",
+  "images": [
+   {
+    "commons": "File:Sculpture Tunnel, Đà Lạt (August 7, 2017) (30158112568).jpg",
+    "kind": "place"
+   },
+   {
+    "commons": "File:Đà Lạt năm 2018, con đường đất sét, quang cảnh, cổng vào (1).jpg",
+    "kind": "place"
+   }
+  ],
+  "wiki": null,
+  "website": null,
+  "sources": [
+   "https://wanderlog.com/place/details/247568/kdl-duong-ham-dieu-khac",
+   "https://mia.vn/cam-nang-du-lich/duong-ham-dieu-khac-19769"
+  ],
+  "status": "open",
+  "existing": false
+ },
+ {
+  "id": "dalat-quang-truong-lam-vien",
+  "name": "Quảng trường Lâm Viên",
+  "cat": "sight",
+  "subtitle": "Quảng trường bên hồ",
+  "address": "Đường Trần Quốc Toản (đối diện hồ Xuân Hương), Đà Lạt",
+  "lat": 11.93875,
+  "lng": 108.44452778,
+  "coordSource": "https://en.wikipedia.org/wiki/Lam_Vien_Square",
+  "price": "Miễn phí",
+  "hours": null,
+  "mustTry": "Hai khối kính hình bông atiso và nụ hoa dã quỳ, ngắm hồ lúc hoàng hôn, siêu thị GO! dưới lòng đất; trẻ em có thể trượt patin, đi xe điện trên quảng trường",
+  "desc_vi": "Quảng trường trung tâm bên bờ hồ Xuân Hương với hai công trình kính biểu tượng: khối hình bông atiso màu xanh và khối nụ hoa dã quỳ màu vàng. Phía dưới là trung tâm thương mại ngầm có siêu thị GO!, rạp chiếu phim, nhà hàng; buổi tối và cuối tuần đông người dân, du khách dạo chơi.",
+  "review_vi": "Khen: view hồ và núi rộng, hoàng hôn đẹp, không khí sôi động về chiều tối, tiện mua sắm ở khu dưới lòng đất. Chê: cuối tuần và lễ Tết rất đông, hàng rong nhiều.",
+  "rating": {
+   "value": 4.5,
+   "count": 14672,
+   "source": "Google (qua Wanderlog)",
+   "url": "https://wanderlog.com/place/details/2551204/x",
+   "seen": "2026-10"
+  },
+  "trending": false,
+  "tags": [
+   "quảng trường",
+   "miễn phí",
+   "hoàng hôn",
+   "Hợp với trẻ em"
+  ],
+  "tips_vi": "Mẹo: Đến lúc hoàng hôn; xuống tầng hầm mua đặc sản, đồ dùng ở siêu thị GO! với giá niêm yết.",
+  "images": [
+   {
+    "commons": "File:Lâm Viên square (August 7, 2018) (29079784067).jpg",
+    "kind": "place"
+   },
+   {
+    "commons": "File:Lâm Viên square (August 7, 2018) (42208026670).jpg",
+    "kind": "place"
+   }
+  ],
+  "wiki": "https://vi.wikipedia.org/wiki/Qu%E1%BA%A3ng_tr%C6%B0%E1%BB%9Dng_L%C3%A2m_Vi%C3%AAn",
+  "website": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Lam_Vien_Square",
+   "https://wanderlog.com/place/details/117893/quảng-trường-lâm-viên",
+   "https://wanderlog.com/place/details/2551204/x",
+   "https://mia.vn/cam-nang-du-lich/du-lich-da-lat-12034",
+   "https://vinwonders.com/vi/wonderpedia/news/quang-truong-da-lat/"
+  ],
+  "status": "open",
+  "existing": false
+ },
+ {
+  "id": "dalat-langbiang",
+  "name": "Khu du lịch Langbiang",
+  "cat": "nature",
+  "subtitle": "Núi Langbiang",
+  "address": "Khu du lịch Langbiang, đường Langbiang, Lạc Dương (phía bắc Đà Lạt)",
+  "lat": 12.019321,
+  "lng": 108.424388,
+  "coordSource": "https://wanderlog.com/place/details/1817024/khu-du-lịch-lang-biang",
+  "price": "Vé vào cổng 30.000đ/người; xe Jeep 60.000đ/người khứ hồi hoặc 400.000đ/xe 6 người",
+  "hours": "07:30–17:00",
+  "mustTry": "Đi xe Jeep lên đỉnh ngắm toàn cảnh, trekking xuyên rừng, gặp ngựa – trâu thả trên đồi",
+  "desc_vi": "Khu du lịch dưới chân núi Langbiang – ngọn núi biểu tượng của Đà Lạt gắn với truyền thuyết K'Lang và H'Biang. Du khách có thể đi xe Jeep lên đỉnh ngắm toàn cảnh thung lũng hoặc leo bộ xuyên rừng; dưới chân núi có khu vui chơi, điểm chụp ảnh và nét văn hóa bản địa.",
+  "review_vi": "Khen: view toàn cảnh từ trên cao rất đẹp, trải nghiệm xe Jeep vui, phù hợp người thích leo núi; nhân viên mặc trang phục dân tộc tạo nét riêng. Chê: khá thương mại, nhiều dịch vụ tính phí riêng; leo bộ lên đỉnh khá mệt.",
+  "rating": {
+   "value": 4.1,
+   "count": 8906,
+   "source": "Google (qua Wanderlog)",
+   "url": "https://wanderlog.com/place/details/1817024/khu-du-lịch-lang-biang",
+   "seen": "2026-10"
+  },
+  "trending": false,
+  "tags": [
+   "núi",
+   "jeep",
+   "trekking",
+   "Hợp với trẻ em"
+  ],
+  "tips_vi": "Mẹo: Xe Jeep chở 6 người, có thể ghép với khách khác; nhớ số xe để đi về. Mang áo gió vì đỉnh núi lạnh và nhiều gió.",
+  "images": [
+   {
+    "commons": "File:Langbiang Mountain.JPG",
+    "kind": "place"
+   },
+   {
+    "commons": "File:Lang Biang mountain 1.jpg",
+    "kind": "place"
+   }
+  ],
+  "wiki": "https://vi.wikipedia.org/wiki/N%C3%BAi_Langbiang",
+  "website": "https://dalattourist.com.vn/",
+  "sources": [
+   "https://wanderlog.com/place/details/1817024/khu-du-lịch-lang-biang",
+   "https://mia.vn/cam-nang-du-lich/du-lich-da-lat-12034"
+  ],
+  "status": "open",
+  "existing": false
+ },
+ {
+  "id": "dalat-thac-datanla",
+  "name": "Thác Datanla (máng trượt)",
+  "cat": "experience",
+  "subtitle": "Thác & máng trượt",
+  "address": "QL20, đèo Prenn, Phường 3, Đà Lạt",
+  "lat": 11.901416,
+  "lng": 108.445408,
+  "coordSource": "https://vi.wikipedia.org/wiki/Th%C3%A1c_Datanla",
+  "price": "Vé tham quan 50.000đ; máng trượt 1 chiều 80.000đ, khứ hồi 170.000đ; cáp treo 80.000–100.000đ; canyoning 600.000–900.000đ",
+  "hours": "07:00–17:00",
+  "mustTry": "Máng trượt xuyên rừng (alpine coaster), đu dây vượt thác (canyoning), đu dây băng rừng",
+  "desc_vi": "Thác nước trên đèo Prenn, cách trung tâm khoảng 5 km, đổ từ ghềnh cao khoảng 20 m qua nhiều thềm đá. Khu du lịch Datanla nổi tiếng nhất với máng trượt xuyên rừng tự điều chỉnh tốc độ, cùng các trò mạo hiểm như đu dây, canyoning, chèo thuyền vượt thác.",
+  "review_vi": "Khen: máng trượt rất vui và hợp mọi lứa tuổi, cảnh thác giữa rừng đẹp, nhân viên thân thiện. Chê: đông, phải xếp hàng máng trượt; giao tiếp với nhân viên đôi khi khó; đường xuống thác trơn.",
+  "rating": {
+   "value": 4.4,
+   "count": 24968,
+   "source": "Google (qua Wanderlog)",
+   "url": "https://wanderlog.com/place/details/117900/khu-du-lịch-thác-datanla",
+   "seen": "2026-10"
+  },
+  "trending": false,
+  "tags": [
+   "thác",
+   "máng trượt",
+   "mạo hiểm",
+   "Hợp với trẻ em"
+  ],
+  "tips_vi": "Mẹo: Đến sáng sớm hoặc sau 14h để tránh đông; tránh mùa mưa (khoảng tháng 5–8) khi máng trượt có thể tạm ngừng. Mặc đồ gọn, giày bám.",
+  "images": [
+   {
+    "commons": "File:Datanla Waterfall 1.jpg",
+    "kind": "place"
+   },
+   {
+    "commons": "File:Alpine Sled, Datanla Waterfall.jpg",
+    "kind": "place"
+   }
+  ],
+  "wiki": "https://vi.wikipedia.org/wiki/Th%C3%A1c_Datanla",
+  "website": "https://dalattourist.com.vn/",
+  "sources": [
+   "https://wanderlog.com/place/details/117900/khu-du-lịch-thác-datanla",
+   "https://mia.vn/cam-nang-du-lich/review-kinh-nghiem-chinh-phuc-thac-datanla-da-lat-1600",
+   "https://vi.wikipedia.org/wiki/Th%C3%A1c_Datanla"
+  ],
+  "status": "open",
+  "existing": false
+ },
+ {
+  "id": "dalat-thac-prenn",
+  "name": "Thác Prenn",
+  "cat": "nature",
+  "subtitle": "Thác nước",
+  "address": "Chân đèo Prenn, QL20, cửa ngõ phía nam Đà Lạt",
+  "lat": 11.8766486,
+  "lng": 108.4702494,
+  "coordSource": "https://vi.wikipedia.org/wiki/Th%C3%A1c_Prenn",
+  "price": null,
+  "hours": "08:00–17:00",
+  "mustTry": "Ngắm dòng thác cao hơn 20 m, đi bộ trong khu rừng nguyên sinh",
+  "desc_vi": "Thác nước nằm cạnh quốc lộ 20 ở chân đèo Prenn, cách trung tâm khoảng 10 km, dòng nước đổ từ ghềnh đá cao hơn 20 m nên còn được gọi là thác Tiên Sa. Thác nằm trong khu du lịch sinh thái rừng, suối ở cửa ngõ vào thành phố.",
+  "review_vi": "Khen: khuôn viên sạch sẽ, nhân viên thân thiện, rừng cây mát. Chê: nhiều khách thấy thác không ấn tượng, nước hơi đục, vé vào cửa cao so với trải nghiệm; nhiều người khuyên chọn Datanla nếu muốn trò mạo hiểm.",
+  "rating": {
+   "value": 3.8,
+   "count": 280,
+   "source": "Google (qua Wanderlog)",
+   "url": "https://wanderlog.com/place/details/4567671/prenn-waterfall",
+   "seen": "2026-10"
+  },
+  "trending": false,
+  "tags": [
+   "thác",
+   "rừng"
+  ],
+  "tips_vi": "Mẹo: Đi ngày thường cho vắng; mang giày thoải mái vì lối đi gần thác ẩm ướt. Hỏi giá vé hiện hành tại cổng.",
+  "images": [
+   {
+    "commons": "File:Thác Prenn.JPG",
+    "kind": "place"
+   },
+   {
+    "commons": "File:Prenn falls.jpg",
+    "kind": "place"
+   }
+  ],
+  "wiki": "https://vi.wikipedia.org/wiki/Th%C3%A1c_Prenn",
+  "website": null,
+  "sources": [
+   "https://vi.wikipedia.org/wiki/Th%C3%A1c_Prenn",
+   "https://wanderlog.com/place/details/4567671/prenn-waterfall"
+  ],
+  "status": "open",
+  "existing": false
+ },
+ {
+  "id": "dalat-doi-che-cau-dat",
+  "name": "Đồi chè Cầu Đất",
+  "cat": "nature",
+  "subtitle": "Đồi chè & săn mây",
+  "address": "Thôn Cầu Đất, Xuân Trường, Đà Lạt",
+  "lat": 11.879081,
+  "lng": 108.560508,
+  "coordSource": "https://wanderlog.com/place/details/779357/cau-dat-tea-hill",
+  "price": null,
+  "hours": "06:00–18:00",
+  "mustTry": "Ngắm bình minh và biển mây trên đồi chè, thử trà đen, trà xanh Cầu Đất",
+  "desc_vi": "Vùng đồi chè lâu đời ở phía đông Đà Lạt (đồn điền từ năm 1927) với những luống chè trải dài theo sườn đồi, là điểm săn mây – đón bình minh nổi tiếng. Quanh đồi có khu tham quan nhà máy, bảo tàng trà và các quán cà phê view đồi chè.",
+  "review_vi": "Khen: cảnh đồi chè bạt ngàn, bình minh rất đẹp, không khí mát lành; trà mua tại chỗ ngon, nhất là trà đen. Chê: sáng sớm lạnh và nhiều gió; có khu vực đang thi công.",
+  "rating": {
+   "value": 4.4,
+   "count": 2442,
+   "source": "Google (qua Wanderlog)",
+   "url": "https://wanderlog.com/place/details/779357/cau-dat-tea-hill",
+   "seen": "2026-10"
+  },
+  "trending": false,
+  "tags": [
+   "đồi chè",
+   "săn mây",
+   "bình minh"
+  ],
+  "tips_vi": "Mẹo: Có mặt khoảng 5:30–6:00 để đón bình minh; mặc áo gió hoặc áo phao mỏng. Mùa mai anh đào (quanh Tết) đồi chè thêm sắc hồng.",
+  "images": [
+   {
+    "commons": "File:Doi che Cau Dat.jpg",
+    "kind": "place"
+   },
+   {
+    "commons": "File:Đồi chè Cầu Đất, tháng 11 năm 2011 - 1.jpg",
+    "kind": "place"
+   },
+   {
+    "commons": "File:Che-cau-dat-da-lat.jpg",
+    "kind": "place"
+   }
+  ],
+  "wiki": null,
+  "website": null,
+  "sources": [
+   "https://wanderlog.com/place/details/779357/cau-dat-tea-hill",
+   "https://mia.vn/cam-nang-du-lich/du-lich-da-lat-12034"
+  ],
+  "status": "open",
+  "existing": false
+ },
+ {
+  "id": "dalat-cap-treo-doi-robin",
+  "name": "Cáp treo Đồi Robin",
+  "cat": "experience",
+  "subtitle": "Cáp treo",
+  "address": "01 Đống Đa, Phường 3, Đà Lạt (ga đồi Robin)",
+  "lat": 11.923215,
+  "lng": 108.443778,
+  "coordSource": "https://wanderlog.com/place/details/247572/dalat-cable-car-tourist-area",
+  "price": "Người lớn từ 120.000đ/1 chiều, 150.000đ/khứ hồi (mia.vn 10/2025)",
+  "hours": "T2–T6: 07:30–11:30, 13:00–17:00; T7–CN: 07:30–17:00",
+  "mustTry": "Ngắm rừng thông, hồ Tuyền Lâm từ cabin; xuống ga Thiền viện Trúc Lâm",
+  "desc_vi": "Tuyến cáp treo duy nhất của Đà Lạt, dài khoảng 2,27 km với 50 cabin, nối ga đồi Robin (độ cao khoảng 1.515 m) với Thiền viện Trúc Lâm trên núi Phụng Hoàng, mỗi chuyến chừng 12 phút. Từ trên cao có thể nhìn bao quát rừng thông, thung lũng và hồ Tuyền Lâm.",
+  "review_vi": "Khen: cabin sạch, chắc chắn, view rừng thông tuyệt đẹp, giá hợp lý; tiện kết hợp Trúc Lâm và buffet rau Léguda. Chê: ngày thường nghỉ trưa nên dễ lỡ chuyến; cuối tuần xếp hàng.",
+  "rating": {
+   "value": 4.4,
+   "count": 5343,
+   "source": "Google (qua Wanderlog)",
+   "url": "https://wanderlog.com/place/details/247572/dalat-cable-car-tourist-area",
+   "seen": "2026-10"
+  },
+  "trending": false,
+  "tags": [
+   "cáp treo",
+   "rừng thông",
+   "Hợp với trẻ em"
+  ],
+  "tips_vi": "Mẹo: Ngày thường nên đi trước 11:30 để không bị kẹt giờ nghỉ trưa; giá vé mỗi nguồn ghi một khác, hỏi lại tại quầy.",
+  "images": [
+   {
+    "commons": "File:Cáp treo Đà Lạt - Thiền viện Trúc Lâm.JPG",
+    "kind": "place"
+   },
+   {
+    "commons": "File:Da Lat Cable Car 03.jpg",
+    "kind": "place"
+   },
+   {
+    "commons": "File:Cable car, Da Lat.jpg",
+    "kind": "place"
+   }
+  ],
+  "wiki": null,
+  "website": "https://www.dalattourist.com.vn/",
+  "sources": [
+   "https://wanderlog.com/place/details/247572/dalat-cable-car-tourist-area",
+   "https://mia.vn/cam-nang-du-lich/cap-treo-da-lat-co-gi-dac-sac-19550"
+  ],
+  "status": "open",
+  "existing": false
+ },
+ {
+  "id": "dalat-vuon-hoa-thanh-pho",
+  "name": "Vườn hoa thành phố Đà Lạt",
+  "cat": "nature",
+  "subtitle": "Vườn hoa",
+  "address": "02 Trần Nhân Tông, Đà Lạt (bờ bắc hồ Xuân Hương)",
+  "lat": 11.950248,
+  "lng": 108.449829,
+  "coordSource": "https://wanderlog.com/place/details/2420158/dalat-flower-garden",
+  "price": null,
+  "hours": "06:30–18:00",
+  "mustTry": "Hơn 100 loài hoa, nhà kính, tiểu cảnh hoa; dịp Festival Hoa",
+  "desc_vi": "Công viên hoa nằm trên bờ bắc hồ Xuân Hương, dưới thung lũng đồi Cù, trước đây có tên Bích Câu. Vườn trồng hơn 100 loài hoa và cây cảnh đặc trưng Đà Lạt, là nơi thường tổ chức các sự kiện của lễ hội hoa.",
+  "review_vi": "Khen: khuôn viên sạch, chăm chút, nhiều tiểu cảnh và góc chụp ảnh, hợp đi dạo buổi chiều. Chê: có thời điểm hoa thưa, một số khu nhà kính đóng cửa sửa chữa nên khách thấy không đáng giá vé.",
+  "rating": {
+   "value": 4.2,
+   "count": 4268,
+   "source": "Google (qua Wanderlog)",
+   "url": "https://wanderlog.com/place/details/2420158/dalat-flower-garden",
+   "seen": "2026-10"
+  },
+  "trending": false,
+  "tags": [
+   "vườn hoa",
+   "Hợp với trẻ em"
+  ],
+  "tips_vi": "Mẹo: Đi buổi sáng ngày thường; kiểm tra trước các khu đang đóng cửa. Đẹp nhất vào mùa lễ hội hoa.",
+  "images": [
+   {
+    "commons": "File:Da Lat Flower Park 1.jpg",
+    "kind": "place"
+   },
+   {
+    "commons": "File:Da Lat Flower Park 2.jpg",
+    "kind": "place"
+   }
+  ],
+  "wiki": "https://vi.wikipedia.org/wiki/V%C6%B0%E1%BB%9Dn_hoa_th%C3%A0nh_ph%E1%BB%91_%C4%90%C3%A0_L%E1%BA%A1t",
+  "website": "https://vuonhoathanhphodalat.com.vn/",
+  "sources": [
+   "https://wanderlog.com/place/details/2420158/dalat-flower-garden",
+   "https://vi.wikipedia.org/wiki/V%C6%B0%E1%BB%9Dn_hoa_th%C3%A0nh_ph%E1%BB%91_%C4%90%C3%A0_L%E1%BA%A1t"
+  ],
+  "status": "open",
+  "existing": false
+ },
+ {
+  "id": "dalat-puppy-farm",
+  "name": "Puppy Farm",
+  "cat": "kids",
+  "subtitle": "Nông trại cún",
+  "address": "Đường Cam Ly, thôn Măng Lin, Đà Lạt",
+  "lat": 11.963107,
+  "lng": 108.388944,
+  "coordSource": "https://wanderlog.com/place/details/530702/puppy-farm",
+  "price": "Người lớn 100.000đ; trẻ 1m2–1m4: 50.000đ; dưới 1m2 miễn phí",
+  "hours": "07:30–17:30",
+  "mustTry": "Mọi lứa tuổi (trẻ dưới 1m2 miễn phí): chơi với cún và thú nuôi, đồi hoa, xe go-kart, máng trượt, cà phê view thung lũng",
+  "desc_vi": "Nông trại kết hợp khu vui chơi ở Măng Lin, nổi tiếng với đàn cún và nhiều thú nuôi để khách cho ăn, vuốt ve. Khuôn viên có vườn hoa, đồi cỏ, nhiều tiểu cảnh chụp ảnh, trò go-kart, máng trượt và quán cà phê.",
+  "review_vi": "Khen: thú được chăm sóc tốt, sạch sẽ, nhiều hoạt động cho gia đình có trẻ nhỏ, view đẹp, cà phê ngon. Chê: cuối tuần đông, xếp hàng các trò như go-kart.",
+  "rating": {
+   "value": 4.6,
+   "count": 21265,
+   "source": "Google (qua Wanderlog)",
+   "url": "https://wanderlog.com/place/details/530702/puppy-farm",
+   "seen": "2026-10"
+  },
+  "trending": false,
+  "tags": [
+   "nông trại",
+   "gia đình",
+   "check-in",
+   "Hợp với trẻ em"
+  ],
+  "tips_vi": "Mẹo: Đi sớm để tránh hàng chờ; có thể mua thức ăn cho thú tại chỗ và thuê trang phục chụp ảnh.",
+  "images": [],
+  "wiki": null,
+  "website": "https://www.facebook.com/pg/nongtraicun/",
+  "sources": [
+   "https://wanderlog.com/place/details/530702/puppy-farm",
+   "https://mia.vn/cam-nang-du-lich/du-lich-da-lat-12034"
+  ],
+  "status": "open",
+  "existing": false
+ },
+ {
+  "id": "dalat-lang-cu-lan",
+  "name": "Làng Cù Lần",
+  "cat": "experience",
+  "subtitle": "Làng du lịch",
+  "address": "ĐT722, Lạc Dương (cách trung tâm khoảng 25 km)",
+  "lat": 12.026012,
+  "lng": 108.3637,
+  "coordSource": "https://wanderlog.com/place/details/247576/cu-lan-village",
+  "price": "100.000đ/người",
+  "hours": "07:00–17:30",
+  "mustTry": "Văn hóa dân tộc bản địa (múa cồng chiêng, gốm, dệt), cưỡi ngựa, chèo thuyền, trò chơi dân gian",
+  "desc_vi": "Làng du lịch sinh thái dưới chân núi Langbiang, nằm giữa rừng thông và suối. Nhân viên là người dân tộc thiểu số địa phương, giới thiệu múa cồng chiêng, làm gốm, dệt; khách có thể cưỡi ngựa, chèo thuyền, chơi trò dân gian và ăn món địa phương.",
+  "review_vi": "Khen: cảnh quan xanh, lối đi dễ cho mọi lứa tuổi, nhiều hoạt động văn hóa thú vị, nhà vệ sinh sạch, nhân viên nhiệt tình. Chê: khá xa trung tâm; nhiều dịch vụ tính thêm phí.",
+  "rating": {
+   "value": 4.6,
+   "count": 17322,
+   "source": "Google (qua Wanderlog)",
+   "url": "https://wanderlog.com/place/details/247576/cu-lan-village",
+   "seen": "2026-10"
+  },
+  "trending": false,
+  "tags": [
+   "làng văn hóa",
+   "gia đình",
+   "Hợp với trẻ em"
+  ],
+  "tips_vi": "Mẹo: Đi trong ngày, kết hợp với Langbiang; có thể đi bộ vào làng thay vì đi xe Jeep. Thử bắn cung miễn phí.",
+  "images": [],
+  "wiki": null,
+  "website": null,
+  "sources": [
+   "https://wanderlog.com/place/details/247576/cu-lan-village",
+   "https://mia.vn/cam-nang-du-lich/du-lich-da-lat-12034"
+  ],
+  "status": "open",
+  "existing": false
+ },
+ {
+  "id": "dalat-doi-da-phu",
+  "name": "Đồi Đa Phú",
+  "cat": "nature",
+  "subtitle": "Săn mây",
+  "address": "Khu Đa Phú, phía tây bắc Đà Lạt",
+  "lat": 11.982063,
+  "lng": 108.403813,
+  "coordSource": "https://wanderlog.com/place/details/2234958/da-phu-hill",
+  "price": "Miễn phí",
+  "hours": null,
+  "mustTry": "Leo đồi đón bình minh, săn mây, cắm trại",
+  "desc_vi": "Ngọn đồi ở vùng ven phía tây bắc thành phố, là điểm săn mây – đón bình minh miễn phí được giới trẻ ưa thích. Chỉ cần leo một đoạn ngắn là có thể ngắm toàn cảnh Đà Lạt chìm trong sương sớm.",
+  "review_vi": "Khen: bình minh và biển mây rất đẹp, miễn phí, gần thành phố, có thể cắm trại. Chê: một số khu vực có rác do khách để lại; đường lên khá dốc.",
+  "rating": {
+   "value": 4.5,
+   "count": 915,
+   "source": "Google (qua Wanderlog)",
+   "url": "https://wanderlog.com/place/details/2234958/da-phu-hill",
+   "seen": "2026-10"
+  },
+  "trending": false,
+  "tags": [
+   "săn mây",
+   "bình minh",
+   "miễn phí"
+  ],
+  "tips_vi": "Mẹo: Có mặt trước bình minh, mang đèn pin, giày leo và đủ nước; mang rác về để giữ đồi sạch.",
+  "images": [],
+  "wiki": null,
+  "website": null,
+  "sources": [
+   "https://wanderlog.com/place/details/2234958/da-phu-hill"
+  ],
+  "status": "open",
+  "existing": false
+ },
+ {
+  "id": "dalat-doc-suong-nguyet-anh",
+  "name": "Dốc Sương Nguyệt Ánh",
+  "cat": "nature",
+  "subtitle": "Điểm check-in miễn phí",
+  "address": "Sương Nguyệt Ánh & Trần Quốc Toản, Đà Lạt",
+  "lat": null,
+  "lng": null,
+  "coordSource": null,
+  "price": "Miễn phí",
+  "hours": "Cả ngày",
+  "mustTry": "Chụp ảnh từ khoảng đất cao nhìn xuống đường Trần Quốc Toản, hồ Xuân Hương và hàng thông",
+  "desc_vi": "Khoảng đất cao chừng 5 m ngay giao lộ Sương Nguyệt Ánh – Trần Quốc Toản, nhìn xuống dòng xe, hồ Xuân Hương và những hàng thông. Góc chụp \"chill\" này lan truyền trên mạng xã hội năm 2025 và trở thành điểm check-in miễn phí luôn đông giới trẻ.",
+  "review_vi": "Khen: miễn phí, ngay trung tâm, ảnh có bố cục đẹp với hồ và thông. Chê: rất đông người chờ chụp, khoảng đất nhỏ và sát đường xe chạy.",
+  "rating": null,
+  "trending": true,
+  "tags": [
+   "Hot TikTok 2025",
+   "check-in",
+   "miễn phí"
+  ],
+  "tips_vi": "Mẹo: Đi sáng sớm hoặc giữa tuần; cẩn thận khi đứng gần mép đất và lòng đường.",
+  "images": [],
+  "wiki": null,
+  "website": null,
+  "sources": [
+   "https://baovanhoa.vn/du-lich/gioi-tre-phat-sot-voi-diem-checkin-chat-lu-giua-long-da-lat-144018.html"
+  ],
+  "status": "open",
+  "existing": false
+ },
+ {
+  "id": "dalat-cho-da-lat",
+  "name": "Chợ Đà Lạt",
+  "cat": "market",
+  "subtitle": "Chợ trung tâm",
+  "address": "Đường Nguyễn Thị Minh Khai, Phường 1, Đà Lạt",
+  "lat": 11.94295278,
+  "lng": 108.43682222,
+  "coordSource": "https://vi.wikipedia.org/wiki/Ch%E1%BB%A3_%C4%90%C3%A0_L%E1%BA%A1t",
+  "price": null,
+  "hours": null,
+  "mustTry": "Mứt, dâu tây, atiso, trà, rau củ tươi; tầng 2 khu ăn uống (bánh canh, bún, nem nướng)",
+  "desc_vi": "Chợ trung tâm của Đà Lạt ở cuối đường Nguyễn Thị Minh Khai, sát hồ Xuân Hương. Ban ngày là nơi bán rau củ, hoa, trái cây, mứt và đặc sản; tầng trên có khu ăn uống bình dân, tối đến khu trước chợ biến thành chợ đêm.",
+  "review_vi": "Khen: hàng hóa đa dạng, nhiều đặc sản làm quà, khu ăn uống giá rẻ, đậm không khí địa phương. Chê: cần mặc cả, giá cho khách du lịch có thể cao; khá đông và chật lối đi.",
+  "rating": {
+   "value": 4.5,
+   "count": 1690,
+   "source": "Google (qua Wanderlog)",
+   "url": "https://wanderlog.com/place/details/9768813/da-lat-market",
+   "seen": "2026-10"
+  },
+  "trending": false,
+  "tags": [
+   "chợ",
+   "đặc sản",
+   "mua quà"
+  ],
+  "tips_vi": "Mẹo: Đi buổi sáng để thấy chợ rau hoa tươi nhất; mặc cả khi mua đồ ngoài sạp; ghé tầng ăn uống buổi trưa.",
+  "images": [
+   {
+    "commons": "File:Chợ Đà Lạt toàn cảnh.jpg",
+    "kind": "place"
+   },
+   {
+    "commons": "File:Da Lat Market 01.jpg",
+    "kind": "place"
+   }
+  ],
+  "wiki": "https://vi.wikipedia.org/wiki/Ch%E1%BB%A3_%C4%90%C3%A0_L%E1%BA%A1t",
+  "website": null,
+  "sources": [
+   "https://vi.wikipedia.org/wiki/Ch%E1%BB%A3_%C4%90%C3%A0_L%E1%BA%A1t",
+   "https://wanderlog.com/place/details/9768813/da-lat-market",
+   "https://mia.vn/cam-nang-du-lich/du-lich-da-lat-12034"
+  ],
+  "status": "open",
+  "existing": false
+ },
+ {
+  "id": "dalat-langfarm-store",
+  "name": "L'angfarm Store",
+  "cat": "shopping",
+  "subtitle": "Đặc sản Đà Lạt",
+  "address": "2 Trần Quốc Toản (bùng binh Thủy Tạ), Đà Lạt",
+  "lat": 11.939032,
+  "lng": 108.441195,
+  "coordSource": "https://wanderlog.com/place/details/5813094/langfarm-store",
+  "price": null,
+  "hours": "07:30–23:00",
+  "mustTry": "Trà atiso, mứt, trái cây sấy, hạt, quà đặc sản đóng gói",
+  "desc_vi": "Cửa hàng đặc sản của thương hiệu L'angfarm ngay bùng binh Thủy Tạ, nhìn ra hồ Xuân Hương. Hàng hóa đóng gói sẵn, niêm yết giá, có nhãn tiếng Anh – tiện mua quà nhanh mà không phải mặc cả.",
+  "review_vi": "Khen: trà và trái cây sấy ngon, nhiều lựa chọn, giá niêm yết rõ ràng, nhân viên thân thiện, view hồ đẹp. Chê: giá cao hơn chợ; có phản ánh về vệ sinh khu toilet.",
+  "rating": {
+   "value": 4.4,
+   "count": 552,
+   "source": "Google (qua Wanderlog)",
+   "url": "https://wanderlog.com/place/details/5813094/langfarm-store",
+   "seen": "2026-10"
+  },
+  "trending": false,
+  "tags": [
+   "đặc sản",
+   "mua quà"
+  ],
+  "tips_vi": "Mẹo: Thử các mẫu nếm trước khi mua; so giá với chợ Đà Lạt nếu mua số lượng lớn.",
+  "images": [],
+  "wiki": null,
+  "website": "https://www.langfarm.com/",
+  "sources": [
+   "https://wanderlog.com/place/details/5813094/langfarm-store"
+  ],
+  "status": "open",
+  "existing": false
+ },
+ {
+  "id": "dalat-maze-bar",
+  "name": "Maze Bar (100 Roofs)",
+  "cat": "nightlife",
+  "subtitle": "Bar mê cung",
+  "address": "57 Phan Bội Châu, Đà Lạt",
+  "lat": 11.944639,
+  "lng": 108.437547,
+  "coordSource": "https://wanderlog.com/place/details/817638/maze-bar",
+  "price": null,
+  "hours": "08:00–00:00",
+  "mustTry": "Lạc trong \"mê cung\" nhiều tầng, hang động, vườn bí mật trên sân thượng ngắm phố",
+  "desc_vi": "Quán bar – cà phê độc đáo còn gọi là 100 Roofs, thiết kế như một mê cung nhiều tầng với đường hầm, hang động, cầu thang ngoằn ngoèo, dẫn lên khu vườn bí mật trên sân thượng nhìn ra thành phố. Quán mở từ sáng đến khuya.",
+  "review_vi": "Khen: kiến trúc lạ, khám phá như chơi trò tìm đường, đồ uống giá hợp lý, view sân thượng đẹp. Chê: lối đi hẹp, tối và dễ lạc; có thể đông vào buổi tối.",
+  "rating": {
+   "value": 4.6,
+   "count": 1799,
+   "source": "Google (qua Wanderlog)",
+   "url": "https://wanderlog.com/place/details/817638/maze-bar",
+   "seen": "2026-10"
+  },
+  "trending": false,
+  "tags": [
+   "bar",
+   "kiến trúc độc đáo"
+  ],
+  "tips_vi": "Mẹo: Đến chiều để thong thả khám phá; đừng uống quá say vì lối đi dốc và rối.",
+  "images": [],
+  "wiki": null,
+  "website": "https://www.facebook.com/100roof.mazebar/",
+  "sources": [
+   "https://wanderlog.com/place/details/817638/maze-bar"
+  ],
+  "status": "open",
+  "existing": false
+ },
+ {
+  "id": "dalat-the-balcony",
+  "name": "The Balcony Cocktail Bar",
+  "cat": "nightlife",
+  "subtitle": "Cocktail bar",
+  "address": "2A Quang Trung, Phường 9, Đà Lạt",
+  "lat": 11.943377,
+  "lng": 108.456021,
+  "coordSource": "https://wanderlog.com/place/details/1482624/the-balcony-cocktail-bar-dalat",
+  "price": null,
+  "hours": "18:00–02:00",
+  "mustTry": "Cocktail sáng tạo, ngồi ban công ngắm tàu đêm qua ga, nhạc sống",
+  "desc_vi": "Quán cocktail kiểu speakeasy gần ga Đà Lạt, nổi tiếng với ban công nhìn ra đường ray, nơi có thể ngắm đoàn tàu đi qua vào buổi tối. Quán có nhạc sống, thỉnh thoảng có tiết mục violin và các buổi chiếu phim, sự kiện nhỏ.",
+  "review_vi": "Khen: không khí ấm cúng, cocktail ngon, nhân viên rất chu đáo, nhạc hay; nhiều trải nghiệm bất ngờ. Chê: là quán nhỏ nên tối cuối tuần dễ hết chỗ.",
+  "rating": {
+   "value": 4.9,
+   "count": 1100,
+   "source": "Google (qua Wanderlog)",
+   "url": "https://wanderlog.com/place/details/1482624/the-balcony-cocktail-bar-dalat",
+   "seen": "2026-10"
+  },
+  "trending": false,
+  "tags": [
+   "cocktail",
+   "nhạc sống"
+  ],
+  "tips_vi": "Mẹo: Đến buổi tối để tận hưởng ánh đèn và nhạc; theo dõi fanpage để biết lịch sự kiện.",
+  "images": [],
+  "wiki": null,
+  "website": "https://www.facebook.com/thebalcony.speakeasybar/",
+  "sources": [
+   "https://wanderlog.com/place/details/1482624/the-balcony-cocktail-bar-dalat"
+  ],
+  "status": "open",
+  "existing": false
+ },
+ {
+  "id": "dalat-lululola",
+  "name": "Lululola Coffee + Beer",
+  "cat": "nightlife",
+  "subtitle": "Hoàng hôn & acoustic",
+  "address": "32/2 Đường 3 Tháng 4 (đồi Cà Ri Dê), Phường 3, Đà Lạt",
+  "lat": 11.919983,
+  "lng": 108.442104,
+  "coordSource": "https://wanderlog.com/place/details/530711/lululola",
+  "price": "Đồ uống 40.000–80.000đ; vé show tùy đêm (200.000–1.500.000đ, giá 2023)",
+  "hours": "08:00–22:00",
+  "mustTry": "Ngắm hoàng hôn trên đồi, cà phê sữa, xem show nhạc sống buổi tối",
+  "desc_vi": "Quán cà phê – sân khấu ca nhạc trên đồi Cà Ri Dê ở đầu đèo Prenn, nổi tiếng là một trong những điểm ngắm hoàng hôn đẹp nhất Đà Lạt. Ban ngày là cà phê view rừng thông; tối là sân khấu cho các đêm nhạc, có cả ca sĩ nổi tiếng biểu diễn.",
+  "review_vi": "Khen: view hoàng hôn và rừng thông tuyệt đẹp, không khí âm nhạc lãng mạn, có chương trình nhạc sống. Chê: thực đơn ít lựa chọn, ghế gỗ ngồi lâu không thoải mái, chỗ ngồi chật lúc đông.",
+  "rating": {
+   "value": 4.2,
+   "count": 1285,
+   "source": "Google (qua Wanderlog)",
+   "url": "https://wanderlog.com/place/details/530711/lululola",
+   "seen": "2026-10"
+  },
+  "trending": false,
+  "tags": [
+   "hoàng hôn",
+   "nhạc sống",
+   "cà phê"
+  ],
+  "tips_vi": "Mẹo: Đến trước hoàng hôn để giữ chỗ; xem lịch show và đặt vé trước trên fanpage. Giá vé show ghi theo bài 2023, có thể đã thay đổi.",
+  "images": [],
+  "wiki": null,
+  "website": null,
+  "sources": [
+   "https://wanderlog.com/place/details/530711/lululola",
+   "https://mia.vn/cam-nang-du-lich/lululola-coffee-da-lat-12641"
+  ],
+  "status": "open",
+  "existing": false
+ },
+ {
+  "id": "dalat-may-lang-thang",
+  "name": "Mây Lang Thang",
+  "cat": "nightlife",
+  "subtitle": "Liveshow acoustic",
+  "address": "Đà Lạt – sân khấu thay đổi theo từng show (xem địa điểm in trên vé)",
+  "lat": null,
+  "lng": null,
+  "coordSource": null,
+  "price": "Theo từng show (liên hệ 0912.946.549)",
+  "hours": "Theo lịch diễn (cuối tuần)",
+  "mustTry": "Đêm nhạc acoustic/liveshow với ca sĩ nổi tiếng giữa không gian đồi núi",
+  "desc_vi": "Thương hiệu liveshow âm nhạc nổi tiếng nhất Đà Lạt, tổ chức các đêm nhạc cuối tuần với ca sĩ như Phan Mạnh Quỳnh, Hà Nhi, Trung Quân, Uyên Linh… Lịch diễn tại Đà Lạt vẫn được cập nhật đều trên trang chính thức (tháng 10–11/2026).",
+  "review_vi": "Khen: không gian âm nhạc gần gũi, nghệ sĩ chất lượng, trải nghiệm đáng nhớ khi lên Đà Lạt. Chê: địa điểm sân khấu thay đổi qua các thời kỳ; sân khấu cũ ở 4 Trần Quang Diệu đã được Google Maps ghi là đóng cửa hẳn.",
+  "rating": null,
+  "trending": false,
+  "tags": [
+   "liveshow",
+   "acoustic"
+  ],
+  "tips_vi": "Lưu ý: Chưa xác minh được địa chỉ sân khấu hiện tại – hãy xem địa điểm ghi trên vé hoặc gọi hotline 0912.946.549 khi đặt chỗ. Văn phòng công ty: Lầu 2, 38 Trương Công Định, Đà Lạt (không phải nơi biểu diễn). Đặt vé sớm cho các show cuối tuần.",
+  "images": [],
+  "wiki": null,
+  "website": "https://maylangthang.com.vn/",
+  "sources": [
+   "https://maylangthang.com.vn/shows",
+   "https://maylangthangvietnam.com/",
+   "https://wanderlog.com/place/details/2223219/x"
+  ],
+  "status": "unverified",
+  "existing": false
+ },
+ {
+  "id": "dalat-lac-tien-gioi",
+  "name": "Lạc Tiên Giới",
+  "cat": "experience",
+  "subtitle": "Điểm check-in mới",
+  "address": "01/03 Lâm Sinh, Đà Lạt",
+  "lat": 11.941411,
+  "lng": 108.40629,
+  "coordSource": "https://wanderlog.com/place/details/4284879/x",
+  "price": "100.000đ/người",
+  "hours": "07:00–20:00",
+  "mustTry": "Cây đàn piano giữa hồ, khinh khí cầu trang trí, các góc chụp ảnh ven hồ",
+  "desc_vi": "Điểm check-in mới ở phía tây thành phố, gây sốt mạng xã hội với hình ảnh cây đàn piano đặt giữa mặt hồ và những quả khinh khí cầu trang trí. Khuôn viên chủ yếu dành cho chụp ảnh và thư giãn ven hồ.",
+  "review_vi": "Khen: nhiều góc chụp ảnh lung linh, cảnh hồ đẹp, nhân viên nhiệt tình hỗ trợ chụp. Chê: chủ yếu để chụp ảnh, ít hoạt động; một số hạng mục xuống cấp, bán vé lộn xộn giờ cao điểm.",
+  "rating": {
+   "value": 3.8,
+   "count": 506,
+   "source": "Google (qua Wanderlog)",
+   "url": "https://wanderlog.com/place/details/4284879/x",
+   "seen": "2026-10"
+  },
+  "trending": true,
+  "tags": [
+   "Hot mạng xã hội 2025",
+   "check-in"
+  ],
+  "tips_vi": "Mẹo: Đi ngoài giờ cao điểm để tránh xếp hàng mua vé; đi bộ trong khuôn viên thay vì xe điện vì các điểm khá gần nhau.",
+  "images": [],
+  "wiki": null,
+  "website": "https://m.facebook.com/pg/lactiengioi/about/",
+  "sources": [
+   "https://wanderlog.com/place/details/4284879/x",
+   "https://vinwonders.com/vi/wonderpedia/news/dia-diem-check-in-moi-o-da-lat/"
+  ],
+  "status": "open",
+  "existing": false
+ },
+ {
+  "id": "dalat-lang-hoa-van-thanh",
+  "name": "Làng hoa Vạn Thành (Vạn Hoa Đà Lạt)",
+  "cat": "nature",
+  "subtitle": "Làng trồng hoa lâu đời",
+  "address": "40 Hoàng Văn Thụ (Vạn Thành), Phường 5, Đà Lạt",
+  "lat": 11.947043,
+  "lng": 108.413152,
+  "coordSource": "https://wanderlog.com/place/details/6858767/x",
+  "price": "Có vé vào khu vườn tham quan (hỏi giá tại quầy)",
+  "hours": "07:00–17:00",
+  "mustTry": "Vườn hoa ngoài trời và nhà kính, khu nông sản lạ (bí khổng lồ, bầu thiên nga, dưa pepino, dâu tây), mua hoa và nông sản",
+  "desc_vi": "Vạn Thành là làng trồng hoa lâu đời ở phía tây trung tâm Đà Lạt. Khu tham quan Vạn Hoa Đà Lạt – Làng hoa Vạn Thành mở cho khách dạo vườn hoa trong nhà và ngoài trời, xem các loại nông sản lạ, mua hoa và đặc sản; có cả khu vui chơi cho trẻ em.",
+  "review_vi": "Khen: hoa nhiều màu sắc rực rỡ, chụp ảnh đẹp mà không đông như các điểm nổi tiếng, không khí yên tĩnh. Chê: một số khách thấy vé vào hơi đắt so với trải nghiệm, ngoài hoa ra không có nhiều hoạt động.",
+  "rating": {
+   "value": 4.4,
+   "count": 1742,
+   "source": "Google (qua Wanderlog)",
+   "url": "https://wanderlog.com/place/details/6858767/x",
+   "seen": "2026-10"
+  },
+  "trending": false,
+  "tags": [
+   "Ít người biết",
+   "Hợp với trẻ em",
+   "làng hoa"
+  ],
+  "tips_vi": "Mẹo: Đi ngày thường để vắng; tùy mùa hoa nở mà vườn đẹp hay thưa, nên xem ảnh gần đây trước khi đi. Gần đó có Fairytale Land và lăng Nguyễn Hữu Hào để ghép lịch.",
+  "images": [],
+  "wiki": null,
+  "website": "https://vanhoadalat.com.vn/",
+  "sources": [
+   "https://wanderlog.com/place/details/6858767/x",
+   "https://vanhoadalat.com.vn/"
+  ],
+  "status": "open",
+  "existing": false
+ },
+ {
+  "id": "dalat-nha-tho-cam-ly",
+  "name": "Nhà thờ Cam Ly (Nhà thờ Sơn Cước)",
+  "cat": "sight",
+  "subtitle": "Nhà thờ mái nhà rông",
+  "address": "11 Nguyễn Khuyến, Đà Lạt",
+  "lat": 11.94381389,
+  "lng": 108.42194722,
+  "coordSource": "https://vi.wikipedia.org/wiki/Nh%C3%A0_th%E1%BB%9D_Cam_Ly",
+  "price": "Miễn phí",
+  "hours": null,
+  "mustTry": "Mái nhà rông cao hơn 17 m lợp khoảng 80.000 viên ngói, kính màu bên trong, khuôn viên rừng thông",
+  "desc_vi": "Nhà thờ Công giáo xây trong khoảng 1960–1968 theo sáng kiến của linh mục người Pháp Boutary, chủ yếu phục vụ đồng bào dân tộc thiểu số. Công trình cách điệu mái nhà rông Tây Nguyên với mái cao hơn 17 m, pha trộn kiến trúc phương Tây và bản địa – khác hẳn những nhà thờ Pháp quen thuộc ở trung tâm.",
+  "review_vi": "Khen: kiến trúc độc đáo, yên tĩnh, kính màu đẹp, ít khách du lịch; mang đậm bản sắc cộng đồng dân tộc. Chê: thường đóng cửa giờ trưa nên dễ đến nhầm lúc.",
+  "rating": {
+   "value": 4.6,
+   "count": 219,
+   "source": "Google (qua Wanderlog)",
+   "url": "https://wanderlog.com/place/details/1751419/x",
+   "seen": "2026-10"
+  },
+  "trending": false,
+  "tags": [
+   "Ít người biết",
+   "nhà thờ",
+   "kiến trúc"
+  ],
+  "tips_vi": "Mẹo: Tránh giờ trưa; ăn mặc lịch sự, giữ yên lặng. Ngay cạnh là Lặng Art Café, có thể ghé uống nước sau khi tham quan.",
+  "images": [
+   {
+    "commons": "File:Cam Ly church 00.jpg",
+    "kind": "place"
+   },
+   {
+    "commons": "File:Cam Ly church 01.jpg",
+    "kind": "place"
+   }
+  ],
+  "wiki": "https://vi.wikipedia.org/wiki/Nh%C3%A0_th%E1%BB%9D_Cam_Ly",
+  "website": null,
+  "sources": [
+   "https://vi.wikipedia.org/wiki/Nh%C3%A0_th%E1%BB%9D_Cam_Ly",
+   "https://wanderlog.com/place/details/1751419/x"
+  ],
+  "status": "open",
+  "existing": false
+ },
+ {
+  "id": "dalat-lang-nguyen-huu-hao",
+  "name": "Lăng Nguyễn Hữu Hào",
+  "cat": "sight",
+  "subtitle": "Lăng mộ giữa đồi thông",
+  "address": "Đường Hoàng Văn Thụ – Vạn Thành (gần thác Cam Ly), Đà Lạt",
+  "lat": 11.942985,
+  "lng": 108.415104,
+  "coordSource": "https://wanderlog.com/place/details/10596272/x",
+  "price": "Miễn phí",
+  "hours": null,
+  "mustTry": "158 bậc đá lên đồi, mái ngói men xanh kiểu Á Đông có thánh giá trên nóc, hai ngôi mộ đá xám",
+  "desc_vi": "Lăng của ông Nguyễn Hữu Hào (Long Mỹ Quận công) và phu nhân – cha mẹ của Nam Phương Hoàng hậu, do bà cho xây từ cuối năm 1939 và hoàn thành năm 1941 trên một ngọn đồi thông gần thác Cam Ly. Công trình kết hợp mái ngói men xanh cong vút kiểu phương Đông với biểu tượng thánh giá Công giáo.",
+  "review_vi": "Khen: yên tĩnh, cảnh rừng thông đẹp, kiến trúc giao thoa Đông – Tây lạ mắt, giàu giá trị lịch sử. Chê: khu vực ít được chăm sóc, có rác do khách để lại; phải leo nhiều bậc.",
+  "rating": {
+   "value": 4.6,
+   "count": 93,
+   "source": "Google (qua Wanderlog)",
+   "url": "https://wanderlog.com/place/details/10596272/x",
+   "seen": "2026-10"
+  },
+  "trending": false,
+  "tags": [
+   "Ít người biết",
+   "di tích",
+   "lịch sử"
+  ],
+  "tips_vi": "Mẹo: Đi buổi sáng; mang giày thoải mái để leo 158 bậc; giữ gìn vệ sinh và thái độ trang nghiêm vì đây là nơi an nghỉ.",
+  "images": [
+   {
+    "commons": "File:Nguyen Huu Hoa Mausoleum 01.jpg",
+    "kind": "place"
+   },
+   {
+    "commons": "File:Nguyen Huu Hoa Mausoleum 09.jpg",
+    "kind": "place"
+   }
+  ],
+  "wiki": "https://vi.wikipedia.org/wiki/L%C4%83ng_Nguy%E1%BB%85n_H%E1%BB%AFu_H%C3%A0o",
+  "website": null,
+  "sources": [
+   "https://wanderlog.com/place/details/10596272/x",
+   "https://vi.wikipedia.org/wiki/L%C4%83ng_Nguy%E1%BB%85n_H%E1%BB%AFu_H%C3%A0o"
+  ],
+  "status": "open",
+  "existing": false
+ },
+ {
+  "id": "dalat-doi-thien-phuc-duc",
+  "name": "Đồi Thiên Phúc Đức",
+  "cat": "nature",
+  "subtitle": "Đồi săn mây, cắm trại",
+  "address": "Khu Thiên Phúc Đức, phía bắc Đà Lạt (cách trung tâm khoảng 10 km)",
+  "lat": 11.994606,
+  "lng": 108.42857,
+  "coordSource": "https://wanderlog.com/place/details/786785/x",
+  "price": null,
+  "hours": null,
+  "mustTry": "Đón bình minh và biển mây, ngắm hoàng hôn, cắm trại giữa đồi thông thưa",
+  "desc_vi": "Ngọn đồi trọc lác đác thông ở vùng ven phía bắc thành phố, được dân phượt và người thích cắm trại ưa chuộng. Từ đỉnh đồi có thể nhìn bao quát thung lũng, săn mây lúc bình minh hoặc ngắm hoàng hôn.",
+  "review_vi": "Khen: cảnh bình minh, hoàng hôn rất đẹp, không gian rộng và yên bình, gần thành phố, hợp cắm trại. Chê: đường leo dốc, trơn khi mưa.",
+  "rating": {
+   "value": 4.3,
+   "count": 1498,
+   "source": "Google (qua Wanderlog)",
+   "url": "https://wanderlog.com/place/details/786785/x",
+   "seen": "2026-10"
+  },
+  "trending": false,
+  "tags": [
+   "Ít người biết",
+   "săn mây",
+   "cắm trại"
+  ],
+  "tips_vi": "Mẹo: Đi lên bằng lối dốc nhưng xuống theo lối thoải hơn gần quán cà phê nhỏ dưới chân đồi; có thể thuê đồ cắm trại trong thành phố; mang rác về.",
+  "images": [],
+  "wiki": null,
+  "website": null,
+  "sources": [
+   "https://wanderlog.com/place/details/786785/x"
+  ],
+  "status": "open",
+  "existing": false
+ },
+ {
+  "id": "dalat-lang-art-cafe",
+  "name": "Lặng Art Café (Quiet Art Cafe)",
+  "cat": "cafe",
+  "subtitle": "Cà phê của trẻ khiếm thính",
+  "address": "03 Pasteur (trong khuôn viên Trường Khiếm thính Lâm Đồng), Phường 4, Đà Lạt",
+  "lat": 11.944297,
+  "lng": 108.421936,
+  "coordSource": "https://wanderlog.com/place/details/1507352/x",
+  "price": "Đồ uống khoảng 15.000–30.000đ",
+  "hours": "07:30–18:00 (theo Google; mia.vn ghi nhận order đến 20:30)",
+  "mustTry": "Gọi món bằng miếng gỗ đánh số, bánh quy nhà làm, trà hoa, tranh vẽ trên đá và đồ thủ công do các em làm",
+  "desc_vi": "Quán cà phê nhỏ nằm trong khuôn viên trường dành cho học sinh khiếm thính, do chính những người khiếm thính lập ra để tạo việc làm cho các em. Nhân viên giao tiếp bằng ngôn ngữ cơ thể và giấy ghi; không gian mở dưới rặng thông, nội thất gỗ do các em tự đóng.",
+  "review_vi": "Khen: không gian bình yên, có view đồi núi, đồ uống ngon giá rẻ, câu chuyện nhân văn khiến khách muốn quay lại; được bán đồ thủ công, bưu thiếp do các em làm. Chê: quán nhỏ, chỗ ngồi hạn chế khi đông.",
+  "rating": {
+   "value": 5.0,
+   "count": 858,
+   "source": "Google (qua Wanderlog)",
+   "url": "https://wanderlog.com/place/details/1507352/x",
+   "seen": "2026-10"
+  },
+  "trending": false,
+  "tags": [
+   "Ít người biết",
+   "cà phê",
+   "doanh nghiệp xã hội"
+  ],
+  "tips_vi": "Mẹo: Đi sáng sớm cho yên tĩnh; mua đồ thủ công để ủng hộ chương trình dạy nghề. Google Maps có thể ghi địa chỉ 19 Nguyễn Khuyến (cùng khu, cạnh nhà thờ Cam Ly).",
+  "images": [],
+  "wiki": null,
+  "website": "https://www.facebook.com/langartcaphe/",
+  "sources": [
+   "https://wanderlog.com/place/details/1507352/x",
+   "https://mia.vn/cam-nang-du-lich/lang-art-cafe-lang-yen-trai-nghiem-ca-phe-cua-nhung-dua-tre-khiem-thinh-giua-long-da-lat-1592"
+  ],
+  "status": "open",
+  "existing": false
+ },
+ {
+  "id": "dalat-cay-cam-ngot",
+  "name": "Cây Cam Ngọt",
+  "cat": "cafe",
+  "subtitle": "Cà phê nhà kính trong hẻm",
+  "address": "Hẻm 57 Khe Sanh, Đà Lạt",
+  "lat": 11.927481,
+  "lng": 108.461883,
+  "coordSource": "https://wanderlog.com/place/details/5025017/x",
+  "price": null,
+  "hours": "07:30–18:00",
+  "mustTry": "Cà phê muối, cà phê bơ, bánh cheesecake chanh dây, ngồi trong nhà kính ngắm vườn",
+  "desc_vi": "Quán cà phê nhỏ ẩn trong hẻm đường Khe Sanh, có nhà kính và khu vườn nhiều màu hoa nhìn ra đồi. Không gian ấm cúng, yên tĩnh, tách khỏi đám đông khu trung tâm.",
+  "review_vi": "Khen: view đẹp, vườn hoa và nhà kính xinh xắn, cà phê muối đặc sắc, nhân viên nhiệt tình. Chê: dốc vào quán khá gắt; cuối tuần bắt đầu đông khách chụp ảnh.",
+  "rating": {
+   "value": 4.8,
+   "count": 323,
+   "source": "Google (qua Wanderlog)",
+   "url": "https://wanderlog.com/place/details/5025017/x",
+   "seen": "2026-10"
+  },
+  "trending": false,
+  "tags": [
+   "Ít người biết",
+   "cà phê",
+   "nhà kính"
+  ],
+  "tips_vi": "Mẹo: Đi sáng sớm hoặc ngày thường; nếu tay lái yếu hãy nhờ nhân viên hỗ trợ dắt xe ở đoạn dốc.",
+  "images": [],
+  "wiki": null,
+  "website": "https://www.facebook.com/caycamngot.dalat",
+  "sources": [
+   "https://wanderlog.com/place/details/5025017/x"
+  ],
+  "status": "open",
+  "existing": false
+ },
+ {
+  "id": "dalat-xap-xap-co-nam",
+  "name": "Xắp Xắp Cô Năm",
+  "cat": "food",
+  "subtitle": "Ăn vặt tuổi thơ",
+  "address": "Hẻm 9 Nguyễn Đình Chiểu, Đà Lạt",
+  "lat": 11.950916,
+  "lng": 108.461802,
+  "coordSource": "https://wanderlog.com/place/details/1528853/x",
+  "price": "Bình dân",
+  "hours": "08:00–21:30",
+  "mustTry": "Xắp xắp, mì xào, trà Thái",
+  "desc_vi": "Quán ăn vặt bình dân trong hẻm Nguyễn Đình Chiểu, được nhiều người nhắc đến như hương vị tuổi thơ với món xắp xắp (món trộn ăn vặt) và mì xào. Đây là kiểu quán của người địa phương hơn là của khách du lịch.",
+  "review_vi": "Khen: hương vị hoài niệm, giá rẻ, sạch sẽ, cô chủ thân thiện. Chê: quán nhỏ, giờ cao điểm có thể phải chờ.",
+  "rating": {
+   "value": 4.6,
+   "count": 166,
+   "source": "Google (qua Wanderlog)",
+   "url": "https://wanderlog.com/place/details/1528853/x",
+   "seen": "2026-10"
+  },
+  "trending": false,
+  "tags": [
+   "Ít người biết",
+   "ăn vặt",
+   "quán địa phương"
+  ],
+  "tips_vi": "Mẹo: Đi lệch giờ cao điểm; hỏi cô chủ gợi ý món nếu lần đầu ăn xắp xắp.",
+  "images": [],
+  "wiki": null,
+  "website": null,
+  "sources": [
+   "https://wanderlog.com/place/details/1528853/x"
+  ],
+  "status": "open",
+  "existing": false
+ },
+ {
+  "id": "dalat-doc-nha-lang",
+  "name": "Dốc Nhà Làng (phố bích họa)",
+  "cat": "sight",
+  "subtitle": "Con dốc tranh tường",
+  "address": "12B Nguyễn Biểu, Đà Lạt",
+  "lat": null,
+  "lng": null,
+  "coordSource": null,
+  "price": "Miễn phí",
+  "hours": "Cả ngày (đẹp nhất buổi sáng)",
+  "mustTry": "Gần 30 bức tranh tường về Đà Lạt xưa: bác sĩ Yersin, nữ sinh áo dài, ly kem bơ, đồi cẩm tú cầu",
+  "desc_vi": "Con dốc nhỏ gần hồ Xuân Hương được các họa sĩ trẻ của nhóm Phố Bên Đồi cùng cộng sự vẽ gần 30 bức tranh tường trong dự án \"Tôi vẽ thành phố tôi\" dịp Festival Hoa Đà Lạt lần thứ 8. Tranh tái hiện Đà Lạt xưa và những hình ảnh thân thuộc của thành phố.",
+  "review_vi": "Khen: miễn phí, ngay trung tâm, nhiều góc chụp ảnh nghệ thuật, mang không khí phố xưa. Chê: hẻm hẹp, đông người chụp; tranh dễ xuống cấp nếu khách chạm vào, và hai bên là nhà dân nên cần giữ trật tự.",
+  "rating": null,
+  "trending": false,
+  "tags": [
+   "Ít người biết",
+   "tranh tường",
+   "miễn phí"
+  ],
+  "tips_vi": "Mẹo: Đi buổi sáng để có ánh nắng đẹp; không chạm, vẽ hay ký tên lên tường; giữ trật tự vì hai bên là nhà dân. Đi bộ 5–7 phút từ hồ Xuân Hương, lối vào từ Trương Công Định hoặc Nguyễn Biểu.",
+  "images": [],
+  "wiki": null,
+  "website": null,
+  "sources": [
+   "https://mia.vn/cam-nang-du-lich/pho-bich-hoa-doc-nha-lang-diem-song-ao-nghe-thuat-cuc-chill-tai-da-lat-1446"
+  ],
+  "status": "open",
+  "existing": false
+ },
+ {
+  "id": "dalat-zoodoo",
+  "name": "Vườn thú ZooDoo",
+  "cat": "kids",
+  "subtitle": "Vườn thú tương tác",
+  "address": "QL27C, tiểu khu 94A, Lạc Dương (cách trung tâm Đà Lạt khoảng 35 km)",
+  "lat": 12.112005,
+  "lng": 108.586136,
+  "coordSource": "https://wanderlog.com/place/details/530703/x",
+  "price": "Cao từ 120 cm: 150.000đ; 90–120 cm: 75.000đ; dưới 90 cm miễn phí (đi cùng người lớn); tour VIP 799.000đ/khách; xe đưa đón khứ hồi 100.000đ",
+  "hours": "08:00–18:00 (tour đầu tiên 9:00, mỗi tour 90–120 phút)",
+  "mustTry": "Mọi lứa tuổi: cho ăn và chạm vào wallaby, alpaca, ngựa pony, capybara theo tour có hướng dẫn viên",
+  "desc_vi": "Vườn thú theo mô hình tương tác do một người chủ gốc Úc xây dựng giữa rừng thông Lạc Dương. Khách đi theo tour có hướng dẫn viên, được cho ăn và chơi gần với các loài như wallaby, alpaca, ngựa pony, capybara.",
+  "review_vi": "Khen: nhân viên, hướng dẫn viên thân thiện và chuyên nghiệp; thú được chăm sóc tốt; khuôn viên sạch, rừng thông đẹp; trẻ em rất thích. Chê: xa trung tâm, đường đi khá lâu; số khách mỗi tour có hạn nên dễ hết chỗ cuối tuần.",
+  "rating": {
+   "value": 4.6,
+   "count": 10648,
+   "source": "Google (qua Wanderlog)",
+   "url": "https://wanderlog.com/place/details/530703/x",
+   "seen": "2026-10"
+  },
+  "trending": false,
+  "tags": [
+   "Hợp với trẻ em",
+   "vườn thú",
+   "gia đình"
+  ],
+  "tips_vi": "Mẹo: Đặt tour trước 1–2 ngày, nhất là cuối tuần và lễ Tết; mua vé trực tiếp từ ZooDoo thay vì qua bên thứ ba; có xe đưa đón (đi 9:30, về 13:00) cần đặt trước qua hotline.",
+  "images": [],
+  "wiki": null,
+  "website": "https://www.zoodoodalat.com/",
+  "sources": [
+   "https://wanderlog.com/place/details/530703/x",
+   "https://mia.vn/cam-nang-du-lich/cam-nang-tham-quan-vuon-thu-zoodoo-da-lat-21144"
+  ],
+  "status": "open",
+  "existing": false
+ },
+ {
+  "id": "dalat-mongo-land",
+  "name": "Mongo Land Đà Lạt",
+  "cat": "kids",
+  "subtitle": "Thảo nguyên Mông Cổ thu nhỏ",
+  "address": "Tổ 16, thôn 1, Tà Nung, Đà Lạt",
+  "lat": 11.915731,
+  "lng": 108.339222,
+  "coordSource": "https://wanderlog.com/place/details/4284961/x",
+  "price": "Người lớn 120.000đ; trẻ 90 cm–1m3: 60.000–80.000đ; dưới 90 cm miễn phí (vé gồm nước suối, thức ăn cho thú, trượt cỏ, trượt phao)",
+  "hours": "07:00–17:00",
+  "mustTry": "Mọi lứa tuổi: cầu trượt phao cầu vồng, trượt cỏ, bắn cung, vuốt ve thỏ, dê, cừu, capybara; lều Mông Cổ",
+  "desc_vi": "Khu du lịch theo chủ đề thảo nguyên Mông Cổ trên đồi Tà Nung, với lều du mục sặc sỡ, đồi cỏ rộng và cầu trượt khô \"cầu vồng\" dài. Vé vào cửa đã bao gồm phần lớn trò chơi nhẹ và thức ăn cho khu thú cưng, rất hợp gia đình có trẻ nhỏ.",
+  "review_vi": "Khen: cảnh đồi cỏ đẹp, cầu trượt cầu vồng vui cho cả người lớn và trẻ em, vé bao gồm nhiều hoạt động, giá hợp lý. Chê: cuối tuần phải xếp hàng trượt phao từ 15 phút đến hơn 1 tiếng; một số khách lo ngại điều kiện nuôi thú.",
+  "rating": {
+   "value": 4.5,
+   "count": 10580,
+   "source": "Google (qua Wanderlog)",
+   "url": "https://wanderlog.com/place/details/4284961/x",
+   "seen": "2026-10"
+  },
+  "trending": false,
+  "tags": [
+   "Hợp với trẻ em",
+   "gia đình",
+   "check-in"
+  ],
+  "tips_vi": "Mẹo: Đi sáng sớm ngày thường; chỉ cho thú ăn thức ăn của khu; mang mũ, kem chống nắng. Đường lên dốc, kiểm tra phanh xe trước khi đi.",
+  "images": [],
+  "wiki": null,
+  "website": null,
+  "sources": [
+   "https://wanderlog.com/place/details/4284961/x",
+   "https://mia.vn/cam-nang-du-lich/mongo-land-dalat-review-a-z-gia-ve-19518"
+  ],
+  "status": "open",
+  "existing": false
+ },
+ {
+  "id": "dalat-langbiang-land",
+  "name": "Langbiang Land (Làng Đồng Trụ)",
+  "cat": "kids",
+  "subtitle": "Công viên khủng long & vườn thú",
+  "address": "93A Bidoup, thị trấn Lạc Dương",
+  "lat": 12.019633,
+  "lng": 108.434742,
+  "coordSource": "https://wanderlog.com/place/details/15437838/x",
+  "price": "Trẻ em từ 25.000đ; người lớn từ 50.000đ; combo trò chơi 115.000–300.000đ",
+  "hours": "07:00–22:00",
+  "mustTry": "Mọi lứa tuổi: Dino Park khủng long cơ khí cỡ thật, Zooland cho ăn vẹt – cừu – dê, xe go-kart, cầu trượt hơi cầu vồng, xe điện đụng",
+  "desc_vi": "Khu vui chơi mới mở đầu năm 2025 dưới chân núi Langbiang, gồm công viên khủng long cơ khí biết chuyển động và gầm, khu thú Zooland cho trẻ cho ăn và chạm vào thú, cùng nhiều trò chơi như go-kart, nhà hơi, xe điện.",
+  "review_vi": "Khen: không gian rộng thoáng, nhiều trò cho mọi lứa tuổi, giá rẻ, có lễ hội văn hóa Tây Nguyên và hồ cá nhìn ra vườn rau. Chê: mới mở nên số đánh giá còn ít; trò chơi ngoài trời phụ thuộc thời tiết.",
+  "rating": {
+   "value": 4.9,
+   "count": 16,
+   "source": "Google (qua Wanderlog)",
+   "url": "https://wanderlog.com/place/details/15437838/x",
+   "seen": "2026-10"
+  },
+  "trending": false,
+  "tags": [
+   "Hợp với trẻ em",
+   "Mới mở 2025",
+   "khủng long"
+  ],
+  "tips_vi": "Mẹo: Đi ngày thường; hỏi rõ trò nào đã gồm trong vé hoặc combo; mùa khô (khoảng tháng 11–4) thuận tiện hơn cho hoạt động ngoài trời. Có thể ghép với Langbiang và làng Cù Lần.",
+  "images": [],
+  "wiki": null,
+  "website": null,
+  "sources": [
+   "https://wanderlog.com/place/details/15437838/x",
+   "https://mia.vn/cam-nang-du-lich/langbiang-land-da-lat-review-19858"
+  ],
+  "status": "open",
+  "existing": false
+ },
+ {
+  "id": "dalat-fairytale-land",
+  "name": "Dalat Fairytale Land",
+  "cat": "kids",
+  "subtitle": "Làng cổ tích & hầm rượu",
+  "address": "81D Hoàng Văn Thụ (Vạn Thành), Đà Lạt",
+  "lat": 11.94847,
+  "lng": 108.402938,
+  "coordSource": "https://wanderlog.com/place/details/4551044/x",
+  "price": "Người lớn 90.000đ; trẻ em 1m2–1m4: 40.000đ",
+  "hours": "07:30–17:00",
+  "mustTry": "Mọi lứa tuổi: nhà hobbit, nhà nấm, hồ cá koi, cầu gỗ, nhân vật cổ tích; người lớn có thể thử rượu vang ở hầm Vĩnh Tiến",
+  "desc_vi": "Ngôi làng cổ tích ở khu Vạn Thành với những ngôi nhà gỗ kiểu hobbit, nhà nấm, vườn hoa, hồ cá koi và nhân vật hóa trang như chú lùn, công chúa. Trong khuôn viên có hầm rượu vang Vĩnh Tiến chứa hơn 10.000 chai.",
+  "review_vi": "Khen: khung cảnh như truyện cổ tích, nhiều góc chụp ảnh, nhân viên thân thiện, trẻ em thích các ngôi nhà nhỏ. Chê: phần nếm rượu tính phí thêm, ít lựa chọn đồ ăn trong khu; gọi xe về từ đây khá khó.",
+  "rating": {
+   "value": 4.5,
+   "count": 663,
+   "source": "Google (qua Wanderlog)",
+   "url": "https://wanderlog.com/place/details/4551044/x",
+   "seen": "2026-10"
+  },
+  "trending": false,
+  "tags": [
+   "Hợp với trẻ em",
+   "cổ tích",
+   "check-in"
+  ],
+  "tips_vi": "Mẹo: Đi ngày khô ráo; nếu đi Grab hãy hẹn tài xế chờ vì khó bắt xe về. Ghép lịch với làng hoa Vạn Thành và lăng Nguyễn Hữu Hào gần đó.",
+  "images": [],
+  "wiki": null,
+  "website": "https://dalatfairytaleland.com/",
+  "sources": [
+   "https://wanderlog.com/place/details/4551044/x",
+   "https://mia.vn/cam-nang-du-lich/bo-tui-kinh-nghiem-vui-choi-tai-dalat-fairytale-land-chi-tiet-nhat-1665"
+  ],
+  "status": "open",
+  "existing": false
+ },
+ {
+  "id": "dalat-vuon-dau-ichigo",
+  "name": "Vườn dâu Ichigo",
+  "cat": "kids",
+  "subtitle": "Tự hái dâu tây",
+  "address": "100 Cam Ly, Phường 7, Đà Lạt",
+  "lat": 11.966532,
+  "lng": 108.393735,
+  "coordSource": "https://wanderlog.com/place/details/5149075/x",
+  "price": "Vào vườn miễn phí; dâu hái tại vườn khoảng 300.000–400.000đ/kg (giá 2023)",
+  "hours": "06:00–19:00 (theo mia.vn 2023)",
+  "mustTry": "Mọi lứa tuổi: tự hái dâu tây, sữa chua dâu, sinh tố; ngắm vườn chanh dây, bò, ngựa",
+  "desc_vi": "Vườn dâu gia đình ở đường Cam Ly, phía tây bắc thành phố, cho khách tự tay hái dâu tây và mua theo ký. Trong vườn có quán nhỏ phục vụ sữa chua dâu, sinh tố và nhiều góc chụp ảnh (có cả phòng lộn ngược).",
+  "review_vi": "Khen: chủ vườn hiếu khách, hướng dẫn tận tình, cho mượn nón hái dâu, có trà miễn phí; dâu ngọt, sữa chua dâu ngon; trẻ em rất thích tự hái. Chê: dâu hái tại vườn tính theo ký nên chi phí cao hơn mua sẵn; ngoài mùa thì ít dâu chín.",
+  "rating": {
+   "value": 4.5,
+   "count": 243,
+   "source": "Google (qua Wanderlog)",
+   "url": "https://wanderlog.com/place/details/5149075/x",
+   "seen": "2026-10"
+  },
+  "trending": false,
+  "tags": [
+   "Hợp với trẻ em",
+   "dâu tây",
+   "nông trại"
+  ],
+  "tips_vi": "Mẹo: Đi mùa dâu (khoảng tháng 12–4); gọi trước để hỏi lượng dâu chín. Dâu hái tại vườn tính theo ký, nên hỏi giá trước khi hái.",
+  "images": [
+   {
+    "commons": "File:Dâu tây trồng tại Đà Lạt (Việt Nam).jpg",
+    "kind": "dish"
+   },
+   {
+    "commons": "File:Dau Tay Viet Nam Da Lat.jpg",
+    "kind": "dish"
+   }
+  ],
+  "wiki": null,
+  "website": "https://www.facebook.com/ichigodalat/",
+  "sources": [
+   "https://wanderlog.com/place/details/5149075/x",
+   "https://mia.vn/cam-nang-du-lich/vi-vu-vuon-dau-da-lat-voi-nhung-trai-nghiem-that-dang-nho-1836"
+  ],
+  "status": "open",
+  "existing": false
+ },
+ {
+  "id": "dalat-go-da-lat",
+  "name": "GO! Đà Lạt",
+  "cat": "shopping",
+  "subtitle": "Đại siêu thị dưới quảng trường",
+  "address": "Quảng trường Lâm Viên (góc Hồ Tùng Mậu – Trần Quốc Toản), Đà Lạt",
+  "lat": 11.938234,
+  "lng": 108.444798,
+  "coordSource": "https://wanderlog.com/place/details/4284557/x",
+  "price": null,
+  "hours": "07:30–22:00",
+  "mustTry": "Đặc sản Đà Lạt đóng gói giá niêm yết (mứt, trà atiso, dâu sấy), hàng nhập khẩu, đồ dùng du lịch",
+  "desc_vi": "Đại siêu thị nằm trong trung tâm thương mại ngầm dưới quảng trường Lâm Viên, ngay bờ hồ Xuân Hương. Siêu thị bán cả đặc sản địa phương lẫn hàng nhập khẩu, cùng khu có cửa hàng L'angfarm và nhà hàng thức ăn nhanh.",
+  "review_vi": "Khen: hàng hóa nhiều, sạch sẽ, sắp xếp gọn gàng, giá niêm yết rõ ràng nên tiện mua quà mà không cần mặc cả; nhân viên thân thiện. Chê: nguồn đã đọc không ghi nhận điểm trừ đáng kể.",
+  "rating": {
+   "value": 4.2,
+   "count": 13216,
+   "source": "Google (qua Wanderlog)",
+   "url": "https://wanderlog.com/place/details/4284557/x",
+   "seen": "2026-10"
+  },
+  "trending": false,
+  "tags": [
+   "siêu thị",
+   "mua quà"
+  ],
+  "tips_vi": "Mẹo: Mua đặc sản làm quà ở đây để so giá với chợ Đà Lạt; tiện ghé khi dạo quảng trường Lâm Viên buổi tối.",
+  "images": [],
+  "wiki": null,
+  "website": "https://go-vietnam.vn/",
+  "sources": [
+   "https://wanderlog.com/place/details/4284557/x"
+  ],
+  "status": "open",
+  "existing": false
+ },
+ {
+  "id": "dalat-bun-bo-hue-pho-co",
+  "name": "Bún bò Huế Phố Cổ",
+  "cat": "food",
+  "subtitle": "Bún bò Huế",
+  "address": "27 Võ Thị Sáu, Đà Lạt",
+  "lat": 11.949282,
+  "lng": 108.438526,
+  "coordSource": "https://wanderlog.com/place/details/12412243/x",
+  "price": "Bình dân",
+  "hours": "06:00–18:00",
+  "mustTry": "Tô bún bò Huế đầy đủ, rau sống, ớt sa tế và nước mắm ớt",
+  "desc_vi": "Quán bún bò Huế nhỏ trên đường Võ Thị Sáu, cách chợ Đà Lạt chừng vài trăm mét, được thực khách khen về nước dùng đậm đà, thịt mềm và rau ăn kèm đầy đặn. Là lựa chọn ăn sáng – trưa nóng hổi giữa tiết trời lạnh.",
+  "review_vi": "Khen: nước dùng đậm vị, thịt mềm, rau thơm nhiều, giá phải chăng, chủ quán thân thiện và nói được tiếng Anh; chất lượng vẫn giữ ổn định dù quán đã đổi chủ. Chê: quán nhỏ, giờ trưa có thể đông.",
+  "rating": {
+   "value": 4.7,
+   "count": 177,
+   "source": "Google (qua Wanderlog)",
+   "url": "https://wanderlog.com/place/details/12412243/x",
+   "seen": "2026-10"
+  },
+  "trending": false,
+  "tags": [
+   "Ít người biết",
+   "bún bò",
+   "ăn sáng"
+  ],
+  "tips_vi": "Mẹo: Thêm chút nước mắm ớt cho đậm đà; đi lệch giờ trưa để tránh đông.",
+  "images": [
+   {
+    "commons": "File:Bun Bo Hue 1.jpg",
+    "kind": "dish"
+   }
+  ],
+  "wiki": null,
+  "website": null,
+  "sources": [
+   "https://wanderlog.com/place/details/12412243/x"
+  ],
+  "status": "open",
+  "existing": false
+ },
+ {
+  "id": "dalat-xoi-ga-tuong-vy",
+  "name": "Miến gà – Xôi gà Tường Vy",
+  "cat": "food",
+  "subtitle": "Xôi gà, miến gà",
+  "address": "11B Nguyễn Chí Thanh, Phường 1, Đà Lạt",
+  "lat": 11.940219,
+  "lng": 108.436427,
+  "coordSource": "https://wanderlog.com/place/details/5765437/x",
+  "price": "Bình dân",
+  "hours": "06:30–23:00",
+  "mustTry": "Xôi gà, miến gà nước dùng thanh, các món gà đổi theo ngày",
+  "desc_vi": "Quán gà bình dân ngay khu trung tâm, gần chợ Đà Lạt, chuyên xôi gà và miến gà với nước dùng gà thanh nhẹ, nhiều rau và gia vị ăn kèm. Quán mở từ sáng sớm đến tối muộn, tiện cho bữa sáng hoặc bữa khuya sau khi dạo chợ đêm.",
+  "review_vi": "Khen: nước dùng gà nhẹ mà ngọt, sợi miến vừa, rau và gia vị phong phú, giá hợp lý, nhân viên thân thiện – nhiều khách coi là phát hiện bất ngờ giữa trung tâm. Chê: khách nước ngoài khó gọi món vì rào cản ngôn ngữ; giờ cao điểm phục vụ chậm.",
+  "rating": {
+   "value": 4.4,
+   "count": 91,
+   "source": "Google (qua Wanderlog)",
+   "url": "https://wanderlog.com/place/details/5765437/x",
+   "seen": "2026-10"
+  },
+  "trending": false,
+  "tags": [
+   "Ít người biết",
+   "xôi gà",
+   "ăn sáng"
+  ],
+  "tips_vi": "Mẹo: Chỉ hình trên menu hoặc dùng ứng dụng dịch nếu khó gọi món; đi ngoài giờ cao điểm.",
+  "images": [
+   {
+    "commons": "File:Xôi gà.jpg",
+    "kind": "dish"
+   }
+  ],
+  "wiki": null,
+  "website": null,
+  "sources": [
+   "https://wanderlog.com/place/details/5765437/x"
+  ],
+  "status": "open",
+  "existing": false
+ },
+ {
+  "id": "dalat-curry-chaaa",
+  "name": "Cà ri Chàa (Curry Chaaa)",
+  "cat": "food",
+  "subtitle": "Cà ri gà, cà ri bò",
+  "address": "32 Ánh Sáng, Đà Lạt",
+  "lat": 11.939768,
+  "lng": 108.436456,
+  "coordSource": "https://wanderlog.com/place/details/4094727/x",
+  "price": "Bình dân",
+  "hours": "16:00–21:00 (6 ngày/tuần)",
+  "mustTry": "Cà ri gà khoai lang, cà ri bò, cà ri Penang ăn với bánh mì hoặc cơm; dầu tỏi ớt nhà làm",
+  "desc_vi": "Quán cà ri nhỏ, sạch sẽ trong khu Ánh Sáng gần chợ đêm Đà Lạt, phục vụ cà ri gà, cà ri bò và cà ri kiểu Penang nóng hổi, có thể chọn ăn với bánh mì hoặc cơm. Quán chỉ mở buổi chiều tối và thường có hàng chờ.",
+  "review_vi": "Khen: cà ri đậm vị, giá rẻ, nêm nếm vừa miệng; dầu tỏi ớt nhà làm được khen nhiều; không khí đúng kiểu quán đường phố. Chê: quán nhỏ nên phải xếp hàng, giờ mở cửa ngắn.",
+  "rating": {
+   "value": 4.7,
+   "count": 637,
+   "source": "Google (qua Wanderlog)",
+   "url": "https://wanderlog.com/place/details/4094727/x",
+   "seen": "2026-10"
+  },
+  "trending": false,
+  "tags": [
+   "Ít người biết",
+   "cà ri",
+   "ăn tối"
+  ],
+  "tips_vi": "Mẹo: Đến trước giờ mở cửa (16:00) để có chỗ; nghỉ một ngày trong tuần nên kiểm tra trước. Ghé chợ đêm ngay gần đó sau khi ăn.",
+  "images": [
+   {
+    "commons": "File:Cà Ri Gà Vietnamese Chicken Curry 2019-1600.jpg",
+    "kind": "dish"
+   }
+  ],
+  "wiki": null,
+  "website": null,
+  "sources": [
+   "https://wanderlog.com/place/details/4094727/x"
+  ],
+  "status": "open",
+  "existing": false
+ }
+]

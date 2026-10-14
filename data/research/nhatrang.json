@@ -1,0 +1,2526 @@
+[
+ {
+  "id": "nhatrang-hai-san-thanh-suong",
+  "name": "Hải sản Thanh Sương",
+  "cat": "food",
+  "subtitle": "Quán hải sản bình dân sát biển, chọn con tươi trong bể",
+  "address": "15 Trần Phú, Vĩnh Nguyên, Nha Trang (cơ sở 2: 9A Trần Phú)",
+  "lat": 12.213077,
+  "lng": 109.211764,
+  "coordSource": "https://wanderlog.com/list/geoCategory/1808749/best-foods-to-try-in-nha-trang",
+  "price": null,
+  "hours": "10:00–22:00",
+  "mustTry": "Tôm sú nướng muối ớt, lẩu cá mú đỏ, các món ốc, ghẹ, mực nướng",
+  "desc_vi": "Quán hải sản bình dân ở khu Cầu Đá (Vĩnh Nguyên), đông khách địa phương lẫn du khách. Hải sản sống để trong bể ở tầng trệt, khách chọn con rồi chọn cách chế biến. Tầng trên và bàn sát bãi có view biển lúc hoàng hôn.",
+  "review_vi": "Khen: hải sản tươi, nhiều cách chế biến, giá hợp lý so với chất lượng, phục vụ nhanh dù đông. Chê: giờ cao điểm rất ồn và đông, bàn sát biển gió mạnh, cỡ món thay đổi theo mẻ hải sản trong ngày.",
+  "rating": {
+   "value": 4.4,
+   "count": 5396,
+   "source": "Google Maps (qua Wanderlog)",
+   "url": "https://wanderlog.com/place/details/2499533/quán-hải-sản-thanh-sương",
+   "seen": "2026-10"
+  },
+  "trending": false,
+  "tags": [
+   "Hải sản",
+   "Bình dân"
+  ],
+  "tips_vi": "Mẹo: hỏi giá theo kg trước khi cân để dễ tính tiền; lên tầng 2–3 nếu muốn ngắm biển; muốn ăn món lẩu cá nên đi nhóm đông.",
+  "images": [],
+  "wiki": null,
+  "website": "https://haisanthanhsuong.com/",
+  "sources": [
+   "https://wanderlog.com/list/geoCategory/1808749/best-foods-to-try-in-nha-trang",
+   "https://wanderlog.com/place/details/2499533/quán-hải-sản-thanh-sương",
+   "https://vinwonders.com/vi/wonderpedia/news/top-21-dia-diem-an-uong-nha-trang-ngon-nuc-tieng-gan-xa/"
+  ],
+  "status": "open",
+  "existing": true
+ },
+ {
+  "id": "nhatrang-lac-canh",
+  "name": "Bò nướng Lạc Cảnh",
+  "cat": "food",
+  "subtitle": "Quán bò nướng than hoa hơn 40 năm, tự nướng tại bàn",
+  "address": "44 Nguyễn Bỉnh Khiêm, Xương Huân, Nha Trang (Google Maps ghi 77 Nguyễn Bỉnh Khiêm)",
+  "lat": 12.256969,
+  "lng": 109.194535,
+  "coordSource": "https://www.openstreetmap.org/node/3093670170",
+  "price": "Khoảng 90.000–160.000đ/món",
+  "hours": "09:30–21:00",
+  "mustTry": "Bò nướng ướp mật ong và hơn 10 loại gia vị, mực nướng, chả tôm, cơm chiên muối ớt",
+  "desc_vi": "Quán bò nướng nổi tiếng nhất Nha Trang, hoạt động hơn 40 năm với công thức ướp riêng. Thịt bò cắt hạt lựu, khách tự nướng trên bếp than đặt giữa bàn. Không gian bình dân, kiểu quán phố cũ.",
+  "review_vi": "Khen: bò ướp đậm vị, trải nghiệm tự nướng vui, món mực và cơm chiên được nhiều người gọi thêm. Chê: khói nhiều và nóng, đông vào buổi tối, không gian đơn giản; điểm Google chỉ 3,7 với khá nhiều đánh giá 1 sao chê chất lượng không đều.",
+  "rating": {
+   "value": 3.7,
+   "count": 4212,
+   "source": "Google Maps (qua Wanderlog)",
+   "url": "https://wanderlog.com/place/details/816758/lac-canh-beef-restaurant",
+   "seen": "2026-10"
+  },
+  "trending": false,
+  "tags": [
+   "Bò nướng",
+   "Quán lâu năm"
+  ],
+  "tips_vi": "Mẹo: đi ngoài giờ cao điểm để đỡ khói và chờ; đừng nướng bò quá lâu kẻo khô; các bài cũ ghi địa chỉ khác nhau (44 hoặc 77 Nguyễn Bỉnh Khiêm, và 11 Hàng Cá trong dữ liệu cũ) – Google Maps và OSM cùng chỉ một vị trí.",
+  "images": [],
+  "wiki": null,
+  "website": null,
+  "sources": [
+   "https://wanderlog.com/list/geoCategory/74039/where-to-eat-best-restaurants-in-nha-trang",
+   "https://wanderlog.com/place/details/816758/lac-canh-beef-restaurant",
+   "https://www.openstreetmap.org/node/3093670170",
+   "https://www.greensm.com/vn-vi/news/bo-lac-canh-nha-trang",
+   "https://vinwonders.com/vi/wonderpedia/news/review-bo-lac-canh-nha-trang/"
+  ],
+  "status": "open",
+  "existing": true
+ },
+ {
+  "id": "nhatrang-bun-sua-nam-beo",
+  "name": "Bún sứa Năm Beo",
+  "cat": "food",
+  "subtitle": "Bún chả cá, bún sứa gốc cạnh Chợ Đầm",
+  "address": "B2 chung cư Chợ Đầm, Phan Bội Châu, Xương Huân, Nha Trang",
+  "lat": 12.254174,
+  "lng": 109.192979,
+  "coordSource": "https://www.openstreetmap.org/node/4124733591",
+  "price": null,
+  "hours": "05:30–20:30",
+  "mustTry": "Bún sứa chả cá, thêm phần sứa giòn, chả cá chiên",
+  "desc_vi": "Quán bún cá lâu năm nằm ngay khu chung cư Chợ Đầm, nổi tiếng với tô bún nước dùng hầm xương cá kèm sứa và chả cá. Khách chủ yếu là người địa phương và khách Việt.",
+  "review_vi": "Khen: nước dùng thanh, sứa giòn sần sật, chả cá chiên thơm, giá phải chăng. Chê: một số khách thấy mùi cá khá nồng, không gian chật kiểu quán chợ.",
+  "rating": {
+   "value": 3.9,
+   "count": 789,
+   "source": "Google Maps (qua Wanderlog)",
+   "url": "https://wanderlog.com/place/details/7303949/nam-beo-bun-ca-restaurant",
+   "seen": "2026-10"
+  },
+  "trending": false,
+  "tags": [
+   "Bún chả cá",
+   "Bún sứa",
+   "Ăn sáng"
+  ],
+  "tips_vi": "Mẹo: ăn vào buổi sáng hoặc trưa khi đồ ăn mới; ai không quen mùi cá nên gọi tô chả cá trước; muốn nhiều sứa thì gọi thêm phần.",
+  "images": [
+   {
+    "commons": "File:Bún chả cá, tháng 8 năm 2018.JPG",
+    "kind": "dish"
+   }
+  ],
+  "wiki": null,
+  "website": null,
+  "sources": [
+   "https://wanderlog.com/list/geoCategory/86533/best-sweets-spots-in-nha-trang",
+   "https://wanderlog.com/place/details/7303949/nam-beo-bun-ca-restaurant",
+   "https://www.openstreetmap.org/node/4124733591"
+  ],
+  "status": "open",
+  "existing": true
+ },
+ {
+  "id": "nhatrang-nem-nuong-dang-van-quyen",
+  "name": "Nem nướng Ninh Hòa Đặng Văn Quyên",
+  "cat": "food",
+  "subtitle": "Nem nướng Ninh Hòa cuốn bánh tráng, gần Chợ Đầm",
+  "address": "16A Lãn Ông, Xương Huân, Nha Trang",
+  "lat": 12.25372,
+  "lng": 109.193829,
+  "coordSource": "https://wanderlog.com/list/geoCategory/74039/where-to-eat-best-restaurants-in-nha-trang",
+  "price": null,
+  "hours": "07:30–20:30",
+  "mustTry": "Nem nướng Ninh Hòa cuốn bánh tráng, rau sống, chấm nước sốt đặc trưng",
+  "desc_vi": "Một trong những quán nem nướng Ninh Hòa đông khách nhất trung tâm Nha Trang, nằm sát Chợ Đầm. Khách tự cuốn nem với bánh tráng, rau và chấm sốt đặc trưng.",
+  "review_vi": "Khen: nem nướng thơm, phần ăn đầy đặn, giá hợp lý, nhân viên xếp chỗ nhanh dù đông. Chê: món bò không nổi bật bằng nem, giờ cao điểm ồn ào; có khách gặp sạn trong đồ ăn.",
+  "rating": {
+   "value": 4.1,
+   "count": 5941,
+   "source": "Google Maps (qua Wanderlog)",
+   "url": "https://wanderlog.com/place/details/1452355/nem-nướng-đặng-văn-quyên",
+   "seen": "2026-10"
+  },
+  "trending": false,
+  "tags": [
+   "Nem nướng",
+   "Đặc sản Khánh Hòa"
+  ],
+  "tips_vi": "Mẹo: gọi đúng món nem nướng là chắc ăn; tránh giờ trưa và tối cao điểm. Mục cũ ghi \"Nem nướng Ninh Hòa (Lê Lợi / Hoàng Hoa Thám)\" không khớp địa chỉ nào xác minh được – đã gắn vào quán Đặng Văn Quyên (cơ sở khác: 2–4 Phan Bội Châu).",
+  "images": [
+   {
+    "commons": "File:Mẹt nem nướng Nha Trang.jpg",
+    "kind": "dish"
+   }
+  ],
+  "wiki": null,
+  "website": "https://nemdangvanquyen.vn/",
+  "sources": [
+   "https://wanderlog.com/list/geoCategory/74039/where-to-eat-best-restaurants-in-nha-trang",
+   "https://wanderlog.com/place/details/1452355/nem-nướng-đặng-văn-quyên"
+  ],
+  "status": "open",
+  "existing": true
+ },
+ {
+  "id": "nhatrang-hai-san-thuy-66",
+  "name": "Hải sản Thùy 66",
+  "cat": "food",
+  "subtitle": "Chưa xác minh được",
+  "address": "66 Trần Phú, Nha Trang",
+  "lat": null,
+  "lng": null,
+  "coordSource": null,
+  "price": null,
+  "hours": null,
+  "mustTry": null,
+  "desc_vi": "Mục có sẵn trong bản đồ nhưng chưa xác minh được quán còn hoạt động hay không.",
+  "review_vi": null,
+  "rating": null,
+  "trending": false,
+  "tags": [],
+  "tips_vi": "Mẹo: kiểm tra lại trên Google Maps trước khi đi. Không tìm thấy quán hải sản \"Thùy 66\" ở 66 Trần Phú; kết quả gần nhất là cửa hàng đặc sản khô \"Thùy 66\" (51B Nguyễn Đức Cảnh) và nhà hàng \"Hằng 66\" (66 Bờ Kè Bắc / số cũ 46 Cù Huân).",
+  "images": [],
+  "wiki": null,
+  "website": null,
+  "sources": [
+   "https://mia.vn/cam-nang-du-lich/review-cua-hang-dac-san-nha-trang-uy-tin-19817"
+  ],
+  "status": "unverified",
+  "existing": true
+ },
+ {
+  "id": "nhatrang-hotpot99",
+  "name": "Hotpot99",
+  "cat": "food",
+  "subtitle": "Chưa xác minh được",
+  "address": "118A Hồng Bàng, Nha Trang",
+  "lat": null,
+  "lng": null,
+  "coordSource": null,
+  "price": null,
+  "hours": null,
+  "mustTry": null,
+  "desc_vi": "Mục có sẵn trong bản đồ nhưng chưa xác minh được quán còn hoạt động hay không.",
+  "review_vi": null,
+  "rating": null,
+  "trending": false,
+  "tags": [],
+  "tips_vi": "Mẹo: kiểm tra lại trên Google Maps trước khi đi. Không tìm thấy quán \"Hotpot99\" ở 118A Hồng Bàng trên Google Maps (qua Wanderlog), OSM hay các bài review.",
+  "images": [],
+  "wiki": null,
+  "website": null,
+  "sources": [],
+  "status": "unverified",
+  "existing": true
+ },
+ {
+  "id": "nhatrang-oc-nhang",
+  "name": "Ốc Nhắng",
+  "cat": "food",
+  "subtitle": "Chưa xác minh được",
+  "address": "202 Xóm Cồn, Nha Trang",
+  "lat": null,
+  "lng": null,
+  "coordSource": null,
+  "price": null,
+  "hours": null,
+  "mustTry": null,
+  "desc_vi": "Mục có sẵn trong bản đồ nhưng chưa xác minh được quán còn hoạt động hay không.",
+  "review_vi": null,
+  "rating": null,
+  "trending": false,
+  "tags": [],
+  "tips_vi": "Mẹo: kiểm tra lại trên Google Maps trước khi đi. Không tìm thấy quán \"Ốc Nhắng\" ở 202 Xóm Cồn trên Google Maps (qua Wanderlog), OSM hay các bài tổng hợp quán ốc.",
+  "images": [],
+  "wiki": null,
+  "website": null,
+  "sources": [],
+  "status": "unverified",
+  "existing": true
+ },
+ {
+  "id": "nhatrang-bun-ca-nguyen-loan",
+  "name": "Bún cá Nguyên Loan",
+  "cat": "food",
+  "subtitle": "Bún chả cá, bún sứa lâu năm trên Ngô Gia Tự",
+  "address": "123 Ngô Gia Tự, Nha Trang",
+  "lat": 12.241123,
+  "lng": 109.188367,
+  "coordSource": "https://wanderlog.com/list/geoCategory/1789321/best-noodle-spots-in-nha-trang",
+  "price": null,
+  "hours": "05:00–22:00",
+  "mustTry": "Bún chả cá sứa, bánh pa-tê-sô",
+  "desc_vi": "Một trong những quán bún cá quen thuộc nhất Nha Trang, mở từ sáng sớm tới tối. Tô bún có chả cá và sứa, ăn kèm nhiều rau sống.",
+  "review_vi": "Khen: nước dùng trong, thanh và thơm, chả cá làm tươi, sứa giòn, rau ăn kèm nhiều, bánh pa-tê-sô ngon. Chê: chỗ ngồi ngoài vỉa hè khá nhiều ruồi.",
+  "rating": {
+   "value": 4,
+   "count": 1546,
+   "source": "Google Maps (qua Wanderlog)",
+   "url": "https://wanderlog.com/place/details/4386825/fish-noodle-soup-nguyen-loan",
+   "seen": "2026-10"
+  },
+  "trending": false,
+  "tags": [
+   "Bún chả cá",
+   "Ăn sáng"
+  ],
+  "tips_vi": "Mẹo: nêm thêm mắm ruốc hoặc nước mắm cho đậm; chấm sứa với nước mắm ớt; không thích sứa thì dặn bỏ ra.",
+  "images": [
+   {
+    "commons": "File:Bún chả cá, tháng 8 năm 2018.JPG",
+    "kind": "dish"
+   }
+  ],
+  "wiki": null,
+  "website": null,
+  "sources": [
+   "https://wanderlog.com/list/geoCategory/1789321/best-noodle-spots-in-nha-trang",
+   "https://wanderlog.com/place/details/4386825/fish-noodle-soup-nguyen-loan"
+  ],
+  "status": "open",
+  "existing": false
+ },
+ {
+  "id": "nhatrang-bun-ca-hanh-nhien",
+  "name": "Bún cá Hạnh Nhiên",
+  "cat": "food",
+  "subtitle": "Quán bún cá nhỏ trong hẻm, luôn đông khách",
+  "address": "32C Lê Đại Hành, Nha Trang",
+  "lat": 12.240771,
+  "lng": 109.187585,
+  "coordSource": "https://wanderlog.com/list/geoCategory/109864/best-beaches-in-and-around-nha-trang",
+  "price": null,
+  "hours": "05:30–13:00, 16:30–20:30",
+  "mustTry": "Tô đặc biệt: chả cá, cá thu, sứa, rong biển",
+  "desc_vi": "Quán bún cá nhỏ nằm khuất trên đường Lê Đại Hành nhưng lúc nào cũng nhộn nhịp. Tô đặc biệt có đủ chả cá, cá, sứa và các loại topping hải sản.",
+  "review_vi": "Khen: tô đặc biệt nhiều topping, sứa ngon, chủ quán thân thiện và hướng dẫn cách ăn, giá như người địa phương. Chê: quán đơn giản, đóng cửa giữa buổi chiều.",
+  "rating": {
+   "value": 4.5,
+   "count": 1354,
+   "source": "Google Maps (qua Wanderlog)",
+   "url": "https://wanderlog.com/place/details/3589580/bún-cá-nha-trang-hạnh-nhiên-chả-cá-nha-trang",
+   "seen": "2026-10"
+  },
+  "trending": false,
+  "tags": [
+   "Bún chả cá",
+   "Bún sứa",
+   "Ăn sáng"
+  ],
+  "tips_vi": "Mẹo: gọi tô \"đặc biệt\"; đến gần trưa sẽ vắng hơn; quán nghỉ từ 13:00 đến 16:30.",
+  "images": [
+   {
+    "commons": "File:Bún chả cá, tháng 8 năm 2018.JPG",
+    "kind": "dish"
+   }
+  ],
+  "wiki": null,
+  "website": null,
+  "sources": [
+   "https://wanderlog.com/list/geoCategory/109864/best-beaches-in-and-around-nha-trang",
+   "https://wanderlog.com/place/details/3589580/bún-cá-nha-trang-hạnh-nhiên-chả-cá-nha-trang"
+  ],
+  "status": "open",
+  "existing": false
+ },
+ {
+  "id": "nhatrang-banh-can-hai-phuong-yen",
+  "name": "Bánh căn Hai Phượng – Yến",
+  "cat": "food",
+  "subtitle": "Bánh căn, bánh xèo trong hẻm gần chợ đêm",
+  "address": "46/27 Hùng Vương, Lộc Thọ, Nha Trang",
+  "lat": 12.239481,
+  "lng": 109.19453,
+  "coordSource": "https://wanderlog.com/list/geoCategory/1808749/best-foods-to-try-in-nha-trang",
+  "price": null,
+  "hours": "11:00–23:00",
+  "mustTry": "Bánh căn trứng mực/tôm chấm nước mắm mỡ hành, bánh xèo",
+  "desc_vi": "Quán bánh căn và bánh xèo nằm trong hẻm khu phố Tây, gần chợ đêm. Bánh nướng khuôn đất, ăn với nhiều loại nước chấm.",
+  "review_vi": "Khen: bánh nóng giòn, nước chấm đặc trưng, nhân viên nhiệt tình chỉ cách cuốn và ăn, trải nghiệm rất \"địa phương\". Chê: chỗ ngồi trong hẻm hơi chật; muốn mát phải lên lầu có máy lạnh.",
+  "rating": {
+   "value": 4.6,
+   "count": 995,
+   "source": "Google Maps (qua Wanderlog)",
+   "url": "https://wanderlog.com/place/details/7227551/hai-phượng-yến-bánh-căn-bánh-xèo-chợ-đêm-nha-trang",
+   "seen": "2026-10"
+  },
+  "trending": false,
+  "tags": [
+   "Bánh căn",
+   "Bánh xèo",
+   "Ăn vặt"
+  ],
+  "tips_vi": "Mẹo: gọi cả bánh căn lẫn bánh xèo để thử; ngồi lầu trên nếu trời nóng.",
+  "images": [
+   {
+    "commons": "File:Bánh căn 1.jpg",
+    "kind": "dish"
+   },
+   {
+    "commons": "File:Bánh căn (Vietnamese mini pancake) clay cooking pots.jpg",
+    "kind": "dish"
+   }
+  ],
+  "wiki": null,
+  "website": null,
+  "sources": [
+   "https://wanderlog.com/list/geoCategory/1808749/best-foods-to-try-in-nha-trang",
+   "https://wanderlog.com/place/details/7227551/hai-phượng-yến-bánh-căn-bánh-xèo-chợ-đêm-nha-trang"
+  ],
+  "status": "open",
+  "existing": false
+ },
+ {
+  "id": "nhatrang-banh-xeo-chao-85",
+  "name": "Bánh xèo chảo 85",
+  "cat": "food",
+  "subtitle": "Bánh xèo mực giòn rụm kiểu Nha Trang",
+  "address": "101 Trần Nhật Duật, Nha Trang",
+  "lat": 12.237622,
+  "lng": 109.185513,
+  "coordSource": "https://wanderlog.com/list/geoCategory/70470/best-places-to-eat-in-nha-trang",
+  "price": null,
+  "hours": "10:00–21:30",
+  "mustTry": "Bánh xèo mực, bánh xèo đặc biệt, nước rau má",
+  "desc_vi": "Quán bánh xèo chảo được người địa phương ưa chuộng, nổi bật với bánh nhân mực tươi thay cho thịt heo. Bánh mỏng, viền giòn, ăn kèm rau sống, đồ chua và hai loại nước chấm.",
+  "review_vi": "Khen: bánh giòn, mực tươi, nước chấm đậu phộng và nước mắm đều ngon, giá phải chăng. Chê: giờ cao điểm đông, có khách thấy chủ quán hơi lạnh nhạt.",
+  "rating": {
+   "value": 4.3,
+   "count": 440,
+   "source": "Google Maps (qua Wanderlog)",
+   "url": "https://wanderlog.com/place/details/3052087/bánh-xèo-chảo-85-nha-trang",
+   "seen": "2026-10"
+  },
+  "trending": false,
+  "tags": [
+   "Bánh xèo mực"
+  ],
+  "tips_vi": "Mẹo: đi ngoài giờ ăn trưa/tối; gọi thêm ly rau má cho đỡ ngấy.",
+  "images": [
+   {
+    "commons": "File:Bánh xèo nhân Mực, Nha Trang.jpg",
+    "kind": "dish"
+   }
+  ],
+  "wiki": null,
+  "website": null,
+  "sources": [
+   "https://wanderlog.com/list/geoCategory/70470/best-places-to-eat-in-nha-trang",
+   "https://wanderlog.com/place/details/3052087/bánh-xèo-chảo-85-nha-trang"
+  ],
+  "status": "open",
+  "existing": false
+ },
+ {
+  "id": "nhatrang-banh-canh-co-ba-mien-bien",
+  "name": "Bánh canh ghẹ Cô Ba Miền Biển",
+  "cat": "food",
+  "subtitle": "Bánh canh ghẹ, chả cá nhiều topping",
+  "address": "5 Thái Nguyên, Phước Tân, Nha Trang",
+  "lat": 12.247537,
+  "lng": 109.187697,
+  "coordSource": "https://wanderlog.com/list/geoCategory/1789321/best-noodle-spots-in-nha-trang",
+  "price": null,
+  "hours": "06:00–21:30",
+  "mustTry": "Bánh canh ghẹ, bánh canh chả cá, thêm trứng cút",
+  "desc_vi": "Quán bánh canh rộng rãi, sạch sẽ trên đường Thái Nguyên, gần ga Nha Trang. Món chủ lực là bánh canh ghẹ với nhiều thịt ghẹ; có nhiều loại sợi để chọn.",
+  "review_vi": "Khen: thịt ghẹ nhiều, nhân viên thân thiện, quán rộng và sạch, thực đơn có cả cơm và bún. Chê: một số khách thấy nước dùng hơi nhạt.",
+  "rating": {
+   "value": 4.7,
+   "count": 2198,
+   "source": "Google Maps (qua Wanderlog)",
+   "url": "https://wanderlog.com/place/details/8879722/bánh-canh-ghẹ-cô-ba-miền-biển-chi-nhánh-5-thái-nguyên",
+   "seen": "2026-10"
+  },
+  "trending": false,
+  "tags": [
+   "Bánh canh chả cá"
+  ],
+  "tips_vi": "Mẹo: thử nhiều loại sợi bánh canh khác nhau; nhờ nhân viên gợi ý nếu muốn nước đậm hơn.",
+  "images": [
+   {
+    "commons": "File:Bánh canh cua.jpg",
+    "kind": "dish"
+   }
+  ],
+  "wiki": null,
+  "website": null,
+  "sources": [
+   "https://wanderlog.com/list/geoCategory/1789321/best-noodle-spots-in-nha-trang",
+   "https://wanderlog.com/place/details/8879722/bánh-canh-ghẹ-cô-ba-miền-biển-chi-nhánh-5-thái-nguyên"
+  ],
+  "status": "open",
+  "existing": false
+ },
+ {
+  "id": "nhatrang-hai-san-ngoc-trai",
+  "name": "Nhà hàng hải sản Ngọc Trai",
+  "cat": "food",
+  "subtitle": "Nhà hàng hải sản mở từ 2004, điểm Google rất cao",
+  "address": "97 Nguyễn Thị Minh Khai, Nha Trang",
+  "lat": 12.237458,
+  "lng": 109.189907,
+  "coordSource": "https://wanderlog.com/list/geoCategory/81178/best-seafood-restaurants-in-nha-trang",
+  "price": null,
+  "hours": "10:00–23:00",
+  "mustTry": "Lẩu hải sản, cá nướng, rau muống xào",
+  "desc_vi": "Nhà hàng hải sản hoạt động từ năm 2004 ở khu trung tâm, bàn trải khăn trắng, phục vụ chỉn chu. Thực đơn kết hợp hải sản tươi với các món Việt truyền thống.",
+  "review_vi": "Khen: hải sản rất tươi, phục vụ nhanh và niềm nở, không gian sạch sẽ, ấm cúng. Chê: cuối tuần đông, nên đặt bàn trước.",
+  "rating": {
+   "value": 4.8,
+   "count": 5210,
+   "source": "Google Maps (qua Wanderlog)",
+   "url": "https://wanderlog.com/place/details/1560002/ngoc-trai-seafood-restaurant-since-2004",
+   "seen": "2026-10"
+  },
+  "trending": false,
+  "tags": [
+   "Hải sản"
+  ],
+  "tips_vi": "Mẹo: đặt bàn trước vào cuối tuần; nhờ nhân viên gợi ý món theo mẻ hải sản trong ngày.",
+  "images": [],
+  "wiki": null,
+  "website": "https://ngoctrairestaurant.vn/",
+  "sources": [
+   "https://wanderlog.com/list/geoCategory/81178/best-seafood-restaurants-in-nha-trang",
+   "https://wanderlog.com/place/details/1560002/ngoc-trai-seafood-restaurant-since-2004"
+  ],
+  "status": "open",
+  "existing": false
+ },
+ {
+  "id": "nhatrang-kem-bo-vfruit",
+  "name": "Kem bơ Vfruit",
+  "cat": "food",
+  "subtitle": "Kem bơ, sinh tố bơ mát lạnh ở phố Tô Hiến Thành",
+  "address": "24 Tô Hiến Thành, Nha Trang",
+  "lat": 12.239212,
+  "lng": 109.192148,
+  "coordSource": "https://wanderlog.com/list/geoCategory/20490/best-cheap-eats-in-nha-trang",
+  "price": null,
+  "hours": "10:00–23:00",
+  "mustTry": "Kem bơ dừa, sinh tố bơ nguyên chất, bơ sầu riêng",
+  "desc_vi": "Tiệm kem bơ và trái cây nổi tiếng ở khu trung tâm, đông khách du lịch. Kem bơ dầm không quá ngọt, rắc dừa nạo; có nhiều món trái cây khác.",
+  "review_vi": "Khen: kem bơ vừa ngọt, nhiều lựa chọn trái cây, chỗ ngồi thoải mái, nhân viên hỗ trợ gọi món. Chê: không có nhiều điểm trừ nổi bật trong các đánh giá; đông vào buổi tối.",
+  "rating": {
+   "value": 4.5,
+   "count": 3008,
+   "source": "Google Maps (qua Wanderlog)",
+   "url": "https://wanderlog.com/place/details/2614896/kem-bơ-vfruit",
+   "seen": "2026-10"
+  },
+  "trending": false,
+  "tags": [
+   "Kem",
+   "Tráng miệng"
+  ],
+  "tips_vi": "Mẹo: muốn vị bơ \"thật\" thì gọi sinh tố bơ nguyên bản, không kèm sầu riêng.",
+  "images": [],
+  "wiki": null,
+  "website": "https://www.facebook.com/vfruit.vn",
+  "sources": [
+   "https://wanderlog.com/list/geoCategory/20490/best-cheap-eats-in-nha-trang",
+   "https://wanderlog.com/place/details/2614896/kem-bơ-vfruit"
+  ],
+  "status": "open",
+  "existing": false
+ },
+ {
+  "id": "nhatrang-lang-nghe-nha-trang-xua",
+  "name": "Làng Nghề Nha Trang Xưa",
+  "cat": "food",
+  "subtitle": "Nhà hàng làng quê giữa hồ sen, ẩm thực Việt",
+  "address": "30 Thái Thông, Vĩnh Thái, Nha Trang",
+  "lat": 12.246691,
+  "lng": 109.155893,
+  "coordSource": "https://wanderlog.com/list/geoCategory/74039/where-to-eat-best-restaurants-in-nha-trang",
+  "price": null,
+  "hours": "09:00–21:00",
+  "mustTry": "Các món Việt truyền thống, ăn trong chòi lá trên hồ sen",
+  "desc_vi": "Khu nhà hàng mô phỏng làng quê xưa ở ngoại ô phía tây Nha Trang, bàn ăn đặt trong các chòi mái lá giữa hồ sen. Có góc chụp ảnh, vịt và cá thả quanh khuôn viên; một số ngày có biểu diễn văn nghệ.",
+  "review_vi": "Khen: không gian xanh, yên bình, chòi riêng tư, món Việt ổn, có thực đơn tiếng Anh, phục vụ nhanh. Chê: đông khi có đoàn khách du lịch.",
+  "rating": {
+   "value": 4.6,
+   "count": 4326,
+   "source": "Google Maps (qua Wanderlog)",
+   "url": "https://wanderlog.com/place/details/1137445/làng-nghề-nha-trang-xưa",
+   "seen": "2026-10"
+  },
+  "trending": false,
+  "tags": [
+   "Ẩm thực Việt",
+   "Không gian xanh"
+  ],
+  "tips_vi": "Mẹo: tránh giờ đoàn tour; có thể mặc áo dài/trang phục truyền thống để chụp ảnh; nằm ở ngoại ô nên đi taxi/xe máy.",
+  "images": [],
+  "wiki": null,
+  "website": "https://www.facebook.com/nhatrangxua1",
+  "sources": [
+   "https://wanderlog.com/list/geoCategory/74039/where-to-eat-best-restaurants-in-nha-trang",
+   "https://wanderlog.com/place/details/1137445/làng-nghề-nha-trang-xưa"
+  ],
+  "status": "open",
+  "existing": false
+ },
+ {
+  "id": "nhatrang-rainforest",
+  "name": "Rainforest Cafe",
+  "cat": "cafe",
+  "subtitle": "Quán cà phê rừng nhiệt đới – đã đóng cửa",
+  "address": "146 Võ Trứ, Tân Lập, Nha Trang",
+  "lat": 12.240885,
+  "lng": 109.191921,
+  "coordSource": "https://wanderlog.com/list/geoCategory/162035/best-photography-galleries-and-museums-in-nha-trang",
+  "price": null,
+  "hours": null,
+  "mustTry": null,
+  "desc_vi": "Quán cà phê nhiều tầng thiết kế như rừng nhiệt đới, từng là điểm check-in nổi tiếng của Nha Trang. Google Maps hiện ghi quán đã đóng cửa vĩnh viễn.",
+  "review_vi": "Khen (khi còn mở): không gian độc đáo nhiều tầng với xích đu, khúc gỗ, cây xanh; cà phê dừa ngon. Chê: thực đơn ít lựa chọn, một số chỗ ngồi không thoải mái.",
+  "rating": {
+   "value": 4.2,
+   "count": 3304,
+   "source": "Google Maps (qua Wanderlog)",
+   "url": "https://wanderlog.com/place/details/1324200/rainforest",
+   "seen": "2026-10"
+  },
+  "trending": false,
+  "tags": [],
+  "tips_vi": "Mẹo: quán đã đóng cửa vĩnh viễn theo Google Maps; đánh giá mới nhất hiển thị từ 06/2020.",
+  "images": [],
+  "wiki": null,
+  "website": null,
+  "sources": [
+   "https://wanderlog.com/list/geoCategory/162035/best-photography-galleries-and-museums-in-nha-trang",
+   "https://wanderlog.com/place/details/1324200/rainforest"
+  ],
+  "status": "closed",
+  "existing": false
+ },
+ {
+  "id": "nhatrang-cafe-hon-kien",
+  "name": "Cafe Hòn Kiến",
+  "cat": "cafe",
+  "subtitle": "Cà phê – phòng trà trong biệt thự kiểu Pháp",
+  "address": "56 Đống Đa, Nha Trang",
+  "lat": 12.240077,
+  "lng": 109.19097,
+  "coordSource": "https://wanderlog.com/list/geoCategory/16920/best-coffee-shops-and-best-cafes-in-nha-trang",
+  "price": null,
+  "hours": "06:30–22:00",
+  "mustTry": "Cà phê dừa đá xay, cappuccino đá",
+  "desc_vi": "Quán cà phê kiêm phòng trà trong căn biệt thự kiến trúc Pháp, trang trí mộc mạc với vỏ sò, đồ xưa. Không gian yên tĩnh, có góc ngồi đọc sách hoặc làm việc.",
+  "review_vi": "Khen: không gian xưa ấm cúng, yên tĩnh, phục vụ tốt, cà phê dừa được khen nhiều. Chê: một vài khách thấy đồ uống chỉ ở mức trung bình; nhân viên ít nói tiếng Anh.",
+  "rating": {
+   "value": 4.8,
+   "count": 2002,
+   "source": "Google Maps (qua Wanderlog)",
+   "url": "https://wanderlog.com/place/details/1507118/phòng-trà-nha-trang-cafe-hòn-kiến-nha-trang",
+   "seen": "2026-10"
+  },
+  "trending": false,
+  "tags": [
+   "Cà phê",
+   "Phòng trà"
+  ],
+  "tips_vi": "Mẹo: đi ngoài giờ cao điểm để có chỗ yên tĩnh; buổi tối có thể có nhạc phòng trà.",
+  "images": [],
+  "wiki": null,
+  "website": "https://www.facebook.com/CafeHonKien.NhaTrang",
+  "sources": [
+   "https://wanderlog.com/list/geoCategory/16920/best-coffee-shops-and-best-cafes-in-nha-trang",
+   "https://wanderlog.com/place/details/1507118/phòng-trà-nha-trang-cafe-hòn-kiến-nha-trang"
+  ],
+  "status": "open",
+  "existing": false
+ },
+ {
+  "id": "nhatrang-cafe-hon-chong-view",
+  "name": "Cà phê Hòn Chồng View",
+  "cat": "cafe",
+  "subtitle": "Cà phê nhìn thẳng ra biển Hòn Chồng",
+  "address": "6 Phạm Văn Đồng, Nha Trang",
+  "lat": 12.272752,
+  "lng": 109.203076,
+  "coordSource": "https://wanderlog.com/list/geoCategory/16920/best-coffee-shops-and-best-cafes-in-nha-trang",
+  "price": null,
+  "hours": "06:00–22:00",
+  "mustTry": "Ly cà phê ngắm bình minh hoặc hoàng hôn trên vịnh",
+  "desc_vi": "Quán cà phê bình dân ngay khu Hòn Chồng, ghế sofa ngoài trời nhìn ra biển xanh và vịnh Nha Trang. Thỉnh thoảng có biểu diễn nhạc truyền thống.",
+  "review_vi": "Khen: view biển rất đẹp, gió mát, đồ uống rẻ, nhân viên thân thiện. Chê: chất lượng cà phê và phục vụ chưa đều; có khu khách hút thuốc; đồ ăn ít.",
+  "rating": {
+   "value": 4.1,
+   "count": 438,
+   "source": "Google Maps (qua Wanderlog)",
+   "url": "https://wanderlog.com/place/details/1507114/cà-phê-hòn-chồng-view",
+   "seen": "2026-10"
+  },
+  "trending": false,
+  "tags": [
+   "Cà phê view biển"
+  ],
+  "tips_vi": "Mẹo: đến lúc bình minh hoặc hoàng hôn; chọn ghế ngoài trời; kết hợp tham quan Hòn Chồng ngay bên cạnh.",
+  "images": [],
+  "wiki": null,
+  "website": null,
+  "sources": [
+   "https://wanderlog.com/list/geoCategory/16920/best-coffee-shops-and-best-cafes-in-nha-trang",
+   "https://wanderlog.com/place/details/1507114/cà-phê-hòn-chồng-view"
+  ],
+  "status": "open",
+  "existing": false
+ },
+ {
+  "id": "nhatrang-yasaka-check-in-nha-trang",
+  "name": "Cà phê sân vườn Yasaka – \"Check-in Nha Trang\"",
+  "cat": "cafe",
+  "subtitle": "Không gian văn hóa trầm hương, trà, gốm, áo dài – mở 11/2025",
+  "address": "Ngã ba Trần Phú – Yersin (cổng chính 3 Yersin), Xương Huân, Nha Trang",
+  "lat": 12.248705,
+  "lng": 109.19579,
+  "coordSource": "https://www.openstreetmap.org/way/207742945",
+  "price": null,
+  "hours": null,
+  "mustTry": "Góc trầm hương, góc trà thiền, gốm Bàu Trúc, thử áo dài chụp ảnh, đồ uống \"Trầm Xưa\"",
+  "desc_vi": "Không gian \"Check-in Nha Trang\" ra mắt ngày 15–16/11/2025 trong quán cà phê sân vườn Yasaka, ngay ngã ba Trần Phú – Yersin. Có khu trưng bày trầm hương, góc trà, gốm Chăm Bàu Trúc, khu thử và thuê áo dài, kèm đồ uống và món nhẹ.",
+  "review_vi": "Khen (theo báo Thanh Niên): một điểm dừng yên tĩnh hiếm hoi giữa phố biển, nhiều góc chụp ảnh mang chất văn hóa Việt, có hoạt động nặn gốm cho trẻ em. Chê: điểm mới mở, chưa có nhiều đánh giá độc lập.",
+  "rating": null,
+  "trending": true,
+  "tags": [
+   "Mới mở 11/2025",
+   "Văn hóa",
+   "Check-in"
+  ],
+  "tips_vi": "Mẹo: hợp ghé buổi sáng hoặc chiều; mang áo dài hoặc thuê tại chỗ để chụp ảnh. Tọa độ lấy theo khuôn viên khách sạn Yasaka Saigon Nha Trang trên OSM.",
+  "images": [],
+  "wiki": null,
+  "website": null,
+  "sources": [
+   "https://www.openstreetmap.org/way/207742945",
+   "https://thanhnien.vn/hon-viet-giua-long-pho-bien-nha-trang-co-them-diem-check-in-van-hoa-doc-dao-185251114165405648.htm"
+  ],
+  "status": "open",
+  "existing": false
+ },
+ {
+  "id": "nhatrang-thap-ba-ponagar",
+  "name": "Tháp Bà Ponagar",
+  "cat": "sight",
+  "subtitle": "Đền tháp Chăm Pa thế kỷ 8–13 bên cửa sông Cái",
+  "address": "61 đường 2/4, Vĩnh Phước, Nha Trang",
+  "lat": 12.26527778,
+  "lng": 109.19555556,
+  "coordSource": "https://vi.wikipedia.org/wiki/Th%C3%A1p_Po_Nagar",
+  "price": "Vé 30.000đ/người",
+  "hours": "06:00–17:30 (theo Google Maps; một số bài ghi 08:00–18:00)",
+  "mustTry": "Tháp chính cao khoảng 23 m thờ nữ thần Po Inư Nagar, các tháp gạch cổ, view sông Cái",
+  "desc_vi": "Quần thể đền tháp Chăm Pa trên ngọn đồi nhỏ ở cửa sông Cái, cách trung tâm khoảng 2 km về phía bắc. Tháp chính cao khoảng 23 m thờ nữ thần Po Inư Nagar (Thiên Y A Na). Đây là di tích cổ nổi tiếng nhất Nha Trang.",
+  "review_vi": "Khen: tháp gạch cổ được giữ gìn tốt, không khí yên tĩnh, nhiều góc chụp ảnh đẹp nhìn ra sông và thành phố, giá vé rẻ. Chê: tại chỗ ít bảng thuyết minh, muốn hiểu lịch sử nên thuê hướng dẫn hoặc tự tìm hiểu trước.",
+  "rating": {
+   "value": 4.5,
+   "count": 31370,
+   "source": "Google Maps (qua Wanderlog)",
+   "url": "https://wanderlog.com/place/details/6462/po-nagar-temple",
+   "seen": "2026-10"
+  },
+  "trending": false,
+  "tags": [
+   "Di tích Chăm Pa",
+   "Văn hóa"
+  ],
+  "tips_vi": "Mẹo: mặc quần áo che vai và gối (cổng có áo choàng cho mượn); đến lúc mở cửa buổi sáng để tránh nắng và đông; kết hợp đi tắm bùn Tháp Bà gần đó.",
+  "images": [
+   {
+    "commons": "File:Po Nagar Nha Trang Vietnam.JPG",
+    "kind": "place"
+   },
+   {
+    "commons": "File:Templo Po Nagar 13.jpg",
+    "kind": "place"
+   }
+  ],
+  "wiki": "https://vi.wikipedia.org/wiki/Th%C3%A1p_Po_Nagar",
+  "website": null,
+  "sources": [
+   "https://wanderlog.com/list/geoCategory/104467/top-things-to-do-and-attractions-in-nha-trang",
+   "https://wanderlog.com/place/details/6462/po-nagar-temple",
+   "https://vi.wikipedia.org/wiki/Th%C3%A1p_Po_Nagar",
+   "https://www.finhay.com.vn/cac-diem-tham-quan-tai-nha-trang-dep"
+  ],
+  "status": "open",
+  "existing": true
+ },
+ {
+  "id": "nhatrang-nha-tho-nui",
+  "name": "Nhà thờ Núi (Nhà thờ Chánh tòa Kitô Vua)",
+  "cat": "sight",
+  "subtitle": "Nhà thờ đá kiến trúc Gothic trên đồi nhỏ",
+  "address": "1 Thái Nguyên, Nha Trang",
+  "lat": 12.24694444,
+  "lng": 109.18777778,
+  "coordSource": "https://vi.wikipedia.org/wiki/Nh%C3%A0_th%E1%BB%9D_N%C3%BAi_Nha_Trang",
+  "price": "Miễn phí (có thể bị mời quyên góp)",
+  "hours": null,
+  "mustTry": "Mặt tiền đá và tháp chuông, cửa kính màu bên trong, tượng Chúa trên đồi",
+  "desc_vi": "Nhà thờ chính tòa của Giáo phận Nha Trang, xây bằng đá trên một ngọn đồi nhỏ gần vòng xoay Ngã Sáu. Người dân còn gọi là Nhà thờ Đá hay Nhà thờ Ngã Sáu.",
+  "review_vi": "Khen: kiến trúc đá kiểu Gothic đẹp, không gian yên tĩnh, ánh sáng qua cửa kính màu bên trong rất ấn tượng. Chê: biển chỉ dẫn lối vào chưa rõ; có khách bị bảo vệ nhắc quyên góp khá gắt.",
+  "rating": {
+   "value": 4.1,
+   "count": 3163,
+   "source": "Google Maps (qua Wanderlog)",
+   "url": "https://wanderlog.com/place/details/556497/nhà-thờ-núi",
+   "seen": "2026-10"
+  },
+  "trending": false,
+  "tags": [
+   "Kiến trúc",
+   "Tôn giáo"
+  ],
+  "tips_vi": "Mẹo: đến chiều muộn để ảnh đẹp và vắng; tránh giờ lễ hoặc vào dự lễ một cách trật tự; ăn mặc lịch sự.",
+  "images": [
+   {
+    "commons": "File:Christ the King Cathedral Nha Trang.JPG",
+    "kind": "place"
+   },
+   {
+    "commons": "File:Nhà thờ Núi Nha Trang.JPG",
+    "kind": "place"
+   },
+   {
+    "commons": "File:Nha Trang Cathedral.jpg",
+    "kind": "place"
+   }
+  ],
+  "wiki": "https://vi.wikipedia.org/wiki/Nh%C3%A0_th%E1%BB%9D_N%C3%BAi_Nha_Trang",
+  "website": null,
+  "sources": [
+   "https://wanderlog.com/list/geoCategory/104467/top-things-to-do-and-attractions-in-nha-trang",
+   "https://wanderlog.com/place/details/556497/nhà-thờ-núi",
+   "https://vi.wikipedia.org/wiki/Nh%C3%A0_th%E1%BB%9D_N%C3%BAi_Nha_Trang",
+   "https://www.finhay.com.vn/cac-diem-tham-quan-tai-nha-trang-dep"
+  ],
+  "status": "open",
+  "existing": false
+ },
+ {
+  "id": "nhatrang-chua-long-son",
+  "name": "Chùa Long Sơn (Chùa Phật Trắng)",
+  "cat": "sight",
+  "subtitle": "Tượng Phật Thích Ca trắng ngoài trời trên đồi Trại Thủy",
+  "address": "22 đường 23/10, Phương Sơn, Nha Trang",
+  "lat": 12.251601,
+  "lng": 109.180765,
+  "coordSource": "https://en.wikipedia.org/wiki/Long_S%C6%A1n_Temple",
+  "price": "Miễn phí",
+  "hours": "Mở cả ngày (theo Google Maps)",
+  "mustTry": "Leo khoảng 193 bậc lên tượng Phật trắng ngắm toàn cảnh thành phố, tượng Phật nằm",
+  "desc_vi": "Ngôi chùa nổi tiếng nhất Khánh Hòa dưới chân đồi Trại Thủy, khởi dựng từ thế kỷ 19 và trùng tu năm 1940. Trên đỉnh đồi có tượng Phật Thích Ca trắng ngồi ngoài trời, nhìn bao quát Nha Trang.",
+  "review_vi": "Khen: kiến trúc và khảm rồng đẹp, không khí thanh tịnh, view từ tượng Phật trắng rất rộng. Chê: vài khu chưa sạch, có cảm giác thương mại hóa (người mời mua, xin tiền).",
+  "rating": {
+   "value": 4.3,
+   "count": 15075,
+   "source": "Google Maps (qua Wanderlog)",
+   "url": "https://wanderlog.com/place/details/6467/long-son-pagoda",
+   "seen": "2026-10"
+  },
+  "trending": false,
+  "tags": [
+   "Chùa",
+   "View thành phố"
+  ],
+  "tips_vi": "Mẹo: mặc quần dài/váy che gối (có thể mượn hoặc mua khăn quấn ở cổng); ghé các điện nhỏ trước rồi mới leo lên tượng Phật.",
+  "images": [
+   {
+    "commons": "File:Nha Trang, Long Son pagoda.jpg",
+    "kind": "place"
+   },
+   {
+    "commons": "File:Long Son Pagoda Buddha.JPG",
+    "kind": "place"
+   }
+  ],
+  "wiki": "https://vi.wikipedia.org/wiki/Ch%C3%B9a_Long_S%C6%A1n_(Nha_Trang)",
+  "website": null,
+  "sources": [
+   "https://wanderlog.com/list/geoCategory/104467/top-things-to-do-and-attractions-in-nha-trang",
+   "https://wanderlog.com/place/details/6467/long-son-pagoda",
+   "https://en.wikipedia.org/wiki/Long_S%C6%A1n_Temple",
+   "https://vi.wikipedia.org/wiki/Ch%C3%B9a_Long_S%C6%A1n_(Nha_Trang)",
+   "https://www.finhay.com.vn/cac-diem-tham-quan-tai-nha-trang-dep"
+  ],
+  "status": "open",
+  "existing": false
+ },
+ {
+  "id": "nhatrang-hon-chong",
+  "name": "Hòn Chồng – Hòn Vợ",
+  "cat": "sight",
+  "subtitle": "Bãi đá chồng tự nhiên bên vịnh Nha Trang",
+  "address": "Khu thắng cảnh Hòn Chồng, Vĩnh Phước, Nha Trang",
+  "lat": 12.272832,
+  "lng": 109.206463,
+  "coordSource": "https://www.openstreetmap.org/way/792392852",
+  "price": "Vé 30.000đ (người lớn), trẻ em miễn phí",
+  "hours": null,
+  "mustTry": "Leo lên bãi đá ngắm vịnh Nha Trang và đảo Hòn Tre, cà phê sát biển",
+  "desc_vi": "Thắng cảnh gồm những tảng đá lớn xếp chồng lên nhau tự nhiên ở phía bắc Nha Trang, kèm Hòn Vợ gần đó gắn với truyền thuyết dân gian. Từ bãi đá nhìn ra toàn cảnh vịnh và đảo Hòn Tre.",
+  "review_vi": "Khen: khối đá độc đáo, view vịnh đẹp lúc bình minh/hoàng hôn, có quán cà phê sát biển, vé rẻ. Chê: không phải bãi tắm cát trắng; giữa ngày đông và nắng gắt.",
+  "rating": {
+   "value": 4.3,
+   "count": 7899,
+   "source": "Google Maps (qua Wanderlog)",
+   "url": "https://wanderlog.com/place/details/1023738/hon-chong",
+   "seen": "2026-10"
+  },
+  "trending": false,
+  "tags": [
+   "Thắng cảnh",
+   "View biển"
+  ],
+  "tips_vi": "Mẹo: đi sáng sớm hoặc chiều muộn; mang dép dễ lội vì triều lên có thể ngập lối ra đá; đá trơn, cẩn thận khi leo.",
+  "images": [
+   {
+    "commons": "File:Hon Chong rocks 2011.jpg",
+    "kind": "place"
+   },
+   {
+    "commons": "File:2001-06-03 Hon-Chong Nha-Trang.jpg",
+    "kind": "place"
+   }
+  ],
+  "wiki": "https://vi.wikipedia.org/wiki/H%C3%B2n_Ch%E1%BB%93ng",
+  "website": null,
+  "sources": [
+   "https://wanderlog.com/list/geoCategory/104467/top-things-to-do-and-attractions-in-nha-trang",
+   "https://wanderlog.com/place/details/1023738/hon-chong",
+   "https://www.openstreetmap.org/way/792392852",
+   "https://vi.wikipedia.org/wiki/H%C3%B2n_Ch%E1%BB%93ng",
+   "https://www.finhay.com.vn/cac-diem-tham-quan-tai-nha-trang-dep"
+  ],
+  "status": "open",
+  "existing": false
+ },
+ {
+  "id": "nhatrang-vien-hai-duong-hoc",
+  "name": "Viện Hải dương học Nha Trang",
+  "cat": "sight",
+  "subtitle": "Bảo tàng sinh vật biển lớn nhất Đông Nam Á",
+  "address": "1 Cầu Đá, Vĩnh Nguyên, Nha Trang",
+  "lat": 12.208255,
+  "lng": 109.214707,
+  "coordSource": "https://www.openstreetmap.org/relation/15662995",
+  "price": "Người lớn 40.000đ; sinh viên 20.000đ; học sinh 10.000đ",
+  "hours": "06:00–18:00",
+  "mustTry": "Bộ xương cá voi dài khoảng 18 m, bể kính sinh vật biển, đường hầm ngắm cá mập, rùa biển",
+  "desc_vi": "Viện nghiên cứu biển ra đời sớm nhất Việt Nam, có bảo tàng trưng bày hơn 24.000 mẫu vật của hơn 4.000 loài sinh vật biển và nước ngọt cùng nhiều bể nuôi sinh vật sống. Nằm ngay cảng Cầu Đá, gần ga cáp treo Vinpearl.",
+  "review_vi": "Khen: nhiều loài sinh vật biển, bộ xương cá voi ấn tượng, đường hầm và bể trụ tròn đẹp, vé rẻ, hợp đi cùng trẻ nhỏ. Chê: một số bể nuôi khá chật.",
+  "rating": {
+   "value": 4.2,
+   "count": 2794,
+   "source": "Google Maps (qua Wanderlog)",
+   "url": "https://wanderlog.com/place/details/556500/museum-of-oceanography",
+   "seen": "2026-10"
+  },
+  "trending": false,
+  "tags": [
+   "Bảo tàng",
+   "Gia đình",
+   "Hợp với trẻ em"
+  ],
+  "tips_vi": "Mẹo: đi sớm trước giờ cáp treo đông khách; dành thời gian đọc bảng giới thiệu từng loài.",
+  "images": [
+   {
+    "commons": "File:Hải dương học Nha Trang.jpg",
+    "kind": "place"
+   },
+   {
+    "commons": "File:Ekranoplan Thang Long 1000 - Viện Hải dương học Nha Trang 01.jpg",
+    "kind": "place"
+   }
+  ],
+  "wiki": "https://vi.wikipedia.org/wiki/Vi%E1%BB%87n_H%E1%BA%A3i_d%C6%B0%C6%A1ng_h%E1%BB%8Dc",
+  "website": "https://baotanghdh.vn/",
+  "sources": [
+   "https://wanderlog.com/list/geoCategory/104467/top-things-to-do-and-attractions-in-nha-trang",
+   "https://wanderlog.com/place/details/556500/museum-of-oceanography",
+   "https://www.openstreetmap.org/relation/15662995",
+   "https://vi.wikipedia.org/wiki/Vi%E1%BB%87n_H%E1%BA%A3i_d%C6%B0%C6%A1ng_h%E1%BB%8Dc",
+   "https://www.finhay.com.vn/cac-diem-tham-quan-tai-nha-trang-dep",
+   "https://mia.vn/cam-nang-du-lich/cap-nhat-gia-ve-cac-diem-tham-quan-co-thu-phi-o-nha-trang-1084"
+  ],
+  "status": "open",
+  "existing": false
+ },
+ {
+  "id": "nhatrang-bao-tang-yersin",
+  "name": "Bảo tàng Alexandre Yersin",
+  "cat": "sight",
+  "subtitle": "Bảo tàng về bác sĩ Yersin trong Viện Pasteur",
+  "address": "10 Trần Phú, Xương Huân, Nha Trang (trong khuôn viên Viện Pasteur Nha Trang)",
+  "lat": 12.2515,
+  "lng": 109.196,
+  "coordSource": "https://en.wikipedia.org/wiki/Yersin_Museum",
+  "price": "Khoảng 20.000đ",
+  "hours": "T2–T6 07:30–11:30, 14:00–17:00; T7 07:30–11:30; CN nghỉ",
+  "mustTry": "Dụng cụ phòng thí nghiệm, đồ dùng cá nhân và tư liệu về bác sĩ Yersin",
+  "desc_vi": "Bảo tàng nhỏ tưởng niệm bác sĩ Alexandre Yersin (1863–1943), người sáng lập Viện Pasteur Nha Trang. Trưng bày hiện vật gốc về nghiên cứu y học, nông nghiệp và gắn bó của ông với Nha Trang, Đà Lạt.",
+  "review_vi": "Khen: hiện vật gốc giá trị, câu chuyện về Yersin cảm động, không gian yên tĩnh khác hẳn khu biển. Chê: bảo tàng nhỏ, giờ mở cửa ngắn và nghỉ Chủ nhật, lối vào nằm trong khuôn viên viện nên khó tìm.",
+  "rating": {
+   "value": 4.5,
+   "count": 482,
+   "source": "Google Maps (qua Wanderlog)",
+   "url": "https://wanderlog.com/place/details/556499/yersin-museum",
+   "seen": "2026-10"
+  },
+  "trending": false,
+  "tags": [
+   "Bảo tàng",
+   "Lịch sử"
+  ],
+  "tips_vi": "Mẹo: dành khoảng 45 phút; đi ngày thường; dùng định vị GPS vì lối vào nằm trong khu Viện Pasteur.",
+  "images": [
+   {
+    "commons": "File:Yersin Museum (Nha Trang).jpg",
+    "kind": "place"
+   },
+   {
+    "commons": "File:Busto de Yersin en la muzeo de Yersin (Nha Trang) 01.jpg",
+    "kind": "place"
+   }
+  ],
+  "wiki": "https://vi.wikipedia.org/wiki/Vi%E1%BB%87n_Pasteur_Nha_Trang",
+  "website": null,
+  "sources": [
+   "https://wanderlog.com/list/geoCategory/104467/top-things-to-do-and-attractions-in-nha-trang",
+   "https://wanderlog.com/place/details/556499/yersin-museum",
+   "https://en.wikipedia.org/wiki/Yersin_Museum",
+   "https://vi.wikipedia.org/wiki/Vi%E1%BB%87n_Pasteur_Nha_Trang"
+  ],
+  "status": "open",
+  "existing": false
+ },
+ {
+  "id": "nhatrang-biet-dien-bao-dai",
+  "name": "Biệt điện Cầu Đá (Lầu Bảo Đại)",
+  "cat": "sight",
+  "subtitle": "Cụm biệt thự Pháp trên núi Chụt, mở cửa lại từ 27/4/2026",
+  "address": "Núi Chụt (núi Cảnh Long), đường Trần Phú, Vĩnh Nguyên, Nha Trang",
+  "lat": 12.210324,
+  "lng": 109.215365,
+  "coordSource": "https://www.openstreetmap.org/way/272268190",
+  "price": "Miễn phí",
+  "hours": "T2–T6 07:00–11:30, 13:30–17:30",
+  "mustTry": "Hai biệt thự Nghinh Phong và Vọng Nguyệt – nơi nghỉ mát của vua Bảo Đại và hoàng hậu Nam Phương (1940–1945)",
+  "desc_vi": "Cụm 5 biệt thự kiến trúc Pháp xây từ năm 1923 trên núi Chụt, nhìn ra vịnh Nha Trang. Sau hơn 10 năm đóng cửa, di tích mở lại cho khách tham quan miễn phí từ 27/4/2026 với hai biệt thự đã tu sửa.",
+  "review_vi": "Khen: di tích vừa mở lại, đã được sửa sang, trồng thêm cây và gắn biển chỉ dẫn; vị trí nhìn ra biển đẹp. Chê: mới mở 2/5 biệt thự, nhiều khu còn rào chắn, chưa lên được sân thượng ngắm cảnh.",
+  "rating": null,
+  "trending": true,
+  "tags": [
+   "Mở cửa lại 2026",
+   "Di tích",
+   "Kiến trúc Pháp"
+  ],
+  "tips_vi": "Mẹo: chỉ mở thứ Hai–thứ Sáu; kết hợp với Viện Hải dương học và ga cáp treo gần đó.",
+  "images": [
+   {
+    "commons": "File:Bao Dai Villa, Nha Trang 1.jpg",
+    "kind": "place"
+   }
+  ],
+  "wiki": "https://vi.wikipedia.org/wiki/Bi%E1%BB%87t_%C4%91i%E1%BB%87n_C%E1%BA%A7u_%C4%90%C3%A1",
+  "website": null,
+  "sources": [
+   "https://www.openstreetmap.org/way/272268190",
+   "https://www.sggp.org.vn/di-tich-lau-bao-dai-mo-cua-don-khach-sau-hon-10-nam-dong-cua-post850141.html",
+   "https://vi.wikipedia.org/wiki/Bi%E1%BB%87t_%C4%91i%E1%BB%87n_C%E1%BA%A7u_%C4%90%C3%A1"
+  ],
+  "status": "open",
+  "existing": false
+ },
+ {
+  "id": "nhatrang-thap-tram-huong",
+  "name": "Tháp Trầm Hương & Quảng trường 2/4",
+  "cat": "sight",
+  "subtitle": "Biểu tượng hình hoa sen bên bờ biển Trần Phú",
+  "address": "Quảng trường 2/4, đường Trần Phú, Lộc Thọ, Nha Trang",
+  "lat": 12.24048,
+  "lng": 109.196797,
+  "coordSource": "https://vi.wikipedia.org/wiki/Th%C3%A1p_Tr%E1%BA%A7m_H%C6%B0%C6%A1ng",
+  "price": "Miễn phí",
+  "hours": null,
+  "mustTry": "Chụp ảnh tháp lúc hoàng hôn, dạo quảng trường và bờ biển buổi tối; quảng trường rộng cho trẻ chơi, trượt patin buổi tối",
+  "desc_vi": "Công trình biểu tượng của Nha Trang tại quảng trường 2/4, trưng bày hình ảnh, sản vật địa phương và quảng bá du lịch. Buổi tối quảng trường đông người đi dạo, trượt patin, hóng gió biển; chợ đêm nằm ngay đối diện.",
+  "review_vi": "Khen: vị trí trung tâm, đẹp khi lên đèn và lúc hoàng hôn, là điểm hẹn tiện lợi trên phố biển. Chê: bên trong ít thứ để xem, thường chỉ ghé chụp ảnh nhanh.",
+  "rating": {
+   "value": 4.4,
+   "count": 13187,
+   "source": "Google Maps (qua Wanderlog)",
+   "url": "https://wanderlog.com/place/details/147325/tram-huong-tower",
+   "seen": "2026-10"
+  },
+  "trending": false,
+  "tags": [
+   "Biểu tượng",
+   "Miễn phí",
+   "Hợp với trẻ em"
+  ],
+  "tips_vi": "Mẹo: đi buổi chiều tối, kết hợp tắm biển Trần Phú và dạo chợ đêm đối diện.",
+  "images": [
+   {
+    "commons": "File:Tháp Trầm Hương, Nha Trang, Vietnam.jpg",
+    "kind": "place"
+   },
+   {
+    "commons": "File:Thap Tram Huong.JPG",
+    "kind": "place"
+   }
+  ],
+  "wiki": "https://vi.wikipedia.org/wiki/Th%C3%A1p_Tr%E1%BA%A7m_H%C6%B0%C6%A1ng",
+  "website": null,
+  "sources": [
+   "https://wanderlog.com/list/geoCategory/104467/top-things-to-do-and-attractions-in-nha-trang",
+   "https://wanderlog.com/place/details/147325/tram-huong-tower",
+   "https://vi.wikipedia.org/wiki/Th%C3%A1p_Tr%E1%BA%A7m_H%C6%B0%C6%A1ng",
+   "https://www.finhay.com.vn/cac-diem-tham-quan-tai-nha-trang-dep"
+  ],
+  "status": "open",
+  "existing": false
+ },
+ {
+  "id": "nhatrang-bai-bien-tran-phu",
+  "name": "Bãi biển Trần Phú",
+  "cat": "nature",
+  "subtitle": "Bãi tắm trung tâm dài theo đường Trần Phú",
+  "address": "Đường Trần Phú, Nha Trang",
+  "lat": 12.236339,
+  "lng": 109.197853,
+  "coordSource": "https://wanderlog.com/list/geoCategory/104467/top-things-to-do-and-attractions-in-nha-trang",
+  "price": "Miễn phí",
+  "hours": "Cả ngày",
+  "mustTry": "Tắm biển sáng sớm, ngắm bình minh, dạo công viên ven biển buổi tối",
+  "desc_vi": "Bãi biển chính của Nha Trang trải dài dọc đường Trần Phú, cát trắng, nước trong, có dải công viên và lối đi bộ rợp bóng dừa. Buổi tối khu ven biển sôi động với quán bar, nhà hàng, sự kiện âm nhạc.",
+  "review_vi": "Khen: bãi rộng, sạch, nhiều chỗ tắm, có ghế đá bóng mát dọc lối đi bộ, buổi tối nhộn nhịp. Chê: đoạn gần trung tâm khá đông vào ngày nắng; trời mưa thì vắng và ảm đạm.",
+  "rating": {
+   "value": 4.5,
+   "count": 2080,
+   "source": "Google Maps (qua Wanderlog)",
+   "url": "https://wanderlog.com/place/details/21829/bãi-biển-nha-trang",
+   "seen": "2026-10"
+  },
+  "trending": false,
+  "tags": [
+   "Bãi biển",
+   "Miễn phí",
+   "Hợp với trẻ em"
+  ],
+  "tips_vi": "Mẹo: tắm sớm buổi sáng (cùng người dân tập thể dục) để vắng và mát; muốn yên tĩnh hơn thì đi về phía bắc từ Tháp Trầm Hương.",
+  "images": [
+   {
+    "commons": "File:Bãi tắm Trần Phú trên bờ biển Nha Trang.jpeg",
+    "kind": "place"
+   },
+   {
+    "commons": "File:Nha Trang-Tran Phu.JPG",
+    "kind": "place"
+   }
+  ],
+  "wiki": null,
+  "website": null,
+  "sources": [
+   "https://wanderlog.com/list/geoCategory/104467/top-things-to-do-and-attractions-in-nha-trang",
+   "https://wanderlog.com/place/details/21829/bãi-biển-nha-trang"
+  ],
+  "status": "open",
+  "existing": true
+ },
+ {
+  "id": "nhatrang-vinwonders",
+  "name": "VinWonders Nha Trang",
+  "cat": "experience",
+  "subtitle": "Công viên giải trí trên đảo Hòn Tre, đi bằng cáp treo vượt biển",
+  "address": "Đảo Hòn Tre, Vĩnh Nguyên, Nha Trang",
+  "lat": 12.217049,
+  "lng": 109.240872,
+  "coordSource": "https://wanderlog.com/list/geoCategory/104467/top-things-to-do-and-attractions-in-nha-trang",
+  "price": "Vé kèm cáp treo 2 chiều: người lớn 950.000đ, sau 16:00 là 660.000đ; trẻ em 1–1,4 m 710.000đ (giá tham khảo 2025)",
+  "hours": null,
+  "mustTry": "Tàu lượn Lốc Xoáy Liên Hoàn, Vương Quốc Hải Thần với đường hầm kính 360°, Tata Show, vòng quay Sky Wheel, zipline, vườn thú King's Garden; trẻ dưới 1 m miễn phí vé, 1–1,4 m mua vé trẻ em",
+  "desc_vi": "Công viên giải trí rộng khoảng 50 ha trên đảo Hòn Tre, nối đất liền bằng tuyến cáp treo vượt biển (2007). Có khu trò chơi cảm giác mạnh, công viên nước, thủy cung, vườn thú, đồi hoa và show diễn buổi tối.",
+  "review_vi": "Khen: rất nhiều trò chơi cho mọi lứa tuổi, view đẹp từ Sky Wheel, hoạt động cho thú ăn thú vị, nhiều góc sống ảo. Chê: xếp hàng lâu ở trò hot, đồ ăn trong khu ít lựa chọn, khuôn viên rộng đi bộ mệt.",
+  "rating": {
+   "value": 4.7,
+   "count": 17036,
+   "source": "Google Maps (qua Wanderlog)",
+   "url": "https://wanderlog.com/place/details/1133432/vinwonders-nha-trang",
+   "seen": "2026-10"
+  },
+  "trending": false,
+  "tags": [
+   "Công viên giải trí",
+   "Gia đình",
+   "Hợp với trẻ em"
+  ],
+  "tips_vi": "Mẹo: mua vé online trên kênh chính thức; đi ngày thường; vé sau 16:00 rẻ hơn nếu chỉ muốn chơi buổi tối; zipline giới hạn lượt mỗi ngày nên đặt sớm.",
+  "images": [
+   {
+    "commons": "File:Vinpearl Land Nha Trang Ferris wheel.jpg",
+    "kind": "place"
+   },
+   {
+    "commons": "File:Nha Trang Bay and Vinwonders. Nha Trang, Vietnam. June 2025.jpg",
+    "kind": "place"
+   }
+  ],
+  "wiki": null,
+  "website": "https://vinwonders.com/",
+  "sources": [
+   "https://wanderlog.com/list/geoCategory/104467/top-things-to-do-and-attractions-in-nha-trang",
+   "https://wanderlog.com/place/details/1133432/vinwonders-nha-trang",
+   "https://www.greensm.com/vn-vi/news/cap-treo-vinpearl-nha-trang",
+   "https://mia.vn/cam-nang-du-lich/cap-nhat-gia-ve-cac-diem-tham-quan-co-thu-phi-o-nha-trang-1084",
+   "https://mekongasean.vn/hon-tre-tu-dao-hoang-so-den-diem-den-ky-dieu-cua-hang-trieu-du-khach-58974.html",
+   "https://www.finhay.com.vn/cac-diem-tham-quan-tai-nha-trang-dep"
+  ],
+  "status": "open",
+  "existing": true
+ },
+ {
+  "id": "nhatrang-cap-treo-vinpearl-harbour",
+  "name": "Cáp treo vượt biển Vinpearl & Vinpearl Harbour",
+  "cat": "experience",
+  "subtitle": "Cáp treo qua vịnh tới khu phố cảng Vinpearl Harbour",
+  "address": "Ga cáp treo Vinpearl, đường Trần Phú, Vĩnh Trường, Nha Trang",
+  "lat": 12.203295,
+  "lng": 109.217041,
+  "coordSource": "https://wanderlog.com/list/geoCategory/104467/top-things-to-do-and-attractions-in-nha-trang",
+  "price": "Vé cáp treo khứ hồi + Vinpearl Harbour 200.000đ/người (giá tham khảo 2025)",
+  "hours": "08:30–21:45 (cáp treo, theo Google Maps)",
+  "mustTry": "Ngắm vịnh Nha Trang từ cabin cáp treo; dạo phố cảng, cửa hàng, show diễn ở Vinpearl Harbour",
+  "desc_vi": "Tuyến cáp treo vượt biển nối đất liền với đảo Hòn Tre, dài khoảng 3,3 km khi khai trương (theo GreenSM 02/2025, rút còn khoảng 2,6 km sau khi dời nhà ga); Travel + Leisure đưa vào nhóm tuyến cáp treo đẹp nhất châu Á 2026. Đầu đảo là Vinpearl Harbour – khu phố cảng có nhà hàng, cà phê, mua sắm, mở cửa không cần vé VinWonders.",
+  "review_vi": "Khen: view vịnh tuyệt đẹp, cabin rộng có máy lạnh, đặt vé dễ, giá vé Harbour hợp lý. Chê: giờ cao điểm xếp hàng lâu, cabin hơi đung đưa khi gió mạnh, Harbour buổi tối nhạc to.",
+  "rating": {
+   "value": 4.3,
+   "count": 3029,
+   "source": "Google Maps (qua Wanderlog)",
+   "url": "https://wanderlog.com/place/details/9139878/vinpearl-cable-car",
+   "seen": "2026-10"
+  },
+  "trending": false,
+  "tags": [
+   "Cáp treo",
+   "Vinpearl Harbour"
+  ],
+  "tips_vi": "Mẹo: đi ngoài giờ cao điểm; không mang đồ ăn uống lên cabin; ngày mưa gió cáp treo có thể điều chỉnh giờ; sau giờ cáp treo có tàu cao tốc đưa khách về đất liền.",
+  "images": [
+   {
+    "commons": "File:Vinpearl Cable Car to Hon Tre, Nha Trang, Khanh Hoa.jpg",
+    "kind": "place"
+   },
+   {
+    "commons": "File:Nha Trang - Vinpearl Cable Car.jpg",
+    "kind": "place"
+   }
+  ],
+  "wiki": null,
+  "website": "https://vinwonders.com/vn/vinpearl-harbour/",
+  "sources": [
+   "https://wanderlog.com/list/geoCategory/104467/top-things-to-do-and-attractions-in-nha-trang",
+   "https://wanderlog.com/place/details/9139878/vinpearl-cable-car",
+   "https://www.greensm.com/vn-vi/news/cap-treo-vinpearl-nha-trang",
+   "https://mekongasean.vn/hon-tre-tu-dao-hoang-so-den-diem-den-ky-dieu-cua-hang-trieu-du-khach-58974.html",
+   "https://vinwonders.com/vi/wonderpedia/news/nha-trang-co-gi-choi/",
+   "https://mia.vn/cam-nang-du-lich/cap-nhat-gia-ve-cac-diem-tham-quan-co-thu-phi-o-nha-trang-1084",
+   "https://wanderlog.com/place/details/9217119/vinpearl-harbour-nha-trang"
+  ],
+  "status": "open",
+  "existing": false
+ },
+ {
+  "id": "nhatrang-hon-mun",
+  "name": "Hòn Mun – lặn ngắm san hô",
+  "cat": "nature",
+  "subtitle": "Khu bảo tồn biển, điểm lặn biển đẹp nhất vịnh Nha Trang",
+  "address": "Khu bảo tồn biển Hòn Mun, vịnh Nha Trang (tàu đi từ cảng Cầu Đá)",
+  "lat": 12.166145,
+  "lng": 109.302482,
+  "coordSource": "https://wanderlog.com/list/geoCategory/104467/top-things-to-do-and-attractions-in-nha-trang",
+  "price": "Vé tham quan 22.000đ; cano khứ hồi khoảng 300.000đ, tàu gỗ 250.000đ (giá 2025)",
+  "hours": null,
+  "mustTry": "Lặn ống thở/lặn bình ngắm san hô và cá nhiệt đới, đi bộ dưới biển, tàu đáy kính",
+  "desc_vi": "Hòn Mun cách cảng Cầu Đá khoảng 10 km (khoảng 45 phút tàu), nằm trong khu bảo tồn biển với hệ san hô phong phú. Đây là điểm lặn biển nổi tiếng nhất Nha Trang, thường có trong các tour đảo.",
+  "review_vi": "Khen: nước trong, nhiều san hô và cá màu sắc, nhiều điểm lặn khác nhau. Chê: tour đông người, có ý kiến lo ngại việc bảo vệ san hô chưa tốt.",
+  "rating": {
+   "value": 4.3,
+   "count": 207,
+   "source": "Google Maps (qua Wanderlog)",
+   "url": "https://wanderlog.com/list/geoCategory/104467/top-things-to-do-and-attractions-in-nha-trang",
+   "seen": "2026-10"
+  },
+  "trending": false,
+  "tags": [
+   "Lặn biển",
+   "Tour đảo"
+  ],
+  "tips_vi": "Mẹo: xem dự báo sóng trước khi đi; tháng 6–8 nước trong nhất; tuyệt đối không giẫm hay bẻ san hô; chọn đơn vị lặn uy tín.",
+  "images": [],
+  "wiki": "https://vi.wikipedia.org/wiki/H%C3%B2n_Mun",
+  "website": null,
+  "sources": [
+   "https://wanderlog.com/list/geoCategory/104467/top-things-to-do-and-attractions-in-nha-trang",
+   "https://wanderlog.com/place/details/21830/hon-mun-marine-protected-area",
+   "https://vi.wikipedia.org/wiki/H%C3%B2n_Mun",
+   "https://mia.vn/cam-nang-du-lich/cap-nhat-gia-ve-cac-diem-tham-quan-co-thu-phi-o-nha-trang-1084",
+   "https://www.finhay.com.vn/cac-diem-tham-quan-tai-nha-trang-dep"
+  ],
+  "status": "open",
+  "existing": false
+ },
+ {
+  "id": "nhatrang-hon-tam",
+  "name": "Đảo Hòn Tằm",
+  "cat": "nature",
+  "subtitle": "Đảo nghỉ dưỡng có bãi cát trắng và khu tắm bùn khoáng",
+  "address": "Đảo Hòn Tằm, vịnh Nha Trang (cách thành phố khoảng 7 km)",
+  "lat": 12.175891,
+  "lng": 109.24301,
+  "coordSource": "https://wanderlog.com/list/geoCategory/104467/top-things-to-do-and-attractions-in-nha-trang",
+  "price": "Tắm bùn gói cơ bản: người lớn 450.000đ, trẻ em 315.000đ",
+  "hours": null,
+  "mustTry": "Tắm bùn khoáng, bãi cát trắng dài hơn 1 km, dù lượn, mô tô nước",
+  "desc_vi": "Hòn đảo rộng hơn 110 ha phía đông nam vịnh Nha Trang, có bãi biển cát trắng dài và khu tắm bùn khoáng. Phù hợp đi trong ngày với gia đình.",
+  "review_vi": "Khen: biển sạch đẹp, nhiều trò chơi biển giá hợp lý, tắm bùn – spa thư giãn, nhiều hoạt động cho trẻ em. Chê: một vài khu vệ sinh chưa thật sạch.",
+  "rating": {
+   "value": 4.5,
+   "count": 893,
+   "source": "Google Maps (qua Wanderlog)",
+   "url": "https://wanderlog.com/place/details/1641748/hòn-tằm",
+   "seen": "2026-10"
+  },
+  "trending": false,
+  "tags": [
+   "Đảo",
+   "Tắm bùn",
+   "Gia đình",
+   "Hợp với trẻ em"
+  ],
+  "tips_vi": "Mẹo: kiểm tra lịch tàu ra đảo trước; mua combo tắm bùn kèm buffet trưa nếu ở cả ngày.",
+  "images": [
+   {
+    "commons": "File:Hòn Tằm beach, Nha Trang, Khánh Hoà.jpg",
+    "kind": "place"
+   },
+   {
+    "commons": "File:Hon Tam Resort - Nha Trang.jpg",
+    "kind": "place"
+   }
+  ],
+  "wiki": "https://vi.wikipedia.org/wiki/H%C3%B2n_T%E1%BA%B1m",
+  "website": null,
+  "sources": [
+   "https://wanderlog.com/list/geoCategory/104467/top-things-to-do-and-attractions-in-nha-trang",
+   "https://wanderlog.com/place/details/1641748/hòn-tằm",
+   "https://vi.wikipedia.org/wiki/H%C3%B2n_T%E1%BA%B1m",
+   "https://www.finhay.com.vn/cac-diem-tham-quan-tai-nha-trang-dep",
+   "https://mia.vn/cam-nang-du-lich/cap-nhat-gia-ve-cac-diem-tham-quan-co-thu-phi-o-nha-trang-1084"
+  ],
+  "status": "open",
+  "existing": false
+ },
+ {
+  "id": "nhatrang-tam-bun-i-resort",
+  "name": "Tắm bùn khoáng nóng I-Resort",
+  "cat": "experience",
+  "subtitle": "Khu tắm bùn – suối khoáng nóng giữa vườn cây",
+  "address": "Tổ 19 thôn Xuân Ngọc, Vĩnh Ngọc, Nha Trang",
+  "lat": 12.273192,
+  "lng": 109.175778,
+  "coordSource": "https://wanderlog.com/list/geoCategory/104467/top-things-to-do-and-attractions-in-nha-trang",
+  "price": "Công viên nước khoáng khoảng 120.000đ/người (giá tham khảo 2025)",
+  "hours": null,
+  "mustTry": "Tắm bùn khoáng, hồ khoáng nóng, luộc trứng bằng nước khoáng; khu trẻ em có cầu trượt, máng trượt, súng phun nước",
+  "desc_vi": "Khu tắm bùn và suối khoáng nóng lớn ở ngoại ô phía tây Nha Trang, hồ bơi đặt giữa vườn cây, hồ sen, thác nước giả đá. Có gói tắm bùn tập thể và phòng VIP riêng.",
+  "review_vi": "Khen: sạch sẽ, nhân viên thân thiện, khuôn viên đẹp, nước khoáng nóng rất thư giãn. Chê: khá thương mại hóa, giờ cao điểm đông.",
+  "rating": {
+   "value": 4.4,
+   "count": 13271,
+   "source": "Google Maps (qua Wanderlog)",
+   "url": "https://wanderlog.com/place/details/147319/hot-mineral-springs-i-resort-nha-trang",
+   "seen": "2026-10"
+  },
+  "trending": false,
+  "tags": [
+   "Tắm bùn",
+   "Khoáng nóng",
+   "Hợp với trẻ em"
+  ],
+  "tips_vi": "Mẹo: đến sớm buổi sáng hoặc chiều muộn; mang túi chống nước cho điện thoại; muốn riêng tư thì chọn gói VIP.",
+  "images": [],
+  "wiki": null,
+  "website": "https://www.i-resort.vn/main.html",
+  "sources": [
+   "https://wanderlog.com/list/geoCategory/104467/top-things-to-do-and-attractions-in-nha-trang",
+   "https://wanderlog.com/place/details/147319/hot-mineral-springs-i-resort-nha-trang",
+   "https://vinwonders.com/?p=29872"
+  ],
+  "status": "open",
+  "existing": false
+ },
+ {
+  "id": "nhatrang-tam-bun-thap-ba",
+  "name": "Trung tâm tắm bùn khoáng Tháp Bà",
+  "cat": "experience",
+  "subtitle": "Khu tắm bùn khoáng lâu đời gần Tháp Bà Ponagar",
+  "address": "438 Ngô Đến, Vĩnh Phước, Nha Trang",
+  "lat": 12.270216,
+  "lng": 109.177783,
+  "coordSource": "https://wanderlog.com/list/geoCategory/104467/top-things-to-do-and-attractions-in-nha-trang",
+  "price": "Tắm bùn khoảng 150.000đ người lớn, 70.000đ trẻ em (giá 2025)",
+  "hours": "07:30–17:00",
+  "mustTry": "Tắm bùn khoáng, ngâm thảo dược, hồ khoáng nóng, thác nước",
+  "desc_vi": "Khu tắm bùn khoáng thiên nhiên lâu năm gần Tháp Bà Ponagar. Sau bùn có bồn ngâm thảo dược, hồ khoáng nóng, thác nước và hồ bơi trong vườn nhiệt đới.",
+  "review_vi": "Khen: bùn khoáng tự nhiên, không gian xanh dễ thư giãn, tổ chức gọn gàng, giá đáng tiền hơn spa resort hiện đại. Chê: giờ trưa đông khách, có khu sàn nóng.",
+  "rating": {
+   "value": 4.4,
+   "count": 5389,
+   "source": "Google Maps (qua Wanderlog)",
+   "url": "https://wanderlog.com/place/details/797237/thap-ba-mud-bath",
+   "seen": "2026-10"
+  },
+  "trending": false,
+  "tags": [
+   "Tắm bùn",
+   "Khoáng nóng"
+  ],
+  "tips_vi": "Mẹo: đến sớm để vắng; có thể mang đồ bơi riêng (khăn được cung cấp); mang dép vì sàn có chỗ nóng.",
+  "images": [],
+  "wiki": null,
+  "website": "https://tambunthapba.vn/",
+  "sources": [
+   "https://wanderlog.com/list/geoCategory/104467/top-things-to-do-and-attractions-in-nha-trang",
+   "https://wanderlog.com/place/details/797237/thap-ba-mud-bath",
+   "https://mia.vn/cam-nang-du-lich/cap-nhat-gia-ve-cac-diem-tham-quan-co-thu-phi-o-nha-trang-1084"
+  ],
+  "status": "open",
+  "existing": false
+ },
+ {
+  "id": "nhatrang-thac-yang-bay",
+  "name": "Khu du lịch Thác Yang Bay",
+  "cat": "nature",
+  "subtitle": "Thác \"Thác Trời\" giữa rừng, suối khoáng và văn hóa Raglai",
+  "address": "Xã Khánh Phú, huyện Khánh Vĩnh, Khánh Hòa (cách Nha Trang khoảng 45 km)",
+  "lat": 12.189965,
+  "lng": 108.91012,
+  "coordSource": "https://vi.wikipedia.org/wiki/Th%C3%A1c_Yang_Bay",
+  "price": "Người lớn 200.000đ; trẻ em 0,9–1,4 m 140.000đ",
+  "hours": "07:30–17:00",
+  "mustTry": "Thác Yang Bay, tắm suối khoáng nóng, xem biểu diễn nhạc cụ Raglai, cây Mộc Thần, đồi hoa",
+  "desc_vi": "Thác nằm trên sông Cầu giữa thung lũng rừng nguyên sinh; \"Yang Bay\" trong tiếng Raglai nghĩa là \"Thác Trời\". Khu du lịch có hồ khoáng nóng, trò chơi dân gian, biểu diễn văn hóa Raglai và ẩm thực núi rừng.",
+  "review_vi": "Khen: cảnh thác và rừng xanh mát, nhiều hoạt động cho cả nhà, đáng đi một ngày khỏi phố biển. Chê: giá vé ở các nguồn không thống nhất; ngày mưa lớn nước đục và một số khu có thể tạm đóng.",
+  "rating": null,
+  "trending": false,
+  "tags": [
+   "Thác",
+   "Đi trong ngày",
+   "Hợp với trẻ em"
+  ],
+  "tips_vi": "Mẹo: mang đồ bơi và quần áo thay; đi mùa khô; đường khoảng 1–1,5 tiếng từ trung tâm Nha Trang.",
+  "images": [
+   {
+    "commons": "File:Thác Yang Bay- Khánh Hòa - panoramio.jpg",
+    "kind": "place"
+   }
+  ],
+  "wiki": "https://vi.wikipedia.org/wiki/Th%C3%A1c_Yang_Bay",
+  "website": null,
+  "sources": [
+   "https://vi.wikipedia.org/wiki/Th%C3%A1c_Yang_Bay",
+   "https://vinwonders.com/vi/wonderpedia/news/thac-yang-bay-nha-trang/",
+   "https://www.finhay.com.vn/cac-diem-tham-quan-tai-nha-trang-dep"
+  ],
+  "status": "open",
+  "existing": false
+ },
+ {
+  "id": "nhatrang-doc-let",
+  "name": "Bãi biển Dốc Lết",
+  "cat": "nature",
+  "subtitle": "Bãi cát trắng hoang sơ phía bắc Nha Trang",
+  "address": "Ninh Hòa, Khánh Hòa (cách Nha Trang khoảng 50 km về phía bắc)",
+  "lat": 12.548618,
+  "lng": 109.235379,
+  "coordSource": "https://wanderlog.com/list/geoCategory/109864/best-beaches-in-and-around-nha-trang",
+  "price": null,
+  "hours": null,
+  "mustTry": "Tắm biển nước xanh ngọc, đồi cát trắng, hàng dương",
+  "desc_vi": "Bãi biển ở Ninh Hòa với cát trắng mịn, nước xanh ngọc và hàng dương. Ít đông hơn biển trung tâm, hợp đi trong ngày hoặc nghỉ lại resort ven biển.",
+  "review_vi": "Khen: biển trong, cát trắng, cảnh hoang sơ, yên bình hơn Nha Trang. Chê: xa trung tâm, phải qua cồn cát dốc mới ra tới bãi.",
+  "rating": {
+   "value": 4.3,
+   "count": 1996,
+   "source": "Google Maps (qua Wanderlog)",
+   "url": "https://wanderlog.com/list/geoCategory/109864/best-beaches-in-and-around-nha-trang",
+   "seen": "2026-10"
+  },
+  "trending": false,
+  "tags": [
+   "Bãi biển",
+   "Đi trong ngày"
+  ],
+  "tips_vi": "Mẹo: mang giày dép thoải mái để qua cồn cát; đi mùa hè biển đẹp nhất.",
+  "images": [
+   {
+    "commons": "File:Doc Let beach (2025).jpg",
+    "kind": "place"
+   },
+   {
+    "commons": "File:Doc Let Beach.jpg",
+    "kind": "place"
+   }
+  ],
+  "wiki": "https://vi.wikipedia.org/wiki/D%E1%BB%91c_L%E1%BA%BFt",
+  "website": null,
+  "sources": [
+   "https://wanderlog.com/list/geoCategory/109864/best-beaches-in-and-around-nha-trang",
+   "https://vi.wikipedia.org/wiki/D%E1%BB%91c_L%E1%BA%BFt"
+  ],
+  "status": "open",
+  "existing": false
+ },
+ {
+  "id": "nhatrang-dao-binh-ba",
+  "name": "Đảo Bình Ba",
+  "cat": "nature",
+  "subtitle": "\"Đảo tôm hùm\" trong vịnh Cam Ranh",
+  "address": "Đảo Bình Ba, Cam Bình, Cam Ranh, Khánh Hòa (tàu từ cảng Ba Ngòi)",
+  "lat": 11.837678,
+  "lng": 109.240193,
+  "coordSource": "https://vi.wikipedia.org/wiki/%C4%90%E1%BA%A3o_B%C3%ACnh_Ba",
+  "price": "Tàu gỗ từ cảng Ba Ngòi khoảng 25.000–40.000đ/lượt (giá 2022)",
+  "hours": null,
+  "mustTry": "Tôm hùm, gỏi cá mai, mực lá nướng; bãi Nồm, bãi Chướng, bãi Nhà Cũ",
+  "desc_vi": "Đảo nhỏ khoảng 3 km² trong vịnh Cam Ranh, cách Nha Trang khoảng 60 km về phía nam, nổi tiếng với tôm hùm và các bãi biển hoang sơ. Ra đảo bằng tàu gỗ hoặc cano từ cảng Ba Ngòi.",
+  "review_vi": "Khen: biển trong xanh, hải sản tươi, nhịp sống làng chài bình yên. Chê: dịch vụ lưu trú hạn chế, nước ngọt khan hiếm, không có ATM; cuối tuần đông.",
+  "rating": null,
+  "trending": false,
+  "tags": [
+   "Đảo",
+   "Tôm hùm",
+   "Cam Ranh"
+  ],
+  "tips_vi": "Mẹo: mang CCCD; theo bài VnExpress (2022) người nước ngoài không được ra đảo; mang tiền mặt; nên đi tháng 3–10, ngày thường; mua hải sản ở chợ thay vì ngoài bãi.",
+  "images": [
+   {
+    "commons": "File:Bình Ba Island.jpg",
+    "kind": "place"
+   }
+  ],
+  "wiki": "https://vi.wikipedia.org/wiki/%C4%90%E1%BA%A3o_B%C3%ACnh_Ba",
+  "website": null,
+  "sources": [
+   "https://vi.wikipedia.org/wiki/%C4%90%E1%BA%A3o_B%C3%ACnh_Ba",
+   "https://vnexpress.net/cam-nang-du-lich-binh-ba-4449076.html"
+  ],
+  "status": "open",
+  "existing": false
+ },
+ {
+  "id": "nhatrang-vinh-ninh-van",
+  "name": "Vịnh Ninh Vân",
+  "cat": "nature",
+  "subtitle": "Vịnh biển yên tĩnh, làng chài và resort cao cấp",
+  "address": "Bán đảo Hòn Mèo, Ninh Hòa, Khánh Hòa (cách Nha Trang khoảng 60 km về phía bắc)",
+  "lat": 12.355875,
+  "lng": 109.276462,
+  "coordSource": "https://wanderlog.com/list/geoCategory/104467/top-things-to-do-and-attractions-in-nha-trang",
+  "price": null,
+  "hours": null,
+  "mustTry": "Làng chài Ninh Vân, chèo kayak, trekking, ăn hải sản tươi",
+  "desc_vi": "Vịnh biển nước xanh ngọc tựa lưng vào rừng nguyên sinh trên bán đảo Hòn Mèo, nổi tiếng với các resort cao cấp và không gian tách biệt. Làng chài Ninh Vân với thuyền gỗ, bè nuôi hải sản đang được giới trẻ check-in nhiều năm 2026.",
+  "review_vi": "Khen: phong cảnh tuyệt đẹp, yên tĩnh, không khí trong lành, người dân thân thiện. Chê: khá biệt lập, phải lên kế hoạch di chuyển kỹ.",
+  "rating": {
+   "value": 4.7,
+   "count": 116,
+   "source": "Google Maps (qua Wanderlog)",
+   "url": "https://wanderlog.com/place/details/93701/ninh-van-bay",
+   "seen": "2026-10"
+  },
+  "trending": true,
+  "tags": [
+   "Hot check-in 2026",
+   "Vịnh",
+   "Làng chài"
+  ],
+  "tips_vi": "Mẹo: tính trước phương tiện (khoảng 60 km từ trung tâm); hợp với ai muốn tránh phố xá; trải nghiệm đi biển cùng ngư dân ở làng chài.",
+  "images": [
+   {
+    "commons": "File:Ninh Van Bay.jpg",
+    "kind": "place"
+   }
+  ],
+  "wiki": "https://vi.wikipedia.org/wiki/V%E1%BB%8Bnh_Ninh_V%C3%A2n",
+  "website": null,
+  "sources": [
+   "https://wanderlog.com/list/geoCategory/104467/top-things-to-do-and-attractions-in-nha-trang",
+   "https://wanderlog.com/place/details/93701/ninh-van-bay",
+   "https://vi.wikipedia.org/wiki/V%E1%BB%8Bnh_Ninh_V%C3%A2n",
+   "https://tuoitre.vn/nhung-diem-check-in-o-nha-trang-noi-ran-ran-tren-mang-20260421143701906.htm"
+  ],
+  "status": "open",
+  "existing": false
+ },
+ {
+  "id": "nhatrang-marina-beach",
+  "name": "Marina Beach – bến du thuyền Ana Marina",
+  "cat": "experience",
+  "subtitle": "Điểm ngắm \"hoàng hôn tỉ đô\" đang hot 2026",
+  "address": "Đường Nguyễn Cơ Thạch, Nha Trang",
+  "lat": 12.293113,
+  "lng": 109.21544,
+  "coordSource": "https://www.openstreetmap.org/way/1356310734",
+  "price": null,
+  "hours": null,
+  "mustTry": "Ngắm hoàng hôn phản chiếu trên mặt nước bến du thuyền, cà phê – nhà hàng ven biển",
+  "desc_vi": "Khu bến du thuyền Ana Marina phía bắc Nha Trang với tầm nhìn thoáng ra bến thuyền và biển. Năm 2026 nơi này nổi lên trên mạng xã hội như điểm ngắm hoàng hôn được giới trẻ gọi là \"hoàng hôn tỉ đô\"; có beach club, cà phê, nhà hàng.",
+  "review_vi": "Khen: khung cảnh hoàng hôn đẹp, nhiều góc chụp ảnh, có quán ăn uống ngay tại chỗ. Chê: xa trung tâm, giá đồ uống ở beach club cao hơn quán bình dân.",
+  "rating": {
+   "value": 4.3,
+   "count": 2121,
+   "source": "Google Maps (qua Wanderlog)",
+   "url": "https://wanderlog.com/list/geoCategory/6211/best-bars-and-drinks-in-nha-trang",
+   "seen": "2026-10"
+  },
+  "trending": true,
+  "tags": [
+   "Hot check-in 2026",
+   "Hoàng hôn"
+  ],
+  "tips_vi": "Mẹo: đến trước giờ mặt trời lặn 30–45 phút để có chỗ đẹp.",
+  "images": [],
+  "wiki": null,
+  "website": null,
+  "sources": [
+   "https://wanderlog.com/list/geoCategory/153040/best-nightlife-in-nha-trang",
+   "https://www.openstreetmap.org/way/1356310734",
+   "https://tuoitre.vn/nhung-diem-check-in-o-nha-trang-noi-ran-ran-tren-mang-20260421143701906.htm"
+  ],
+  "status": "open",
+  "existing": false
+ },
+ {
+  "id": "nhatrang-hang-heo",
+  "name": "Hang Heo",
+  "cat": "nature",
+  "subtitle": "Bãi đá – hang hoang sơ cạnh biển Lương Sơn",
+  "address": "Cạnh bãi biển Lương Sơn, Vĩnh Lương, Nha Trang (cách trung tâm khoảng 16 km về phía bắc)",
+  "lat": null,
+  "lng": null,
+  "coordSource": null,
+  "price": null,
+  "hours": null,
+  "mustTry": "Ngắm bình minh/hoàng hôn trên bãi đá, khám phá hang và các khối đá lởm chởm",
+  "desc_vi": "Bãi đá tự nhiên với hang động và các khối đá lớn nằm cạnh biển Lương Sơn, đi theo đường Phạm Văn Đồng qua đèo Lương Sơn rồi men đường ven biển. Được Tuổi Trẻ (04/2026) điểm danh trong nhóm điểm check-in \"nổi rần rần trên mạng\".",
+  "review_vi": "Khen: cảnh hoang sơ, yên tĩnh hơn trung tâm, rất đẹp lúc bình minh và hoàng hôn; gần đó có điểm ngắm hoàng hôn kèm quán cà phê. Chê: chưa có nhiều dịch vụ, đá lởm chởm khó đi.",
+  "rating": null,
+  "trending": true,
+  "tags": [
+   "Hot check-in 2026",
+   "Hoang sơ"
+  ],
+  "tips_vi": "Mẹo: mang giày bám tốt; đi lúc sáng sớm hoặc chiều muộn.",
+  "images": [],
+  "wiki": null,
+  "website": null,
+  "sources": [
+   "https://tuoitre.vn/nhung-diem-check-in-o-nha-trang-noi-ran-ran-tren-mang-20260421143701906.htm"
+  ],
+  "status": "open",
+  "existing": false
+ },
+ {
+  "id": "nhatrang-lang-bich-dam",
+  "name": "Làng đảo Bích Đầm",
+  "cat": "nature",
+  "subtitle": "Làng chài trên đảo Hòn Tre, nước xanh như ngọc",
+  "address": "Thôn Bích Đầm, đảo Hòn Tre, Vĩnh Nguyên, Nha Trang",
+  "lat": 12.182904,
+  "lng": 109.264928,
+  "coordSource": "https://www.openstreetmap.org/way/1521188513",
+  "price": null,
+  "hours": null,
+  "mustTry": "Dạo ngõ nhỏ, cầu cảng và những ngôi nhà nhiều màu; ngắm nước biển xanh lúc sáng sớm và chiều muộn",
+  "desc_vi": "Một trong hai thôn lớn của đảo Hòn Tre, với ngõ nhỏ, cầu cảng, kè biển và nhà cửa sặc sỡ. Ra làng bằng thuyền của ngư dân hoặc tàu tour; Tuổi Trẻ (04/2026) xếp vào nhóm điểm check-in hot của Nha Trang.",
+  "review_vi": "Khen: nhịp sống làng chài mộc mạc, màu nước đẹp, ảnh chụp rất \"ăn hình\". Chê: phụ thuộc thuyền ra đảo, ít dịch vụ du lịch.",
+  "rating": null,
+  "trending": true,
+  "tags": [
+   "Hot check-in 2026",
+   "Làng chài",
+   "Hòn Tre"
+  ],
+  "tips_vi": "Mẹo: thỏa thuận giá thuyền trước; đi buổi sáng sớm hoặc chiều muộn để nước đẹp và đỡ nắng.",
+  "images": [],
+  "wiki": "https://vi.wikipedia.org/wiki/H%C3%B2n_Tre_(Kh%C3%A1nh_H%C3%B2a)",
+  "website": null,
+  "sources": [
+   "https://www.openstreetmap.org/way/1521188513",
+   "https://tuoitre.vn/nhung-diem-check-in-o-nha-trang-noi-ran-ran-tren-mang-20260421143701906.htm",
+   "https://vi.wikipedia.org/wiki/H%C3%B2n_Tre_(Kh%C3%A1nh_H%C3%B2a)"
+  ],
+  "status": "open",
+  "existing": false
+ },
+ {
+  "id": "nhatrang-cho-dam",
+  "name": "Chợ Đầm",
+  "cat": "market",
+  "subtitle": "Chợ trung tâm lớn nhất Nha Trang",
+  "address": "Đường Bến Chợ – Phan Bội Châu, Xương Huân, Nha Trang",
+  "lat": 12.255263,
+  "lng": 109.191651,
+  "coordSource": "https://www.openstreetmap.org/relation/21159862",
+  "price": null,
+  "hours": "05:00–18:30",
+  "mustTry": "Hải sản khô (mực, cá), chả cá, bánh tráng, xoài sấy, hạt điều, cà phê; yến sào nên mua ở cửa hàng có thương hiệu",
+  "desc_vi": "Chợ trung tâm và là biểu tượng thương mại của Nha Trang, bán từ đồ khô, đặc sản, quần áo đến đồ lưu niệm. Tòa nhà tròn \"Chợ Đầm tròn\" đã đóng cửa từ 04/2021 do xuống cấp; tiểu thương chuyển sang các khu chợ mới bên cạnh.",
+  "review_vi": "Khen: hàng hóa đa dạng, nhiều đặc sản khô, giá sỉ cho mua số lượng. Chê: giá thường nhỉnh hơn cửa hàng bên ngoài, bố trí hơi lộn xộn, khu chợ cũ đã xuống cấp.",
+  "rating": {
+   "value": 3.9,
+   "count": 18339,
+   "source": "Google Maps (qua Wanderlog)",
+   "url": "https://wanderlog.com/place/details/21827/dam-market",
+   "seen": "2026-10"
+  },
+  "trending": false,
+  "tags": [
+   "Chợ",
+   "Đặc sản"
+  ],
+  "tips_vi": "Mẹo: đi buổi sáng (trước 9–10 giờ) cho hàng tươi; mặc cả khoảng 20–30%; nếm thử trước khi mua đồ khô; với yến sào, tránh mua hàng trôi nổi.",
+  "images": [
+   {
+    "commons": "File:Dam Market Nha Trang 1.jpg",
+    "kind": "place"
+   },
+   {
+    "commons": "File:Nha Trang Chợ Đầm market - panoramio.jpg",
+    "kind": "place"
+   }
+  ],
+  "wiki": "https://vi.wikipedia.org/wiki/Ch%E1%BB%A3_%C4%90%E1%BA%A7m",
+  "website": null,
+  "sources": [
+   "https://wanderlog.com/list/geoCategory/74039/where-to-eat-best-restaurants-in-nha-trang",
+   "https://wanderlog.com/place/details/21827/dam-market",
+   "https://www.openstreetmap.org/relation/21159862",
+   "https://vi.wikipedia.org/wiki/Ch%E1%BB%A3_%C4%90%E1%BA%A7m",
+   "https://baovanhoa.vn/xa-hoi/se-dap-bo-cho-dam-tron-o-nha-trang-59164.html",
+   "https://www.finhay.com.vn/cac-diem-tham-quan-tai-nha-trang-dep",
+   "https://www.vietnamtourism.com/vi/am-thuc-nha-trang-an-gi-va-an-o-au",
+   "https://vinwonders.com/vi/wonderpedia/news/kinh-nghiem-mua-yen-sao-nha-trang/"
+  ],
+  "status": "open",
+  "existing": true
+ },
+ {
+  "id": "nhatrang-cho-dem",
+  "name": "Chợ đêm Nha Trang (Trần Phú)",
+  "cat": "market",
+  "subtitle": "Chợ đêm đồ lưu niệm đối diện quảng trường 2/4",
+  "address": "Đường Trần Phú (đối diện quảng trường 2/4), Lộc Thọ, Nha Trang",
+  "lat": 12.239648,
+  "lng": 109.195789,
+  "coordSource": "https://www.openstreetmap.org/way/196749901",
+  "price": null,
+  "hours": "17:00–23:00",
+  "mustTry": "Đồ lưu niệm, trái cây sấy, đồ đi biển, trang sức; chè và nước ép ở các quầy",
+  "desc_vi": "Chợ đêm nhỏ ngay cạnh bãi biển Trần Phú, đối diện quảng trường 2/4 và Tháp Trầm Hương, với hơn 100 gian hàng. Chủ yếu bán đồ lưu niệm, quần áo, đồ khô cho khách du lịch.",
+  "review_vi": "Khen: vị trí tiện ngay bờ biển, không khí nhộn nhịp, dễ mua quà. Chê: hàng hóa khá giống nhau, giá đồ ăn uống cao hơn nơi khác, ít món ăn đường phố hơn mong đợi.",
+  "rating": {
+   "value": 3.8,
+   "count": 6738,
+   "source": "Google Maps (qua Wanderlog)",
+   "url": "https://wanderlog.com/place/details/1761565/night-market-nha-trang",
+   "seen": "2026-10"
+  },
+  "trending": false,
+  "tags": [
+   "Chợ đêm",
+   "Quà lưu niệm"
+  ],
+  "tips_vi": "Mẹo: đến khoảng 19:00–21:00 là đông vui nhất; mặc cả trước khi mua; dịp Giáng sinh, Năm mới không khí rất sôi động.",
+  "images": [
+   {
+    "commons": "File:Nha Trang night market - panoramio.jpg",
+    "kind": "place"
+   }
+  ],
+  "wiki": null,
+  "website": null,
+  "sources": [
+   "https://wanderlog.com/list/geoCategory/104467/top-things-to-do-and-attractions-in-nha-trang",
+   "https://wanderlog.com/place/details/1761565/night-market-nha-trang",
+   "https://www.openstreetmap.org/way/196749901",
+   "https://www.finhay.com.vn/cac-diem-tham-quan-tai-nha-trang-dep"
+  ],
+  "status": "open",
+  "existing": true
+ },
+ {
+  "id": "nhatrang-nha-trang-center",
+  "name": "Nha Trang Center",
+  "cat": "shopping",
+  "subtitle": "Trung tâm thương mại đối diện biển Trần Phú",
+  "address": "20 Trần Phú, Xương Huân, Nha Trang",
+  "lat": 12.248084,
+  "lng": 109.195953,
+  "coordSource": "https://wanderlog.com/list/geoCategory/120658/best-churches-in-nha-trang",
+  "price": null,
+  "hours": null,
+  "mustTry": "Khu ẩm thực tầng trên, các thương hiệu thời trang, quầy đổi tiền; khu vui chơi Kidzone cho bé",
+  "desc_vi": "Trung tâm thương mại lâu năm ngay trên trục biển Trần Phú, có siêu thị, thời trang, khu ẩm thực với nhiều quán lẩu, nướng và khu vui chơi gia đình.",
+  "review_vi": "Khen: vị trí trung tâm đối diện biển, khu ăn uống lớn, có nhà vệ sinh ở mọi tầng, hay có khuyến mãi. Chê: tòa nhà khá cũ, không khí kém sôi động so với các mall mới, hàng hiệu giá cao.",
+  "rating": {
+   "value": 4.2,
+   "count": 11875,
+   "source": "Google Maps (qua Wanderlog)",
+   "url": "https://wanderlog.com/place/details/105809/nha-trang-center",
+   "seen": "2026-10"
+  },
+  "trending": false,
+  "tags": [
+   "Trung tâm thương mại",
+   "Hợp với trẻ em"
+  ],
+  "tips_vi": "Mẹo: đi ngày thường cho vắng; có quầy đổi tiền ở tầng 2.",
+  "images": [],
+  "wiki": null,
+  "website": "http://nhatrangcenter.com/",
+  "sources": [
+   "https://wanderlog.com/list/geoCategory/120658/best-churches-in-nha-trang",
+   "https://wanderlog.com/place/details/105809/nha-trang-center",
+   "https://vinwonders.com/?p=29872"
+  ],
+  "status": "open",
+  "existing": false
+ },
+ {
+  "id": "nhatrang-vincom-tran-phu",
+  "name": "Vincom Plaza Trần Phú",
+  "cat": "shopping",
+  "subtitle": "Trung tâm thương mại ven biển phía nam Trần Phú",
+  "address": "78–80 Trần Phú, Lộc Thọ, Nha Trang",
+  "lat": 12.233215,
+  "lng": 109.197219,
+  "coordSource": "https://wanderlog.com/list/geoCategory/167432/best-shopping-and-stores-in-nha-trang",
+  "price": null,
+  "hours": "10:00–22:00 (T7, CN từ 09:30)",
+  "mustTry": "Siêu thị WinMart, rạp chiếu phim, khu vui chơi trẻ em và game zone, nhà hàng tầng trên",
+  "desc_vi": "Trung tâm thương mại hiện đại nằm đối diện lối đi bộ ven biển Trần Phú, có siêu thị WinMart, cửa hàng thời trang, rạp phim và khu vui chơi. Nha Trang còn một Vincom khác ở 44–46 Lê Thánh Tôn.",
+  "review_vi": "Khen: vị trí tiện ngay biển, siêu thị lớn, nhiều trò cho trẻ em, khuôn viên sạch, có ghế bóng mát. Chê: cuối tuần khá đông.",
+  "rating": {
+   "value": 4.4,
+   "count": 2835,
+   "source": "Google Maps (qua Wanderlog)",
+   "url": "https://wanderlog.com/place/details/1761634/vincom-plaza-trần-phú",
+   "seen": "2026-10"
+  },
+  "trending": false,
+  "tags": [
+   "Trung tâm thương mại",
+   "Gia đình",
+   "Hợp với trẻ em"
+  ],
+  "tips_vi": "Mẹo: tránh nóng giữa trưa bằng cách ghé quán cà phê trong mall; đi ngày thường cho vắng.",
+  "images": [],
+  "wiki": null,
+  "website": "https://vincom.com.vn/vincom-plaza-tran-phu-nha-trang",
+  "sources": [
+   "https://wanderlog.com/list/geoCategory/167432/best-shopping-and-stores-in-nha-trang",
+   "https://wanderlog.com/place/details/1761634/vincom-plaza-trần-phú"
+  ],
+  "status": "open",
+  "existing": false
+ },
+ {
+  "id": "nhatrang-lotte-mart",
+  "name": "Lotte Mart Nha Trang",
+  "cat": "shopping",
+  "subtitle": "Đại siêu thị mua quà, đồ ăn vặt, nhu yếu phẩm",
+  "address": "58 đường 23/10, Phương Sơn, Nha Trang",
+  "lat": 12.251697,
+  "lng": 109.177042,
+  "coordSource": "https://wanderlog.com/list/geoCategory/167432/best-shopping-and-stores-in-nha-trang",
+  "price": null,
+  "hours": "07:30–22:00",
+  "mustTry": "Bánh kẹo, đặc sản đóng gói làm quà, đồ nhập khẩu; khu vui chơi trong nhà cho trẻ em",
+  "desc_vi": "Đại siêu thị gần chùa Long Sơn, bán đủ từ thực phẩm tươi, đồ nhập khẩu, quần áo đến đồ gia dụng; có bãi đỗ xe miễn phí và quầy ăn nhanh.",
+  "review_vi": "Khen: hàng hóa nhiều, đồ ăn vặt giá hợp lý, sạch sẽ, gọn gàng. Chê: cuối tuần đông; có khách nước ngoài phàn nàn thái độ nhân viên.",
+  "rating": {
+   "value": 4.3,
+   "count": 7569,
+   "source": "Google Maps (qua Wanderlog)",
+   "url": "https://wanderlog.com/place/details/1748601/lotte-mart-nha-trang",
+   "seen": "2026-10"
+  },
+  "trending": false,
+  "tags": [
+   "Siêu thị",
+   "Mua quà",
+   "Hợp với trẻ em"
+  ],
+  "tips_vi": "Mẹo: đi ngày thường; xem khuyến mãi trước khi mua số lượng lớn.",
+  "images": [],
+  "wiki": null,
+  "website": "https://lottemart.com.vn/",
+  "sources": [
+   "https://wanderlog.com/list/geoCategory/167432/best-shopping-and-stores-in-nha-trang",
+   "https://wanderlog.com/place/details/1748601/lotte-mart-nha-trang",
+   "https://vinwonders.com/?p=29872"
+  ],
+  "status": "open",
+  "existing": false
+ },
+ {
+  "id": "nhatrang-sailing-club",
+  "name": "Sailing Club Nha Trang",
+  "cat": "nightlife",
+  "subtitle": "Beach club kinh điển trên bãi Trần Phú",
+  "address": "72–74 Trần Phú, Lộc Thọ, Nha Trang",
+  "lat": 12.234092,
+  "lng": 109.198021,
+  "coordSource": "https://wanderlog.com/list/geoCategory/74039/where-to-eat-best-restaurants-in-nha-trang",
+  "price": "Khoảng 500.000–1.000.000đ+/người (nhóm cao cấp)",
+  "hours": "07:00–02:00",
+  "mustTry": "Cocktail trên ghế lười sát cát, DJ và múa lửa buổi tối; mực nướng, ceviche",
+  "desc_vi": "Nhà hàng – beach club lâu đời nhất phố biển, phong cách Địa Trung Hải ngay trên cát. Ban ngày ăn uống, nằm ghế ngắm biển; buổi tối có DJ, nhạc sống và múa lửa.",
+  "review_vi": "Khen: vị trí sát biển rất đẹp, không khí thư thái ban ngày và sôi động ban đêm, phục vụ nhanh. Chê: giá cao; có vài phản ánh về ngộ độc thực phẩm.",
+  "rating": {
+   "value": 4.2,
+   "count": 11013,
+   "source": "Google Maps (qua Wanderlog)",
+   "url": "https://wanderlog.com/place/details/105739/sailing-club-nha-trang",
+   "seen": "2026-10"
+  },
+  "trending": false,
+  "tags": [
+   "Beach club",
+   "DJ",
+   "Múa lửa"
+  ],
+  "tips_vi": "Mẹo: đi ngày thường cho đỡ đông; giữ đồ cẩn thận vào các tối đông khách.",
+  "images": [],
+  "wiki": null,
+  "website": "http://www.sailingclubnhatrang.com/",
+  "sources": [
+   "https://wanderlog.com/list/geoCategory/74039/where-to-eat-best-restaurants-in-nha-trang",
+   "https://wanderlog.com/place/details/105739/sailing-club-nha-trang",
+   "https://www.vietnamtourism.com/vi/am-thuc-nha-trang-an-gi-va-an-o-au",
+   "https://www.finhay.com.vn/cac-diem-tham-quan-tai-nha-trang-dep"
+  ],
+  "status": "open",
+  "existing": false
+ },
+ {
+  "id": "nhatrang-skylight",
+  "name": "Skylight Nha Trang",
+  "cat": "nightlife",
+  "subtitle": "Rooftop beach club tầng 43–45 khách sạn Havana",
+  "address": "Tầng 43–45 khách sạn Best Western Premier Havana, 38 Trần Phú, Lộc Thọ, Nha Trang",
+  "lat": 12.243396,
+  "lng": 109.195842,
+  "coordSource": "https://wanderlog.com/list/geoCategory/74039/where-to-eat-best-restaurants-in-nha-trang",
+  "price": "Vé 200.000đ kèm 1 đồ uống; thứ Tư nữ miễn phí vé (giá 07/2025)",
+  "hours": null,
+  "mustTry": "Skydeck 360°, lối đi kính Skywalk, cocktail ở Rooftop Beach Club",
+  "desc_vi": "Rooftop bar cao nhất Nha Trang trên nóc khách sạn Havana, gồm đài quan sát 360°, lối đi kính Skywalk, beach club ngoài trời với DJ và nhà hàng. Nhìn toàn cảnh thành phố và vịnh về đêm.",
+  "review_vi": "Khen: view toàn cảnh rất đẹp, cocktail ngon, nhạc sôi động, phục vụ tốt. Chê: đồ ăn ở nhà hàng Lá Kitchen bị chê bình thường và đắt.",
+  "rating": {
+   "value": 4.6,
+   "count": 7344,
+   "source": "Google Maps (qua Wanderlog)",
+   "url": "https://wanderlog.com/place/details/446137/skylight--lá-kitchen-nha-trang",
+   "seen": "2026-10"
+  },
+  "trending": false,
+  "tags": [
+   "Rooftop",
+   "DJ"
+  ],
+  "tips_vi": "Mẹo: đặt bàn lúc hoàng hôn; ăn mặc lịch sự (không áo ba lỗ, quần đùi, dép lê); sau 21:00 người dưới 18 tuổi không vào sàn nhảy; nên tập trung uống và ngắm cảnh.",
+  "images": [
+   {
+    "commons": "File:Hotelo Havana Nha Trang 5 (01).jpg",
+    "kind": "place"
+   }
+  ],
+  "wiki": null,
+  "website": "https://skylightnhatrang.com/",
+  "sources": [
+   "https://wanderlog.com/list/geoCategory/74039/where-to-eat-best-restaurants-in-nha-trang",
+   "https://wanderlog.com/place/details/446137/skylight--lá-kitchen-nha-trang",
+   "https://www.greensm.com/vn-vi/news/skylight-nha-trang",
+   "https://www.finhay.com.vn/cac-diem-tham-quan-tai-nha-trang-dep"
+  ],
+  "status": "open",
+  "existing": false
+ },
+ {
+  "id": "nhatrang-louisiane",
+  "name": "Louisiane Brewhouse",
+  "cat": "nightlife",
+  "subtitle": "Nhà hàng bia thủ công sát biển",
+  "address": "Lô 29 Trần Phú, Lộc Thọ, Nha Trang",
+  "lat": 12.231019,
+  "lng": 109.198803,
+  "coordSource": "https://wanderlog.com/list/geoCategory/74039/where-to-eat-best-restaurants-in-nha-trang",
+  "price": "Khoảng 500.000–1.000.000đ+/người (nhóm cao cấp)",
+  "hours": "07:00–01:00",
+  "mustTry": "Khay nếm bia tự nấu, hải sản, ngồi hồ bơi sát biển",
+  "desc_vi": "Nhà hàng – xưởng bia thủ công bên bờ biển Trần Phú, phục vụ bia nấu tại chỗ cùng hải sản và món Âu – Á. Không gian nhiệt đới, hợp ngắm hoàng hôn.",
+  "review_vi": "Khen: view biển đẹp, bia thủ công ngon, phục vụ chu đáo, không khí vui. Chê: giá khá cao.",
+  "rating": {
+   "value": 4.3,
+   "count": 4471,
+   "source": "Google Maps (qua Wanderlog)",
+   "url": "https://wanderlog.com/place/details/875953/lousiane-brewhouse-nha-trang-restaurant--craft-beer",
+   "seen": "2026-10"
+  },
+  "trending": false,
+  "tags": [
+   "Bia thủ công",
+   "View biển"
+  ],
+  "tips_vi": "Mẹo: đến lúc hoàng hôn; gọi khay nếm bia để thử nhiều loại; nên đặt bàn vào giờ cao điểm.",
+  "images": [],
+  "wiki": null,
+  "website": "https://louisianebrewhouse.com.vn/",
+  "sources": [
+   "https://wanderlog.com/list/geoCategory/74039/where-to-eat-best-restaurants-in-nha-trang",
+   "https://wanderlog.com/place/details/875953/lousiane-brewhouse-nha-trang-restaurant--craft-beer",
+   "https://www.vietnamtourism.com/vi/am-thuc-nha-trang-an-gi-va-an-o-au"
+  ],
+  "status": "open",
+  "existing": false
+ },
+ {
+  "id": "nhatrang-altitude",
+  "name": "Altitude Rooftop Bar (Sheraton)",
+  "cat": "nightlife",
+  "subtitle": "Bar tầng 28 khách sạn Sheraton, view thành phố và biển",
+  "address": "Tầng 28, Sheraton Nha Trang, 26–28 Trần Phú, Nha Trang",
+  "lat": 12.24639,
+  "lng": 109.195831,
+  "coordSource": "https://wanderlog.com/list/geoCategory/74039/where-to-eat-best-restaurants-in-nha-trang",
+  "price": null,
+  "hours": "15:00–24:00",
+  "mustTry": "Cocktail và mocktail pha chế riêng, ngắm hoàng hôn chuyển sang đêm",
+  "desc_vi": "Rooftop lounge sang trọng trên tầng 28 khách sạn Sheraton, nhìn cả đèn thành phố lẫn bãi biển. Nhạc chill house nhẹ nhàng, hợp hẹn hò hoặc tụ tập buổi tối.",
+  "review_vi": "Khen: view rất đẹp, cocktail pha chế kỹ, nhân viên nhiệt tình, không khí thư giãn. Chê: là bar khách sạn nên giá thuộc nhóm cao.",
+  "rating": {
+   "value": 4.8,
+   "count": 2178,
+   "source": "Google Maps (qua Wanderlog)",
+   "url": "https://wanderlog.com/place/details/1324171/altitude-rooftop-bar--lounge",
+   "seen": "2026-10"
+  },
+  "trending": false,
+  "tags": [
+   "Rooftop",
+   "Cocktail"
+  ],
+  "tips_vi": "Mẹo: đến lúc hoàng hôn; đặt chỗ trước vào dịp đặc biệt.",
+  "images": [],
+  "wiki": null,
+  "website": "https://www.marriott.com/en-us/dining/restaurant-bar/nhasi-sheraton-nha-trang-hotel-and-spa/6470843-altitude-rooftop-bar-lounge.mi",
+  "sources": [
+   "https://wanderlog.com/list/geoCategory/74039/where-to-eat-best-restaurants-in-nha-trang",
+   "https://wanderlog.com/place/details/1324171/altitude-rooftop-bar--lounge"
+  ],
+  "status": "open",
+  "existing": false
+ },
+ {
+  "id": "nhatrang-pho-tay-biet-thu",
+  "name": "Phố Tây Biệt Thự – Hùng Vương",
+  "cat": "nightlife",
+  "subtitle": "Khu phố Tây với bar, pub, nhà hàng quốc tế",
+  "address": "Đường Biệt Thự, Hùng Vương, Nguyễn Thiện Thuật, Lộc Thọ, Nha Trang",
+  "lat": 12.235802,
+  "lng": 109.196339,
+  "coordSource": "https://www.openstreetmap.org/way/694961262",
+  "price": null,
+  "hours": null,
+  "mustTry": "Bar nhạc sống, club, quán ăn quốc tế; kem, bánh mì đêm",
+  "desc_vi": "Cụm phố Biệt Thự – Hùng Vương – Nguyễn Thiện Thuật sát bãi biển Trần Phú là khu phố Tây của Nha Trang, tập trung bar, pub, club và nhà hàng quốc tế, nhộn nhịp đến khuya.",
+  "review_vi": "Khen: nhiều lựa chọn ăn uống, giải trí trong vài trăm mét, đông vui về đêm. Chê: một số quán trong khu đã đóng cửa (ví dụ Lanterns, Ganesh, Olivia theo Google Maps), nên kiểm tra trước khi đến.",
+  "rating": null,
+  "trending": false,
+  "tags": [
+   "Phố Tây",
+   "Bar"
+  ],
+  "tips_vi": "Mẹo: đi bộ từ bãi biển sang; xem tình trạng mở cửa từng quán trên bản đồ trước.",
+  "images": [],
+  "wiki": null,
+  "website": null,
+  "sources": [
+   "https://www.openstreetmap.org/way/694961262",
+   "https://wanderlog.com/list/geoCategory/74039/where-to-eat-best-restaurants-in-nha-trang"
+  ],
+  "status": "open",
+  "existing": false
+ },
+ {
+  "id": "nhatrang-gallery-long-thanh",
+  "name": "Studio & Gallery Long Thành",
+  "cat": "sight",
+  "subtitle": "Phòng tranh ảnh đen trắng của nhiếp ảnh gia Long Thành",
+  "address": "126 Hoàng Văn Thụ, Nha Trang",
+  "lat": 12.250627,
+  "lng": 109.187261,
+  "coordSource": "https://www.openstreetmap.org/node/5189505622",
+  "price": null,
+  "hours": null,
+  "mustTry": "Những bức ảnh đen trắng về đời sống thường ngày người Việt; có thể mua bản in",
+  "desc_vi": "Phòng trưng bày nhỏ như một bảo tàng mini của nhiếp ảnh gia Long Thành, người từng đoạt nhiều giải thưởng với ảnh đen trắng về con người và cuộc sống Việt Nam. Nằm trong phố, ít khách du lịch biết tới.",
+  "review_vi": "Khen: ảnh giàu cảm xúc, kể chuyện bằng sự giản dị; không gian trưng bày ấm cúng; có dịp gặp trực tiếp tác giả. Chê: cửa đôi khi đóng, phải bấm chuông; có khách thấy nghệ sĩ khá kiệm lời.",
+  "rating": {
+   "value": 4.6,
+   "count": 203,
+   "source": "Google Maps (qua Wanderlog)",
+   "url": "https://wanderlog.com/place/details/147318/studio--gallery-long-thanh-art",
+   "seen": "2026-10"
+  },
+  "trending": false,
+  "tags": [
+   "Ít người biết",
+   "Nhiếp ảnh",
+   "Nghệ thuật"
+  ],
+  "tips_vi": "Mẹo: nếu cửa đóng hãy bấm chuông; hỏi trước khi chụp ảnh bên trong; đi ngày thường để yên tĩnh.",
+  "images": [],
+  "wiki": null,
+  "website": "http://www.longthanhart.com/",
+  "sources": [
+   "https://www.openstreetmap.org/node/5189505622",
+   "https://wanderlog.com/list/geoCategory/95472/best-aquariums-in-nha-trang",
+   "https://wanderlog.com/place/details/147318/studio--gallery-long-thanh-art"
+  ],
+  "status": "open",
+  "existing": false
+ },
+ {
+  "id": "nhatrang-chua-suoi-do",
+  "name": "Chùa Suối Đổ",
+  "cat": "sight",
+  "subtitle": "Chùa trên sườn núi, có suối và thác nhỏ, nhìn ra đồng lúa",
+  "address": "Suối Hiệp, Diên Khánh, Khánh Hòa (khoảng 30 phút xe từ Nha Trang)",
+  "lat": 12.221496,
+  "lng": 109.100785,
+  "coordSource": "https://www.openstreetmap.org/node/3355719306",
+  "price": "Miễn phí",
+  "hours": null,
+  "mustTry": "Leo khoảng 200 bậc đá lên chùa, ngắm đồng lúa và núi; khu thờ Quan Âm, suối và thác nhỏ",
+  "desc_vi": "Ngôi chùa nằm trên sườn đồi ở Diên Khánh, phải leo khoảng 200 bậc giữa cây xanh, suối và thác nhỏ. Từ trên cao nhìn ra đồng lúa và vùng quê, không khí tĩnh lặng khác hẳn phố biển.",
+  "review_vi": "Khen: yên tĩnh, cảnh núi – thác – đồng lúa đẹp, các điện thờ được giữ gìn tốt, đúng chất \"viên ngọc ẩn\". Chê: leo dốc khá mệt (30–50 phút); có ý kiến về rác quanh khu vực và người bán hàng chèo kéo.",
+  "rating": {
+   "value": 4.6,
+   "count": 1124,
+   "source": "Google Maps (qua Wanderlog)",
+   "url": "https://wanderlog.com/place/details/6466/suoi-do-pagoda",
+   "seen": "2026-10"
+  },
+  "trending": false,
+  "tags": [
+   "Ít người biết",
+   "Chùa",
+   "Đi trong ngày"
+  ],
+  "tips_vi": "Mẹo: mang đủ nước, giày dễ leo; ăn mặc kín đáo; ngày rằm chùa có phát cơm chay miễn phí.",
+  "images": [],
+  "wiki": null,
+  "website": null,
+  "sources": [
+   "https://www.openstreetmap.org/node/3355719306",
+   "https://wanderlog.com/list/geoCategory/162035/best-photography-galleries-and-museums-in-nha-trang",
+   "https://wanderlog.com/place/details/6466/suoi-do-pagoda"
+  ],
+  "status": "open",
+  "existing": false
+ },
+ {
+  "id": "nhatrang-suoi-ba-ho",
+  "name": "Khu du lịch Suối Ba Hồ",
+  "cat": "nature",
+  "subtitle": "Ba hồ nước và thác giữa rừng, leo đá vượt suối",
+  "address": "Thôn Vạn Thuận, Ninh Hòa, Khánh Hòa (phía bắc Nha Trang)",
+  "lat": 12.382248,
+  "lng": 109.132906,
+  "coordSource": "https://www.openstreetmap.org/node/4082426389",
+  "price": null,
+  "hours": null,
+  "mustTry": "Leo đá theo mũi tên sơn sẵn lên hồ thứ ba, tắm hồ nước ngọt dưới từng ngọn thác",
+  "desc_vi": "Khu sinh thái có ba hồ nước nối nhau bằng các ngọn thác trong rừng, nằm trên đường lên phía bắc Nha Trang. Đường lên hồ thứ ba phải leo qua những tảng đá lớn, hợp với người thích vận động và muốn tránh đám đông.",
+  "review_vi": "Khen: nước trong, cảnh rừng và thác đẹp, leo đá thử thách mà thú vị, có lối đi, nhà vệ sinh và quầy đồ ăn. Chê: leo khá mệt, đá trơn; đồ ăn tại chỗ ít lựa chọn.",
+  "rating": {
+   "value": 4.5,
+   "count": 3349,
+   "source": "Google Maps (qua Wanderlog)",
+   "url": "https://wanderlog.com/place/details/6461/khu-du-l%E1%BB%8Bch-ba-h%E1%BB%93",
+   "seen": "2026-10"
+  },
+  "trending": false,
+  "tags": [
+   "Ít người biết",
+   "Thác",
+   "Trekking"
+  ],
+  "tips_vi": "Mẹo: mang giày/sandal bám tốt; đi sớm; mang nước và đồ ăn nhẹ; cẩn thận đá trơn khi tắm thác.",
+  "images": [],
+  "wiki": null,
+  "website": "https://baho.vn/",
+  "sources": [
+   "https://www.openstreetmap.org/node/4082426389",
+   "https://wanderlog.com/list/geoCategory/162035/best-photography-galleries-and-museums-in-nha-trang",
+   "https://wanderlog.com/place/details/6461/khu-du-l%E1%BB%8Bch-ba-h%E1%BB%93",
+   "https://www.agoda.com/travel-guides/vietnam/nha-trang/discover-nha-trang-your-ultimate-guide-to-attractions-and-hidden-gems-in-vietnams-beach-paradise"
+  ],
+  "status": "open",
+  "existing": false
+ },
+ {
+  "id": "nhatrang-hon-ba",
+  "name": "Khu bảo tồn thiên nhiên Hòn Bà",
+  "cat": "nature",
+  "subtitle": "Núi rừng mát lạnh 18–22°C, nơi có ngôi nhà của bác sĩ Yersin",
+  "address": "Núi Hòn Bà, Khánh Sơn, Khánh Hòa",
+  "lat": 12.109014,
+  "lng": 108.973996,
+  "coordSource": "https://wanderlog.com/list/geoCategory/158437/best-parks-and-gardens-in-nha-trang",
+  "price": null,
+  "hours": null,
+  "mustTry": "Rừng nguyên sinh, suối nước trong, nhà/bảo tàng nhỏ của bác sĩ Alexandre Yersin trên núi",
+  "desc_vi": "Khu rừng nguyên sinh trên núi Hòn Bà, nhiệt độ chỉ khoảng 18–22°C nên là nơi trốn nóng hiếm có quanh Nha Trang. Trên núi có ngôi nhà gắn với bác sĩ Yersin, suối nước trong và thung lũng yên tĩnh.",
+  "review_vi": "Khen: không khí trong lành, rừng cây cổ thụ và suối rất đẹp, tách biệt hẳn phố xá. Chê: đường núi cần lái xe cẩn thận, nhất là khi mưa; có chỗ còn rác dọc đường.",
+  "rating": {
+   "value": 4.4,
+   "count": 1396,
+   "source": "Google Maps (qua Wanderlog)",
+   "url": "https://wanderlog.com/place/details/147326/hon-ba-nature-reserve",
+   "seen": "2026-10"
+  },
+  "trending": false,
+  "tags": [
+   "Ít người biết",
+   "Rừng",
+   "Trốn nóng"
+  ],
+  "tips_vi": "Mẹo: mang áo khoác mỏng vì trên núi lạnh hơn; không đi khi mưa lớn; mang rác về.",
+  "images": [],
+  "wiki": null,
+  "website": null,
+  "sources": [
+   "https://wanderlog.com/list/geoCategory/158437/best-parks-and-gardens-in-nha-trang",
+   "https://wanderlog.com/place/details/147326/hon-ba-nature-reserve"
+  ],
+  "status": "open",
+  "existing": false
+ },
+ {
+  "id": "nhatrang-bai-nhu-tien",
+  "name": "Bãi biển Nhũ Tiên",
+  "cat": "nature",
+  "subtitle": "Bãi biển kín gió dưới chân núi, phía nam Nha Trang",
+  "address": "Phước Hạ, Nha Trang (khu Diamond Bay, phía nam thành phố)",
+  "lat": 12.17423,
+  "lng": 109.205565,
+  "coordSource": "https://wanderlog.com/list/geoCategory/138648/best-things-to-do-with-kids-in-nha-trang",
+  "price": "Vé vào cổng khoảng 80.000đ/người (theo đánh giá khách)",
+  "hours": null,
+  "mustTry": "Tắm biển nước êm, cát trắng, ngắm vịnh từ đồi cát",
+  "desc_vi": "Bãi biển nằm trong vòng núi cao nên sóng êm, nước trong, cát trắng và có hàng dừa. Ít khách hơn các bãi trung tâm, thuộc khu vực Diamond Bay phía nam thành phố.",
+  "review_vi": "Khen: cảnh núi – biển đẹp, cát sạch, có ghế nằm và vòi tắm, yên tĩnh hơn trung tâm. Chê: có lúc đông đoàn khách ồn ào, có rác; nhân viên bị phàn nàn ngăn khách đi khám phá xung quanh.",
+  "rating": {
+   "value": 4,
+   "count": 526,
+   "source": "Google Maps (qua Wanderlog)",
+   "url": "https://wanderlog.com/place/details/4012432/b%C3%A3i-bi%E1%BB%83n-nh%C5%A9-ti%C3%AAn",
+   "seen": "2026-10"
+  },
+  "trending": false,
+  "tags": [
+   "Ít người biết",
+   "Bãi biển"
+  ],
+  "tips_vi": "Mẹo: đi sáng sớm hoặc chiều muộn; mang đồ ăn nhẹ vì dịch vụ ăn uống tại chỗ chưa tốt.",
+  "images": [],
+  "wiki": null,
+  "website": null,
+  "sources": [
+   "https://wanderlog.com/list/geoCategory/138648/best-things-to-do-with-kids-in-nha-trang",
+   "https://wanderlog.com/place/details/4012432/b%C3%A3i-bi%E1%BB%83n-nh%C5%A9-ti%C3%AAn",
+   "https://tapchicongthuong.vn/8-dia-diem-sieu-dep-cua-nha-trang-co-the-ban-chua-biet-72665.htm"
+  ],
+  "status": "open",
+  "existing": false
+ },
+ {
+  "id": "nhatrang-nem-nuong-hong-vu",
+  "name": "Nem nướng Hồng Vũ",
+  "cat": "food",
+  "subtitle": "Quán nem nướng trong hẻm, điểm Google 4,9",
+  "address": "45 Núi Một, Nha Trang (đi vào từ hẻm 47 Huỳnh Thúc Kháng)",
+  "lat": 12.245098,
+  "lng": 109.189545,
+  "coordSource": "https://wanderlog.com/list/geoCategory/109864/best-beaches-in-and-around-nha-trang",
+  "price": null,
+  "hours": "10:00–21:00",
+  "mustTry": "Nem nướng cuốn bánh tráng, \"nem phan\" có tóp mỡ khô, chấm nước sốt thêm sa tế",
+  "desc_vi": "Quán nem nướng gia đình nằm sâu trong hẻm, phải đi vào từ hẻm 47 Huỳnh Thúc Kháng mới dễ tìm. Khách tự cuốn nem với rau và bánh tráng, nước chấm pha theo kiểu Khánh Hòa.",
+  "review_vi": "Khen: nguyên liệu tươi, nước chấm vừa vị, chủ quán niềm nở, giá bình dân, không khí rất \"người địa phương\". Chê: vài khách thấy chưa phải nem ngon nhất thành phố.",
+  "rating": {
+   "value": 4.9,
+   "count": 1172,
+   "source": "Google Maps (qua Wanderlog)",
+   "url": "https://wanderlog.com/place/details/14857916/nem-n%C6%B0%E1%BB%9Bng-h%E1%BB%93ng-v%C5%A9--n%C3%AAn-%C4%91i-t%E1%BB%AB-h%E1%BA%BBm-47-hu%E1%BB%B3nh-th%C3%BAc-kh%C3%A1ng-v%C3%A0o",
+   "seen": "2026-10"
+  },
+  "trending": false,
+  "tags": [
+   "Ít người biết",
+   "Nem nướng",
+   "Quán hẻm"
+  ],
+  "tips_vi": "Mẹo: vào từ hẻm 47 Huỳnh Thúc Kháng; thêm sa tế hoặc ớt vào nước chấm nếu thích cay; đi buổi trưa.",
+  "images": [],
+  "wiki": null,
+  "website": null,
+  "sources": [
+   "https://wanderlog.com/list/geoCategory/109864/best-beaches-in-and-around-nha-trang",
+   "https://wanderlog.com/place/details/14857916/nem-n%C6%B0%E1%BB%9Bng-h%E1%BB%93ng-v%C5%A9--n%C3%AAn-%C4%91i-t%E1%BB%AB-h%E1%BA%BBm-47-hu%E1%BB%B3nh-th%C3%BAc-kh%C3%A1ng-v%C3%A0o"
+  ],
+  "status": "open",
+  "existing": false
+ },
+ {
+  "id": "nhatrang-banh-canh-long-ca-tran-van-on",
+  "name": "Bánh canh lòng cá Trần Văn Ơn",
+  "cat": "food",
+  "subtitle": "Quán bánh canh nhỏ cho người địa phương",
+  "address": "17 Trần Văn Ơn, Nha Trang",
+  "lat": 12.24891,
+  "lng": 109.193184,
+  "coordSource": "https://wanderlog.com/list/geoCategory/82963/best-street-food-in-nha-trang",
+  "price": null,
+  "hours": null,
+  "mustTry": "Tô thập cẩm có trứng cá, chả cá nướng; nước dùng trong",
+  "desc_vi": "Quán bánh canh nhỏ ở khu trung tâm, phục vụ bánh canh lòng cá – trứng cá và chả cá nướng. Ít khách du lịch, chủ yếu là người dân quanh khu.",
+  "review_vi": "Khen: nước dùng trong mà đậm, trứng cá tươi, giá rẻ, phục vụ nhanh khi vắng. Chê: giờ đông phải chờ; quán đơn giản.",
+  "rating": {
+   "value": 4.8,
+   "count": 97,
+   "source": "Google Maps (qua Wanderlog)",
+   "url": "https://wanderlog.com/place/details/8129088/b%C3%A1nh-canh-l%C3%B2ng-c%C3%A1",
+   "seen": "2026-10"
+  },
+  "trending": false,
+  "tags": [
+   "Ít người biết",
+   "Bánh canh chả cá",
+   "Ăn sáng"
+  ],
+  "tips_vi": "Mẹo: gọi tô thập cẩm; dặn bỏ ngò nếu không ăn được; đi ngoài giờ cao điểm.",
+  "images": [],
+  "wiki": null,
+  "website": null,
+  "sources": [
+   "https://wanderlog.com/list/geoCategory/82963/best-street-food-in-nha-trang",
+   "https://wanderlog.com/place/details/8129088/b%C3%A1nh-canh-l%C3%B2ng-c%C3%A1"
+  ],
+  "status": "open",
+  "existing": false
+ },
+ {
+  "id": "nhatrang-bao-tang-khanh-hoa",
+  "name": "Bảo tàng Khánh Hòa",
+  "cat": "sight",
+  "subtitle": "Bảo tàng tỉnh nhỏ bên bờ biển Trần Phú",
+  "address": "16 Trần Phú, Xương Huân, Nha Trang",
+  "lat": 12.249704,
+  "lng": 109.19622,
+  "coordSource": "https://wanderlog.com/list/geoCategory/162035/best-photography-galleries-and-museums-in-nha-trang",
+  "price": null,
+  "hours": null,
+  "mustTry": "Tượng Chăm, hiện vật các thời kỳ lịch sử, văn hóa các dân tộc thiểu số Khánh Hòa",
+  "desc_vi": "Bảo tàng tỉnh nằm ngay trên đường Trần Phú gần bãi biển, trưng bày hiện vật khảo cổ, điêu khắc Chăm và văn hóa các dân tộc thiểu số Khánh Hòa. Ít khách du lịch ghé, hợp với người thích lịch sử.",
+  "review_vi": "Khen: vị trí ngay bờ biển, nhân viên thân thiện, có nhiều hiện vật thú vị về lịch sử địa phương. Chê: bộ sưu tập chưa phong phú, cách trưng bày cũ, giờ mở cửa bị chê.",
+  "rating": {
+   "value": 3.9,
+   "count": 665,
+   "source": "Google Maps (qua Wanderlog)",
+   "url": "https://wanderlog.com/place/details/4582369/khanh-hoa-museum",
+   "seen": "2026-10"
+  },
+  "trending": false,
+  "tags": [
+   "Ít người biết",
+   "Bảo tàng",
+   "Lịch sử"
+  ],
+  "tips_vi": "Mẹo: kết hợp với Bảo tàng Yersin gần đó; kiểm tra giờ mở cửa trước khi đến.",
+  "images": [],
+  "wiki": null,
+  "website": "http://facebook.com/baotangkhanhhoa.vn",
+  "sources": [
+   "https://wanderlog.com/list/geoCategory/162035/best-photography-galleries-and-museums-in-nha-trang",
+   "https://wanderlog.com/place/details/4582369/khanh-hoa-museum"
+  ],
+  "status": "open",
+  "existing": false
+ },
+ {
+  "id": "nhatrang-kidzone-nha-trang-center",
+  "name": "Kidzone Nha Trang Center",
+  "cat": "kids",
+  "subtitle": "Khu vui chơi trong nhà cho bé trong TTTM Nha Trang Center",
+  "address": "TTTM Nha Trang Center, 20 Trần Phú, Xương Huân, Nha Trang",
+  "lat": 12.248084,
+  "lng": 109.195953,
+  "coordSource": "https://wanderlog.com/list/geoCategory/120658/best-churches-in-nha-trang",
+  "price": "Khoảng 20.000–50.000đ/người tùy trò (giá tham khảo 2025)",
+  "hours": "09:00–22:00",
+  "mustTry": "Mọi lứa tuổi: đu quay, chơi cát, hồ câu, bowling mini, nặn đất sét, nhà liên hoàn",
+  "desc_vi": "Khu vui chơi trong nhà nằm trong TTTM Nha Trang Center, đối diện biển Trần Phú, với nhiều trò cho trẻ nhỏ: chơi cát, câu cá, bowling, tạo hình đất sét và nhà liên hoàn. Tiện cho bố mẹ kết hợp mua sắm, ăn uống trong mall.",
+  "review_vi": "Khen: nhiều trò, giá rẻ, máy lạnh mát, vị trí trung tâm. Chê: chưa có nhiều đánh giá độc lập riêng cho khu vui chơi; mall khá cũ.",
+  "rating": null,
+  "trending": false,
+  "tags": [
+   "Hợp với trẻ em",
+   "Trong nhà",
+   "Trời mưa"
+  ],
+  "tips_vi": "Mẹo: hợp cho ngày mưa hoặc trưa nắng; kết hợp khu ẩm thực tầng trên của mall.",
+  "images": [],
+  "wiki": null,
+  "website": "http://nhatrangcenter.com/",
+  "sources": [
+   "https://wanderlog.com/list/geoCategory/120658/best-churches-in-nha-trang",
+   "https://vinwonders.com/?p=29872"
+  ],
+  "status": "open",
+  "existing": false
+ },
+ {
+  "id": "nhatrang-tiniworld-coopmart",
+  "name": "TiniWorld Co.opmart Nha Trang",
+  "cat": "kids",
+  "subtitle": "Khu vui chơi giáo dục cho bé trong siêu thị Co.opmart",
+  "address": "Gian hàng số 23, lầu 2, Co.opmart Nha Trang, 2 Lê Hồng Phong, Nha Trang",
+  "lat": 12.242797,
+  "lng": 109.181813,
+  "coordSource": "https://www.openstreetmap.org/way/776810898",
+  "price": "Khoảng 25.000đ/người (giá tham khảo 2025)",
+  "hours": null,
+  "mustTry": "Trẻ nhỏ: trò chơi phát triển vận động, nhập vai, giao tiếp và làm việc nhóm",
+  "desc_vi": "Khu vui chơi thương hiệu TiniWorld trên lầu 2 siêu thị Co.opmart Nha Trang, tập trung trò chơi vận động và nhập vai giúp trẻ phát triển kỹ năng. Bố mẹ có thể kết hợp đi siêu thị.",
+  "review_vi": "Khen: giá rẻ, trong nhà mát, tiện kết hợp mua sắm. Chê: chưa có nhiều đánh giá độc lập cập nhật cho chi nhánh này.",
+  "rating": null,
+  "trending": false,
+  "tags": [
+   "Hợp với trẻ em",
+   "Trong nhà"
+  ],
+  "tips_vi": "Mẹo: gọi trước hoặc hỏi quầy siêu thị để xác nhận giờ mở cửa và giá hiện tại.",
+  "images": [],
+  "wiki": null,
+  "website": null,
+  "sources": [
+   "https://www.openstreetmap.org/way/776810898",
+   "https://vinwonders.com/?p=29872"
+  ],
+  "status": "open",
+  "existing": false
+ },
+ {
+  "id": "nhatrang-sheraton-adventure-club",
+  "name": "Sheraton Adventure Club (kids club)",
+  "cat": "kids",
+  "subtitle": "Câu lạc bộ trẻ em trong khách sạn Sheraton, nhận cả khách ngoài",
+  "address": "Tầng 6, Sheraton Nha Trang, 26–28 Trần Phú, Nha Trang",
+  "lat": 12.246268,
+  "lng": 109.195865,
+  "coordSource": "https://www.openstreetmap.org/way/206245067",
+  "price": "290.000đ/trẻ/ngày hoặc 150.000đ/trẻ/nửa ngày (giá tham khảo 2025)",
+  "hours": "Mở quanh năm",
+  "mustTry": "Trẻ em: hoạt động có người trông như yoga, thái cực quyền, trò chơi theo chủ đề",
+  "desc_vi": "Câu lạc bộ trẻ em trên tầng 6 khách sạn Sheraton, có nhân viên tổ chức hoạt động cho bé theo ngày hoặc nửa ngày. Hợp với gia đình muốn bố mẹ có thời gian nghỉ ngơi.",
+  "review_vi": "Khen: có người trông, hoạt động đa dạng, ngay trung tâm. Chê: giá cao hơn khu vui chơi bình dân; chưa có nhiều đánh giá độc lập.",
+  "rating": null,
+  "trending": false,
+  "tags": [
+   "Hợp với trẻ em",
+   "Trong nhà",
+   "Có người trông"
+  ],
+  "tips_vi": "Mẹo: gọi khách sạn trước để hỏi độ tuổi nhận và lịch hoạt động trong ngày.",
+  "images": [],
+  "wiki": null,
+  "website": null,
+  "sources": [
+   "https://www.openstreetmap.org/way/206245067",
+   "https://vinwonders.com/?p=29872"
+  ],
+  "status": "open",
+  "existing": false
+ },
+ {
+  "id": "nhatrang-thuy-cung-tri-nguyen",
+  "name": "Thủy cung Trí Nguyên (Hòn Miễu)",
+  "cat": "kids",
+  "subtitle": "Thủy cung hình con tàu trên đảo Hòn Miễu",
+  "address": "Đảo Hòn Miễu, Vĩnh Nguyên, Nha Trang (đi tàu từ cảng Cầu Đá)",
+  "lat": 12.195105,
+  "lng": 109.22581,
+  "coordSource": "https://www.openstreetmap.org/way/471186074",
+  "price": null,
+  "hours": "06:00–21:00",
+  "mustTry": "Mọi lứa tuổi: đường hầm thủy cung đi thang cuốn, cá mập vây đen, cá mú, rùa biển; show hải cẩu",
+  "desc_vi": "Thủy cung trên đảo Hòn Miễu, thiết kế như một con tàu phủ rong biển, có đường hầm kính ngắm cá mập, rùa và nhiều loài sinh vật biển. Có thể kết hợp với Hòn Tằm hoặc VinWonders trong cùng ngày.",
+  "review_vi": "Khen: trẻ em thích ngắm cá, rùa, xem show hải cẩu; ghé nhanh được. Chê: thiết kế giả tạo, ít bể, thiếu tiện ích, không có nhà hàng bên trong; điểm Google chỉ 3,6.",
+  "rating": {
+   "value": 3.6,
+   "count": 1082,
+   "source": "Google Maps (qua Wanderlog)",
+   "url": "https://wanderlog.com/place/details/1023735/tri-nguyen-aquarium",
+   "seen": "2026-10"
+  },
+  "trending": false,
+  "tags": [
+   "Hợp với trẻ em",
+   "Thủy cung",
+   "Tour đảo"
+  ],
+  "tips_vi": "Mẹo: đi ngày thường; mang nước và đồ ăn nhẹ; kết hợp Hòn Tằm hoặc VinWonders trong cùng ngày.",
+  "images": [
+   {
+    "commons": "File:Tri Nguyen Aquarium in Nha Trang - panoramio.jpg",
+    "kind": "place"
+   },
+   {
+    "commons": "File:Trí Nguyên Aquarium.jpg",
+    "kind": "place"
+   }
+  ],
+  "wiki": null,
+  "website": null,
+  "sources": [
+   "https://www.openstreetmap.org/way/471186074",
+   "https://wanderlog.com/list/geoCategory/138648/best-things-to-do-with-kids-in-nha-trang",
+   "https://wanderlog.com/place/details/1023735/tri-nguyen-aquarium"
+  ],
+  "status": "open",
+  "existing": false
+ }
+]
